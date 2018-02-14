@@ -24,7 +24,7 @@
     "dirty": true,
     "fileName": "/Users/csutter/github/plottr_electron/7_point_plot_structure.pltr",
     "loaded": true,
-    "version": "1.1.19"
+    "version": "1.2.14"
   },
   "lines": [
     {
@@ -103,6 +103,7 @@
   ],
   "ui": {
     "currentView": "timeline",
+    "darkMode": false,
     "orientation": "horizontal"
   }
 }

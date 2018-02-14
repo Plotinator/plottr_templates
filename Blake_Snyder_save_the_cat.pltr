@@ -177,7 +177,7 @@
     "dirty": false,
     "fileName": "/Users/csutter/Dropbox (C Louis S)/templates/Blake_Snyder_save_the_cat.pltr",
     "loaded": true,
-    "version": "1.1.19"
+    "version": "1.2.14"
   },
   "lines": [
     {
@@ -302,6 +302,7 @@
   ],
   "ui": {
     "currentView": "timeline",
+    "darkMode": false,
     "orientation": "horizontal"
   }
 }

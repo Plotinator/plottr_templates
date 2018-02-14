@@ -24,7 +24,7 @@
     "dirty": false,
     "fileName": "/Users/csutter/Dropbox (C Louis S)/w_plot.pltr",
     "loaded": true,
-    "version": "1.1.19"
+    "version": "1.2.14"
   },
   "lines": [
     {
@@ -93,6 +93,7 @@
   ],
   "ui": {
     "currentView": "timeline",
+    "darkMode": false,
     "orientation": "horizontal"
   }
 }
