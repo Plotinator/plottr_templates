@@ -1,0 +1,271 @@
+{
+  "cards": [
+    {
+      "characters": [],
+      "description": "The hero faces the villain, who is at their strongest, and wins! By winning she has now changed the world. The hero is now older and wiser. And every major character has changed. Yeah, I hadn’t mentioned that before — and it can be one of the trickiest parts of writing a screenplay. Every major character has to have an arc, and change in some way by the end of the movie.",
+      "id": 11,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 14,
+      "tags": [],
+      "title": "Time to Kick Ass"
+    },
+    {
+      "characters": [],
+      "description": "The hero realizes her flaw, learns her lesson, and formulates a plan to defeat the villain. Here’s where the A story — meaning the main plot, and the B story — often the love interest — meet. This is also the moment when the hero rushes right into Act 3",
+      "id": 10,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 12,
+      "tags": [],
+      "title": "From the Ashes"
+    },
+    {
+      "characters": [],
+      "description": "Things could not get worse. The villains seem unstoppable. All hope is lost. The love interest ditched the hero, usually because of the hero’s flaw, and just when things are at their most hopeless, the hero rises…",
+      "id": 9,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 11,
+      "tags": [],
+      "title": "Rock Bottom"
+    },
+    {
+      "characters": [],
+      "description": "Here’s where things go from bad to worse. The villains come back far more powerful than before. The hero’s losing her external and internal battle. Often the love interest leaves at this point. Things continue to get dire until they hit…",
+      "id": 8,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 10,
+      "tags": [],
+      "title": "Long Journey Into Night"
+    },
+    {
+      "characters": [],
+      "description": "The hero gets a moment of clarity and everything seems like it’s going to be okay — she thinks she’s going to prevail. One small note here — in some movies this is the moment of false defeat. But either way the hero is headed into the…",
+      "id": 7,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 9,
+      "tags": [],
+      "title": "False Victory"
+    },
+    {
+      "characters": [],
+      "description": "At the midpoint of the movie (and Act Two), the hero crosses the point of no return. She does something which she can’t undo, which will plunge her into the second half of Act 2, which is the nightmare. But not quite yet. First she has a…",
+      "id": 6,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 8,
+      "tags": [],
+      "title": "Crossing the Rubicon"
+    },
+    {
+      "characters": [],
+      "description": "Remember that awesome hook you thought up? This is where you pay it off. The hero has fun with her new powers or her new situation. The audience should absolutely love this part. A large portion of a movie’s trailer often comes from scenes in this section.",
+      "id": 5,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 7,
+      "tags": [],
+      "title": "Melt Their Faces Off"
+    },
+    {
+      "characters": [],
+      "description": "The new world often comes with a few new characters, including the love interest. He usually represents what the hero needs. Not what the hero wants, but what she actually needs.",
+      "id": 4,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 6,
+      "tags": [],
+      "title": "What is Love?"
+    },
+    {
+      "characters": [],
+      "description": "Act 2 begins with the hero boldly venturing into the new world, which is the opposite of the world she’s lived in up to this point. Remember, it doesn’t literally have to be a new world — just an unfamiliar place or situation.",
+      "id": 3,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 5,
+      "tags": [],
+      "title": "Into the New World"
+    },
+    {
+      "characters": [],
+      "description": "The hero needs to decide whether to embark on this adventure or take this new opportunity. 99% of the time the hero will refuse initially, but something will drive her make the decision and go go go… right into Act 2!",
+      "id": 2,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 3,
+      "tags": [],
+      "title": "Do I Stay or Do I Go?"
+    },
+    {
+      "characters": [],
+      "description": "Something happens and the hero’s world is flipped on its head. This is where the hook comes in. You can also consider this the call to adventure, where the hero is presented the opportunity to go on some kind of adventure.",
+      "id": 1,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 2,
+      "tags": [],
+      "title": "The Spark"
+    },
+    {
+      "characters": [],
+      "description": "Shows us what the hero’s world is like, it introduces all the main characters and it introduces the hero’s flaw or flaws.",
+      "id": 0,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 1,
+      "tags": [
+        0
+      ],
+      "title": "A Day In the Life"
+    }
+  ],
+  "characters": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "the main character",
+      "id": 0,
+      "name": "Main Character",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "customAttributes": {
+    "cards": [],
+    "characters": [
+      "age"
+    ],
+    "lines": [],
+    "places": [],
+    "scenes": []
+  },
+  "file": {
+    "dirty": true,
+    "fileName": "/Users/csutter/Dropbox (C Louis S)/Victor_Pineiro_screenplay.pltr",
+    "loaded": true,
+    "version": "1.1.19"
+  },
+  "lines": [
+    {
+      "color": "#6cace4",
+      "id": 0,
+      "position": 0,
+      "title": "Main Plot"
+    }
+  ],
+  "notes": [
+    {
+      "characters": [],
+      "content": "",
+      "id": 0,
+      "lastEdited": null,
+      "places": [],
+      "tags": [],
+      "title": "Note 1"
+    }
+  ],
+  "places": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "somewhere cool",
+      "id": 0,
+      "name": "First Place",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "scenes": [
+    {
+      "id": 14,
+      "position": 14,
+      "title": "#12"
+    },
+    {
+      "id": 13,
+      "position": 13,
+      "title": "Act III"
+    },
+    {
+      "id": 12,
+      "position": 12,
+      "title": "#11"
+    },
+    {
+      "id": 11,
+      "position": 11,
+      "title": "#10"
+    },
+    {
+      "id": 10,
+      "position": 10,
+      "title": "#9"
+    },
+    {
+      "id": 9,
+      "position": 9,
+      "title": "#8"
+    },
+    {
+      "id": 8,
+      "position": 8,
+      "title": "#7"
+    },
+    {
+      "id": 7,
+      "position": 7,
+      "title": "#6"
+    },
+    {
+      "id": 6,
+      "position": 6,
+      "title": "#5"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "title": "#4"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "title": "Act II"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "title": "#3"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "title": "#2"
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "title": "#1"
+    },
+    {
+      "id": 0,
+      "position": 0,
+      "title": "Act I"
+    }
+  ],
+  "storyName": "Victor_Pineiro_screenplay",
+  "tags": [
+    {
+      "color": "#ff7f32",
+      "id": 0,
+      "title": "Happy"
+    }
+  ],
+  "ui": {
+    "currentView": "timeline",
+    "orientation": "horizontal"
+  }
+}

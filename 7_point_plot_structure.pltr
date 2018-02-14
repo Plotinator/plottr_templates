@@ -1,0 +1,108 @@
+{
+  "cards": [],
+  "characters": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "the main character",
+      "id": 0,
+      "name": "Main Character",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "customAttributes": {
+    "cards": [],
+    "characters": [
+      "age"
+    ],
+    "lines": [],
+    "places": [],
+    "scenes": []
+  },
+  "file": {
+    "dirty": true,
+    "fileName": "/Users/csutter/github/plottr_electron/7_point_plot_structure.pltr",
+    "loaded": true,
+    "version": "1.1.19"
+  },
+  "lines": [
+    {
+      "color": "#6cace4",
+      "id": 0,
+      "position": 0,
+      "title": "Main Plot"
+    }
+  ],
+  "notes": [
+    {
+      "characters": [],
+      "content": "",
+      "id": 0,
+      "lastEdited": null,
+      "places": [],
+      "tags": [],
+      "title": "Note 1"
+    }
+  ],
+  "places": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "somewhere cool",
+      "id": 0,
+      "name": "First Place",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "scenes": [
+    {
+      "id": 6,
+      "position": 6,
+      "title": "Resolution"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "title": "Plot Turn 2"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "title": "Pinch 2"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "title": "Midpoint"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "title": "Pinch 1"
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "title": "Plot Turn 1"
+    },
+    {
+      "id": 0,
+      "position": 0,
+      "title": "Hook"
+    }
+  ],
+  "storyName": "7 Point Plot Structure",
+  "tags": [
+    {
+      "color": "#ff7f32",
+      "id": 0,
+      "title": "Happy"
+    }
+  ],
+  "ui": {
+    "currentView": "timeline",
+    "orientation": "horizontal"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "cards": [
+    {
+      "characters": [],
+      "description": "Ally aids or gives advice that finally changes character",
+      "id": 1,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 9,
+      "tags": [],
+      "title": "Ally"
+    },
+    {
+      "characters": [],
+      "description": "- Drive for new goal\n- Antagonist action\n- Thwarted  \n\n(several times)",
+      "id": 0,
+      "lineId": 0,
+      "places": [],
+      "sceneId": 8,
+      "tags": [
+        0
+      ],
+      "title": "Cycle"
+    }
+  ],
+  "characters": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "the main character",
+      "id": 0,
+      "name": "Main Character",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "customAttributes": {
+    "cards": [],
+    "characters": [
+      "age"
+    ],
+    "lines": [],
+    "places": [],
+    "scenes": []
+  },
+  "file": {
+    "dirty": false,
+    "fileName": "/Users/csutter/Dropbox (C Louis S)/templates/Libbie_Hawker_take_off_your_pants.pltr",
+    "loaded": true,
+    "version": "1.1.19"
+  },
+  "lines": [
+    {
+      "color": "#6cace4",
+      "id": 0,
+      "position": 0,
+      "title": "Main Plot"
+    }
+  ],
+  "notes": [
+    {
+      "characters": [],
+      "content": "",
+      "id": 0,
+      "lastEdited": null,
+      "places": [],
+      "tags": [],
+      "title": "Note 1"
+    }
+  ],
+  "places": [
+    {
+      "cards": [],
+      "color": null,
+      "description": "somewhere cool",
+      "id": 0,
+      "name": "First Place",
+      "noteIds": [],
+      "notes": ""
+    }
+  ],
+  "scenes": [
+    {
+      "id": 13,
+      "position": 13,
+      "title": "Outcome (new world)"
+    },
+    {
+      "id": 12,
+      "position": 12,
+      "title": "Death (of character flaw)"
+    },
+    {
+      "id": 11,
+      "position": 11,
+      "title": "Battle"
+    },
+    {
+      "id": 10,
+      "position": 10,
+      "title": "Girding the loins"
+    },
+    {
+      "id": 9,
+      "position": 9,
+      "title": "Ally aids"
+    },
+    {
+      "id": 8,
+      "position": 8,
+      "title": "Repeat the cycle"
+    },
+    {
+      "id": 7,
+      "position": 7,
+      "title": "Revisiting flaw"
+    },
+    {
+      "id": 6,
+      "position": 6,
+      "title": "Goal thwarted"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "title": "Antagonist revealed"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "title": "Drive for goal"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "title": "Display of flaw"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "title": "Character realizes goal"
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "title": "Inciting Event"
+    },
+    {
+      "id": 0,
+      "position": 0,
+      "title": "Opening Scene"
+    }
+  ],
+  "storyName": "Libbie_Hawker_take_off_your_pants",
+  "tags": [
+    {
+      "color": "#ff7f32",
+      "id": 0,
+      "title": "Happy"
+    }
+  ],
+  "ui": {
+    "currentView": "timeline",
+    "orientation": "horizontal"
+  }
+}
