@@ -104,10 +104,10 @@
     "scenes": []
   },
   "file": {
-    "dirty": false,
-    "fileName": "/Users/csutter/Dropbox (C Louis S)/templates/Dan_Harmon_story_circle.pltr",
+    "dirty": true,
+    "fileName": "/Users/csutter/github/plottr_templates/Dan_Harmon_story_circle.pltr",
     "loaded": true,
-    "version": "1.2.14"
+    "version": "1.2.23"
   },
   "lines": [
     {

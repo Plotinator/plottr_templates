@@ -21,10 +21,10 @@
     "scenes": []
   },
   "file": {
-    "dirty": false,
-    "fileName": "/Users/csutter/Dropbox (C Louis S)/w_plot.pltr",
+    "dirty": true,
+    "fileName": "/Users/csutter/github/plottr_templates/w_plot.pltr",
     "loaded": true,
-    "version": "1.2.14"
+    "version": "1.2.23"
   },
   "lines": [
     {

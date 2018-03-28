@@ -174,10 +174,10 @@
     "scenes": []
   },
   "file": {
-    "dirty": false,
-    "fileName": "/Users/csutter/Dropbox (C Louis S)/templates/Blake_Snyder_save_the_cat.pltr",
+    "dirty": true,
+    "fileName": "/Users/csutter/github/plottr_templates/Blake_Snyder_save_the_cat.pltr",
     "loaded": true,
-    "version": "1.2.14"
+    "version": "1.2.23"
   },
   "lines": [
     {

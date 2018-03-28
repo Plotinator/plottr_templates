@@ -44,10 +44,10 @@
     "scenes": []
   },
   "file": {
-    "dirty": false,
-    "fileName": "/Users/csutter/Dropbox (C Louis S)/templates/Libbie_Hawker_take_off_your_pants.pltr",
+    "dirty": true,
+    "fileName": "/Users/csutter/github/plottr_templates/Libbie_Hawker_take_off_your_pants.pltr",
     "loaded": true,
-    "version": "1.2.14"
+    "version": "1.2.23"
   },
   "lines": [
     {
