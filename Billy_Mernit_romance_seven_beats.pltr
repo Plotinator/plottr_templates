@@ -93,9 +93,9 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/csutter/github/plottr_templates/Billy_Mernit_romance_seven_beats.pltr",
+    "fileName": "/Users/cameron/github/plottr_templates/Billy_Mernit_romance_seven_beats.pltr",
     "loaded": true,
-    "version": "1.2.23"
+    "version": "1.3.23"
   },
   "lines": [
     {
@@ -173,8 +173,14 @@
     }
   ],
   "ui": {
+    "characterFilter": null,
+    "characterSort": "name~asc",
     "currentView": "timeline",
     "darkMode": false,
-    "orientation": "horizontal"
+    "noteFilter": null,
+    "noteSort": "title",
+    "orientation": "horizontal",
+    "placeFilter": null,
+    "placeSort": "name~asc"
   }
 }

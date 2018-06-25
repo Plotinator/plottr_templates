@@ -45,9 +45,9 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/csutter/github/plottr_templates/Libbie_Hawker_take_off_your_pants.pltr",
+    "fileName": "/Users/cameron/github/plottr_templates/Libbie_Hawker_take_off_your_pants.pltr",
     "loaded": true,
-    "version": "1.2.23"
+    "version": "1.3.23"
   },
   "lines": [
     {
@@ -160,8 +160,14 @@
     }
   ],
   "ui": {
+    "characterFilter": null,
+    "characterSort": "name~asc",
     "currentView": "timeline",
     "darkMode": false,
-    "orientation": "horizontal"
+    "noteFilter": null,
+    "noteSort": "title",
+    "orientation": "horizontal",
+    "placeFilter": null,
+    "placeSort": "name~asc"
   }
 }
