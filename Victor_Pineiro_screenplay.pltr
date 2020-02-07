@@ -117,23 +117,11 @@
       "lineId": 0,
       "places": [],
       "sceneId": 1,
-      "tags": [
-        0
-      ],
+      "tags": [],
       "title": "A Day In the Life"
     }
   ],
-  "characters": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "the main character",
-      "id": 0,
-      "name": "Main Character",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "characters": [],
   "customAttributes": {
     "cards": [],
     "characters": [
@@ -145,9 +133,9 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/cameron/github/plottr_templates/Victor_Pineiro_screenplay.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/Victor_Pineiro_screenplay.pltr",
     "loaded": true,
-    "version": "1.3.23"
+    "version": "2020.2.6"
   },
   "lines": [
     {
@@ -157,28 +145,8 @@
       "title": "Main Plot"
     }
   ],
-  "notes": [
-    {
-      "characters": [],
-      "content": "",
-      "id": 0,
-      "lastEdited": null,
-      "places": [],
-      "tags": [],
-      "title": "Note 1"
-    }
-  ],
-  "places": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "somewhere cool",
-      "id": 0,
-      "name": "First Place",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "notes": [],
+  "places": [],
   "scenes": [
     {
       "id": 14,
@@ -257,13 +225,7 @@
     }
   ],
   "storyName": "Victor_Pineiro_screenplay",
-  "tags": [
-    {
-      "color": "#ff7f32",
-      "id": 0,
-      "title": "Happy"
-    }
-  ],
+  "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
@@ -273,6 +235,8 @@
     "noteSort": "title",
     "orientation": "horizontal",
     "placeFilter": null,
-    "placeSort": "name~asc"
+    "placeSort": "name~asc",
+    "zoomIndex": 4,
+    "zoomState": null
   }
 }

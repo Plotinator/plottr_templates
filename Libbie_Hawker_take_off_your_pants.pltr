@@ -17,23 +17,11 @@
       "lineId": 0,
       "places": [],
       "sceneId": 8,
-      "tags": [
-        0
-      ],
+      "tags": [],
       "title": "Cycle"
     }
   ],
-  "characters": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "the main character",
-      "id": 0,
-      "name": "Main Character",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "characters": [],
   "customAttributes": {
     "cards": [],
     "characters": [
@@ -45,9 +33,9 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/cameron/github/plottr_templates/Libbie_Hawker_take_off_your_pants.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/Libbie_Hawker_take_off_your_pants.pltr",
     "loaded": true,
-    "version": "1.3.23"
+    "version": "2020.2.6"
   },
   "lines": [
     {
@@ -57,28 +45,8 @@
       "title": "Main Plot"
     }
   ],
-  "notes": [
-    {
-      "characters": [],
-      "content": "",
-      "id": 0,
-      "lastEdited": null,
-      "places": [],
-      "tags": [],
-      "title": "Note 1"
-    }
-  ],
-  "places": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "somewhere cool",
-      "id": 0,
-      "name": "First Place",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "notes": [],
+  "places": [],
   "scenes": [
     {
       "id": 13,
@@ -152,13 +120,7 @@
     }
   ],
   "storyName": "Libbie_Hawker_take_off_your_pants",
-  "tags": [
-    {
-      "color": "#ff7f32",
-      "id": 0,
-      "title": "Happy"
-    }
-  ],
+  "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
@@ -168,6 +130,8 @@
     "noteSort": "title",
     "orientation": "horizontal",
     "placeFilter": null,
-    "placeSort": "name~asc"
+    "placeSort": "name~asc",
+    "zoomIndex": 4,
+    "zoomState": null
   }
 }

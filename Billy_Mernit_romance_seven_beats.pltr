@@ -71,17 +71,7 @@
       "title": "Setup / hook"
     }
   ],
-  "characters": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "the main character",
-      "id": 0,
-      "name": "Main Character",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "characters": [],
   "customAttributes": {
     "cards": [],
     "characters": [
@@ -93,9 +83,9 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/cameron/github/plottr_templates/Billy_Mernit_romance_seven_beats.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/Billy_Mernit_romance_seven_beats.pltr",
     "loaded": true,
-    "version": "1.3.23"
+    "version": "2020.2.6"
   },
   "lines": [
     {
@@ -116,17 +106,7 @@
       "title": "The book"
     }
   ],
-  "places": [
-    {
-      "cards": [],
-      "color": null,
-      "description": "somewhere cool",
-      "id": 0,
-      "name": "First Place",
-      "noteIds": [],
-      "notes": ""
-    }
-  ],
+  "places": [],
   "scenes": [
     {
       "id": 6,
@@ -165,13 +145,7 @@
     }
   ],
   "storyName": "Billy_Mernit_romance_seven_beats",
-  "tags": [
-    {
-      "color": "#ff7f32",
-      "id": 0,
-      "title": "Happy"
-    }
-  ],
+  "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
@@ -181,6 +155,8 @@
     "noteSort": "title",
     "orientation": "horizontal",
     "placeFilter": null,
-    "placeSort": "name~asc"
+    "placeSort": "name~asc",
+    "zoomIndex": 4,
+    "zoomState": null
   }
 }
