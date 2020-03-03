@@ -1,7 +1,7 @@
 {
-  "version": "2020.3.3",
-  "templates": {
-    "ch1": {
+  "version": "2020.3.4",
+  "templates": [
+    {
       "id": "ch1",
       "type": "characters",
       "name": "Goal, Motivation, Conflict",
@@ -9,5 +9,5 @@
       "version": "2020.3.2",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/gmc.json"
     }
-  }
+  ]
 }
