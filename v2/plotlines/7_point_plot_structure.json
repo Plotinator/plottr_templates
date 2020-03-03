@@ -1,0 +1,39 @@
+{
+  "scenes": [
+    {
+      "id": 7,
+      "position": 7,
+      "title": "Resolution"
+    },
+    {
+      "id": 6,
+      "position": 6,
+      "title": "Plot Turn 2"
+    },
+    {
+      "id": 5,
+      "position": 5,
+      "title": "Pinch 2"
+    },
+    {
+      "id": 4,
+      "position": 4,
+      "title": "Midpoint"
+    },
+    {
+      "id": 3,
+      "position": 3,
+      "title": "Pinch 1"
+    },
+    {
+      "id": 2,
+      "position": 2,
+      "title": "Plot Turn 1"
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "title": "Hook"
+    }
+  ]
+}
