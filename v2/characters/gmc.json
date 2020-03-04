@@ -3,8 +3,8 @@
   "type": "characters",
   "name": "Goal, Motivation, Conflict",
   "description": "Each character should have one internally and externally",
-  "version": "2020.3.2",
-  "template": [
+  "version": "2020.3.4",
+  "attributes": [
     {
       "name": "Goal — internal",
       "type": "text"

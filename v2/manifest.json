@@ -1,12 +1,12 @@
 {
-  "version": "2020.3.3",
+  "version": "2020.3.4",
   "templates": [
     {
       "id": "ch1",
       "type": "characters",
       "name": "Goal, Motivation, Conflict",
       "description": "Each character should have one internally and externally",
-      "version": "2020.3.2",
+      "version": "2020.3.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/gmc.json"
     },
     {
