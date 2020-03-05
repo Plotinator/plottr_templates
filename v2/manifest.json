@@ -1,5 +1,5 @@
 {
-  "version": "2020.3.5",
+  "version": "2020.3.6",
   "templates": [
     {
       "id": "ch1",
@@ -14,7 +14,7 @@
       "type": "plotlines",
       "name": "7 Point Plot Structure",
       "description": "A plot structure by Dan Wells",
-      "version": "2020.3.5",
+      "version": "2020.3.6",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/7_point_plot_structure.json"
     }
   ]
