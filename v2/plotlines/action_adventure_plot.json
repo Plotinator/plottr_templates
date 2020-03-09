@@ -1,0 +1,283 @@
+{
+  "id": "pl4",
+  "type": "plotlines",
+  "name": "Action Adventure Plot",
+  "description": "A template for an action or adventure story",
+  "version": "2020.3.6",
+  "templateData": {
+    "cards": [
+      {
+        "characters": [],
+        "description": "",
+        "id": 18,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 18,
+        "tags": [],
+        "title": "Conclusion"
+      },
+      {
+        "characters": [],
+        "description": "",
+        "id": 17,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 17,
+        "tags": [],
+        "title": "Resolution"
+      },
+      {
+        "characters": [],
+        "description": "",
+        "id": 16,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 16,
+        "tags": [],
+        "title": "Plot twist"
+      },
+      {
+        "characters": [],
+        "description": "Hero battles villain",
+        "id": 15,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 15,
+        "tags": [],
+        "title": "Battle villian"
+      },
+      {
+        "characters": [],
+        "description": "Hero battles loyal henchman.",
+        "id": 14,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 14,
+        "tags": [],
+        "title": "Battle henchman"
+      },
+      {
+        "characters": [],
+        "description": "Hero attains goal",
+        "id": 13,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 13,
+        "tags": [],
+        "title": "Attain goal"
+      },
+      {
+        "characters": [],
+        "description": "Hero narrowly escapes the clutches of doom.",
+        "id": 12,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 12,
+        "tags": [],
+        "title": "Narrow escape"
+      },
+      {
+        "characters": [],
+        "description": "Hero is captured and threatened with certain doom.",
+        "id": 11,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 11,
+        "tags": [],
+        "title": "Captured"
+      },
+      {
+        "characters": [],
+        "description": "Hero infiltrates villain's highly secure fortress.",
+        "id": 10,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 10,
+        "tags": [],
+        "title": "Infiltrate fortress"
+      },
+      {
+        "characters": [],
+        "description": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight.",
+        "id": 9,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 9,
+        "tags": [],
+        "title": "Assistance"
+      },
+      {
+        "characters": [],
+        "description": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission.",
+        "id": 8,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 8,
+        "tags": [],
+        "title": "Major complications"
+      },
+      {
+        "characters": [],
+        "description": "An extended chase scenario occurs.",
+        "id": 7,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 7,
+        "tags": [],
+        "title": "Chase"
+      },
+      {
+        "characters": [],
+        "description": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information.",
+        "id": 6,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 6,
+        "tags": [],
+        "title": "Encounters henchman"
+      },
+      {
+        "characters": [],
+        "description": "Hero encounters the damsel and some type of relationship begins.",
+        "id": 5,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 5,
+        "tags": [],
+        "title": "Encounter damsel"
+      },
+      {
+        "characters": [],
+        "description": "Hero travels to an exotic and interesting location.",
+        "id": 4,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 4,
+        "tags": [],
+        "title": "Travels to exotic location"
+      },
+      {
+        "characters": [],
+        "description": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses.",
+        "id": 3,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 3,
+        "tags": [],
+        "title": "Begins toward goal"
+      },
+      {
+        "characters": [],
+        "description": "Hero receives a mission or encounters a problem that needs to be solved.",
+        "id": 2,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 2,
+        "tags": [],
+        "title": "Receives a mission"
+      },
+      {
+        "characters": [],
+        "description": "Hero's circumstance is revealed.",
+        "id": 1,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 1,
+        "tags": [],
+        "title": "Hero's circumstance"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 18,
+        "position": 17,
+        "title": "Chapter 18"
+      },
+      {
+        "id": 17,
+        "position": 16,
+        "title": "Chapter 17"
+      },
+      {
+        "id": 16,
+        "position": 15,
+        "title": "Chapter 16"
+      },
+      {
+        "id": 15,
+        "position": 14,
+        "title": "Chapter 15"
+      },
+      {
+        "id": 14,
+        "position": 13,
+        "title": "Chapter 14"
+      },
+      {
+        "id": 13,
+        "position": 12,
+        "title": "Chapter 13"
+      },
+      {
+        "id": 12,
+        "position": 11,
+        "title": "Chapter 12"
+      },
+      {
+        "id": 11,
+        "position": 10,
+        "title": "Chapter 11"
+      },
+      {
+        "id": 10,
+        "position": 9,
+        "title": "Chapter 10"
+      },
+      {
+        "id": 9,
+        "position": 8,
+        "title": "Chapter 9"
+      },
+      {
+        "id": 8,
+        "position": 7,
+        "title": "Chapter 8"
+      },
+      {
+        "id": 7,
+        "position": 6,
+        "title": "Chapter 7"
+      },
+      {
+        "id": 6,
+        "position": 5,
+        "title": "Chapter 6"
+      },
+      {
+        "id": 5,
+        "position": 4,
+        "title": "Chapter 5"
+      },
+      {
+        "id": 4,
+        "position": 3,
+        "title": "Chapter 4"
+      },
+      {
+        "id": 3,
+        "position": 2,
+        "title": "Chapter 3"
+      },
+      {
+        "id": 2,
+        "position": 1,
+        "title": "Chapter 2"
+      },
+      {
+        "id": 1,
+        "position": 0,
+        "title": "Chapter 1"
+      }
+    ]
+  }
+}

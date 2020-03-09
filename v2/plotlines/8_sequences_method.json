@@ -1,0 +1,162 @@
+{
+  "id": "pl2",
+  "type": "plotlines",
+  "name": "8 Sequences Method",
+  "description": "A sequence outline for a feature script",
+  "version": "2020.3.6",
+  "templateData": {
+    "cards": [
+      {
+        "characters": [],
+        "description": "Hell-bent for the RESOLUTION. Clarity is important. If they turn left, all is well, if they go right, the world as we know it ends. Not that we don’t have complex emotions or ideas about what it all amounts to, but at this point we crave clarity. Will he get the girl, defuse the bomb, turn in his murderous brother and escape from the sinking boat surrounded by sharks?",
+        "id": 7,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 10,
+        "tags": [],
+        "title": "Resolution"
+      },
+      {
+        "characters": [],
+        "description": "The full yet simple, brief establishment of the third act tension with its requisite exposition. Simpler, faster in nearly all ways, with rapid, short scenes and no real elaborate set-ups. The TWIST can end this sequence or come at the start of the eighth sequence.",
+        "id": 6,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 9,
+        "tags": [],
+        "title": "New Tension & Twist"
+      },
+      {
+        "characters": [],
+        "description": "The build-up to the MAIN CULMINATION – back to the main story line with a vengeance. The highest obstacle, the last alternative, the highest or lowest moment and the end of our main tension come at this point. But we get the first inklings of the new tension that will carry us through the third act.\n\n_Note: Since most midpoints and endings are paralleled, the PLOT POINT at the end of act two is usually at a polar opposite of those points. So if our hero wins at the midpoint and at the end of the film, then she usually hs her lowest point here._",
+        "id": 5,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 7,
+        "tags": [],
+        "title": "Main Culmination / End of Act II"
+      },
+      {
+        "characters": [],
+        "description": "The SECOND ACT SAG can set in at this point if we don’t have a strong SUBPLOT to take the ball for a while. We still want RISING ACTION, but we’re not ready for the MAIN CULMINATION yet.",
+        "id": 4,
+        "lineId": 2,
+        "places": [],
+        "sceneId": 6,
+        "tags": [],
+        "title": "Subplot & Rising Action"
+      },
+      {
+        "characters": [],
+        "description": "A higher OBSTACLE, the principle of RISING ACTION is brought in and builds to the FIRST CULMINATION, which usually parallels the RESOLUTION of the film. If the story is a tragedy and our hero dies, then the first culmination (or midpoint) should be a low point for our character. If, however, our hero wins in the end of the film, then sequence four should end with him winning in some way.",
+        "id": 3,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 5,
+        "tags": [],
+        "title": "First Culmination/ Midpoint"
+      },
+      {
+        "characters": [],
+        "description": "The first OBSTACLE to the central character is faced, and the beginning of the elimination of the alternatives begins, often a time where EXPOSITION left over from ACT I is brought out. Since our character is locked into the situation and can’t simply walk away, the stakes are higher – there is a lot more to lose.",
+        "id": 2,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 4,
+        "tags": [],
+        "title": "First Obstacle & Raising the Stakes"
+      },
+      {
+        "characters": [],
+        "description": "Sets up the predicament that will be central to the story, with first intimations of possible obstacles. The main tension will be established at the end of the act. The sequence ends when the main character is LOCKED IN the predicament, propelling him/her into a new direction to obtain his/her goal.",
+        "id": 1,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 2,
+        "tags": [],
+        "title": "Predicament & Lock In"
+      },
+      {
+        "characters": [],
+        "description": "Establishes the central character, his/her life, and the status quo and the world of the story. It usually ends with the POINT OF ATTACK or INCITING INCIDENT, but this plot point can sometimes appear earlier in the first few minutes of the film. ",
+        "id": 0,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 1,
+        "tags": [],
+        "title": "Status quo & Inciting incident"
+      }
+    ],
+    "lines": [
+      {
+        "color": "#78be20",
+        "id": 2,
+        "position": 1,
+        "title": "Subplot"
+      },
+      {
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plot"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 11,
+        "position": 10,
+        "title": "Sequence 8"
+      },
+      {
+        "id": 10,
+        "position": 9,
+        "title": "Sequence 7"
+      },
+      {
+        "id": 9,
+        "position": 8,
+        "title": "Act III"
+      },
+      {
+        "id": 8,
+        "position": 7,
+        "title": "Sequence 6"
+      },
+      {
+        "id": 7,
+        "position": 6,
+        "title": "Sequence 5"
+      },
+      {
+        "id": 6,
+        "position": 5,
+        "title": "Sequence 4"
+      },
+      {
+        "id": 5,
+        "position": 4,
+        "title": "Sequence 3"
+      },
+      {
+        "id": 4,
+        "position": 3,
+        "title": "Act II"
+      },
+      {
+        "id": 3,
+        "position": 2,
+        "title": "Sequence 2"
+      },
+      {
+        "id": 2,
+        "position": 1,
+        "title": "Sequence 1"
+      },
+      {
+        "id": 1,
+        "position": 0,
+        "title": "Act I"
+      }
+    ]
+  }
+}

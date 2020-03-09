@@ -1,0 +1,133 @@
+{
+  "id": "pl7",
+  "type": "plotlines",
+  "name": "Dan Harmon's Story Circle",
+  "description": "A story structure by Dan Harmon",
+  "version": "2020.3.9",
+  "templateData": {
+    "cards": [
+      {
+        "characters": [],
+        "description": "now capable of change",
+        "id": 8,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 8,
+        "tags": [],
+        "title": "Change"
+      },
+      {
+        "characters": [],
+        "description": "and go back to where they started",
+        "id": 7,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 7,
+        "tags": [],
+        "title": "Return"
+      },
+      {
+        "characters": [],
+        "description": "pay its price",
+        "id": 6,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 6,
+        "tags": [],
+        "title": "Take"
+      },
+      {
+        "characters": [],
+        "description": "find what they wanted",
+        "id": 5,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 5,
+        "tags": [],
+        "title": "Find"
+      },
+      {
+        "characters": [],
+        "description": "adapt to it",
+        "id": 4,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 4,
+        "tags": [],
+        "title": "Search"
+      },
+      {
+        "characters": [],
+        "description": "they enter an unfamiliar situation",
+        "id": 3,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 3,
+        "tags": [],
+        "title": "Go"
+      },
+      {
+        "characters": [],
+        "description": "but they want something",
+        "id": 2,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 2,
+        "tags": [],
+        "title": "Need"
+      },
+      {
+        "characters": [],
+        "description": "A character is in a zone of comfort",
+        "id": 1,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 1,
+        "tags": [],
+        "title": "You"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 8,
+        "position": 7,
+        "title": "Chapter 8"
+      },
+      {
+        "id": 7,
+        "position": 6,
+        "title": "Chapter 7"
+      },
+      {
+        "id": 6,
+        "position": 5,
+        "title": "Chapter 6"
+      },
+      {
+        "id": 5,
+        "position": 4,
+        "title": "Chapter 5"
+      },
+      {
+        "id": 4,
+        "position": 3,
+        "title": "Chapter 4"
+      },
+      {
+        "id": 3,
+        "position": 2,
+        "title": "Chapter 3"
+      },
+      {
+        "id": 2,
+        "position": 1,
+        "title": "Chapter 2"
+      },
+      {
+        "id": 1,
+        "position": 0,
+        "title": "Chapter 1"
+      }
+    ]
+  }
+}

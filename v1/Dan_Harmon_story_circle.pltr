@@ -3,80 +3,80 @@
     {
       "characters": [],
       "description": "now capable of change",
-      "id": 7,
-      "lineId": 0,
+      "id": 8,
+      "lineId": 1,
       "places": [],
-      "sceneId": 7,
+      "sceneId": 8,
       "tags": [],
       "title": "Change"
     },
     {
       "characters": [],
       "description": "and go back to where they started",
-      "id": 6,
-      "lineId": 0,
+      "id": 7,
+      "lineId": 1,
       "places": [],
-      "sceneId": 6,
+      "sceneId": 7,
       "tags": [],
       "title": "Return"
     },
     {
       "characters": [],
       "description": "pay its price",
-      "id": 5,
-      "lineId": 0,
+      "id": 6,
+      "lineId": 1,
       "places": [],
-      "sceneId": 5,
+      "sceneId": 6,
       "tags": [],
       "title": "Take"
     },
     {
       "characters": [],
       "description": "find what they wanted",
-      "id": 4,
-      "lineId": 0,
+      "id": 5,
+      "lineId": 1,
       "places": [],
-      "sceneId": 4,
+      "sceneId": 5,
       "tags": [],
       "title": "Find"
     },
     {
       "characters": [],
       "description": "adapt to it",
-      "id": 3,
-      "lineId": 0,
+      "id": 4,
+      "lineId": 1,
       "places": [],
-      "sceneId": 3,
+      "sceneId": 4,
       "tags": [],
       "title": "Search"
     },
     {
       "characters": [],
       "description": "they enter an unfamiliar situation",
-      "id": 2,
-      "lineId": 0,
+      "id": 3,
+      "lineId": 1,
       "places": [],
-      "sceneId": 2,
+      "sceneId": 3,
       "tags": [],
       "title": "Go"
     },
     {
       "characters": [],
       "description": "but they want something",
-      "id": 1,
-      "lineId": 0,
+      "id": 2,
+      "lineId": 1,
       "places": [],
-      "sceneId": 1,
+      "sceneId": 2,
       "tags": [],
       "title": "Need"
     },
     {
       "characters": [],
       "description": "A character is in a zone of comfort",
-      "id": 0,
-      "lineId": 0,
+      "id": 1,
+      "lineId": 1,
       "places": [],
-      "sceneId": 0,
+      "sceneId": 1,
       "tags": [],
       "title": "You"
     }
@@ -100,7 +100,7 @@
   "lines": [
     {
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
@@ -109,44 +109,44 @@
   "places": [],
   "scenes": [
     {
-      "id": 7,
+      "id": 8,
       "position": 7,
       "title": "Chapter 8"
     },
     {
-      "id": 6,
+      "id": 7,
       "position": 6,
       "title": "Chapter 7"
     },
     {
-      "id": 5,
+      "id": 6,
       "position": 5,
       "title": "Chapter 6"
     },
     {
-      "id": 4,
+      "id": 5,
       "position": 4,
       "title": "Chapter 5"
     },
     {
-      "id": 3,
+      "id": 4,
       "position": 3,
       "title": "Chapter 4"
     },
     {
-      "id": 2,
+      "id": 3,
       "position": 2,
       "title": "Chapter 3"
     },
     {
-      "id": 1,
+      "id": 2,
       "position": 1,
       "title": "Chapter 2"
     },
     {
-      "id": 0,
+      "id": 1,
       "position": 0,
-      "title": "Chapter 2"
+      "title": "Chapter 1"
     }
   ],
   "storyName": "Dan_Harmon_story_circle",

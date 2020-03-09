@@ -1,0 +1,268 @@
+{
+  "id": "pl3",
+  "type": "plotlines",
+  "name": "12 Chapter Mystery Formula",
+  "description": "A sequence outline for a feature script",
+  "version": "2020.3.6",
+  "link": "http://ticket2write.tripod.com/mysplot.html",
+  "templateData": {
+    "cards": [
+      {
+        "characters": [],
+        "description": "A. The Climax - a dramatic confrontation between the sleuth and the perpetrator in which the sleuth prevails. The more “impossible” the odds have been, the more rewarding the climax will be.\n\nB. Resolution - Revelation of clues and the deductive process which lead to the solution. Establish that the case has been solved and justice has been served to the satisfaction of all involved (except, the villain).",
+        "id": 15,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 16,
+        "tags": [],
+        "title": "Climax"
+      },
+      {
+        "characters": [],
+        "description": "A. Resolution of the sub-plot\n\nB. The protagonist, having been tested by his or her private ordeal, is strengthened for the final action leading to the actual solution of the mystery.",
+        "id": 14,
+        "lineId": 2,
+        "places": [],
+        "sceneId": 15,
+        "tags": [],
+        "title": "Resolution"
+      },
+      {
+        "characters": [],
+        "description": "A. The sleuth weighs the evidence and information gleaned from the other characters.\n\nB. Based on what only he or she now knows, the sleuth must seek positive proof to back up the yet undisclosed conclusion.",
+        "id": 13,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 14,
+        "tags": [],
+        "title": "Weigh evidence"
+      },
+      {
+        "characters": [],
+        "description": "",
+        "id": 12,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 13,
+        "tags": [],
+        "title": "Solution"
+      },
+      {
+        "characters": [],
+        "description": "A. Have the sleuth review the case to determine where he or she went wrong.\n\nB. Reveal the chain of events which provoked the crime.\n\nC. The crucial evidence is something overlooked in Act I, which appeared to have been of little consequence at the time it was first disclosed. That evidence takes on new meaning with information disclosed in Act III.\n\nD. The sleuth (and perhaps the reader, if a keep observer) becomes aware of the error which remains undisclosed to the other characters.",
+        "id": 11,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 12,
+        "tags": [],
+        "title": "Review the case"
+      },
+      {
+        "characters": [],
+        "description": "A. The sleuth reveals the results of the investigation. The reader, as well as the protagonist and other characters, are given an opportunity to review what is known and assess the possibilities.\n\nB. The solution of the crime appears to be impossible. Attempts to solve the crime have stymied the sleuth. Misinterpretation of clues or mistaken conclusions have lead him or her in the wrong direction, and logic must be applied to force a new way of grasping an understanding of the uncertainties.",
+        "id": 10,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 11,
+        "tags": [],
+        "title": "Reveal results"
+      },
+      {
+        "characters": [],
+        "description": "A. Reveal hidden motives. Formerly secret relationships come to light, such as business arrangements, romantic involvement's, scores to be settled or previously veiled kinships.\n\nB. Develop and expose meanings of matters hinted at in Act I., to slowly clarify the significance of earlier clues.",
+        "id": 9,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 9,
+        "tags": [],
+        "title": "Reveal hidden motives"
+      },
+      {
+        "characters": [],
+        "description": "Change of focus and scope of the investigation. This is the pivotal point in the story where it become evident that the sleuth was on the wrong track. Something unexpected occurs, such as the appearance of a second body, the death of a major suspect, or discovery of evidence which clears the most likely suspect. The story must take a new direction.",
+        "id": 8,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 10,
+        "tags": [],
+        "title": "Change of focus"
+      },
+      {
+        "characters": [],
+        "description": "A. The sleuth’s background is revealed as the sub-plot is developed. Tell the reader what drives the protagonist, what haunts or is missing in his or her life.\n\nB. Make it clear that the sleuth has a personal stake in the outcome, either because of threat to his or her life, or the possibility of revelation of matters deeply disturbing to the protagonist on an emotional level.",
+        "id": 7,
+        "lineId": 2,
+        "places": [],
+        "sceneId": 8,
+        "tags": [],
+        "title": "Sleuth's background"
+      },
+      {
+        "characters": [],
+        "description": "A. The investigation should broaden to put suspicion on other characters.\n\nB. Information gathered through interviews or the discovery of physical evidence, should point toward the solution, although the relevance may not yet be apparent.",
+        "id": 6,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 7,
+        "tags": [],
+        "title": "Broaden investigation"
+      },
+      {
+        "characters": [],
+        "description": "A. Reveal facts about suspects, through interrogations and the discovery of clues.\n\nB. Flight, or disappearance of one or more suspect.\n\nC. Develop a sense of urgency. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences.",
+        "id": 5,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 4,
+        "tags": [],
+        "title": "Facts about suspects"
+      },
+      {
+        "characters": [],
+        "description": "Direct the investigation toward a conclusion which later proves to be erroneous.",
+        "id": 4,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 5,
+        "tags": [],
+        "title": "Erroneous conclusion"
+      },
+      {
+        "characters": [],
+        "description": "Introduction of the crime (mystery) and the sleuth",
+        "id": 3,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 6,
+        "tags": [],
+        "title": "Introduction"
+      },
+      {
+        "characters": [],
+        "description": "A. The sub-plot should be introduced. The plot will continue to maintain the progress of the story, but the sub-plot will carry the theme, which is a universal concept to which the reader can identify. Sub-plots tend to originate either in a crisis in the sleuth’s private life, or in the necessity of the sleuth to face a dilemma involving a matter of character, such as courage or honesty.\n\nB. The ultimate resolution of the sub-plot with demonstrate change or growth on the part of the protagonist, and will climatic on a personal or professional level. That climax may coincide with, or occur as prelude to the climax of the main plot. The sub-plot may be a vehicle for a romantic interest or a confrontation with personal demons of the sleuth. The author can manipulate the pace of the novel by moving back and forth between the plot and sub-plot.",
+        "id": 2,
+        "lineId": 2,
+        "places": [],
+        "sceneId": 3,
+        "tags": [],
+        "title": "sub-plot"
+      },
+      {
+        "characters": [],
+        "description": "A. Disclose the crime and mystery to be solved. The crime must capture the imagination. It should have been committed in an extraordinary way and either the victim the perpetuator, or both, should be unusual. Give the reader enough information about the victim to make them truly care that the perpetrator is found out and that justice is served.\n\nB. Early in the story, clues should be revealed which suggest both physical and psychological aspects of the initial crime. Those clues should point to suspects and motive which will cary the sleuth to the end of Act I. Some clues should point the sleuth in the right direction, others may not be obvious or be recognized as actual clues unto later in the story.\n\nC. Introduce the sleuth who will solve the crime early, and have him or her do or say something very clever or unexpected which will establish that person as unique. Create this character with care. His or her personality should be interesting enough to sustain the interest of the reader to the very last page. (or through an entire series of books). It is not necessary to disclose all aspects of the sleuth’s personality at the onset. Let the description unfold gradually to sustain interest. Do reveal enough background to let the reader understand the world in which the protagonist functions. (Small town sheriff, Scotland Yard detective, Pinkerton agent in the old West, country squire, investigative reporter in New York City, etc.)\n\nD. Ground the reader in the time and place where the crime occurs. It is often useful to include some sort of symbol, an object or a person, in the opening scene which serves as a metaphor for what occurs in the story. The reappearance of this symbol at the conclusion of the story will create a certain organic unity.\n\nE. Begin with a dramatic event. Some writers offer a prologue, describing the execution of the crime in detail, as it occurs, possible from the point of view of the victim or perpetrators. The same information could also be revealed by a character, through dialogue. Sufficient details should be furnished to allow the reader to experience the event as though he or she were actually there. Another good opening would be to put the sleuth in a dire situation and allow detail of the crime to unfold in due course.",
+        "id": 1,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 1,
+        "tags": [],
+        "title": "Disclose the mystery"
+      },
+      {
+        "characters": [],
+        "description": "A. Set the sleuth on the path toward solving he mystery. Offer plausible suspects, all of whom appear to have had motive, means and opportunity to to commit the crime. Select the most likely suspects, and have the sleuth question them. One of these suspects will turn out to be the actual perpetrator.\n\nB. At the approximate mid-point of Act 1, something should occur which makes it clear to the reader that the crime is more complicated than originally thought. Hints may be given to allow the reader to actually see possibilities not yet known to the sleuth.",
+        "id": 0,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 2,
+        "tags": [],
+        "title": "Set the sleuth on the path"
+      }
+    ],
+    "lines": [
+      {
+        "color": "#78be20",
+        "id": 2,
+        "position": 1,
+        "title": "Sub plot"
+      },
+      {
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plot"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 16,
+        "position": 15,
+        "title": "Chapter 12"
+      },
+      {
+        "id": 15,
+        "position": 14,
+        "title": "Chapter 11"
+      },
+      {
+        "id": 14,
+        "position": 13,
+        "title": "Chapter 10"
+      },
+      {
+        "id": 13,
+        "position": 12,
+        "title": "Act IV"
+      },
+      {
+        "id": 12,
+        "position": 11,
+        "title": "Chapter 9"
+      },
+      {
+        "id": 11,
+        "position": 10,
+        "title": "Chapter 8"
+      },
+      {
+        "id": 6,
+        "position": 0,
+        "title": "Act 1"
+      },
+      {
+        "id": 1,
+        "position": 1,
+        "title": "Chapter 1"
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "title": "Chapter 2"
+      },
+      {
+        "id": 3,
+        "position": 3,
+        "title": "Chapter 3"
+      },
+      {
+        "id": 5,
+        "position": 4,
+        "title": "Act II"
+      },
+      {
+        "id": 4,
+        "position": 5,
+        "title": "Chapter 4"
+      },
+      {
+        "id": 7,
+        "position": 6,
+        "title": "Chapter 5"
+      },
+      {
+        "id": 8,
+        "position": 7,
+        "title": "Chapter 6"
+      },
+      {
+        "id": 10,
+        "position": 8,
+        "title": "Act III"
+      },
+      {
+        "id": 9,
+        "position": 9,
+        "title": "Chapter 7"
+      }
+    ]
+  }
+}

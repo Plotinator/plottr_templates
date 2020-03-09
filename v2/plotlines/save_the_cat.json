@@ -1,0 +1,253 @@
+{
+  "id": "pl6",
+  "type": "plotlines",
+  "name": "Save the Cat by Blake Snyder",
+  "description": "A story structure for scripts and novels by Blake Snyder",
+  "version": "2020.3.6",
+  "link": "https://savethecat.com/",
+  "templateData": {
+    "cards": [
+      {
+        "characters": [],
+        "description": "The main character hits bottom, and wallows in hopelessness. The Why hast thou forsaken me, Lord? moment. Mourning the loss of what has “died” – the dream, the goal, the mentor character, the love of your life, etc. But, you must fall completely before you can pick yourself back up and try again.",
+        "id": 15,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 15,
+        "tags": [],
+        "title": "Dark night of the soul"
+      },
+      {
+        "characters": [],
+        "description": "opposite of Opening Image, proving, visually, that a change has occurred within the character.",
+        "id": 14,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 14,
+        "tags": [],
+        "title": "Final Image"
+      },
+      {
+        "characters": [],
+        "description": "This time around, the main character incorporates the Theme – the nugget of truth that now makes sense to them – into their fight for the goal because they have experience from the A Story and context from the B Story. Act Three is about Synthesis!",
+        "id": 13,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 13,
+        "tags": [],
+        "title": "Finale"
+      },
+      {
+        "characters": [],
+        "description": "Thanks to a fresh idea, new inspiration, or last-minute Thematic advice from the B Story (usually the love interest), the main character chooses to try again.",
+        "id": 12,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 12,
+        "tags": [],
+        "title": "Break into Three"
+      },
+      {
+        "characters": [],
+        "description": "The opposite moment from the Midpoint: “awful”/“great”. The moment that the main character realizes they’ve lost everything they gained, or everything they now have has no meaning. The initial goal now looks even more impossible than before. And here, something or someone dies. It can be physical or emotional, but the death of something old makes way for something new to be born.",
+        "id": 11,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 11,
+        "tags": [],
+        "title": "All is lost"
+      },
+      {
+        "characters": [],
+        "description": "Doubt, jealousy, fear, foes both physical and emotional regroup to defeat the main character’s goal, and the main character’s “great”/“awful” situation disintegrates.",
+        "id": 10,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 10,
+        "tags": [],
+        "title": "Bad Guys close in"
+      },
+      {
+        "characters": [],
+        "description": "Dependent upon the story, this moment is when everything is “great” or everything is “awful”. The main character either gets everything they think they want (“great”) or doesn’t get what they think they want at all (“awful”). But not everything we think we want is what we actually need in the end.",
+        "id": 9,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 9,
+        "tags": [],
+        "title": "Midpoint"
+      },
+      {
+        "characters": [],
+        "description": "This is when Craig Thompson’s relationship with Raina blooms, when Indiana Jones tries to beat the Nazis to the Lost Ark, when the detective finds the most clues and dodges the most bullets. This is when the main character explores the new world and the audience is entertained by the premise they have been promised.",
+        "id": 8,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 8,
+        "tags": [],
+        "title": "The Promise of the Premise"
+      },
+      {
+        "characters": [],
+        "description": "This is when there’s a discussion about the Theme – the nugget of truth. Usually, this discussion is between the main character and the love interest. So, the B Story is usually called the “love story”.",
+        "id": 7,
+        "lineId": 2,
+        "places": [],
+        "sceneId": 7,
+        "tags": [],
+        "title": "B Story"
+      },
+      {
+        "characters": [],
+        "description": "The main character makes a choice and the journey begins. We leave the “Thesis” world and enter the upside-down, opposite world of Act Two.",
+        "id": 6,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 6,
+        "tags": [],
+        "title": "Break Into Two"
+      },
+      {
+        "characters": [],
+        "description": "But change is scary and for a moment, or a brief number of moments, the main character doubts the journey they must take. Can I face this challenge? Do I have what it takes? Should I go at all? It is the last chance for the hero to chicken out.",
+        "id": 5,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 5,
+        "tags": [],
+        "title": "Debate"
+      },
+      {
+        "characters": [],
+        "description": "The moment where life as it is changes. It is the telegram, the act of catching your loved-one cheating, allowing a monster onboard the ship, meeting the true love of your life, etc. The “before” world is no more, change is underway.",
+        "id": 4,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 4,
+        "tags": [],
+        "title": "Catalyst"
+      },
+      {
+        "characters": [],
+        "description": "(happens during the Set-up) – What your story is about; the message, the truth. Usually, it is spoken to the main character or in their presence, but they don’t understand the truth…not until they have some personal experience and context to support it.",
+        "id": 3,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 3,
+        "tags": [],
+        "title": "Theme Stated"
+      },
+      {
+        "characters": [],
+        "description": "Expand on the “before” snapshot. Present the main character’s world as it is, and what is missing in their life.",
+        "id": 2,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 2,
+        "tags": [],
+        "title": "Set-up"
+      },
+      {
+        "characters": [],
+        "description": "A visual that represents the struggle & tone of the story. A snapshot of the main character’s problem, before the adventure begins.",
+        "id": 1,
+        "lineId": 1,
+        "places": [],
+        "sceneId": 1,
+        "tags": [],
+        "title": "Opening Image"
+      }
+    ],
+    "lines": [
+      {
+        "color": "#78be20",
+        "id": 2,
+        "position": 1,
+        "title": "Sub plot"
+      },
+      {
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plot"
+      }
+    ],
+    "scenes": [
+      {
+        "id": 1,
+        "position": 0,
+        "title": "Chapter 1"
+      },
+      {
+        "id": 2,
+        "position": 1,
+        "title": "Chapter 2"
+      },
+      {
+        "id": 3,
+        "position": 2,
+        "title": "Chapter 3"
+      },
+      {
+        "id": 4,
+        "position": 3,
+        "title": "Chapter 4"
+      },
+      {
+        "id": 5,
+        "position": 4,
+        "title": "Chapter 5"
+      },
+      {
+        "id": 6,
+        "position": 5,
+        "title": "Chapter 6"
+      },
+      {
+        "id": 7,
+        "position": 6,
+        "title": "Chapter 7"
+      },
+      {
+        "id": 8,
+        "position": 7,
+        "title": "Chapter 8"
+      },
+      {
+        "id": 9,
+        "position": 8,
+        "title": "Chapter 9"
+      },
+      {
+        "id": 10,
+        "position": 9,
+        "title": "Chapter 10"
+      },
+      {
+        "id": 11,
+        "position": 10,
+        "title": "Chapter 11"
+      },
+      {
+        "id": 15,
+        "position": 11,
+        "title": "Chapter 12"
+      },
+      {
+        "id": 12,
+        "position": 12,
+        "title": "Chapter 13"
+      },
+      {
+        "id": 13,
+        "position": 13,
+        "title": "Chapter 14"
+      },
+      {
+        "id": 14,
+        "position": 14,
+        "title": "Chapter 15"
+      }
+    ]
+  }
+}
