@@ -1,5 +1,5 @@
 {
-  "version": "2020.3.23",
+  "version": "2020.3.24",
   "templates": [
     {
       "id": "ch1",
@@ -18,12 +18,12 @@
     },
     {
       "id": "pl3",
-      "version": "2020.3.23",
+      "version": "2020.3.24",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
       "id": "pl4",
-      "version": "2020.3.23",
+      "version": "2020.3.24",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/action_adventure_plot.json"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "id": "pl6",
-      "version": "2020.3.23",
+      "version": "2020.3.24",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/save_the_cat.json"
     },
     {
       "id": "pl7",
-      "version": "2020.3.23",
+      "version": "2020.3.24",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/story_circle.json"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": "pl12",
-      "version": "2020.3.23",
+      "version": "2020.3.24",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/shonen.json"
     },
     {

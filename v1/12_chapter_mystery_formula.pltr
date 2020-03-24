@@ -279,7 +279,7 @@
       "position": 15,
       "templates": [],
       "time": 0,
-      "title": "Chapter 12"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -287,7 +287,7 @@
       "position": 14,
       "templates": [],
       "time": 0,
-      "title": "Chapter 11"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -295,7 +295,7 @@
       "position": 13,
       "templates": [],
       "time": 0,
-      "title": "Chapter 10"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -311,7 +311,7 @@
       "position": 11,
       "templates": [],
       "time": 0,
-      "title": "Chapter 9"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -319,7 +319,7 @@
       "position": 10,
       "templates": [],
       "time": 0,
-      "title": "Chapter 8"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -335,7 +335,7 @@
       "position": 1,
       "templates": [],
       "time": 0,
-      "title": "Chapter 1"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -343,7 +343,7 @@
       "position": 2,
       "templates": [],
       "time": 0,
-      "title": "Chapter 2"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -351,7 +351,7 @@
       "position": 3,
       "templates": [],
       "time": 0,
-      "title": "Chapter 3"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -367,7 +367,7 @@
       "position": 5,
       "templates": [],
       "time": 0,
-      "title": "Chapter 4"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -375,7 +375,7 @@
       "position": 6,
       "templates": [],
       "time": 0,
-      "title": "Chapter 5"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -383,7 +383,7 @@
       "position": 7,
       "templates": [],
       "time": 0,
-      "title": "Chapter 6"
+      "title": "auto"
     },
     {
       "bookId": 1,
@@ -399,7 +399,7 @@
       "position": 9,
       "templates": [],
       "time": 0,
-      "title": "Chapter 7"
+      "title": "auto"
     }
   ],
   "characters": [],

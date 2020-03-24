@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Shonen Battle Manga Formula",
   "description": "A story structure for Shonen Manga",
-  "version": "2020.3.23",
+  "version": "2020.3.24",
   "templateData": {
     "lines": [
       {
@@ -208,7 +208,7 @@
         "position": 9,
         "templates": [],
         "time": 0,
-        "title": "Chapter 10"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -216,7 +216,7 @@
         "position": 8,
         "templates": [],
         "time": 0,
-        "title": "Chapter 9"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -224,7 +224,7 @@
         "position": 7,
         "templates": [],
         "time": 0,
-        "title": "Chapter 8"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -232,7 +232,7 @@
         "position": 6,
         "templates": [],
         "time": 0,
-        "title": "Chapter 7"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -240,7 +240,7 @@
         "position": 5,
         "templates": [],
         "time": 0,
-        "title": "Chapter 6"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -248,7 +248,7 @@
         "position": 4,
         "templates": [],
         "time": 0,
-        "title": "Chapter 5"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -256,7 +256,7 @@
         "position": 3,
         "templates": [],
         "time": 0,
-        "title": "Chapter 4"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -264,7 +264,7 @@
         "position": 2,
         "templates": [],
         "time": 0,
-        "title": "Chapter 3"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -272,7 +272,7 @@
         "position": 1,
         "templates": [],
         "time": 0,
-        "title": "Chapter 2"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -280,7 +280,7 @@
         "position": 0,
         "templates": [],
         "time": 0,
-        "title": "Chapter 1"
+        "title": "auto"
       }
     ]
   }
