@@ -1,0 +1,254 @@
+{
+  "id": "pl8",
+  "type": "plotlines",
+  "name": "Jami Gold Romance",
+  "description": "A beat sheet for romance novels by Jami Gold",
+  "version": "2020.3.23",
+  "link": "https://jamigold.com/2012/11/write-romance-get-your-beat-sheet-here/",
+  "templateData": {
+    "cards": [
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 11,
+        "characters": [],
+        "description": "Show how the characters are now fully in their Essence and perfect for each other\t",
+        "id": 11,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Show"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 10,
+        "characters": [],
+        "description": "External Relationship Arc: How does fear threaten the potential of the relationship one last time?\t\n\nInternal Relationship Arc: How do the characters prove they don't want to continue without the other anymore?\t",
+        "id": 10,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "External & Internal"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 8,
+        "characters": [],
+        "description": "External Relationship Arc: What triggers the characters' fear about their relationship (& their retreat to Identity)?\t\n\nInternal Relationship Arc: How do the characters realize the relationship can't succeed (at least with Identity)?\t",
+        "id": 8,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "External & Internal"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 7,
+        "characters": [],
+        "description": "How does the Pinch Point affect their relationship?\t",
+        "id": 7,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "How"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 6,
+        "characters": [],
+        "description": "External Relationship Arc: What visible sign of commitment do the characters make to each other?\t\n\nInternal Relationship Arc: How are the characters still in their Identity (and thus doomed to fail)?\t",
+        "id": 6,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "External & Internal"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 5,
+        "characters": [],
+        "description": "How does the Pinch Point affect their relationship?\t",
+        "id": 5,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "How"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 3,
+        "characters": [],
+        "description": "External Relationship Arc: What happens that forces the characters to spend time together?\n\nInternal Relationship Arc: What decision do the characters make that reflects their desire for each other?",
+        "id": 3,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "External & Internal"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 2,
+        "characters": [],
+        "description": "Give a glimpse of how _right_ the characters could be for each other (Essence), but they're not ready yet (Identity)",
+        "id": 2,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Give"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 1,
+        "characters": [],
+        "description": "Opening scene or sequence of story; creat empathy with characters by showing how they lack for something",
+        "id": 1,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Opening"
+      }
+    ],
+    "chapters": [
+      {
+        "bookId": 1,
+        "id": 12,
+        "position": 11,
+        "templates": [],
+        "time": 0,
+        "title": "Final image/ resolution"
+      },
+      {
+        "bookId": 1,
+        "id": 11,
+        "position": 10,
+        "templates": [],
+        "time": 0,
+        "title": "Climax"
+      },
+      {
+        "bookId": 1,
+        "id": 10,
+        "position": 9,
+        "templates": [],
+        "time": 0,
+        "title": "Act III"
+      },
+      {
+        "bookId": 1,
+        "id": 9,
+        "position": 8,
+        "templates": [],
+        "time": 0,
+        "title": "Crisis"
+      },
+      {
+        "bookId": 1,
+        "id": 8,
+        "position": 7,
+        "templates": [],
+        "time": 0,
+        "title": "Pinch point #2"
+      },
+      {
+        "bookId": 1,
+        "id": 7,
+        "position": 6,
+        "templates": [],
+        "time": 0,
+        "title": "Midpoint"
+      },
+      {
+        "bookId": 1,
+        "id": 6,
+        "position": 5,
+        "templates": [],
+        "time": 0,
+        "title": "Pinch point #1"
+      },
+      {
+        "bookId": 1,
+        "id": 5,
+        "position": 4,
+        "templates": [],
+        "time": 0,
+        "title": "Act II"
+      },
+      {
+        "bookId": 1,
+        "id": 4,
+        "position": 3,
+        "templates": [],
+        "time": 0,
+        "title": "End of the beginning"
+      },
+      {
+        "bookId": 1,
+        "id": 3,
+        "position": 2,
+        "templates": [],
+        "time": 0,
+        "title": "Inciting incident"
+      },
+      {
+        "bookId": 1,
+        "id": 2,
+        "position": 1,
+        "templates": [],
+        "time": 0,
+        "title": "Opening image/hook"
+      },
+      {
+        "bookId": 1,
+        "id": 1,
+        "position": 0,
+        "templates": [],
+        "time": 0,
+        "title": "Act I"
+      }
+    ]
+  }
+}

@@ -1,5 +1,62 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "W Plot"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Resolution"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "2nd Turning Point"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "2nd Triggering Event"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "1st Turning Point"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Trigger Event"
+    }
+  ],
   "characters": [],
   "customAttributes": {
     "cards": [],
@@ -12,52 +69,43 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/w_plot.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/w_plot.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "",
+    "name": "W Plot",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 4,
-      "position": 4,
-      "title": "Resolution"
-    },
-    {
-      "id": 3,
-      "position": 3,
-      "title": "2nd Turning Point"
-    },
-    {
-      "id": 2,
-      "position": 2,
-      "title": "2nd Triggering Event"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
-      "position": 1,
-      "title": "1st Turning Point"
-    },
-    {
-      "id": 0,
       "position": 0,
-      "title": "Trigger Event"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "w_plot",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
+    "currentTimeline": 1,
     "currentView": "timeline",
     "darkMode": false,
     "noteFilter": null,

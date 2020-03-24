@@ -3,127 +3,193 @@
   "type": "plotlines",
   "name": "Billy Mernit Romance Seven Beats",
   "description": "A romance plot structure by Billy Mernit",
-  "version": "2020.3.6",
+  "version": "2020.3.23",
   "link": "http://www.billymernit.com/screenwriting.html",
   "templateData": {
     "cards": [
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 7,
         "characters": [],
         "description": "A reconciliation that reaffirms the primal importance of the relationship; usually a happy ending that implies marriage or a serious commitment, often at the cost of some personal sacrifice to the protagonist (116).",
         "id": 7,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 7,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Joyful defeat / resolution"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 6,
         "characters": [],
         "description": "Wherein the consequences of the swivel decision yield disaster; generally, the humaliating scene where private motivations are revealed, and either the relationship and/or the protagonist’s goal is seemingly lost forever (115).",
         "id": 6,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 6,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Dark moment / crisis"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 5,
         "characters": [],
         "description": "Traditionally occurring at the end of Act 2, stakes reach their highest point as the romantic relationship’s importance jeopardizes the protagonist’s chance to succeed at his/her state goal—or vice versa—and his/her goal shifts. (115)",
         "id": 5,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 5,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Swivel: second turning point"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 4,
         "characters": [],
         "description": "A situation that irrevocably binds the protagonist with the antagonist (often while tweaking sexual tensions) and has further implications for the outcome of the relationship (113).",
         "id": 4,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 4,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Midpoint / Raising the stakes"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 3,
         "characters": [],
         "description": "Traditionally occurring at the end of Act 1, a new development that raises story stakes and clearly defines the protagonist’s goal; most successful when it sets man and woman at cross-purposes and/or their inner emotions at odds with the goal (112).",
         "id": 3,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 3,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Turning point"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 2,
         "characters": [],
         "description": "The inciting incident brings man and woman together and into conflict; an inventive but credible contrivance, often amusing, which in some way sets the tone for the action to come (111).",
         "id": 2,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 2,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Meet / inciting incident"
       },
       {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 1,
         "characters": [],
         "description": "A scene or sequence identifying the exterior and/or interior conflict (i.e., unfulfilled desire), the “what’s wrong with this picture” implied in the protagonist’s (and/or antagonist’s) current status quo (Mernit, 110).",
         "id": 1,
+        "imageId": null,
         "lineId": 1,
         "places": [],
-        "sceneId": 1,
+        "position": 0,
+        "seriesLineId": null,
         "tags": [],
+        "templates": [],
         "title": "Setup / hook"
+      }
+    ],
+    "chapters": [
+      {
+        "bookId": 1,
+        "id": 7,
+        "position": 6,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 7"
+      },
+      {
+        "bookId": 1,
+        "id": 6,
+        "position": 5,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 6"
+      },
+      {
+        "bookId": 1,
+        "id": 5,
+        "position": 4,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 5"
+      },
+      {
+        "bookId": 1,
+        "id": 4,
+        "position": 3,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 4"
+      },
+      {
+        "bookId": 1,
+        "id": 3,
+        "position": 2,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 3"
+      },
+      {
+        "bookId": 1,
+        "id": 2,
+        "position": 1,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 2"
+      },
+      {
+        "bookId": 1,
+        "id": 1,
+        "position": 0,
+        "templates": [],
+        "time": 0,
+        "title": "Beat 1"
       }
     ],
     "notes": [
       {
+        "bookIds": [],
         "characters": [],
         "content": "Writing Romantic Comedy by Billy Mernit",
-        "id": 1,
+        "id": 0,
+        "imageId": null,
         "lastEdited": 1511978322178,
         "places": [],
         "tags": [],
+        "templates": [],
         "title": "The book"
-      }
-    ],
-    "scenes": [
-      {
-        "id": 7,
-        "position": 6,
-        "title": "Beat 7"
-      },
-      {
-        "id": 6,
-        "position": 5,
-        "title": "Beat 6"
-      },
-      {
-        "id": 5,
-        "position": 4,
-        "title": "Beat 5"
-      },
-      {
-        "id": 4,
-        "position": 3,
-        "title": "Beat 4"
-      },
-      {
-        "id": 3,
-        "position": 2,
-        "title": "Beat 3"
-      },
-      {
-        "id": 2,
-        "position": 1,
-        "title": "Beat 2"
-      },
-      {
-        "id": 1,
-        "position": 0,
-        "title": "Beat 1"
       }
     ]
   }

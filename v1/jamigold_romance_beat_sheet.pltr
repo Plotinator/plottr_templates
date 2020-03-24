@@ -1,94 +1,261 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "Romance",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "Jamigold Romance Beat Sheet"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 11,
       "characters": [],
       "description": "Show how the characters are now fully in their Essence and perfect for each other\t",
       "id": 11,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 11,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Show"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 10,
       "characters": [],
       "description": "External Relationship Arc: How does fear threaten the potential of the relationship one last time?\t\n\nInternal Relationship Arc: How do the characters prove they don't want to continue without the other anymore?\t",
       "id": 10,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 10,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "External & Internal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 8,
       "characters": [],
       "description": "External Relationship Arc: What triggers the characters' fear about their relationship (& their retreat to Identity)?\t\n\nInternal Relationship Arc: How do the characters realize the relationship can't succeed (at least with Identity)?\t",
       "id": 8,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 8,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "External & Internal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 7,
       "characters": [],
       "description": "How does the Pinch Point affect their relationship?\t",
       "id": 7,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 7,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "How"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 6,
       "characters": [],
       "description": "External Relationship Arc: What visible sign of commitment do the characters make to each other?\t\n\nInternal Relationship Arc: How are the characters still in their Identity (and thus doomed to fail)?\t",
       "id": 6,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 6,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "External & Internal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 5,
       "characters": [],
       "description": "How does the Pinch Point affect their relationship?\t",
       "id": 5,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 5,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "How"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 3,
       "characters": [],
       "description": "External Relationship Arc: What happens that forces the characters to spend time together?\n\nInternal Relationship Arc: What decision do the characters make that reflects their desire for each other?",
       "id": 3,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 3,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "External & Internal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 2,
       "characters": [],
       "description": "Give a glimpse of how _right_ the characters could be for each other (Essence), but they're not ready yet (Identity)",
       "id": 2,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 2,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Give"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 1,
       "characters": [],
       "description": "Opening scene or sequence of story; creat empathy with characters by showing how they lack for something",
       "id": 1,
-      "lineId": 0,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 1,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Opening"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 12,
+      "position": 11,
+      "templates": [],
+      "time": 0,
+      "title": "Final image/ resolution"
+    },
+    {
+      "bookId": 1,
+      "id": 11,
+      "position": 10,
+      "templates": [],
+      "time": 0,
+      "title": "Climax"
+    },
+    {
+      "bookId": 1,
+      "id": 10,
+      "position": 9,
+      "templates": [],
+      "time": 0,
+      "title": "Act III"
+    },
+    {
+      "bookId": 1,
+      "id": 9,
+      "position": 8,
+      "templates": [],
+      "time": 0,
+      "title": "Crisis"
+    },
+    {
+      "bookId": 1,
+      "id": 8,
+      "position": 7,
+      "templates": [],
+      "time": 0,
+      "title": "Pinch point #2"
+    },
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "Midpoint"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "Pinch point #1"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Act II"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "End of the beginning"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "Inciting incident"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "Opening image/hook"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Act I"
     }
   ],
   "characters": [],
@@ -103,87 +270,43 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/jamigold_romance_beat_sheet.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/jamigold_romance_beat_sheet.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "Romance",
+    "name": "Jamigold Romance Beat Sheet",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 11,
-      "position": 11,
-      "title": "Final image/ resolution"
-    },
-    {
-      "id": 10,
-      "position": 10,
-      "title": "Climax"
-    },
-    {
-      "id": 9,
-      "position": 9,
-      "title": "Act III"
-    },
-    {
-      "id": 8,
-      "position": 8,
-      "title": "Crisis"
-    },
-    {
-      "id": 7,
-      "position": 7,
-      "title": "Pinch point #2"
-    },
-    {
-      "id": 6,
-      "position": 6,
-      "title": "Midpoint"
-    },
-    {
-      "id": 5,
-      "position": 5,
-      "title": "Pinch point #1"
-    },
-    {
-      "id": 4,
-      "position": 4,
-      "title": "Act II"
-    },
-    {
-      "id": 3,
-      "position": 3,
-      "title": "End of the beginning"
-    },
-    {
-      "id": 2,
-      "position": 2,
-      "title": "Inciting incident"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
-      "position": 1,
-      "title": "Opening image/hook"
-    },
-    {
-      "id": 0,
       "position": 0,
-      "title": "Act I"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "jamigold_romance_beat_sheet",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
+    "currentTimeline": 1,
     "currentView": "timeline",
     "darkMode": false,
     "noteFilter": null,

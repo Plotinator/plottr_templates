@@ -1,84 +1,213 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "Dan Harmon Story Circle"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 8,
       "characters": [],
       "description": "now capable of change",
       "id": 8,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 8,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Change"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 7,
       "characters": [],
       "description": "and go back to where they started",
       "id": 7,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 7,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Return"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 6,
       "characters": [],
       "description": "pay its price",
       "id": 6,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 6,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Take"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 5,
       "characters": [],
       "description": "find what they wanted",
       "id": 5,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 5,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Find"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 4,
       "characters": [],
       "description": "adapt to it",
       "id": 4,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 4,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Search"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 3,
       "characters": [],
       "description": "they enter an unfamiliar situation",
       "id": 3,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 3,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Go"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 2,
       "characters": [],
       "description": "but they want something",
       "id": 2,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 2,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Need"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 1,
       "characters": [],
       "description": "A character is in a zone of comfort",
       "id": 1,
+      "imageId": null,
       "lineId": 1,
       "places": [],
-      "sceneId": 1,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "You"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 8,
+      "position": 7,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 8"
+    },
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 7"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 6"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 5"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 4"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 3"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 2"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 1"
     }
   ],
   "characters": [],
@@ -93,12 +222,15 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/Dan_Harmon_story_circle.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/Dan_Harmon_story_circle.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
       "id": 1,
       "position": 0,
@@ -107,53 +239,26 @@
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "",
+    "name": "Dan Harmon Story Circle",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 8,
-      "position": 7,
-      "title": "Chapter 8"
-    },
-    {
-      "id": 7,
-      "position": 6,
-      "title": "Chapter 7"
-    },
-    {
-      "id": 6,
-      "position": 5,
-      "title": "Chapter 6"
-    },
-    {
-      "id": 5,
-      "position": 4,
-      "title": "Chapter 5"
-    },
-    {
-      "id": 4,
-      "position": 3,
-      "title": "Chapter 4"
-    },
-    {
-      "id": 3,
-      "position": 2,
-      "title": "Chapter 3"
-    },
-    {
-      "id": 2,
-      "position": 1,
-      "title": "Chapter 2"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
       "position": 0,
-      "title": "Chapter 1"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "Dan_Harmon_story_circle",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
+    "currentTimeline": 1,
     "currentView": "timeline",
     "darkMode": false,
     "noteFilter": null,

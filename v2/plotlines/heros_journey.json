@@ -1,0 +1,97 @@
+{
+  "id": "pl10",
+  "type": "plotlines",
+  "name": "Hero's Journey",
+  "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
+  "version": "2020.3.23",
+  "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
+  "templateData": {
+    "chapters": [
+      {
+        "bookId": 1,
+        "id": 12,
+        "position": 11,
+        "time": 0,
+        "title": "Return with the Elixir"
+      },
+      {
+        "bookId": 1,
+        "id": 11,
+        "position": 10,
+        "time": 0,
+        "title": "Resurrection"
+      },
+      {
+        "bookId": 1,
+        "id": 10,
+        "position": 9,
+        "time": 0,
+        "title": "The Road Back"
+      },
+      {
+        "bookId": 1,
+        "id": 9,
+        "position": 8,
+        "time": 0,
+        "title": "Reward (Seizing the Sword)"
+      },
+      {
+        "bookId": 1,
+        "id": 8,
+        "position": 7,
+        "time": 0,
+        "title": "The Ordeal"
+      },
+      {
+        "bookId": 1,
+        "id": 7,
+        "position": 6,
+        "time": 0,
+        "title": "Approach to the Inmose Cave"
+      },
+      {
+        "bookId": 1,
+        "id": 6,
+        "position": 5,
+        "time": 0,
+        "title": "Test, Allies, Enemies"
+      },
+      {
+        "bookId": 1,
+        "id": 5,
+        "position": 4,
+        "time": 0,
+        "title": "Crossing the First Threshold"
+      },
+      {
+        "bookId": 1,
+        "id": 4,
+        "position": 3,
+        "time": 0,
+        "title": "Meeting the Mentor"
+      },
+      {
+        "bookId": 1,
+        "id": 3,
+        "position": 2,
+        "time": 0,
+        "title": "Refusal of the Call"
+      },
+      {
+        "bookId": 1,
+        "id": 2,
+        "position": 1,
+        "time": 0,
+        "title": "The Call of Adventure"
+      },
+      {
+        "bookId": 1,
+        "id": 1,
+        "position": 0,
+        "templates": [],
+        "time": 0,
+        "title": "The Ordinary World"
+      }
+    ]
+  }
+}

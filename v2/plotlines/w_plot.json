@@ -1,34 +1,19 @@
 {
-  "id": "pl1",
+  "id": "pl14",
   "type": "plotlines",
-  "name": "7 Point Plot Structure",
-  "description": "A plot structure by Dan Wells",
+  "name": "W Plot",
+  "description": "A story structure by Kenneth Atchity similar to the 3 Act structure",
   "version": "2020.3.23",
+  "link": "",
   "templateData": {
     "chapters": [
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 6,
-        "templates": [],
-        "time": 0,
-        "title": "Resolution"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 5,
-        "templates": [],
-        "time": 0,
-        "title": "Plot Turn 2"
-      },
       {
         "bookId": 1,
         "id": 5,
         "position": 4,
         "templates": [],
         "time": 0,
-        "title": "Pinch 2"
+        "title": "Resolution"
       },
       {
         "bookId": 1,
@@ -36,7 +21,7 @@
         "position": 3,
         "templates": [],
         "time": 0,
-        "title": "Midpoint"
+        "title": "2nd Turning Point"
       },
       {
         "bookId": 1,
@@ -44,7 +29,7 @@
         "position": 2,
         "templates": [],
         "time": 0,
-        "title": "Pinch 1"
+        "title": "2nd Triggering Event"
       },
       {
         "bookId": 1,
@@ -52,7 +37,7 @@
         "position": 1,
         "templates": [],
         "time": 0,
-        "title": "Plot Turn 1"
+        "title": "1st Turning Point"
       },
       {
         "bookId": 1,
@@ -60,7 +45,7 @@
         "position": 0,
         "templates": [],
         "time": 0,
-        "title": "Hook"
+        "title": "Trigger Event"
       }
     ]
   }

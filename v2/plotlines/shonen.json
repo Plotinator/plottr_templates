@@ -1,0 +1,287 @@
+{
+  "id": "pl12",
+  "type": "plotlines",
+  "name": "Shonen Battle Manga Formula",
+  "description": "A story structure for Shonen Manga",
+  "version": "2020.3.23",
+  "templateData": {
+    "lines": [
+      {
+        "bookId": 1,
+        "characterId": null,
+        "color": "#78be20",
+        "id": 2,
+        "position": 1,
+        "title": "The Long Road"
+      },
+      {
+        "bookId": 1,
+        "characterId": null,
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plot"
+      }
+    ],
+    "cards": [
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 6,
+        "characters": [],
+        "description": "During The Long Road phase, the MC will go through a series of cycles (aka Story Arcs) which are there to represent them learning and facing new challenges as they build toward their final goals. Generally, each Story Arc will be themed around a specific idea or weakness the character has, or something they have yet to learn. So each Story Arc will be about the character facing that weakness and overcoming it.\n\nGenerally, each Story Arc along The Long Road will follow the same pattern:\n\n1. The MC encounters a new opponent who is strong in an area where the MC is still weak or has knowledge the MC lacks. (This can also be a challenge or task which can’t be defeated with the MC’s current skill set.)\n1. The MC is defeated by this new opponent/challenge. (whose ability over the MC is often coded by being referred to by a special name)\n1. The MC figures out why they were defeated (often by consulting others or through experimentation).\n1. The MC seeks and finds a solution to the problem. (Learning new skills/ideas along the way, and possibly a counter-technique.)\n1. While the MC is improving, the MC’s Sidekicks may try to fight the opponent or opponent’s allies. If they face the Opponent, they will lose but their loss will either gain information or help to inspire the MC to act. If they are facing the Opponent’s allies, they will fight hard battles but eventually win around the same time the MC does.\n1. The MC faces the opponent/challenge again, and wins this time because of their new skills/knowledge.\n1. The MC is rewarded for their efforts by praise of others. (If this praise comes from the Opponent, they often become friends or allies after this.)\n1. Return to Step 1",
+        "id": 11,
+        "imageId": null,
+        "lineId": 2,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Story Arcs"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 10,
+        "characters": [],
+        "description": "The MC is now a master of the activity they fell in love with, and is shown to have a whole new life because of it. They are a happy and fully realized person and member of society who confidently knows their place in the world and is happy within it. The activity and subculture around it have benefited and changed because of the MC’s entry into it, and they can look back with nostalgia and look forward with anticipation to watching the activity grow and flourish under them. Often this is represented by them helping to bring new people into the activity and starting the cycle anew.",
+        "id": 10,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Towards the future"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 9,
+        "characters": [],
+        "description": "The MC has now mastered/learned all they need to know and become a major figure in their activity. They must now face the Main Opponent in a true match to prove their level of ability and take their place as a master of the activity. Often the MC will have a crisis of confidence or suffer from Imposter Syndrome at this point, thinking they aren’t really ready yet, but they’ll still overcome it and defeat the Main Opponent. Usually the Main Opponent is flawed in some way, often in their thinking or outlook about the activity, and the MC’s victory is due to their purity of outlook, thus showing the audience that their way is the true path in the end.",
+        "id": 9,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Eye of the tiger"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 8,
+        "characters": [],
+        "description": "as the MC defeats more and more challenges, they also rise up within the sub-culture surrounding the activity. They will often find themselves drawn into the politics and deeper aspects of the community and must learn to find their place inside the community. Usually they will learn that the community is bigger than they first imagined, and has far greater depths. They will also make enemies in the community who are threatened by their advancement and/or the changes they represent to the community as it exists now. Those enemies will usually become supporters of the Main Opponent, and help to drive the growing conflict between the MC and MO. Some of them may also try to trap or distract the main character through offers of positions of status or profit if they discontinue their journey, but even if tempted, the MC will always refuse in the end.",
+        "id": 8,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Social advancement"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 7,
+        "characters": [],
+        "description": "While the MC is rising, they will periodically re-encounter the Main Opponent in different ways, usually ones which result in indirect competition between them. (Teasing their final conflict and building tension.) This indirect competition is usually through other people who do the activity (defeating the people each other have faced or each other’s allies) and sometimes by competing in different aspects of the activity besides the main one. Also, as a result of this ongoing rivalry, the Main Opponent will also begin to become stronger as well, overcoming personal hurdles and staying ahead of the MC even when it seems like the MC is starting to catch up.",
+        "id": 7,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Rising competition"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 6,
+        "characters": [],
+        "description": "Now that they’ve entered this new world built around the activity, the MC will begin their path towards mastery. During this stage, they will meet a successive series of Opponents and challenges, make new friends, and learn more and more about their activity of choice. This stage is extremely flexible, and can take as long as the story needs it to take, or as long as the steps needed to master the activity require. ",
+        "id": 6,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "The long road"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 5,
+        "characters": [],
+        "description": "Now combining Talent and Skill, the MC starts on their real journey towards becoming a master of the activity. They have their first true victory, and get their taste of what it’s like to be part of this new community while facing an Opponent (usually the one from Step 3) who has a flawed approach to the activity in some basic way. This opponent will seem strong at first, but they will realize due to their new skills that this opponent is really weak because they haven’t mastered the fundamentals. Using those same fundamentals combined with talent, the MC will defeat them utterly.",
+        "id": 5,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "A new path"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 4,
+        "characters": [],
+        "description": "The MC is introduced to the subculture which exists surrounding the activity. Through a guide character (or characters) they discover that there is a whole world they were unaware of hiding within the community that engages in the activity. From this discovery, they begin their first steps into joining that community, and are given basic knowledge about that activity.",
+        "id": 4,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "A whole new world"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 3,
+        "characters": [],
+        "description": "The MC encounters their first real hurdle to becoming part of this activity- usually through an encounter with the Main Opponent. Their early victory was a product of talent, but they quickly learn that talent alone isn’t enough, as those who have skill can trump their talent easily. Now they’re forced to actually start to learn and explore the activity on a basic level.",
+        "id": 3,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Maybe it's not so easy"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 2,
+        "characters": [],
+        "description": "the MC engages in the activity and shows a natural talent or ability for it, allowing them to score their first victory. This gives them the confidence to move forward, and the feeling that this activity will bring them pleasure and give them something they’ve been missing from their lives.",
+        "id": 2,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "It's easy!"
+      },
+      {
+        "beatId": null,
+        "bookId": null,
+        "chapterId": 1,
+        "characters": [],
+        "description": "the Main Character (MC) is given a reason to explore/pursue the activity. Sometimes the MC starts motivated, in which case they explain the reason they’re already motivated to another character instead. In any case, the audience is presented with the MC’s reasons for pursuing the activity. The MC is usually living an unfulfilled life and comes to believe that the activity might be a possible solution to fill that void.",
+        "id": 1,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Getting motivated"
+      }
+    ],
+    "chapters": [
+      {
+        "bookId": 1,
+        "id": 10,
+        "position": 9,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 10"
+      },
+      {
+        "bookId": 1,
+        "id": 9,
+        "position": 8,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 9"
+      },
+      {
+        "bookId": 1,
+        "id": 8,
+        "position": 7,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 8"
+      },
+      {
+        "bookId": 1,
+        "id": 7,
+        "position": 6,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 7"
+      },
+      {
+        "bookId": 1,
+        "id": 6,
+        "position": 5,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 6"
+      },
+      {
+        "bookId": 1,
+        "id": 5,
+        "position": 4,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 5"
+      },
+      {
+        "bookId": 1,
+        "id": 4,
+        "position": 3,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 4"
+      },
+      {
+        "bookId": 1,
+        "id": 3,
+        "position": 2,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 3"
+      },
+      {
+        "bookId": 1,
+        "id": 2,
+        "position": 1,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 2"
+      },
+      {
+        "bookId": 1,
+        "id": 1,
+        "position": 0,
+        "templates": [],
+        "time": 0,
+        "title": "Chapter 1"
+      }
+    ]
+  }
+}

@@ -1,184 +1,453 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "Action Adventure Plot"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 18,
       "characters": [],
       "description": "",
-      "id": 17,
-      "lineId": 0,
+      "id": 18,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 17,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Conclusion"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 17,
       "characters": [],
       "description": "",
-      "id": 16,
-      "lineId": 0,
+      "id": 17,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 16,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Resolution"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 16,
       "characters": [],
       "description": "Hero battles villain",
-      "id": 15,
-      "lineId": 0,
+      "id": 16,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 15,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Plot twist"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 15,
       "characters": [],
       "description": "Hero battles villain",
-      "id": 14,
-      "lineId": 0,
+      "id": 15,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 14,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Battle villian"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 14,
       "characters": [],
       "description": "Hero battles loyal henchman.",
-      "id": 13,
-      "lineId": 0,
+      "id": 14,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 13,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Battle henchman"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 13,
       "characters": [],
       "description": "Hero attains goal",
-      "id": 12,
-      "lineId": 0,
+      "id": 13,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 12,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Attain goal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 12,
       "characters": [],
       "description": "Hero narrowly escapes the clutches of doom.",
-      "id": 11,
-      "lineId": 0,
+      "id": 12,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 11,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Narrow escape"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 11,
       "characters": [],
       "description": "Hero is captured and threatened with certain doom.",
-      "id": 10,
-      "lineId": 0,
+      "id": 11,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 10,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Captured"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 10,
       "characters": [],
       "description": "Hero infiltrates villain's highly secure fortress.",
-      "id": 9,
-      "lineId": 0,
+      "id": 10,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 9,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Infiltrate fortress"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 9,
       "characters": [],
       "description": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight.",
-      "id": 8,
-      "lineId": 0,
+      "id": 9,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 8,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Assistance"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 8,
       "characters": [],
       "description": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission.",
-      "id": 7,
-      "lineId": 0,
+      "id": 8,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 7,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Major complications"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 7,
       "characters": [],
       "description": "An extended chase scenario occurs.",
-      "id": 6,
-      "lineId": 0,
+      "id": 7,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 6,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Chase"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 6,
       "characters": [],
       "description": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information.",
-      "id": 5,
-      "lineId": 0,
+      "id": 6,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 5,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Encounters henchman"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 5,
       "characters": [],
       "description": "Hero encounters the damsel and some type of relationship begins.",
-      "id": 4,
-      "lineId": 0,
+      "id": 5,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 4,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Encounter damsel"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 4,
       "characters": [],
       "description": "Hero travels to an exotic and interesting location.",
-      "id": 3,
-      "lineId": 0,
+      "id": 4,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 3,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Travels to exotic location"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 3,
       "characters": [],
       "description": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses.",
-      "id": 2,
-      "lineId": 0,
+      "id": 3,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 2,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Begins toward goal"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 2,
       "characters": [],
       "description": "Hero receives a mission or encounters a problem that needs to be solved.",
-      "id": 1,
-      "lineId": 0,
+      "id": 2,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 1,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Receives a mission"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 1,
       "characters": [],
       "description": "Hero's circumstance is revealed.",
-      "id": 0,
-      "lineId": 0,
+      "id": 1,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 0,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Hero's circumstance"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 18,
+      "position": 17,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 18"
+    },
+    {
+      "bookId": 1,
+      "id": 17,
+      "position": 16,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 17"
+    },
+    {
+      "bookId": 1,
+      "id": 16,
+      "position": 15,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 16"
+    },
+    {
+      "bookId": 1,
+      "id": 15,
+      "position": 14,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 15"
+    },
+    {
+      "bookId": 1,
+      "id": 14,
+      "position": 13,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 14"
+    },
+    {
+      "bookId": 1,
+      "id": 13,
+      "position": 12,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 13"
+    },
+    {
+      "bookId": 1,
+      "id": 12,
+      "position": 11,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 12"
+    },
+    {
+      "bookId": 1,
+      "id": 11,
+      "position": 10,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 11"
+    },
+    {
+      "bookId": 1,
+      "id": 10,
+      "position": 9,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 10"
+    },
+    {
+      "bookId": 1,
+      "id": 9,
+      "position": 8,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 9"
+    },
+    {
+      "bookId": 1,
+      "id": 8,
+      "position": 7,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 8"
+    },
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 7"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 6"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 5"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 4"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 3"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 2"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Chapter 1"
     }
   ],
   "characters": [],
@@ -193,117 +462,43 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/action_adventure_plot.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/action_adventure_plot.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "",
+    "name": "Action Adventure Plot",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 17,
-      "position": 17,
-      "title": "Chapter 18"
-    },
-    {
-      "id": 16,
-      "position": 16,
-      "title": "Chapter 17"
-    },
-    {
-      "id": 15,
-      "position": 15,
-      "title": "Chapter 16"
-    },
-    {
-      "id": 14,
-      "position": 14,
-      "title": "Chapter 15"
-    },
-    {
-      "id": 13,
-      "position": 13,
-      "title": "Chapter 14"
-    },
-    {
-      "id": 12,
-      "position": 12,
-      "title": "Chapter 13"
-    },
-    {
-      "id": 11,
-      "position": 11,
-      "title": "Chapter 12"
-    },
-    {
-      "id": 10,
-      "position": 10,
-      "title": "Chapter 11"
-    },
-    {
-      "id": 9,
-      "position": 9,
-      "title": "Chapter 10"
-    },
-    {
-      "id": 8,
-      "position": 8,
-      "title": "Chapter 9"
-    },
-    {
-      "id": 7,
-      "position": 7,
-      "title": "Chapter 8"
-    },
-    {
-      "id": 6,
-      "position": 6,
-      "title": "Chapter 7"
-    },
-    {
-      "id": 5,
-      "position": 5,
-      "title": "Chapter 6"
-    },
-    {
-      "id": 4,
-      "position": 4,
-      "title": "Chapter 5"
-    },
-    {
-      "id": 3,
-      "position": 3,
-      "title": "Chapter 4"
-    },
-    {
-      "id": 2,
-      "position": 2,
-      "title": "Chapter 3"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
-      "position": 1,
-      "title": "Chapter 2"
-    },
-    {
-      "id": 0,
       "position": 0,
-      "title": "Chapter 1"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "action_adventure_plot",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
+    "currentTimeline": 1,
     "currentView": "timeline",
     "darkMode": false,
     "noteFilter": null,

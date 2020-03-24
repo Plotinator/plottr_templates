@@ -1,114 +1,285 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "Michael Hauge Six Stage"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 11,
       "characters": [],
       "description": "The character is now transformed and the reader gets a glimpse of their new post-journey life.\n\nIn a romance, the characters are together and happy for the foreseeable future. This is the “Happily Ever After” (or at least a “Happily For Now”) ending",
-      "id": 10,
-      "lineId": 0,
+      "id": 11,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 10,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Aftermath"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 10,
       "characters": [],
       "description": "The character must face their fear one final time. The character’s wound, false belief, and/or fear should make another appearance here.\n\nIn a romance, the fear should threaten the relationship.",
-      "id": 9,
-      "lineId": 0,
+      "id": 10,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 9,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Climax"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 9,
       "characters": [],
       "description": "The character returns to their essence, which lets them “earn” their success.\n\nIn a romance, the characters try to figure out a way to make things work between them. They’ve accepted that they don’t want to live without this person anymore.",
-      "id": 8,
-      "lineId": 0,
+      "id": 9,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 8,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Final push"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 8,
       "characters": [],
       "description": "An “all is lost” event occurs. This event can be result of the character getting scared and retreating, or it can cause the character to retreat. The character attempts to hide behind their mask again. Often a sidekick character will point out how they’re stuck.\n\nIn a romance, something happens to make it appear as though the characters can’t be together.",
-      "id": 7,
-      "lineId": 0,
+      "id": 8,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 7,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Major setback"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 7,
       "characters": [],
       "description": "The character moves steadily toward living in their essence.\n\nIn a romance, the characters are getting along more than they were before.",
-      "id": 6,
-      "lineId": 0,
+      "id": 7,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 6,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Complications & higher stakes"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 6,
       "characters": [],
       "description": "The character must do something to show they’re committed to the goal, and they get a glimpse of what their life would be like if they lived in their essence. Even though the outside world is starting to close in, most of the character’s vacillation ends at this point.\n\nIn a romance, this might be the hero and heroine’s first kiss, first sex scene, or first declaration of love. Some visible action has to reveal their desire (goal) to the world.",
-      "id": 5,
-      "lineId": 0,
+      "id": 6,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 5,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Point of no return"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 5,
       "characters": [],
       "description": "As the character pursues their new goal, they get scared and retreat, so they waver between their identity and their essence.\n\nIn a romance, the characters will often “dance” around each other at this point. They vaguely know they want to be together, but they haven’t committed to the changes that would be required to make it happen.",
-      "id": 4,
-      "lineId": 0,
+      "id": 5,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 4,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Progress"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 4,
       "characters": [],
       "description": "An event occurs that creates a new desire with a specific (visible) goal and end point. A character’s external pursuit of the goal begins. The goal has to be something the character can’t fully achieve while living in their identity.\n\nIn a romance, the goal can be unrelated to the romance, but it should force the hero and heroine together.",
-      "id": 3,
-      "lineId": 0,
+      "id": 4,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 3,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Change of plans"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 3,
       "characters": [],
       "description": "The character attempts to adjust to their new situation.\n\nIn a romance, the hero and heroine react to their meeting.",
-      "id": 2,
-      "lineId": 0,
+      "id": 3,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 2,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "New situation"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 2,
       "characters": [],
       "description": "An event occurs that creates desire in the character. This can be a glimpse of their longing or need. As Janice pointed out in her post, this is their first opportunity to face their fear and they run from it instead.\n\nIn a romance, this is typically when the hero and heroine first meet",
-      "id": 1,
-      "lineId": 0,
+      "id": 2,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 1,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Opportunity"
     },
     {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 1,
       "characters": [],
       "description": "The character is living fully in their identity. Their wound, false belief, and fears are holding them back. The purpose of this stage is to introduce the protagonist(s) and create empathy for them (victim, in jeopardy, likable, funny, highly skilled, etc.). Readers should see the character “stuck” in their life and/or identity.\n\nIn a romance, the hero and the heroine are often equal protagonists and might be introduced separately. Sometimes this stage will be cut short or doled out in backstory snippets to instead open with Turning Point One in order to have the hero and heroine meet earlier.",
-      "id": 0,
-      "lineId": 0,
+      "id": 1,
+      "imageId": null,
+      "lineId": 1,
       "places": [],
-      "sceneId": 0,
+      "position": 0,
+      "seriesLineId": null,
       "tags": [],
+      "templates": [],
       "title": "Setup"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 11,
+      "position": 10,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 6"
+    },
+    {
+      "bookId": 1,
+      "id": 10,
+      "position": 9,
+      "templates": [],
+      "time": 0,
+      "title": "Turning point 5"
+    },
+    {
+      "bookId": 1,
+      "id": 9,
+      "position": 8,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 5"
+    },
+    {
+      "bookId": 1,
+      "id": 8,
+      "position": 7,
+      "templates": [],
+      "time": 0,
+      "title": "Turning point 4"
+    },
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 4"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "Turning point 3"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 3"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "Turning point 2"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 2"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "Turning point 1"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Stage 1"
     }
   ],
   "characters": [],
@@ -123,82 +294,43 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/Michael_Hauge_six_stage.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/Michael_Hauge_six_stage.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "",
+    "name": "Michael Hauge Six Stage",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 10,
-      "position": 10,
-      "title": "Stage 6"
-    },
-    {
-      "id": 9,
-      "position": 9,
-      "title": "Turning point 5"
-    },
-    {
-      "id": 8,
-      "position": 8,
-      "title": "Stage 5"
-    },
-    {
-      "id": 7,
-      "position": 7,
-      "title": "Turning point 4"
-    },
-    {
-      "id": 6,
-      "position": 6,
-      "title": "Stage 4"
-    },
-    {
-      "id": 5,
-      "position": 5,
-      "title": "Turning point 3"
-    },
-    {
-      "id": 4,
-      "position": 4,
-      "title": "Stage 3"
-    },
-    {
-      "id": 3,
-      "position": 3,
-      "title": "Turning point 2"
-    },
-    {
-      "id": 2,
-      "position": 2,
-      "title": "Stage 2"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
-      "position": 1,
-      "title": "Turning point 1"
-    },
-    {
-      "id": 0,
       "position": 0,
-      "title": "Stage 1"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "Michael_Hauge_six_stage",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
+    "currentTimeline": 1,
     "currentView": "timeline",
     "darkMode": false,
     "noteFilter": null,

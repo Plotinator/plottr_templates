@@ -1,5 +1,78 @@
 {
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "7 Point Plot Structure"
+    },
+    "allIds": [
+      1
+    ]
+  },
   "cards": [],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "Resolution"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "Plot Turn 2"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "Pinch 2"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "Midpoint"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "Pinch 1"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "Plot Turn 1"
+    },
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "Hook"
+    }
+  ],
   "characters": [],
   "customAttributes": {
     "cards": [],
@@ -12,63 +85,44 @@
   },
   "file": {
     "dirty": true,
-    "fileName": "/Users/sparrowhawk/github/plottr_templates/7_point_plot_structure.pltr",
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/7_point_plot_structure.pltr",
     "loaded": true,
-    "version": "2020.2.6"
+    "version": "2020.3.20"
   },
+  "images": {},
   "lines": [
     {
+      "bookId": 1,
+      "characterId": null,
       "color": "#6cace4",
-      "id": 0,
+      "id": 1,
       "position": 0,
       "title": "Main Plot"
     }
   ],
   "notes": [],
   "places": [],
-  "scenes": [
+  "series": {
+    "genre": "",
+    "name": "7 Point Plot Structure",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
     {
-      "id": 6,
-      "position": 6,
-      "title": "Resolution"
-    },
-    {
-      "id": 5,
-      "position": 5,
-      "title": "Plot Turn 2"
-    },
-    {
-      "id": 4,
-      "position": 4,
-      "title": "Pinch 2"
-    },
-    {
-      "id": 3,
-      "position": 3,
-      "title": "Midpoint"
-    },
-    {
-      "id": 2,
-      "position": 2,
-      "title": "Pinch 1"
-    },
-    {
+      "color": "#6cace4",
       "id": 1,
-      "position": 1,
-      "title": "Plot Turn 1"
-    },
-    {
-      "id": 0,
       "position": 0,
-      "title": "Hook"
+      "title": "Main Plot"
     }
   ],
-  "storyName": "7 Point Plot Structure",
   "tags": [],
   "ui": {
     "characterFilter": null,
     "characterSort": "name~asc",
-    "currentView": "timeline",
+    "currentTimeline": 1,
+    "currentView": "story",
     "darkMode": false,
     "noteFilter": null,
     "noteSort": "title",
