@@ -2,7 +2,7 @@
   "id": "pl10",
   "type": "plotlines",
   "name": "Hero's Journey",
-  "description": "A classic story structure that's shared by stories worldwide.<br/>This version is defined by Christopher Vogler",
+  "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
   "version": "2020.3.26",
   "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
   "templateData": {
