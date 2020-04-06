@@ -1,0 +1,17 @@
+{
+  "id": "ch4",
+  "type": "characters",
+  "name": "Cognitive Distortions",
+  "description": "Ways that our mind sees things that aren't: psychcentral.com/lib/15-common-cognitive-distortions/",
+  "version": "2020.4.6",
+  "attributes": [
+    {
+      "name": "Distortion",
+      "type": "text"
+    },
+    {
+      "name": "Description",
+      "type": "paragraph"
+    }
+  ]
+}

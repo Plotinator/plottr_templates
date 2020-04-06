@@ -1,0 +1,21 @@
+{
+  "id": "ch2",
+  "type": "characters",
+  "name": "Enneagram",
+  "description": "Personality types: www.enneagraminstitute.com/type-descriptions",
+  "version": "2020.4.6",
+  "attributes": [
+    {
+      "name": "Type",
+      "type": "text"
+    },
+    {
+      "name": "Core Desire",
+      "type": "text"
+    },
+    {
+      "name": "Core Fear",
+      "type": "text"
+    }
+  ]
+}

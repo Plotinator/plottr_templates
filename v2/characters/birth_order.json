@@ -1,0 +1,17 @@
+{
+  "id": "ch3",
+  "type": "characters",
+  "name": "Birth Order",
+  "description": "Birth Order character traits www.parents.com/baby/development/social/birth-order-and-personality/",
+  "version": "2020.4.6",
+  "attributes": [
+    {
+      "name": "Birth Order",
+      "type": "text"
+    },
+    {
+      "name": "Description",
+      "type": "paragraph"
+    }
+  ]
+}

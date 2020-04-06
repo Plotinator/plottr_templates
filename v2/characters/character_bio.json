@@ -1,0 +1,73 @@
+{
+  "id": "ch5",
+  "type": "characters",
+  "name": "Character Bio",
+  "description": "Useful character info",
+  "version": "2020.4.6",
+  "attributes": [
+    {
+      "name": "Nickname",
+      "type": "text"
+    },
+    {
+      "name": "Eye Color",
+      "type": "text"
+    },
+    {
+      "name": "Hair Color",
+      "type": "text"
+    },
+    {
+      "name": "Skin Color",
+      "type": "text"
+    },
+    {
+      "name": "Height",
+      "type": "text"
+    },
+    {
+      "name": "Weight",
+      "type": "text"
+    },
+    {
+      "name": "Religion",
+      "type": "text"
+    },
+    {
+      "name": "City of Birth",
+      "type": "text"
+    },
+    {
+      "name": "Education",
+      "type": "text"
+    },
+    {
+      "name": "Job Title",
+      "type": "text"
+    },
+    {
+      "name": "Role",
+      "type": "paragraph"
+    },
+    {
+      "name": "Bad Habits",
+      "type": "paragraph"
+    },
+    {
+      "name": "Good Habits",
+      "type": "paragraph"
+    },
+    {
+      "name": "Good Habits",
+      "type": "paragraph"
+    },
+    {
+      "name": "Life Goals",
+      "type": "paragraph"
+    },
+    {
+      "name": "Fears",
+      "type": "paragraph"
+    }
+  ]
+}

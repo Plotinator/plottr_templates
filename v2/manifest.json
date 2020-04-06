@@ -1,10 +1,30 @@
 {
-  "version": "2020.3.26",
+  "version": "2020.4.6",
   "templates": [
     {
       "id": "ch1",
       "version": "2020.3.4",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/gmc.json"
+    },
+    {
+      "id": "ch2",
+      "version": "2020.4.6",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/enneagram.json"
+    },
+    {
+      "id": "ch3",
+      "version": "2020.4.6",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/birth_order.json"
+    },
+    {
+      "id": "ch4",
+      "version": "2020.4.6",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/cognitive_distortions.json"
+    },
+    {
+      "id": "ch5",
+      "version": "2020.4.6",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/character_bio.json"
     },
     {
       "id": "pl1",
