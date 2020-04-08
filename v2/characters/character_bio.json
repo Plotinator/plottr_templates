@@ -3,7 +3,7 @@
   "type": "characters",
   "name": "Character Bio",
   "description": "Useful character info",
-  "version": "2020.4.6",
+  "version": "2020.4.8",
   "attributes": [
     {
       "name": "Nickname",
@@ -51,10 +51,6 @@
     },
     {
       "name": "Bad Habits",
-      "type": "paragraph"
-    },
-    {
-      "name": "Good Habits",
       "type": "paragraph"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "version": "2020.4.6",
+  "version": "2020.4.8",
   "templates": [
     {
       "id": "ch1",
@@ -23,7 +23,7 @@
     },
     {
       "id": "ch5",
-      "version": "2020.4.6",
+      "version": "2020.4.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/character_bio.json"
     },
     {
