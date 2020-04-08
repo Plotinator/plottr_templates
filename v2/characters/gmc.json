@@ -3,30 +3,30 @@
   "type": "characters",
   "name": "Goal, Motivation, Conflict",
   "description": "Each character should have one internally and externally",
-  "version": "2020.3.4",
+  "version": "2020.4.8",
   "attributes": [
     {
-      "name": "Goal — internal",
+      "name": "Internal Goal",
       "type": "text"
     },
     {
-      "name": "Motivation — internal",
+      "name": "Internal Motivation",
       "type": "text"
     },
     {
-      "name": "Conflict — internal",
+      "name": "Internal Conflict",
       "type": "text"
     },
     {
-      "name": "Goal — external",
+      "name": "External Goal",
       "type": "text"
     },
     {
-      "name": "Motivation — external",
+      "name": "External Motivation",
       "type": "text"
     },
     {
-      "name": "Conflict — external",
+      "name": "External Conflict",
       "type": "text"
     }
   ]
