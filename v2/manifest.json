@@ -1,5 +1,5 @@
 {
-  "version": "2020.4.8",
+  "version": "2020.4.14",
   "templates": [
     {
       "id": "ch1",
@@ -25,6 +25,11 @@
       "id": "ch5",
       "version": "2020.4.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/character_bio.json"
+    },
+    {
+      "id": "ch6",
+      "version": "2020.4.14",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/myers-briggs.json"
     },
     {
       "id": "pl1",

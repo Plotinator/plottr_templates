@@ -1,0 +1,18 @@
+{
+  "id": "ch6",
+  "type": "characters",
+  "name": "Myers-Briggs Type Indicator",
+  "description": "Type of personality based on the Myers-Briggs test",
+  "link": "www.myersbriggs.org/my-mbti-personality-type/mbti-basics/",
+  "version": "2020.4.14",
+  "attributes": [
+    {
+      "name": "Type",
+      "type": "text"
+    },
+    {
+      "name": "Description",
+      "type": "paragraph"
+    }
+  ]
+}
