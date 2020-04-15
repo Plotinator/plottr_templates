@@ -3,10 +3,22 @@
   "type": "characters",
   "name": "Character Bio",
   "description": "Useful character info",
-  "version": "2020.4.8",
+  "version": "2020.4.14",
   "attributes": [
     {
       "name": "Nickname",
+      "type": "text"
+    },
+    {
+      "name": "Age",
+      "type": "text"
+    },
+    {
+      "name": "Gender",
+      "type": "text"
+    },
+    {
+      "name": "Race",
       "type": "text"
     },
     {
@@ -44,10 +56,6 @@
     {
       "name": "Job Title",
       "type": "text"
-    },
-    {
-      "name": "Role",
-      "type": "paragraph"
     },
     {
       "name": "Bad Habits",
