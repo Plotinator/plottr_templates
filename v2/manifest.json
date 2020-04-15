@@ -1,5 +1,5 @@
 {
-  "version": "2020.4.14",
+  "version": "2020.4.15",
   "templates": [
     {
       "id": "ch1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "pl6",
-      "version": "2020.3.24",
+      "version": "2020.4.15",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/save_the_cat.json"
     },
     {
