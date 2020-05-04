@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Billy Mernit Romance Seven Beats",
   "description": "A romance plot structure by Billy Mernit",
-  "version": "2020.3.23",
+  "version": "2020.5.3",
   "link": "http://www.billymernit.com/screenwriting.html",
   "templateData": {
     "cards": [
@@ -12,7 +12,15 @@
         "bookId": null,
         "chapterId": 7,
         "characters": [],
-        "description": "A reconciliation that reaffirms the primal importance of the relationship; usually a happy ending that implies marriage or a serious commitment, often at the cost of some personal sacrifice to the protagonist (116).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A reconciliation that reaffirms the primal importance of the relationship; usually a happy ending that implies marriage or a serious commitment, often at the cost of some personal sacrifice to the protagonist (116)."
+              }
+            ]
+          }
+        ],
         "id": 7,
         "imageId": null,
         "lineId": 1,
@@ -28,7 +36,15 @@
         "bookId": null,
         "chapterId": 6,
         "characters": [],
-        "description": "Wherein the consequences of the swivel decision yield disaster; generally, the humaliating scene where private motivations are revealed, and either the relationship and/or the protagonist’s goal is seemingly lost forever (115).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Wherein the consequences of the swivel decision yield disaster; generally, the humiliating scene where private motivations are revealed, and either the relationship and/or the protagonist’s goal is seemingly lost forever (115)."
+              }
+            ]
+          }
+        ],
         "id": 6,
         "imageId": null,
         "lineId": 1,
@@ -44,7 +60,15 @@
         "bookId": null,
         "chapterId": 5,
         "characters": [],
-        "description": "Traditionally occurring at the end of Act 2, stakes reach their highest point as the romantic relationship’s importance jeopardizes the protagonist’s chance to succeed at his/her state goal—or vice versa—and his/her goal shifts. (115)",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Traditionally occurring at the end of Act 2, stakes reach their highest point as the romantic relationship’s importance jeopardizes the protagonist’s chance to succeed at his/her state goal—or vice versa—and his/her goal shifts. (115)"
+              }
+            ]
+          }
+        ],
         "id": 5,
         "imageId": null,
         "lineId": 1,
@@ -60,7 +84,15 @@
         "bookId": null,
         "chapterId": 4,
         "characters": [],
-        "description": "A situation that irrevocably binds the protagonist with the antagonist (often while tweaking sexual tensions) and has further implications for the outcome of the relationship (113).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A situation that irrevocably binds the protagonist with the antagonist (often while tweaking sexual tensions) and has further implications for the outcome of the relationship (113)."
+              }
+            ]
+          }
+        ],
         "id": 4,
         "imageId": null,
         "lineId": 1,
@@ -76,7 +108,15 @@
         "bookId": null,
         "chapterId": 3,
         "characters": [],
-        "description": "Traditionally occurring at the end of Act 1, a new development that raises story stakes and clearly defines the protagonist’s goal; most successful when it sets man and woman at cross-purposes and/or their inner emotions at odds with the goal (112).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Traditionally occurring at the end of Act 1, a new development that raises story stakes and clearly defines the protagonist’s goal; most successful when it sets man and woman at cross-purposes and/or their inner emotions at odds with the goal (112)."
+              }
+            ]
+          }
+        ],
         "id": 3,
         "imageId": null,
         "lineId": 1,
@@ -92,7 +132,15 @@
         "bookId": null,
         "chapterId": 2,
         "characters": [],
-        "description": "The inciting incident brings man and woman together and into conflict; an inventive but credible contrivance, often amusing, which in some way sets the tone for the action to come (111).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The inciting incident brings man and woman together and into conflict; an inventive but credible contrivance, often amusing, which in some way sets the tone for the action to come (111)."
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -108,7 +156,15 @@
         "bookId": null,
         "chapterId": 1,
         "characters": [],
-        "description": "A scene or sequence identifying the exterior and/or interior conflict (i.e., unfulfilled desire), the “what’s wrong with this picture” implied in the protagonist’s (and/or antagonist’s) current status quo (Mernit, 110).",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A scene or sequence identifying the exterior and/or interior conflict (i.e., unfulfilled desire), the “what’s wrong with this picture” implied in the protagonist’s (and/or antagonist’s) current status quo (Mernit, 110)."
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,
@@ -182,7 +238,15 @@
       {
         "bookIds": [],
         "characters": [],
-        "content": "Writing Romantic Comedy by Billy Mernit",
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Writing Romantic Comedy by Billy Mernit"
+              }
+            ]
+          }
+        ],
         "id": 0,
         "imageId": null,
         "lastEdited": 1511978322178,

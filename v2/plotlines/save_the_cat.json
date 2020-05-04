@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Save the Cat by Blake Snyder",
   "description": "A story structure for scripts and novels by Blake Snyder",
-  "version": "2020.4.15",
+  "version": "2020.5.3",
   "link": "https://savethecat.com/",
   "templateData": {
     "lines": [
@@ -30,7 +30,15 @@
         "bookId": null,
         "chapterId": 15,
         "characters": [],
-        "description": "The main character hits bottom, and wallows in hopelessness. The Why hast thou forsaken me, Lord? moment. Mourning the loss of what has “died” – the dream, the goal, the mentor character, the love of your life, etc. But, you must fall completely before you can pick yourself back up and try again.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The main character hits bottom, and wallows in hopelessness. The Why hast thou forsaken me, Lord? moment. Mourning the loss of what has “died” – the dream, the goal, the mentor character, the love of your life, etc. But, you must fall completely before you can pick yourself back up and try again."
+              }
+            ]
+          }
+        ],
         "id": 12,
         "imageId": null,
         "lineId": 1,
@@ -46,7 +54,15 @@
         "bookId": null,
         "chapterId": 14,
         "characters": [],
-        "description": "opposite of Opening Image, proving, visually, that a change has occurred within the character.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Opposite of Opening Image, proving, visually, that a change has occurred within the character."
+              }
+            ]
+          }
+        ],
         "id": 15,
         "imageId": null,
         "lineId": 1,
@@ -62,7 +78,15 @@
         "bookId": null,
         "chapterId": 13,
         "characters": [],
-        "description": "This time around, the main character incorporates the Theme – the nugget of truth that now makes sense to them – into their fight for the goal because they have experience from the A Story and context from the B Story. Act Three is about Synthesis!",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "This time around, the main character incorporates the Theme – the nugget of truth that now makes sense to them – into their fight for the goal because they have experience from the A Story and context from the B Story. Act Three is about Synthesis!"
+              }
+            ]
+          }
+        ],
         "id": 14,
         "imageId": null,
         "lineId": 1,
@@ -78,7 +102,15 @@
         "bookId": null,
         "chapterId": 12,
         "characters": [],
-        "description": "Thanks to a fresh idea, new inspiration, or last-minute Thematic advice from the B Story (usually the love interest), the main character chooses to try again.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Thanks to a fresh idea, new inspiration, or last-minute Thematic advice from the B Story (usually the love interest), the main character chooses to try again."
+              }
+            ]
+          }
+        ],
         "id": 13,
         "imageId": null,
         "lineId": 1,
@@ -94,7 +126,15 @@
         "bookId": null,
         "chapterId": 11,
         "characters": [],
-        "description": "The opposite moment from the Midpoint: “awful”/“great”. The moment that the main character realizes they’ve lost everything they gained, or everything they now have has no meaning. The initial goal now looks even more impossible than before. And here, something or someone dies. It can be physical or emotional, but the death of something old makes way for something new to be born.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The opposite moment from the Midpoint: “awful”/“great”. The moment that the main character realizes they’ve lost everything they gained, or everything they now have has no meaning. The initial goal now looks even more impossible than before. And here, something or someone dies. It can be physical or emotional, but the death of something old makes way for something new to be born."
+              }
+            ]
+          }
+        ],
         "id": 11,
         "imageId": null,
         "lineId": 1,
@@ -110,7 +150,15 @@
         "bookId": null,
         "chapterId": 10,
         "characters": [],
-        "description": "Doubt, jealousy, fear, foes both physical and emotional regroup to defeat the main character’s goal, and the main character’s “great”/“awful” situation disintegrates.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Doubt, jealousy, fear, foes both physical and emotional regroup to defeat the main character’s goal, and the main character’s “great”/“awful” situation disintegrates."
+              }
+            ]
+          }
+        ],
         "id": 10,
         "imageId": null,
         "lineId": 1,
@@ -126,7 +174,15 @@
         "bookId": null,
         "chapterId": 9,
         "characters": [],
-        "description": "Dependent upon the story, this moment is when everything is “great” or everything is “awful”. The main character either gets everything they think they want (“great”) or doesn’t get what they think they want at all (“awful”). But not everything we think we want is what we actually need in the end.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Dependent upon the story, this moment is when everything is “great” or everything is “awful”. The main character either gets everything they think they want (“great”) or doesn’t get what they think they want at all (“awful”). But not everything we think we want is what we actually need in the end."
+              }
+            ]
+          }
+        ],
         "id": 9,
         "imageId": null,
         "lineId": 1,
@@ -142,7 +198,15 @@
         "bookId": null,
         "chapterId": 8,
         "characters": [],
-        "description": "This is when Craig Thompson’s relationship with Raina blooms, when Indiana Jones tries to beat the Nazis to the Lost Ark, when the detective finds the most clues and dodges the most bullets. This is when the main character explores the new world and the audience is entertained by the premise they have been promised.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "This is when Craig Thompson’s relationship with Raina blooms, when Indiana Jones tries to beat the Nazis to the Lost Ark, when the detective finds the most clues and dodges the most bullets. This is when the main character explores the new world and the audience is entertained by the premise they have been promised."
+              }
+            ]
+          }
+        ],
         "id": 8,
         "imageId": null,
         "lineId": 1,
@@ -158,7 +222,15 @@
         "bookId": null,
         "chapterId": 7,
         "characters": [],
-        "description": "This is when there’s a discussion about the Theme – the nugget of truth. Usually, this discussion is between the main character and the love interest. So, the B Story is usually called the “love story”.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "This is when there’s a discussion about the Theme – the nugget of truth. Usually, this discussion is between the main character and the love interest. So, the B Story is usually called the “love story”."
+              }
+            ]
+          }
+        ],
         "id": 7,
         "imageId": null,
         "lineId": 2,
@@ -174,7 +246,15 @@
         "bookId": null,
         "chapterId": 6,
         "characters": [],
-        "description": "The main character makes a choice and the journey begins. We leave the “Thesis” world and enter the upside-down, opposite world of Act Two.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The main character makes a choice and the journey begins. We leave the “Thesis” world and enter the upside-down, opposite world of Act Two."
+              }
+            ]
+          }
+        ],
         "id": 6,
         "imageId": null,
         "lineId": 1,
@@ -190,7 +270,15 @@
         "bookId": null,
         "chapterId": 5,
         "characters": [],
-        "description": "But change is scary and for a moment, or a brief number of moments, the main character doubts the journey they must take. Can I face this challenge? Do I have what it takes? Should I go at all? It is the last chance for the hero to chicken out.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "But change is scary and for a moment, or a brief number of moments, the main character doubts the journey they must take. Can I face this challenge? Do I have what it takes? Should I go at all? It is the last chance for the hero to chicken out."
+              }
+            ]
+          }
+        ],
         "id": 5,
         "imageId": null,
         "lineId": 1,
@@ -206,7 +294,15 @@
         "bookId": null,
         "chapterId": 4,
         "characters": [],
-        "description": "The moment where life as it is changes. It is the telegram, the act of catching your loved-one cheating, allowing a monster onboard the ship, meeting the true love of your life, etc. The “before” world is no more, change is underway.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The moment where life as it is changes. It is the telegram, the act of catching your loved-one cheating, allowing a monster onboard the ship, meeting the true love of your life, etc. The “before” world is no more, change is underway."
+              }
+            ]
+          }
+        ],
         "id": 4,
         "imageId": null,
         "lineId": 1,
@@ -222,7 +318,15 @@
         "bookId": null,
         "chapterId": 3,
         "characters": [],
-        "description": "(happens during the Set-up) – What your story is about; the message, the truth. Usually, it is spoken to the main character or in their presence, but they don’t understand the truth…not until they have some personal experience and context to support it.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "(happens during the Set-up) – What your story is about; the message, the truth. Usually, it is spoken to the main character or in their presence, but they don’t understand the truth…not until they have some personal experience and context to support it."
+              }
+            ]
+          }
+        ],
         "id": 3,
         "imageId": null,
         "lineId": 1,
@@ -238,7 +342,15 @@
         "bookId": null,
         "chapterId": 2,
         "characters": [],
-        "description": "Expand on the “before” snapshot. Present the main character’s world as it is, and what is missing in their life.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Expand on the “before” snapshot. Present the main character’s world as it is, and what is missing in their life."
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -254,7 +366,15 @@
         "bookId": null,
         "chapterId": 1,
         "characters": [],
-        "description": "A visual that represents the struggle & tone of the story. A snapshot of the main character’s problem, before the adventure begins.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A visual that represents the struggle & tone of the story. A snapshot of the main character’s problem, before the adventure begins."
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,

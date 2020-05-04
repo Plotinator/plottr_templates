@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Dan Harmon's Story Circle",
   "description": "A story structure by Dan Harmon",
-  "version": "2020.3.24",
+  "version": "2020.5.3",
   "templateData": {
     "cards": [
       {
@@ -11,7 +11,15 @@
         "bookId": null,
         "chapterId": 8,
         "characters": [],
-        "description": "now capable of change",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "now capable of change"
+              }
+            ]
+          }
+        ],
         "id": 8,
         "imageId": null,
         "lineId": 1,
@@ -27,7 +35,15 @@
         "bookId": null,
         "chapterId": 7,
         "characters": [],
-        "description": "and go back to where they started",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "and go back to where they started"
+              }
+            ]
+          }
+        ],
         "id": 7,
         "imageId": null,
         "lineId": 1,
@@ -43,7 +59,15 @@
         "bookId": null,
         "chapterId": 6,
         "characters": [],
-        "description": "pay its price",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "pay its price"
+              }
+            ]
+          }
+        ],
         "id": 6,
         "imageId": null,
         "lineId": 1,
@@ -59,7 +83,15 @@
         "bookId": null,
         "chapterId": 5,
         "characters": [],
-        "description": "find what they wanted",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "find what they wanted"
+              }
+            ]
+          }
+        ],
         "id": 5,
         "imageId": null,
         "lineId": 1,
@@ -75,7 +107,15 @@
         "bookId": null,
         "chapterId": 4,
         "characters": [],
-        "description": "adapt to it",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "adapt to it"
+              }
+            ]
+          }
+        ],
         "id": 4,
         "imageId": null,
         "lineId": 1,
@@ -91,7 +131,15 @@
         "bookId": null,
         "chapterId": 3,
         "characters": [],
-        "description": "they enter an unfamiliar situation",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "they enter an unfamiliar situation"
+              }
+            ]
+          }
+        ],
         "id": 3,
         "imageId": null,
         "lineId": 1,
@@ -107,7 +155,15 @@
         "bookId": null,
         "chapterId": 2,
         "characters": [],
-        "description": "but they want something",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "but they want something"
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -123,7 +179,15 @@
         "bookId": null,
         "chapterId": 1,
         "characters": [],
-        "description": "A character is in a zone of comfort",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A character is in a zone of comfort"
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,

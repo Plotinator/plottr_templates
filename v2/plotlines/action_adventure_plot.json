@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "A template for an action or adventure story",
-  "version": "2020.3.24",
+  "version": "2020.5.3",
   "templateData": {
     "cards": [
       {
@@ -11,7 +11,15 @@
         "bookId": null,
         "chapterId": 18,
         "characters": [],
-        "description": "",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
         "id": 18,
         "imageId": null,
         "lineId": 1,
@@ -27,7 +35,15 @@
         "bookId": null,
         "chapterId": 17,
         "characters": [],
-        "description": "",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
         "id": 17,
         "imageId": null,
         "lineId": 1,
@@ -43,7 +59,15 @@
         "bookId": null,
         "chapterId": 16,
         "characters": [],
-        "description": "Hero battles villain",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
         "id": 16,
         "imageId": null,
         "lineId": 1,
@@ -59,7 +83,15 @@
         "bookId": null,
         "chapterId": 15,
         "characters": [],
-        "description": "Hero battles villain",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero battles villain"
+              }
+            ]
+          }
+        ],
         "id": 15,
         "imageId": null,
         "lineId": 1,
@@ -75,7 +107,15 @@
         "bookId": null,
         "chapterId": 14,
         "characters": [],
-        "description": "Hero battles loyal henchman.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero battles loyal henchman."
+              }
+            ]
+          }
+        ],
         "id": 14,
         "imageId": null,
         "lineId": 1,
@@ -91,7 +131,15 @@
         "bookId": null,
         "chapterId": 13,
         "characters": [],
-        "description": "Hero attains goal",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero attains goal"
+              }
+            ]
+          }
+        ],
         "id": 13,
         "imageId": null,
         "lineId": 1,
@@ -107,7 +155,15 @@
         "bookId": null,
         "chapterId": 12,
         "characters": [],
-        "description": "Hero narrowly escapes the clutches of doom.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero narrowly escapes the clutches of doom."
+              }
+            ]
+          }
+        ],
         "id": 12,
         "imageId": null,
         "lineId": 1,
@@ -123,7 +179,15 @@
         "bookId": null,
         "chapterId": 11,
         "characters": [],
-        "description": "Hero is captured and threatened with certain doom.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero is captured and threatened with certain doom."
+              }
+            ]
+          }
+        ],
         "id": 11,
         "imageId": null,
         "lineId": 1,
@@ -139,7 +203,15 @@
         "bookId": null,
         "chapterId": 10,
         "characters": [],
-        "description": "Hero infiltrates villain's highly secure fortress.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero infiltrates villain's highly secure fortress."
+              }
+            ]
+          }
+        ],
         "id": 10,
         "imageId": null,
         "lineId": 1,
@@ -155,7 +227,15 @@
         "bookId": null,
         "chapterId": 9,
         "characters": [],
-        "description": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight."
+              }
+            ]
+          }
+        ],
         "id": 9,
         "imageId": null,
         "lineId": 1,
@@ -171,7 +251,15 @@
         "bookId": null,
         "chapterId": 8,
         "characters": [],
-        "description": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission."
+              }
+            ]
+          }
+        ],
         "id": 8,
         "imageId": null,
         "lineId": 1,
@@ -187,7 +275,15 @@
         "bookId": null,
         "chapterId": 7,
         "characters": [],
-        "description": "An extended chase scenario occurs.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "An extended chase scenario occurs."
+              }
+            ]
+          }
+        ],
         "id": 7,
         "imageId": null,
         "lineId": 1,
@@ -203,7 +299,15 @@
         "bookId": null,
         "chapterId": 6,
         "characters": [],
-        "description": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information."
+              }
+            ]
+          }
+        ],
         "id": 6,
         "imageId": null,
         "lineId": 1,
@@ -219,7 +323,15 @@
         "bookId": null,
         "chapterId": 5,
         "characters": [],
-        "description": "Hero encounters the damsel and some type of relationship begins.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero encounters the damsel and some type of relationship begins."
+              }
+            ]
+          }
+        ],
         "id": 5,
         "imageId": null,
         "lineId": 1,
@@ -235,7 +347,15 @@
         "bookId": null,
         "chapterId": 4,
         "characters": [],
-        "description": "Hero travels to an exotic and interesting location.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero travels to an exotic and interesting location."
+              }
+            ]
+          }
+        ],
         "id": 4,
         "imageId": null,
         "lineId": 1,
@@ -251,7 +371,15 @@
         "bookId": null,
         "chapterId": 3,
         "characters": [],
-        "description": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses."
+              }
+            ]
+          }
+        ],
         "id": 3,
         "imageId": null,
         "lineId": 1,
@@ -267,7 +395,15 @@
         "bookId": null,
         "chapterId": 2,
         "characters": [],
-        "description": "Hero receives a mission or encounters a problem that needs to be solved.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero receives a mission or encounters a problem that needs to be solved."
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -283,7 +419,15 @@
         "bookId": null,
         "chapterId": 1,
         "characters": [],
-        "description": "Hero's circumstance is revealed.",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero's circumstance is revealed."
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,

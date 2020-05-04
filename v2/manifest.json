@@ -1,5 +1,5 @@
 {
-  "version": "2020.4.15",
+  "version": "2020.5.3",
   "templates": [
     {
       "id": "ch1",
@@ -38,42 +38,42 @@
     },
     {
       "id": "pl2",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/8_sequences_method.json"
     },
     {
       "id": "pl3",
-      "version": "2020.3.26",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
       "id": "pl4",
-      "version": "2020.3.24",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/action_adventure_plot.json"
     },
     {
       "id": "pl5",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/Billy_Mernit_romance_seven_beats.json"
     },
     {
       "id": "pl6",
-      "version": "2020.4.15",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/save_the_cat.json"
     },
     {
       "id": "pl7",
-      "version": "2020.3.24",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/story_circle.json"
     },
     {
       "id": "pl8",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/jamigold_romance.json"
     },
     {
       "id": "pl9",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/take_off_pants.json"
     },
     {
@@ -83,17 +83,17 @@
     },
     {
       "id": "pl11",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/six_stage.json"
     },
     {
       "id": "pl12",
-      "version": "2020.3.24",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/shonen.json"
     },
     {
       "id": "pl13",
-      "version": "2020.3.23",
+      "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/victor_pineiro.json"
     },
     {

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Michael Hauge Six Stage",
   "description": "A story structure by Michael Hauge",
-  "version": "2020.3.23",
+  "version": "2020.5.3",
   "link": "https://www.storymastery.com/story/screenplay-structure-five-key-turning-points-successful-scripts/",
   "templateData": {
     "cards": [
@@ -12,7 +12,24 @@
         "bookId": null,
         "chapterId": 11,
         "characters": [],
-        "description": "The character is now transformed and the reader gets a glimpse of their new post-journey life.\n\nIn a romance, the characters are together and happy for the foreseeable future. This is the “Happily Ever After” (or at least a “Happily For Now”) ending",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character is now transformed and the reader gets a glimpse of their new post-journey life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the characters are together and happy for the foreseeable future. This is the “Happily Ever After” (or at least a “Happily For Now”) ending"
+              }
+            ]
+          }
+        ],
         "id": 11,
         "imageId": null,
         "lineId": 1,
@@ -28,7 +45,24 @@
         "bookId": null,
         "chapterId": 10,
         "characters": [],
-        "description": "The character must face their fear one final time. The character’s wound, false belief, and/or fear should make another appearance here.\n\nIn a romance, the fear should threaten the relationship.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character must face their fear one final time. The character’s wound, false belief, and/or fear should make another appearance here."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the fear should threaten the relationship."
+              }
+            ]
+          }
+        ],
         "id": 10,
         "imageId": null,
         "lineId": 1,
@@ -44,7 +78,24 @@
         "bookId": null,
         "chapterId": 9,
         "characters": [],
-        "description": "The character returns to their essence, which lets them “earn” their success.\n\nIn a romance, the characters try to figure out a way to make things work between them. They’ve accepted that they don’t want to live without this person anymore.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character returns to their essence, which lets them “earn” their success."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the characters try to figure out a way to make things work between them. They’ve accepted that they don’t want to live without this person anymore."
+              }
+            ]
+          }
+        ],
         "id": 9,
         "imageId": null,
         "lineId": 1,
@@ -60,7 +111,24 @@
         "bookId": null,
         "chapterId": 8,
         "characters": [],
-        "description": "An “all is lost” event occurs. This event can be result of the character getting scared and retreating, or it can cause the character to retreat. The character attempts to hide behind their mask again. Often a sidekick character will point out how they’re stuck.\n\nIn a romance, something happens to make it appear as though the characters can’t be together.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An “all is lost” event occurs. This event can be result of the character getting scared and retreating, or it can cause the character to retreat. The character attempts to hide behind their mask again. Often a sidekick character will point out how they’re stuck."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, something happens to make it appear as though the characters can’t be together."
+              }
+            ]
+          }
+        ],
         "id": 8,
         "imageId": null,
         "lineId": 1,
@@ -76,7 +144,24 @@
         "bookId": null,
         "chapterId": 7,
         "characters": [],
-        "description": "The character moves steadily toward living in their essence.\n\nIn a romance, the characters are getting along more than they were before.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character moves steadily toward living in their essence."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the characters are getting along more than they were before."
+              }
+            ]
+          }
+        ],
         "id": 7,
         "imageId": null,
         "lineId": 1,
@@ -92,7 +177,24 @@
         "bookId": null,
         "chapterId": 6,
         "characters": [],
-        "description": "The character must do something to show they’re committed to the goal, and they get a glimpse of what their life would be like if they lived in their essence. Even though the outside world is starting to close in, most of the character’s vacillation ends at this point.\n\nIn a romance, this might be the hero and heroine’s first kiss, first sex scene, or first declaration of love. Some visible action has to reveal their desire (goal) to the world.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character must do something to show they’re committed to the goal, and they get a glimpse of what their life would be like if they lived in their essence. Even though the outside world is starting to close in, most of the character’s vacillation ends at this point."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, this might be the hero and heroine’s first kiss, first sex scene, or first declaration of love. Some visible action has to reveal their desire (goal) to the world."
+              }
+            ]
+          }
+        ],
         "id": 6,
         "imageId": null,
         "lineId": 1,
@@ -108,7 +210,24 @@
         "bookId": null,
         "chapterId": 5,
         "characters": [],
-        "description": "As the character pursues their new goal, they get scared and retreat, so they waver between their identity and their essence.\n\nIn a romance, the characters will often “dance” around each other at this point. They vaguely know they want to be together, but they haven’t committed to the changes that would be required to make it happen.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As the character pursues their new goal, they get scared and retreat, so they waver between their identity and their essence."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the characters will often “dance” around each other at this point. They vaguely know they want to be together, but they haven’t committed to the changes that would be required to make it happen."
+              }
+            ]
+          }
+        ],
         "id": 5,
         "imageId": null,
         "lineId": 1,
@@ -124,7 +243,24 @@
         "bookId": null,
         "chapterId": 4,
         "characters": [],
-        "description": "An event occurs that creates a new desire with a specific (visible) goal and end point. A character’s external pursuit of the goal begins. The goal has to be something the character can’t fully achieve while living in their identity.\n\nIn a romance, the goal can be unrelated to the romance, but it should force the hero and heroine together.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An event occurs that creates a new desire with a specific (visible) goal and end point. A character’s external pursuit of the goal begins. The goal has to be something the character can’t fully achieve while living in their identity."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the goal can be unrelated to the romance, but it should force the hero and heroine together."
+              }
+            ]
+          }
+        ],
         "id": 4,
         "imageId": null,
         "lineId": 1,
@@ -140,7 +276,24 @@
         "bookId": null,
         "chapterId": 3,
         "characters": [],
-        "description": "The character attempts to adjust to their new situation.\n\nIn a romance, the hero and heroine react to their meeting.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character attempts to adjust to their new situation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the hero and heroine react to their meeting."
+              }
+            ]
+          }
+        ],
         "id": 3,
         "imageId": null,
         "lineId": 1,
@@ -156,7 +309,24 @@
         "bookId": null,
         "chapterId": 2,
         "characters": [],
-        "description": "An event occurs that creates desire in the character. This can be a glimpse of their longing or need. As Janice pointed out in her post, this is their first opportunity to face their fear and they run from it instead.\n\nIn a romance, this is typically when the hero and heroine first meet",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An event occurs that creates desire in the character. This can be a glimpse of their longing or need. As Janice pointed out in her post, this is their first opportunity to face their fear and they run from it instead."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, this is typically when the hero and heroine first meet"
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -172,7 +342,24 @@
         "bookId": null,
         "chapterId": 1,
         "characters": [],
-        "description": "The character is living fully in their identity. Their wound, false belief, and fears are holding them back. The purpose of this stage is to introduce the protagonist(s) and create empathy for them (victim, in jeopardy, likable, funny, highly skilled, etc.). Readers should see the character “stuck” in their life and/or identity.\n\nIn a romance, the hero and the heroine are often equal protagonists and might be introduced separately. Sometimes this stage will be cut short or doled out in backstory snippets to instead open with Turning Point One in order to have the hero and heroine meet earlier.",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The character is living fully in their identity. Their wound, false belief, and fears are holding them back. The purpose of this stage is to introduce the protagonist(s) and create empathy for them (victim, in jeopardy, likable, funny, highly skilled, etc.). Readers should see the character “stuck” in their life and/or identity."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance, the hero and the heroine are often equal protagonists and might be introduced separately. Sometimes this stage will be cut short or doled out in backstory snippets to instead open with Turning Point One in order to have the hero and heroine meet earlier."
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,

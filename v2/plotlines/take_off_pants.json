@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Take Off Your Pants",
   "description": "An outline for faster, better writing by Libbie Hawker",
-  "version": "2020.3.23",
+  "version": "2020.5.3",
   "link": "http://libbiehawker.com/blog/2015/4/19/man-you-guys-love-to-take-off-your-pants",
   "templateData": {
     "cards": [
@@ -12,7 +12,15 @@
         "bookId": null,
         "chapterId": 10,
         "characters": [],
-        "description": "Ally aids or gives advice that finally changes character",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Ally aids or gives advice that finally changes character"
+              }
+            ]
+          }
+        ],
         "id": 2,
         "imageId": null,
         "lineId": 1,
@@ -28,7 +36,45 @@
         "bookId": null,
         "chapterId": 9,
         "characters": [],
-        "description": "- Drive for new goal\n- Antagonist action\n- Thwarted  \n\n(several times)",
+        "description": [
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Drive for new goal"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Antagonist action"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Thwarted"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "(several times)"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
         "id": 1,
         "imageId": null,
         "lineId": 1,
