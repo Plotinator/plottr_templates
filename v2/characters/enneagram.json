@@ -2,8 +2,9 @@
   "id": "ch2",
   "type": "characters",
   "name": "Enneagram",
-  "description": "Personality types: www.enneagraminstitute.com/type-descriptions",
-  "version": "2020.4.6",
+  "description": "Personality types",
+  "link": "https://www.enneagraminstitute.com/type-descriptions",
+  "version": "2020.5.27",
   "attributes": [
     {
       "name": "Type",

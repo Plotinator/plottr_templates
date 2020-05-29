@@ -1,5 +1,5 @@
 {
-  "version": "2020.5.3",
+  "version": "2020.5.27",
   "templates": [
     {
       "id": "ch1",
@@ -8,17 +8,17 @@
     },
     {
       "id": "ch2",
-      "version": "2020.4.6",
+      "version": "2020.5.27",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/enneagram.json"
     },
     {
       "id": "ch3",
-      "version": "2020.4.6",
+      "version": "2020.5.27",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/birth_order.json"
     },
     {
       "id": "ch4",
-      "version": "2020.4.6",
+      "version": "2020.5.27",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/cognitive_distortions.json"
     },
     {

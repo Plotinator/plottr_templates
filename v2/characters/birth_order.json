@@ -2,8 +2,9 @@
   "id": "ch3",
   "type": "characters",
   "name": "Birth Order",
-  "description": "Birth Order character traits www.parents.com/baby/development/social/birth-order-and-personality/",
-  "version": "2020.4.6",
+  "description": "Birth Order character traits",
+  "link": "https://www.parents.com/baby/development/social/birth-order-and-personality/",
+  "version": "2020.5.27",
   "attributes": [
     {
       "name": "Birth Order",
