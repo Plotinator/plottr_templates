@@ -1,5 +1,5 @@
 {
-  "version": "2020.5.27",
+  "version": "2020.6.8",
   "templates": [
     {
       "id": "ch1",
@@ -97,9 +97,14 @@
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/victor_pineiro.json"
     },
     {
-      "id": "pl13",
+      "id": "pl14",
       "version": "2020.3.23",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/w_plot.json"
+    },
+    {
+      "id": "pl15",
+      "version": "2020.6.8",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/romancing_beat.json"
     }
   ]
 }
