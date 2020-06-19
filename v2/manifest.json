@@ -1,5 +1,5 @@
 {
-  "version": "2020.6.8",
+  "version": "2020.6.19",
   "templates": [
     {
       "id": "ch1",
@@ -55,11 +55,6 @@
       "id": "pl5",
       "version": "2020.5.3",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/Billy_Mernit_romance_seven_beats.json"
-    },
-    {
-      "id": "pl6",
-      "version": "2020.5.3",
-      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/save_the_cat.json"
     },
     {
       "id": "pl7",
