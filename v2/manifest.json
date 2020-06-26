@@ -1,5 +1,5 @@
 {
-  "version": "2020.6.19",
+  "version": "2020.6.26",
   "templates": [
     {
       "id": "ch1",
@@ -100,6 +100,11 @@
       "id": "pl15",
       "version": "2020.6.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/romancing_beat.json"
+    },
+    {
+      "id": "pl16",
+      "version": "2020.6.26",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/three_story_method.json"
     }
   ]
 }
