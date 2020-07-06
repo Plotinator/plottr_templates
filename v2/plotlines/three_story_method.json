@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
-  "version": "2020.6.26",
+  "version": "2020.7.6",
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
     "chapters": [
@@ -189,13 +189,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -337,13 +330,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -478,13 +464,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -613,13 +592,6 @@
             "children": [
               {
                 "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
               }
             ]
           },
@@ -761,13 +733,6 @@
             "children": [
               {
                 "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
               }
             ]
           },
@@ -917,13 +882,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -1052,13 +1010,6 @@
             "children": [
               {
                 "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
               }
             ]
           },
@@ -1199,13 +1150,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -1340,13 +1284,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -1475,13 +1412,6 @@
             "children": [
               {
                 "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
               }
             ]
           },
@@ -1629,13 +1559,6 @@
           {
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
                 "text": "What does the antagonist or force of antagonism need (internal desires)?"
               }
             ]
@@ -1764,13 +1687,6 @@
             "children": [
               {
                 "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
               }
             ]
           },
