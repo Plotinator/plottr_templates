@@ -1,6 +1,21 @@
 {
-  "version": "2020.7.6",
+  "version": "2020.10.15",
   "templates": [
+    {
+      "id": "proj1",
+      "version": "2020.10.15",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/project/snowflake.json"
+    },
+    {
+      "id": "pl17",
+      "version": "2020.10.15",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/snowflake.json"
+    },
+    {
+      "id": "ch7",
+      "version": "2020.10.15",
+      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/snowflake.json"
+    },
     {
       "id": "ch1",
       "version": "2020.4.8",

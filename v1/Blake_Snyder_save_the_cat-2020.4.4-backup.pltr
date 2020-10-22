@@ -1,0 +1,586 @@
+{
+  "beats": [],
+  "books": {
+    "1": {
+      "genre": "",
+      "id": 1,
+      "imageId": null,
+      "premise": "",
+      "templates": [],
+      "theme": "",
+      "title": "Blake Snyder Save The Cat"
+    },
+    "allIds": [
+      1
+    ]
+  },
+  "cards": [
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 15,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main character hits bottom, and wallows in hopelessness. The Why hast thou forsaken me, Lord? moment. Mourning the loss of what has “died” – the dream, the goal, the mentor character, the love of your life, etc. But, you must fall completely before you can pick yourself back up and try again."
+            }
+          ]
+        }
+      ],
+      "id": 15,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Dark night of the soul"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 14,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "opposite of Opening Image, proving, visually, that a change has occurred within the character."
+            }
+          ]
+        }
+      ],
+      "id": 14,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Final Image"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 13,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This time around, the main character incorporates the Theme – the nugget of truth that now makes sense to them – into their fight for the goal because they have experience from the A Story and context from the B Story. Act Three is about Synthesis!"
+            }
+          ]
+        }
+      ],
+      "id": 13,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Finale"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 12,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks to a fresh idea, new inspiration, or last-minute Thematic advice from the B Story (usually the love interest), the main character chooses to try again."
+            }
+          ]
+        }
+      ],
+      "id": 12,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Break into Three"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 11,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The opposite moment from the Midpoint: “awful”/“great”. The moment that the main character realizes they’ve lost everything they gained, or everything they now have has no meaning. The initial goal now looks even more impossible than before. And here, something or someone dies. It can be physical or emotional, but the death of something old makes way for something new to be born."
+            }
+          ]
+        }
+      ],
+      "id": 11,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "All is lost"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 10,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doubt, jealousy, fear, foes both physical and emotional regroup to defeat the main character’s goal, and the main character’s “great”/“awful” situation disintegrates."
+            }
+          ]
+        }
+      ],
+      "id": 10,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Bad Guys close in"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 9,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dependent upon the story, this moment is when everything is “great” or everything is “awful”. The main character either gets everything they think they want (“great”) or doesn’t get what they think they want at all (“awful”). But not everything we think we want is what we actually need in the end."
+            }
+          ]
+        }
+      ],
+      "id": 9,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Midpoint"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 8,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is when Craig Thompson’s relationship with Raina blooms, when Indiana Jones tries to beat the Nazis to the Lost Ark, when the detective finds the most clues and dodges the most bullets. This is when the main character explores the new world and the audience is entertained by the premise they have been promised."
+            }
+          ]
+        }
+      ],
+      "id": 8,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "The Promise of the Premise"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 7,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is when there’s a discussion about the Theme – the nugget of truth. Usually, this discussion is between the main character and the love interest. So, the B Story is usually called the “love story”."
+            }
+          ]
+        }
+      ],
+      "id": 7,
+      "imageId": null,
+      "lineId": 2,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "B Story"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 6,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main character makes a choice and the journey begins. We leave the “Thesis” world and enter the upside-down, opposite world of Act Two."
+            }
+          ]
+        }
+      ],
+      "id": 6,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Break Into Two"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 5,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But change is scary and for a moment, or a brief number of moments, the main character doubts the journey they must take. Can I face this challenge? Do I have what it takes? Should I go at all? It is the last chance for the hero to chicken out."
+            }
+          ]
+        }
+      ],
+      "id": 5,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Debate"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 4,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The moment where life as it is changes. It is the telegram, the act of catching your loved-one cheating, allowing a monster onboard the ship, meeting the true love of your life, etc. The “before” world is no more, change is underway."
+            }
+          ]
+        }
+      ],
+      "id": 4,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Catalyst"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 3,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(happens during the Set-up) – What your story is about; the message, the truth. Usually, it is spoken to the main character or in their presence, but they don’t understand the truth…not until they have some personal experience and context to support it."
+            }
+          ]
+        }
+      ],
+      "id": 3,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Theme Stated"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 2,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Expand on the “before” snapshot. Present the main character’s world as it is, and what is missing in their life."
+            }
+          ]
+        }
+      ],
+      "id": 2,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Set-up"
+    },
+    {
+      "beatId": null,
+      "bookId": null,
+      "chapterId": 1,
+      "characters": [],
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A visual that represents the struggle &amp; tone of the story. A snapshot of the main character’s problem, before the adventure begins."
+            }
+          ]
+        }
+      ],
+      "id": 1,
+      "imageId": null,
+      "lineId": 1,
+      "places": [],
+      "position": 0,
+      "seriesLineId": null,
+      "tags": [],
+      "templates": [],
+      "title": "Opening Image"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": 1,
+      "id": 1,
+      "position": 0,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 2,
+      "position": 1,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 3,
+      "position": 2,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 4,
+      "position": 3,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 5,
+      "position": 4,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 6,
+      "position": 5,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 7,
+      "position": 6,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 8,
+      "position": 7,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 9,
+      "position": 8,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 10,
+      "position": 9,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 11,
+      "position": 10,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 15,
+      "position": 11,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 12,
+      "position": 12,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 13,
+      "position": 13,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    },
+    {
+      "bookId": 1,
+      "id": 14,
+      "position": 14,
+      "templates": [],
+      "time": 0,
+      "title": "auto"
+    }
+  ],
+  "characters": [],
+  "customAttributes": {
+    "cards": [],
+    "characters": [
+      {
+        "name": "age",
+        "type": "text"
+      }
+    ],
+    "lines": [],
+    "places": [],
+    "scenes": []
+  },
+  "file": {
+    "dirty": true,
+    "fileName": "/Users/sparrowhawk/github/plottr_templates/v1/Blake_Snyder_save_the_cat.pltr",
+    "loaded": true,
+    "version": "2020.4.4"
+  },
+  "images": {},
+  "lines": [
+    {
+      "bookId": 1,
+      "characterId": null,
+      "color": "#78be20",
+      "id": 2,
+      "position": 1,
+      "title": "Sub plot"
+    },
+    {
+      "bookId": 1,
+      "characterId": null,
+      "color": "#6cace4",
+      "id": 1,
+      "position": 0,
+      "title": "Main Plot"
+    }
+  ],
+  "notes": [],
+  "places": [],
+  "series": {
+    "genre": "",
+    "name": "Blake Snyder Save The Cat",
+    "premise": "",
+    "templates": [],
+    "theme": ""
+  },
+  "seriesLines": [
+    {
+      "color": "#6cace4",
+      "id": 1,
+      "position": 0,
+      "title": "Main Plot"
+    }
+  ],
+  "tags": [],
+  "ui": {
+    "characterFilter": null,
+    "characterSort": "name~asc",
+    "currentTimeline": 1,
+    "currentView": "timeline",
+    "darkMode": false,
+    "noteFilter": null,
+    "noteSort": "title",
+    "orientation": "horizontal",
+    "placeFilter": null,
+    "placeSort": "name~asc",
+    "zoomIndex": 4,
+    "zoomState": null
+  }
+}

@@ -233,28 +233,6 @@
         "time": 0,
         "title": "Beat 1"
       }
-    ],
-    "notes": [
-      {
-        "bookIds": [],
-        "characters": [],
-        "content": [
-          {
-            "children": [
-              {
-                "text": "Writing Romantic Comedy by Billy Mernit"
-              }
-            ]
-          }
-        ],
-        "id": 0,
-        "imageId": null,
-        "lastEdited": 1511978322178,
-        "places": [],
-        "tags": [],
-        "templates": [],
-        "title": "The book"
-      }
     ]
   }
 }

@@ -1,0 +1,193 @@
+{
+  "id": "pl17",
+  "type": "plotlines",
+  "name": "Snowflake Method",
+  "description": "Based on the Snowflake Method by Randy Ingermanson",
+  "version": "2020.10.15",
+  "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
+  "templateData": {
+    "chapters": [
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 7,
+        "title": "auto",
+        "time": 0,
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 8,
+        "title": "auto",
+        "time": 0,
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      }
+    ],
+    "cards": [
+      {
+        "id": 3,
+        "lineId": 1,
+        "chapterId": 10,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Third Disaster",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Third Disaster comes at the end of Act 2, approximately 75% of the way through the story. The Third Disaster is something bad that forces your lead Character AND the villain (if there is a villain) to commit to some final showdown that will decide who wins and who loses. That is, they must both commit to end the story. As an example, in the original Star Wars movie, at the end of Act 2, Luke and his comrades reach the rebel planet, where they learn that the storm troopers put a tracking device on the Millennium Falcon. The Death Star is now approaching the rebel planet, and Darth Vader means to destroy the planet and end the Rebellion. This is terrible! The rebels can all run and hide, fragmenting the Rebellion. Or they can fight to the death. They choose to make a last stand. The rest of the story is the final showdown, in which the rebels attack the Death Star while it moves into position to destroy the rebel planet. One side will win and one will lose, and the clock is ticking!"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "chapterId": 8,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Second Disaster",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Second Disaster comes approximately at the middle of Act 2, roughly 50% of the way into your story. Your lead Character has spent the first half of Act 2 trying to achieve their Storygoal, but they've been pursuing a path that won't work. The Second Disaster is a bad thing that happens at the midpoint of the story that forces your Character to try a new approach. This new approach will actually work. As an example, in the original Star Wars movie, Obi-Wan Kenobi is killed by Darth Vader at the midpoint of the story. Up till now, Luke has been following Obi-Wan and just doing what he says. Now he has to step up and start making his own decisions--and he needs to actually start using the Force. He will never win unless he becomes strong in the Force, and he has the second half of Act 2 to get strong."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "chapterId": 3,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "First Disaster",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The First Disaster comes at the end of Act 1, roughly 25% of the way into your story. The First Disaster is something bad that forces your lead Character to commit to the story. As an example, in the original Stars Wars Movie (Episode 4), Luke's aunt and uncle are murdered by storm troopers. This drives Luke to agree to leave the planet with Obi-Wan Kenobi. He's now committed to the Rebellion, and he can't turn back."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": "proj1"
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Three Disaster Structure",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": "proj1"
+      }
+    ]
+  }
+}

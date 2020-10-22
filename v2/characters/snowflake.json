@@ -1,0 +1,66 @@
+{
+  "id": "ch7",
+  "type": "characters",
+  "name": "Snowflake Method",
+  "description": "Based on the Snowflake Method by Randy Ingermanson",
+  "version": "2020.10.15",
+  "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
+  "attributes": [
+    {
+      "name": "Role",
+      "type": "text"
+    },
+    {
+      "name": "Storygoal",
+      "type": "text"
+    },
+    {
+      "name": "Ambition",
+      "type": "text"
+    },
+    {
+      "name": "Values",
+      "type": "paragraph"
+    },
+    {
+      "name": "One-Sentence Summary",
+      "type": "text"
+    },
+    {
+      "name": "One-Paragraph Summary",
+      "type": "paragraph"
+    },
+    {
+      "name": "Date of Birth",
+      "type": "text"
+    },
+    {
+      "name": "Age",
+      "type": "text"
+    },
+    {
+      "name": "Height",
+      "type": "text"
+    },
+    {
+      "name": "Weight",
+      "type": "text"
+    },
+    {
+      "name": "Ethnic Heritage",
+      "type": "text"
+    },
+    {
+      "name": "Color of Hair",
+      "type": "text"
+    },
+    {
+      "name": "Color of Eyes",
+      "type": "text"
+    },
+    {
+      "name": "Character Synopsis",
+      "type": "paragraph"
+    }
+  ]
+}
