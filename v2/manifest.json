@@ -1,5 +1,5 @@
 {
-  "version": "2020.11.9",
+  "version": "2021.1.28",
   "templates": [
     {
       "id": "proj1",
@@ -48,7 +48,7 @@
     },
     {
       "id": "pl1",
-      "version": "2020.3.23",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/7_point_plot_structure.json"
     },
     {
@@ -68,17 +68,17 @@
     },
     {
       "id": "pl5",
-      "version": "2020.5.3",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/Billy_Mernit_romance_seven_beats.json"
     },
     {
       "id": "pl7",
-      "version": "2020.5.3",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/story_circle.json"
     },
     {
       "id": "pl8",
-      "version": "2020.5.3",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/jamigold_romance.json"
     },
     {
@@ -88,12 +88,12 @@
     },
     {
       "id": "pl10",
-      "version": "2020.11.9",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/heros_journey.json"
     },
     {
       "id": "pl11",
-      "version": "2020.5.3",
+      "version": "2021.1.28",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/six_stage.json"
     },
     {

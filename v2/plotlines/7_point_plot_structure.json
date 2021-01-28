@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "7 Point Plot Structure",
   "description": "A plot structure by Dan Wells",
-  "version": "2020.3.23",
+  "version": "2021.1.28",
   "templateData": {
     "chapters": [
       {
@@ -12,7 +12,7 @@
         "position": 6,
         "templates": [],
         "time": 0,
-        "title": "Resolution"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -20,7 +20,7 @@
         "position": 5,
         "templates": [],
         "time": 0,
-        "title": "Plot Turn 2"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -28,7 +28,7 @@
         "position": 4,
         "templates": [],
         "time": 0,
-        "title": "Pinch 2"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -36,7 +36,7 @@
         "position": 3,
         "templates": [],
         "time": 0,
-        "title": "Midpoint"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -44,7 +44,7 @@
         "position": 2,
         "templates": [],
         "time": 0,
-        "title": "Pinch 1"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -52,7 +52,7 @@
         "position": 1,
         "templates": [],
         "time": 0,
-        "title": "Plot Turn 1"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -60,7 +60,191 @@
         "position": 0,
         "templates": [],
         "time": 0,
-        "title": "Hook"
+        "title": "auto"
+      }
+    ],
+    "cards": [
+      {
+        "id": 1,
+        "lineId": 1,
+        "chapterId": 1,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Hook",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "chapterId": 2,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Plot Turn 1",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "chapterId": 3,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Pinch 1",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "chapterId": 4,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Midpoint",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "chapterId": 5,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Pinch 2",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "chapterId": 6,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Plot Turn 2",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "chapterId": 7,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Resolution",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
       }
     ]
   }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Hero's Journey",
   "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
-  "version": "2020.11.9",
+  "version": "2021.1.28",
   "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
   "templateData": {
     "chapters": [
@@ -12,77 +12,77 @@
         "id": 12,
         "position": 11,
         "time": 0,
-        "title": "Return with the Elixir"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 11,
         "position": 10,
         "time": 0,
-        "title": "Resurrection"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 10,
         "position": 9,
         "time": 0,
-        "title": "The Road Back"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 9,
         "position": 8,
         "time": 0,
-        "title": "Reward (Seizing the Sword)"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 8,
         "position": 7,
         "time": 0,
-        "title": "The Ordeal"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 7,
         "position": 6,
         "time": 0,
-        "title": "Approach to the Inmost Cave"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 6,
         "position": 5,
         "time": 0,
-        "title": "Test, Allies, Enemies"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 5,
         "position": 4,
         "time": 0,
-        "title": "Crossing the First Threshold"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 4,
         "position": 3,
         "time": 0,
-        "title": "Meeting the Mentor"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 3,
         "position": 2,
         "time": 0,
-        "title": "Refusal of the Call"
+        "title": "auto"
       },
       {
         "bookId": 1,
         "id": 2,
         "position": 1,
         "time": 0,
-        "title": "The Call of Adventure"
+        "title": "auto"
       },
       {
         "bookId": 1,
@@ -90,7 +90,321 @@
         "position": 0,
         "templates": [],
         "time": 0,
-        "title": "The Ordinary World"
+        "title": "auto"
+      }
+    ],
+    "cards": [
+      {
+        "id": 1,
+        "lineId": 1,
+        "chapterId": 1,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "The Ordinary World",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "chapterId": 2,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "The Call of Adventure",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "chapterId": 3,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Refusal of the Call",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "chapterId": 4,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Meeting the Mentor",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "chapterId": 5,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Crossing the First Threshold",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "chapterId": 6,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Test, Allies, Enemies",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "chapterId": 7,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Approach to the Inmost Cave",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "lineId": 1,
+        "chapterId": 8,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "The Ordeal",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "lineId": 1,
+        "chapterId": 9,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Reward (Seizing the Sword)",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "lineId": 1,
+        "chapterId": 10,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "The Road Back",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "lineId": 1,
+        "chapterId": 11,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Resurrection",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "lineId": 1,
+        "chapterId": 12,
+        "beatId": null,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
+        "title": "Return with the Elixir",
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
       }
     ]
   }

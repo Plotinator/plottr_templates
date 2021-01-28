@@ -1,9 +1,9 @@
 {
   "id": "pl7",
   "type": "plotlines",
-  "name": "Dan Harmon's Story Circle",
-  "description": "A story structure by Dan Harmon",
-  "version": "2020.5.3",
+  "name": "Story Circle",
+  "description": "A circular story structure",
+  "version": "2021.1.28",
   "templateData": {
     "cards": [
       {

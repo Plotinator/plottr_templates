@@ -1,10 +1,9 @@
 {
   "id": "pl11",
   "type": "plotlines",
-  "name": "Michael Hauge Six Stage",
-  "description": "A story structure by Michael Hauge",
-  "version": "2020.5.3",
-  "link": "https://www.storymastery.com/story/screenplay-structure-five-key-turning-points-successful-scripts/",
+  "name": "Six Stage Plot Structure",
+  "description": "A story structure with six stages",
+  "version": "2021.1.28",
   "templateData": {
     "cards": [
       {

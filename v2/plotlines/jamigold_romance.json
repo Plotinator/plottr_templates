@@ -1,10 +1,9 @@
 {
   "id": "pl8",
   "type": "plotlines",
-  "name": "Jami Gold Romance",
-  "description": "A beat sheet for romance novels by Jami Gold",
-  "version": "2020.5.3",
-  "link": "https://jamigold.com/2012/11/write-romance-get-your-beat-sheet-here/",
+  "name": "Romance Beat Sheet",
+  "description": "A beat sheet for romance novels",
+  "version": "2021.1.28",
   "templateData": {
     "cards": [
       {
