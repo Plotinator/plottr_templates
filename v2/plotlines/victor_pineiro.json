@@ -8,273 +8,8 @@
   "templateData": {
     "cards": [
       {
-        "beatId": null,
+        "beatId": 14,
         "bookId": null,
-        "chapterId": 15,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "The hero faces the villain, who is at their strongest, and wins! By winning she has now changed the world. The hero is now older and wiser. And every major character has changed. Yeah, I hadn’t mentioned that before — and it can be one of the trickiest parts of writing a screenplay. Every major character has to have an arc, and change in some way by the end of the movie."
-              }
-            ]
-          }
-        ],
-        "id": 12,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Time to Kick Ass"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 13,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "The hero realizes her flaw, learns her lesson, and formulates a plan to defeat the villain. Here’s where the A story — meaning the main plot, and the B story — often the love interest — meet. This is also the moment when the hero rushes right into Act 3"
-              }
-            ]
-          }
-        ],
-        "id": 11,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "From the Ashes"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 12,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Things could not get worse. The villains seem unstoppable. All hope is lost. The love interest ditched the hero, usually because of the hero’s flaw, and just when things are at their most hopeless, the hero rises…"
-              }
-            ]
-          }
-        ],
-        "id": 10,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Rock Bottom"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 11,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Here’s where things go from bad to worse. The villains come back far more powerful than before. The hero’s losing her external and internal battle. Often the love interest leaves at this point. Things continue to get dire until they hit…"
-              }
-            ]
-          }
-        ],
-        "id": 9,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Long Journey Into Night"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 10,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "The hero gets a moment of clarity and everything seems like it’s going to be okay — she thinks she’s going to prevail. One small note here — in some movies this is the moment of false defeat. But either way the hero is headed into the…"
-              }
-            ]
-          }
-        ],
-        "id": 8,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "False Victory"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 9,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "At the midpoint of the movie (and Act Two), the hero crosses the point of no return. She does something which she can’t undo, which will plunge her into the second half of Act 2, which is the nightmare. But not quite yet. First she has a…"
-              }
-            ]
-          }
-        ],
-        "id": 7,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Crossing the Rubicon"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 8,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Remember that awesome hook you thought up? This is where you pay it off. The hero has fun with her new powers or her new situation. The audience should absolutely love this part. A large portion of a movie’s trailer often comes from scenes in this section."
-              }
-            ]
-          }
-        ],
-        "id": 6,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Melt Their Faces Off"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 7,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "The new world often comes with a few new characters, including the love interest. He usually represents what the hero needs. Not what the hero wants, but what she actually needs."
-              }
-            ]
-          }
-        ],
-        "id": 5,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "What is Love?"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 6,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Act 2 begins with the hero boldly venturing into the new world, which is the opposite of the world she’s lived in up to this point. Remember, it doesn’t literally have to be a new world — just an unfamiliar place or situation."
-              }
-            ]
-          }
-        ],
-        "id": 4,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Into the New World"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 4,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "The hero needs to decide whether to embark on this adventure or take this new opportunity. 99% of the time the hero will refuse initially, but something will drive her make the decision and go go go… right into Act 2!"
-              }
-            ]
-          }
-        ],
-        "id": 3,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Do I Stay or Do I Go?"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 3,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Something happens and the hero’s world is flipped on its head. This is where the hook comes in. You can also consider this the call to adventure, where the hero is presented the opportunity to go on some kind of adventure."
-              }
-            ]
-          }
-        ],
-        "id": 2,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "The Spark"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 2,
         "characters": [],
         "description": [
           {
@@ -293,129 +28,470 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "A Day In the Life"
+        "title": "A Day In the Life",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 13,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Something happens and the hero’s world is flipped on its head. This is where the hook comes in. You can also consider this the call to adventure, where the hero is presented the opportunity to go on some kind of adventure."
+              }
+            ]
+          }
+        ],
+        "id": 2,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "The Spark",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 12,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The hero needs to decide whether to embark on this adventure or take this new opportunity. 99% of the time the hero will refuse initially, but something will drive her make the decision and go go go… right into Act 2!"
+              }
+            ]
+          }
+        ],
+        "id": 3,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Do I Stay or Do I Go?",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 10,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Act 2 begins with the hero boldly venturing into the new world, which is the opposite of the world she’s lived in up to this point. Remember, it doesn’t literally have to be a new world — just an unfamiliar place or situation."
+              }
+            ]
+          }
+        ],
+        "id": 4,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Into the New World",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 9,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The new world often comes with a few new characters, including the love interest. He usually represents what the hero needs. Not what the hero wants, but what she actually needs."
+              }
+            ]
+          }
+        ],
+        "id": 5,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "What is Love?",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 8,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Remember that awesome hook you thought up? This is where you pay it off. The hero has fun with her new powers or her new situation. The audience should absolutely love this part. A large portion of a movie’s trailer often comes from scenes in this section."
+              }
+            ]
+          }
+        ],
+        "id": 6,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Melt Their Faces Off",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 7,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "At the midpoint of the movie (and Act Two), the hero crosses the point of no return. She does something which she can’t undo, which will plunge her into the second half of Act 2, which is the nightmare. But not quite yet. First she has a…"
+              }
+            ]
+          }
+        ],
+        "id": 7,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Crossing the Rubicon",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 6,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The hero gets a moment of clarity and everything seems like it’s going to be okay — she thinks she’s going to prevail. One small note here — in some movies this is the moment of false defeat. But either way the hero is headed into the…"
+              }
+            ]
+          }
+        ],
+        "id": 8,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "False Victory",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 5,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Here’s where things go from bad to worse. The villains come back far more powerful than before. The hero’s losing her external and internal battle. Often the love interest leaves at this point. Things continue to get dire until they hit…"
+              }
+            ]
+          }
+        ],
+        "id": 9,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Long Journey Into Night",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 4,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Things could not get worse. The villains seem unstoppable. All hope is lost. The love interest ditched the hero, usually because of the hero’s flaw, and just when things are at their most hopeless, the hero rises…"
+              }
+            ]
+          }
+        ],
+        "id": 10,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Rock Bottom",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 3,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The hero realizes her flaw, learns her lesson, and formulates a plan to defeat the villain. Here’s where the A story — meaning the main plot, and the B story — often the love interest — meet. This is also the moment when the hero rushes right into Act 3"
+              }
+            ]
+          }
+        ],
+        "id": 11,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "From the Ashes",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 1,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The hero faces the villain, who is at their strongest, and wins! By winning she has now changed the world. The hero is now older and wiser. And every major character has changed. Yeah, I hadn’t mentioned that before — and it can be one of the trickiest parts of writing a screenplay. Every major character has to have an arc, and change in some way by the end of the movie."
+              }
+            ]
+          }
+        ],
+        "id": 12,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Time to Kick Ass",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       }
     ],
-    "chapters": [
+    "beats": [
       {
-        "bookId": 1,
-        "id": 15,
-        "position": 14,
-        "templates": [],
-        "time": 0,
-        "title": "#12"
-      },
-      {
-        "bookId": 1,
-        "id": 14,
-        "position": 13,
-        "templates": [],
-        "time": 0,
-        "title": "Act III"
-      },
-      {
-        "bookId": 1,
-        "id": 13,
-        "position": 12,
-        "templates": [],
-        "time": 0,
-        "title": "#11"
-      },
-      {
-        "bookId": 1,
-        "id": 12,
-        "position": 11,
-        "templates": [],
-        "time": 0,
-        "title": "#10"
-      },
-      {
-        "bookId": 1,
-        "id": 11,
-        "position": 10,
-        "templates": [],
-        "time": 0,
-        "title": "#9"
-      },
-      {
-        "bookId": 1,
-        "id": 10,
-        "position": 9,
-        "templates": [],
-        "time": 0,
-        "title": "#8"
-      },
-      {
-        "bookId": 1,
-        "id": 9,
-        "position": 8,
-        "templates": [],
-        "time": 0,
-        "title": "#7"
-      },
-      {
-        "bookId": 1,
-        "id": 8,
-        "position": 7,
-        "templates": [],
-        "time": 0,
-        "title": "#6"
-      },
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 6,
-        "templates": [],
-        "time": 0,
-        "title": "#5"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 5,
-        "templates": [],
-        "time": 0,
-        "title": "#4"
-      },
-      {
-        "bookId": 1,
-        "id": 5,
-        "position": 4,
-        "templates": [],
-        "time": 0,
-        "title": "Act II"
-      },
-      {
-        "bookId": 1,
-        "id": 4,
-        "position": 3,
-        "templates": [],
-        "time": 0,
-        "title": "#3"
-      },
-      {
-        "bookId": 1,
-        "id": 3,
-        "position": 2,
-        "templates": [],
-        "time": 0,
-        "title": "#2"
-      },
-      {
-        "bookId": 1,
-        "id": 2,
-        "position": 1,
-        "templates": [],
-        "time": 0,
-        "title": "#1"
-      },
-      {
-        "bookId": 1,
         "id": 1,
-        "position": 0,
-        "templates": [],
+        "bookId": 1,
+        "position": 14,
+        "title": "#12",
         "time": 0,
-        "title": "Act I"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 13,
+        "title": "Act III",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 12,
+        "title": "#11",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 11,
+        "title": "#10",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 10,
+        "title": "#9",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 9,
+        "title": "#8",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 8,
+        "title": "#7",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "#6",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 6,
+        "title": "#5",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 5,
+        "title": "#4",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 4,
+        "title": "Act II",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 3,
+        "title": "#3",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "bookId": 1,
+        "position": 2,
+        "title": "#2",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "bookId": 1,
+        "position": 1,
+        "title": "#1",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "bookId": 1,
+        "position": 0,
+        "title": "Act I",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }

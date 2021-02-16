@@ -7,417 +7,8 @@
   "templateData": {
     "cards": [
       {
-        "beatId": null,
+        "beatId": 18,
         "bookId": null,
-        "chapterId": 18,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          }
-        ],
-        "id": 18,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Conclusion"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 17,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          }
-        ],
-        "id": 17,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Resolution"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 16,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          }
-        ],
-        "id": 16,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Plot twist"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 15,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero battles villain"
-              }
-            ]
-          }
-        ],
-        "id": 15,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Battle villian"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 14,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero battles loyal henchman."
-              }
-            ]
-          }
-        ],
-        "id": 14,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Battle henchman"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 13,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero attains goal"
-              }
-            ]
-          }
-        ],
-        "id": 13,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Attain goal"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 12,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero narrowly escapes the clutches of doom."
-              }
-            ]
-          }
-        ],
-        "id": 12,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Narrow escape"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 11,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero is captured and threatened with certain doom."
-              }
-            ]
-          }
-        ],
-        "id": 11,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Captured"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 10,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero infiltrates villain's highly secure fortress."
-              }
-            ]
-          }
-        ],
-        "id": 10,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Infiltrate fortress"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 9,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight."
-              }
-            ]
-          }
-        ],
-        "id": 9,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Assistance"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 8,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission."
-              }
-            ]
-          }
-        ],
-        "id": 8,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Major complications"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 7,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "An extended chase scenario occurs."
-              }
-            ]
-          }
-        ],
-        "id": 7,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Chase"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 6,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information."
-              }
-            ]
-          }
-        ],
-        "id": 6,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Encounters henchman"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 5,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero encounters the damsel and some type of relationship begins."
-              }
-            ]
-          }
-        ],
-        "id": 5,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Encounter damsel"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 4,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero travels to an exotic and interesting location."
-              }
-            ]
-          }
-        ],
-        "id": 4,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Travels to exotic location"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 3,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses."
-              }
-            ]
-          }
-        ],
-        "id": 3,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Begins toward goal"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 2,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Hero receives a mission or encounters a problem that needs to be solved."
-              }
-            ]
-          }
-        ],
-        "id": 2,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Receives a mission"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 1,
         "characters": [],
         "description": [
           {
@@ -436,153 +27,656 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Hero's circumstance"
+        "title": "Hero's circumstance",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 17,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero receives a mission or encounters a problem that needs to be solved."
+              }
+            ]
+          }
+        ],
+        "id": 2,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Receives a mission",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 16,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses."
+              }
+            ]
+          }
+        ],
+        "id": 3,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Begins toward goal",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 15,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero travels to an exotic and interesting location."
+              }
+            ]
+          }
+        ],
+        "id": 4,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Travels to exotic location",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 14,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero encounters the damsel and some type of relationship begins."
+              }
+            ]
+          }
+        ],
+        "id": 5,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Encounter damsel",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 13,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information."
+              }
+            ]
+          }
+        ],
+        "id": 6,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Encounters henchman",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 12,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "An extended chase scenario occurs."
+              }
+            ]
+          }
+        ],
+        "id": 7,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Chase",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 11,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission."
+              }
+            ]
+          }
+        ],
+        "id": 8,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Major complications",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 10,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight."
+              }
+            ]
+          }
+        ],
+        "id": 9,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Assistance",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 9,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero infiltrates villain's highly secure fortress."
+              }
+            ]
+          }
+        ],
+        "id": 10,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Infiltrate fortress",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 8,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero is captured and threatened with certain doom."
+              }
+            ]
+          }
+        ],
+        "id": 11,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Captured",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 7,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero narrowly escapes the clutches of doom."
+              }
+            ]
+          }
+        ],
+        "id": 12,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Narrow escape",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 6,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero attains goal"
+              }
+            ]
+          }
+        ],
+        "id": 13,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Attain goal",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 5,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero battles loyal henchman."
+              }
+            ]
+          }
+        ],
+        "id": 14,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Battle henchman",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 4,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Hero battles villain"
+              }
+            ]
+          }
+        ],
+        "id": 15,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Battle villian",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 3,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "id": 16,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Plot twist",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 2,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "id": 17,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Resolution",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 1,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "id": 18,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Conclusion",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       }
     ],
-    "chapters": [
+    "beats": [
       {
-        "bookId": 1,
-        "id": 18,
-        "position": 17,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 17,
-        "position": 16,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 16,
-        "position": 15,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 15,
-        "position": 14,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 14,
-        "position": 13,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 13,
-        "position": 12,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 12,
-        "position": 11,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 11,
-        "position": 10,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 10,
-        "position": 9,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 9,
-        "position": 8,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 8,
-        "position": 7,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 6,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 5,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 5,
-        "position": 4,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 4,
-        "position": 3,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 3,
-        "position": 2,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 2,
-        "position": 1,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
         "id": 1,
-        "position": 0,
-        "templates": [],
+        "bookId": 1,
+        "position": 17,
+        "title": "auto",
         "time": 0,
-        "title": "auto"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 16,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 15,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 14,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 13,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 12,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 11,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 10,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 9,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 8,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 7,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 16,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 17,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 18,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }
