@@ -6,156 +6,11 @@
   "link": "http://gwenhayes.com/books/romancing-the-beat/",
   "version": "2020.6.8",
   "templateData": {
-    "chapters": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 0,
-        "title": "Beat 1",
-        "time": 0,
-        "templates": []
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 1,
-        "title": "Beat 2",
-        "time": 0
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 2,
-        "title": "Beat 3",
-        "time": 0
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 3,
-        "title": "Beat 4",
-        "time": 0
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 4,
-        "title": "Beat 5",
-        "time": 0
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "Beat 6",
-        "time": 0
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 6,
-        "title": "Beat 7",
-        "time": 0
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 7,
-        "title": "Beat 8",
-        "time": 0
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 8,
-        "title": "Beat 9",
-        "time": 0
-      },
-      {
-        "id": 10,
-        "bookId": 1,
-        "position": 9,
-        "title": "Beat 10",
-        "time": 0
-      },
-      {
-        "id": 11,
-        "bookId": 1,
-        "position": 10,
-        "title": "Beat 11",
-        "time": 0
-      },
-      {
-        "id": 12,
-        "bookId": 1,
-        "position": 11,
-        "title": "Beat 12",
-        "time": 0
-      },
-      {
-        "id": 13,
-        "bookId": 1,
-        "position": 12,
-        "title": "Beat 13",
-        "time": 0
-      },
-      {
-        "id": 14,
-        "bookId": 1,
-        "position": 13,
-        "title": "Beat 14",
-        "time": 0
-      },
-      {
-        "id": 15,
-        "bookId": 1,
-        "position": 14,
-        "title": "Beat 15",
-        "time": 0
-      },
-      {
-        "id": 16,
-        "bookId": 1,
-        "position": 15,
-        "title": "Beat 16",
-        "time": 0
-      },
-      {
-        "id": 17,
-        "bookId": 1,
-        "position": 16,
-        "title": "Beat 17",
-        "time": 0
-      },
-      {
-        "id": 19,
-        "bookId": 1,
-        "position": 17,
-        "title": "Beat 18",
-        "time": 0,
-        "templates": []
-      },
-      {
-        "id": 18,
-        "bookId": 1,
-        "position": 18,
-        "title": "Beat 19",
-        "time": 0
-      },
-      {
-        "id": 20,
-        "bookId": 1,
-        "position": 19,
-        "title": "Beat 20",
-        "time": 0
-      }
-    ],
     "cards": [
       {
         "id": 20,
         "lineId": 4,
-        "chapterId": 20,
-        "beatId": null,
+        "beatId": 20,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -173,13 +28,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 19,
         "lineId": 4,
-        "chapterId": 18,
-        "beatId": null,
+        "beatId": 19,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -204,13 +61,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 18,
         "lineId": 4,
-        "chapterId": 19,
-        "beatId": null,
+        "beatId": 18,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -228,13 +87,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 17,
         "lineId": 4,
-        "chapterId": 17,
-        "beatId": null,
+        "beatId": 17,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -252,13 +113,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 16,
         "lineId": 4,
-        "chapterId": 16,
-        "beatId": null,
+        "beatId": 16,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -283,13 +146,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 15,
         "lineId": 3,
-        "chapterId": 15,
-        "beatId": null,
+        "beatId": 15,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -352,13 +217,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 14,
         "lineId": 3,
-        "chapterId": 14,
-        "beatId": null,
+        "beatId": 14,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -390,13 +257,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 13,
         "lineId": 3,
-        "chapterId": 13,
-        "beatId": null,
+        "beatId": 13,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -414,13 +283,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 12,
         "lineId": 3,
-        "chapterId": 12,
-        "beatId": null,
+        "beatId": 12,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -438,13 +309,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 11,
         "lineId": 3,
-        "chapterId": 11,
-        "beatId": null,
+        "beatId": 11,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -462,13 +335,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 10,
         "lineId": 2,
-        "chapterId": 10,
-        "beatId": null,
+        "beatId": 10,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -493,13 +368,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 9,
         "lineId": 2,
-        "chapterId": 9,
-        "beatId": null,
+        "beatId": 9,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -524,13 +401,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 8,
         "lineId": 2,
-        "chapterId": 8,
-        "beatId": null,
+        "beatId": 8,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -548,13 +427,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 7,
         "lineId": 2,
-        "chapterId": 7,
-        "beatId": null,
+        "beatId": 7,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -572,13 +453,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 6,
         "lineId": 2,
-        "chapterId": 6,
-        "beatId": null,
+        "beatId": 6,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -596,13 +479,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 5,
         "lineId": 1,
-        "chapterId": 5,
-        "beatId": null,
+        "beatId": 5,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -634,13 +519,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 4,
         "lineId": 1,
-        "chapterId": 4,
-        "beatId": null,
+        "beatId": 4,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -665,13 +552,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 3,
         "lineId": 1,
-        "chapterId": 3,
-        "beatId": null,
+        "beatId": 3,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -696,13 +585,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 2,
         "lineId": 1,
-        "chapterId": 2,
-        "beatId": null,
+        "beatId": 2,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -750,13 +641,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 1,
         "lineId": 1,
-        "chapterId": 1,
-        "beatId": null,
+        "beatId": 1,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -804,7 +697,212 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      }
+    ],
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 0,
+        "title": "Beat 1",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 1,
+        "title": "Beat 2",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 2,
+        "title": "Beat 3",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "Beat 4",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 4,
+        "title": "Beat 5",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 5,
+        "title": "Beat 6",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 6,
+        "title": "Beat 7",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "Beat 8",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 8,
+        "title": "Beat 9",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 9,
+        "title": "Beat 10",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 10,
+        "title": "Beat 11",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 11,
+        "title": "Beat 12",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "bookId": 1,
+        "position": 12,
+        "title": "Beat 13",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "bookId": 1,
+        "position": 13,
+        "title": "Beat 14",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "bookId": 1,
+        "position": 14,
+        "title": "Beat 15",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 16,
+        "bookId": 1,
+        "position": 15,
+        "title": "Beat 16",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 17,
+        "bookId": 1,
+        "position": 16,
+        "title": "Beat 17",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 18,
+        "bookId": 1,
+        "position": 17,
+        "title": "Beat 18",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 19,
+        "bookId": 1,
+        "position": 18,
+        "title": "Beat 19",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 20,
+        "bookId": 1,
+        "position": 19,
+        "title": "Beat 20",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       }
     ],
     "lines": [
@@ -813,21 +911,27 @@
         "bookId": 1,
         "title": "Phase 4: Fighting for Love",
         "color": "#ff7f32",
-        "position": 3
+        "position": 3,
+        "expanded": null,
+        "fromTemplateId": null
       },
       {
         "id": 3,
         "bookId": 1,
         "title": "Phase 3: Retreating From Love",
         "color": "#e5554f",
-        "position": 2
+        "position": 2,
+        "expanded": null,
+        "fromTemplateId": null
       },
       {
         "id": 2,
         "bookId": 1,
         "title": "Phase 2: Falling in Love",
         "color": "#78be20",
-        "position": 1
+        "position": 1,
+        "expanded": null,
+        "fromTemplateId": null
       },
       {
         "id": 1,
@@ -835,7 +939,9 @@
         "color": "#6cace4",
         "title": "Phase 1: Set Up",
         "position": 0,
-        "characterId": null
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }

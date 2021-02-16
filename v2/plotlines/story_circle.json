@@ -7,9 +7,8 @@
   "templateData": {
     "cards": [
       {
-        "beatId": null,
+        "beatId": 1,
         "bookId": null,
-        "chapterId": 8,
         "characters": [],
         "description": [
           {
@@ -31,9 +30,8 @@
         "title": "Change"
       },
       {
-        "beatId": null,
+        "beatId": 2,
         "bookId": null,
-        "chapterId": 7,
         "characters": [],
         "description": [
           {
@@ -55,9 +53,8 @@
         "title": "Return"
       },
       {
-        "beatId": null,
+        "beatId": 3,
         "bookId": null,
-        "chapterId": 6,
         "characters": [],
         "description": [
           {
@@ -79,9 +76,8 @@
         "title": "Take"
       },
       {
-        "beatId": null,
+        "beatId": 4,
         "bookId": null,
-        "chapterId": 5,
         "characters": [],
         "description": [
           {
@@ -103,9 +99,8 @@
         "title": "Find"
       },
       {
-        "beatId": null,
+        "beatId": 5,
         "bookId": null,
-        "chapterId": 4,
         "characters": [],
         "description": [
           {
@@ -127,9 +122,8 @@
         "title": "Search"
       },
       {
-        "beatId": null,
+        "beatId": 6,
         "bookId": null,
-        "chapterId": 3,
         "characters": [],
         "description": [
           {
@@ -151,9 +145,8 @@
         "title": "Go"
       },
       {
-        "beatId": null,
+        "beatId": 7,
         "bookId": null,
-        "chapterId": 2,
         "characters": [],
         "description": [
           {
@@ -175,9 +168,8 @@
         "title": "Need"
       },
       {
-        "beatId": null,
+        "beatId": 8,
         "bookId": null,
-        "chapterId": 1,
         "characters": [],
         "description": [
           {
@@ -199,70 +191,108 @@
         "title": "You"
       }
     ],
-    "chapters": [
+    "beats": [
       {
-        "bookId": 1,
-        "id": 8,
-        "position": 7,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 6,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 5,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 5,
-        "position": 4,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 4,
-        "position": 3,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 3,
-        "position": 2,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 2,
-        "position": 1,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
         "id": 1,
-        "position": 0,
-        "templates": [],
+        "bookId": 1,
+        "position": 7,
+        "title": "auto",
         "time": 0,
-        "title": "auto"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }

@@ -6,99 +6,11 @@
   "version": "2020.7.6",
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
-    "chapters": [
-      {
-        "bookId": 1,
-        "id": 2,
-        "position": 0,
-        "templates": [],
-        "time": 0,
-        "title": "Act 1 - Conflict"
-      },
-      {
-        "bookId": 1,
-        "id": 3,
-        "position": 1,
-        "time": 0,
-        "title": "Act 1 - Choice"
-      },
-      {
-        "bookId": 1,
-        "id": 4,
-        "position": 2,
-        "time": 0,
-        "title": "Act 1 - Consequence"
-      },
-      {
-        "bookId": 1,
-        "id": 5,
-        "position": 3,
-        "time": 0,
-        "title": "Act 2 - Conflict"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 4,
-        "time": 0,
-        "title": "Act 2 - Obstacle 1"
-      },
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 5,
-        "time": 0,
-        "title": "Act 2 - Obstacle 2"
-      },
-      {
-        "bookId": 1,
-        "id": 8,
-        "position": 6,
-        "time": 0,
-        "title": "Act 2 - Obstacle 3"
-      },
-      {
-        "bookId": 1,
-        "id": 9,
-        "position": 7,
-        "time": 0,
-        "title": "Act 2 - Choice"
-      },
-      {
-        "bookId": 1,
-        "id": 10,
-        "position": 8,
-        "time": 0,
-        "title": "Act 2 - Consequence"
-      },
-      {
-        "bookId": 1,
-        "id": 11,
-        "position": 9,
-        "time": 0,
-        "title": "Act 3 - Conflict"
-      },
-      {
-        "bookId": 1,
-        "id": 12,
-        "position": 10,
-        "time": 0,
-        "title": "Act 3 - Choice"
-      },
-      {
-        "bookId": 1,
-        "id": 13,
-        "position": 11,
-        "time": 0,
-        "title": "Act 3 - Consequence"
-      }
-    ],
     "cards": [
       {
         "id": 12,
         "lineId": 1,
-        "chapterId": 13,
-        "beatId": null,
+        "beatId": 12,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -226,13 +138,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 11,
         "lineId": 1,
-        "chapterId": 12,
-        "beatId": null,
+        "beatId": 11,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -367,13 +281,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 10,
         "lineId": 1,
-        "chapterId": 11,
-        "beatId": null,
+        "beatId": 10,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -501,13 +417,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 9,
         "lineId": 1,
-        "chapterId": 10,
-        "beatId": null,
+        "beatId": 9,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -635,13 +553,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 8,
         "lineId": 1,
-        "chapterId": 9,
-        "beatId": null,
+        "beatId": 8,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -776,13 +696,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 7,
         "lineId": 1,
-        "chapterId": 8,
-        "beatId": null,
+        "beatId": 7,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -919,13 +841,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 6,
         "lineId": 1,
-        "chapterId": 7,
-        "beatId": null,
+        "beatId": 6,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1053,13 +977,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 5,
         "lineId": 1,
-        "chapterId": 6,
-        "beatId": null,
+        "beatId": 5,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1187,13 +1113,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 4,
         "lineId": 1,
-        "chapterId": 5,
-        "beatId": null,
+        "beatId": 4,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1321,13 +1249,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 3,
         "lineId": 1,
-        "chapterId": 4,
-        "beatId": null,
+        "beatId": 3,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1455,13 +1385,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 2,
         "lineId": 1,
-        "chapterId": 3,
-        "beatId": null,
+        "beatId": 2,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1596,13 +1528,15 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
         "id": 1,
         "lineId": 1,
-        "chapterId": 2,
-        "beatId": null,
+        "beatId": 1,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
@@ -1730,7 +1664,132 @@
         "characters": [],
         "places": [],
         "templates": [],
-        "imageId": null
+        "imageId": null,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      }
+    ],
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 0,
+        "title": "Act 1 - Conflict",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 1,
+        "title": "Act 1 - Choice",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 2,
+        "title": "Act 1 - Consequence",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "Act 2 - Conflict",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 4,
+        "title": "Act 2 - Obstacle 1",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 5,
+        "title": "Act 2 - Obstacle 2",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 6,
+        "title": "Act 2 - Obstacle 3",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "Act 2 - Choice",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 8,
+        "title": "Act 2 - Consequence",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 9,
+        "title": "Act 3 - Conflict",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 10,
+        "title": "Act 3 - Choice",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 11,
+        "title": "Act 3 - Consequence",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       }
     ],
     "lines": [
@@ -1740,7 +1799,9 @@
         "color": "Gold",
         "title": "Main Plot",
         "position": 0,
-        "characterId": null
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }

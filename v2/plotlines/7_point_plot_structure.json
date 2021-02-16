@@ -5,70 +5,11 @@
   "description": "A plot structure by Dan Wells",
   "version": "2021.1.28",
   "templateData": {
-    "chapters": [
-      {
-        "bookId": 1,
-        "id": 7,
-        "position": 6,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 5,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 5,
-        "position": 4,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 4,
-        "position": 3,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 3,
-        "position": 2,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 2,
-        "position": 1,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      },
-      {
-        "bookId": 1,
-        "id": 1,
-        "position": 0,
-        "templates": [],
-        "time": 0,
-        "title": "auto"
-      }
-    ],
     "cards": [
       {
         "id": 1,
         "lineId": 1,
-        "chapterId": 1,
-        "beatId": null,
+        "beatId": 7,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -93,8 +34,7 @@
       {
         "id": 2,
         "lineId": 1,
-        "chapterId": 2,
-        "beatId": null,
+        "beatId": 6,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -119,8 +59,7 @@
       {
         "id": 3,
         "lineId": 1,
-        "chapterId": 3,
-        "beatId": null,
+        "beatId": 5,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -145,8 +84,7 @@
       {
         "id": 4,
         "lineId": 1,
-        "chapterId": 4,
-        "beatId": null,
+        "beatId": 4,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -171,8 +109,7 @@
       {
         "id": 5,
         "lineId": 1,
-        "chapterId": 5,
-        "beatId": null,
+        "beatId": 3,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -197,8 +134,7 @@
       {
         "id": 6,
         "lineId": 1,
-        "chapterId": 6,
-        "beatId": null,
+        "beatId": 2,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -223,8 +159,7 @@
       {
         "id": 7,
         "lineId": 1,
-        "chapterId": 7,
-        "beatId": null,
+        "beatId": 1,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -244,6 +179,100 @@
         "places": [],
         "templates": [],
         "imageId": null,
+        "fromTemplateId": null
+      }
+    ],
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
         "fromTemplateId": null
       }
     ]

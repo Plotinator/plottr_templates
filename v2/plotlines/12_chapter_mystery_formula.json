@@ -6,414 +6,10 @@
   "version": "2020.5.3",
   "link": "http://ticket2write.tripod.com/mysplot.html",
   "templateData": {
-    "lines": [
-      {
-        "bookId": 1,
-        "characterId": null,
-        "color": "#78be20",
-        "id": 2,
-        "position": 1,
-        "title": "Sub plot"
-      },
-      {
-        "bookId": 1,
-        "characterId": null,
-        "color": "#6cace4",
-        "id": 1,
-        "position": 0,
-        "title": "Main Plot"
-      }
-    ],
     "cards": [
       {
-        "beatId": null,
+        "beatId": 7,
         "bookId": null,
-        "chapterId": 16,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The Climax - a dramatic confrontation between the sleuth and the perpetrator in which the sleuth prevails. The more “impossible” the odds have been, the more rewarding the climax will be."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Resolution - Revelation of clues and the deductive process which lead to the solution. Establish that the case has been solved and justice has been served to the satisfaction of all involved (except, the villain)."
-              }
-            ]
-          }
-        ],
-        "id": 16,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Climax"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 15,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. Resolution of the sub-plot"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. The protagonist, having been tested by his or her private ordeal, is strengthened for the final action leading to the actual solution of the mystery."
-              }
-            ]
-          }
-        ],
-        "id": 15,
-        "imageId": null,
-        "lineId": 2,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Resolution"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 14,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The sleuth weighs the evidence and information gleaned from the other characters."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Based on what only he or she now knows, the sleuth must seek positive proof to back up the yet undisclosed conclusion."
-              }
-            ]
-          }
-        ],
-        "id": 14,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Weigh evidence"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 13,
-        "characters": [],
-        "description": "",
-        "id": 13,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Solution"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 12,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. Have the sleuth review the case to determine where he or she went wrong."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Reveal the chain of events which provoked the crime."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "C. The crucial evidence is something overlooked in Act I, which appeared to have been of little consequence at the time it was first disclosed. That evidence takes on new meaning with information disclosed in Act III."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "D. The sleuth (and perhaps the reader, if a keen observer) becomes aware of the error which remains undisclosed to the other characters."
-              }
-            ]
-          }
-        ],
-        "id": 12,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Review the case"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 11,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The sleuth reveals the results of the investigation. The reader, as well as the protagonist and other characters, are given an opportunity to review what is known and assess the possibilities."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. The solution of the crime appears to be impossible. Attempts to solve the crime have stymied the sleuth. Misinterpretation of clues or mistaken conclusions have lead him or her in the wrong direction, and logic must be applied to force a new way of grasping an understanding of the uncertainties."
-              }
-            ]
-          }
-        ],
-        "id": 11,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Reveal results"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 9,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. Reveal hidden motives. Formerly secret relationships come to light, such as business arrangements, romantic involvement's, scores to be settled or previously veiled kinships."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Develop and expose meanings of matters hinted at in Act I., to slowly clarify the significance of earlier clues."
-              }
-            ]
-          }
-        ],
-        "id": 10,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Reveal hidden motives"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 10,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Change of focus and scope of the investigation. This is the pivotal point in the story where it become evident that the sleuth was on the wrong track. Something unexpected occurs, such as the appearance of a second body, the death of a major suspect, or discovery of evidence which clears the most likely suspect. The story must take a new direction."
-              }
-            ]
-          }
-        ],
-        "id": 9,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Change of focus"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 8,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The sleuth’s background is revealed as the sub-plot is developed. Tell the reader what drives the protagonist, what haunts or is missing in his or her life."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Make it clear that the sleuth has a personal stake in the outcome, either because of threat to his or her life, or the possibility of revelation of matters deeply disturbing to the protagonist on an emotional level."
-              }
-            ]
-          }
-        ],
-        "id": 8,
-        "imageId": null,
-        "lineId": 2,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Sleuth's background"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 7,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The investigation should broaden to put suspicion on other characters."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Information gathered through interviews or the discovery of physical evidence, should point toward the solution, although the relevance may not yet be apparent."
-              }
-            ]
-          }
-        ],
-        "id": 7,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Broaden investigation"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 4,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. Reveal facts about suspects, through interrogations and the discovery of clues."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. Flight, or disappearance of one or more suspect."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "C. Develop a sense of urgency. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences."
-              }
-            ]
-          }
-        ],
-        "id": 6,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Facts about suspects"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 5,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Direct the investigation toward a conclusion which later proves to be erroneous."
-              }
-            ]
-          }
-        ],
-        "id": 5,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Erroneous conclusion"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 6,
         "characters": [],
         "description": [
           {
@@ -432,45 +28,14 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Introduction"
+        "title": "Introduction",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
-        "beatId": null,
+        "beatId": 8,
         "bookId": null,
-        "chapterId": 3,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "A. The sub-plot should be introduced. The plot will continue to maintain the progress of the story, but the sub-plot will carry the theme, which is a universal concept to which the reader can identify. Sub-plots tend to originate either in a crisis in the sleuth’s private life, or in the necessity of the sleuth to face a dilemma involving a matter of character, such as courage or honesty."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "B. The ultimate resolution of the sub-plot with demonstrate change or growth on the part of the protagonist, and will climatic on a personal or professional level. That climax may coincide with, or occur as prelude to the climax of the main plot. The sub-plot may be a vehicle for a romantic interest or a confrontation with personal demons of the sleuth. The author can manipulate the pace of the novel by moving back and forth between the plot and sub-plot."
-              }
-            ]
-          }
-        ],
-        "id": 3,
-        "imageId": null,
-        "lineId": 2,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "sub-plot"
-      },
-      {
-        "beatId": null,
-        "bookId": null,
-        "chapterId": 1,
         "characters": [],
         "description": [
           {
@@ -522,12 +87,49 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Disclose the mystery"
+        "title": "Disclose the mystery",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       },
       {
-        "beatId": null,
+        "beatId": 10,
         "bookId": null,
-        "chapterId": 2,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The sub-plot should be introduced. The plot will continue to maintain the progress of the story, but the sub-plot will carry the theme, which is a universal concept to which the reader can identify. Sub-plots tend to originate either in a crisis in the sleuth’s private life, or in the necessity of the sleuth to face a dilemma involving a matter of character, such as courage or honesty."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. The ultimate resolution of the sub-plot with demonstrate change or growth on the part of the protagonist, and will climatic on a personal or professional level. That climax may coincide with, or occur as prelude to the climax of the main plot. The sub-plot may be a vehicle for a romantic interest or a confrontation with personal demons of the sleuth. The author can manipulate the pace of the novel by moving back and forth between the plot and sub-plot."
+              }
+            ]
+          }
+        ],
+        "id": 3,
+        "imageId": null,
+        "lineId": 2,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "sub-plot",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 9,
+        "bookId": null,
         "characters": [],
         "description": [
           {
@@ -555,137 +157,611 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Set the sleuth on the path"
+        "title": "Set the sleuth on the path",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 11,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Direct the investigation toward a conclusion which later proves to be erroneous."
+              }
+            ]
+          }
+        ],
+        "id": 5,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Erroneous conclusion",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 12,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. Reveal facts about suspects, through interrogations and the discovery of clues."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Flight, or disappearance of one or more suspect."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "C. Develop a sense of urgency. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences."
+              }
+            ]
+          }
+        ],
+        "id": 6,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Facts about suspects",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 13,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The investigation should broaden to put suspicion on other characters."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Information gathered through interviews or the discovery of physical evidence, should point toward the solution, although the relevance may not yet be apparent."
+              }
+            ]
+          }
+        ],
+        "id": 7,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Broaden investigation",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 14,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The sleuth’s background is revealed as the sub-plot is developed. Tell the reader what drives the protagonist, what haunts or is missing in his or her life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Make it clear that the sleuth has a personal stake in the outcome, either because of threat to his or her life, or the possibility of revelation of matters deeply disturbing to the protagonist on an emotional level."
+              }
+            ]
+          }
+        ],
+        "id": 8,
+        "imageId": null,
+        "lineId": 2,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Sleuth's background",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 15,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Change of focus and scope of the investigation. This is the pivotal point in the story where it become evident that the sleuth was on the wrong track. Something unexpected occurs, such as the appearance of a second body, the death of a major suspect, or discovery of evidence which clears the most likely suspect. The story must take a new direction."
+              }
+            ]
+          }
+        ],
+        "id": 9,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Change of focus",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 16,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. Reveal hidden motives. Formerly secret relationships come to light, such as business arrangements, romantic involvement's, scores to be settled or previously veiled kinships."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Develop and expose meanings of matters hinted at in Act I., to slowly clarify the significance of earlier clues."
+              }
+            ]
+          }
+        ],
+        "id": 10,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Reveal hidden motives",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 6,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The sleuth reveals the results of the investigation. The reader, as well as the protagonist and other characters, are given an opportunity to review what is known and assess the possibilities."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. The solution of the crime appears to be impossible. Attempts to solve the crime have stymied the sleuth. Misinterpretation of clues or mistaken conclusions have lead him or her in the wrong direction, and logic must be applied to force a new way of grasping an understanding of the uncertainties."
+              }
+            ]
+          }
+        ],
+        "id": 11,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Reveal results",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 5,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. Have the sleuth review the case to determine where he or she went wrong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Reveal the chain of events which provoked the crime."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "C. The crucial evidence is something overlooked in Act I, which appeared to have been of little consequence at the time it was first disclosed. That evidence takes on new meaning with information disclosed in Act III."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "D. The sleuth (and perhaps the reader, if a keen observer) becomes aware of the error which remains undisclosed to the other characters."
+              }
+            ]
+          }
+        ],
+        "id": 12,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Review the case",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 4,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "id": 13,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Solution",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 3,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The sleuth weighs the evidence and information gleaned from the other characters."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Based on what only he or she now knows, the sleuth must seek positive proof to back up the yet undisclosed conclusion."
+              }
+            ]
+          }
+        ],
+        "id": 14,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Weigh evidence",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 2,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. Resolution of the sub-plot"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. The protagonist, having been tested by his or her private ordeal, is strengthened for the final action leading to the actual solution of the mystery."
+              }
+            ]
+          }
+        ],
+        "id": 15,
+        "imageId": null,
+        "lineId": 2,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Resolution",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
+      },
+      {
+        "beatId": 1,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. The Climax - a dramatic confrontation between the sleuth and the perpetrator in which the sleuth prevails. The more “impossible” the odds have been, the more rewarding the climax will be."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Resolution - Revelation of clues and the deductive process which lead to the solution. Establish that the case has been solved and justice has been served to the satisfaction of all involved (except, the villain)."
+              }
+            ]
+          }
+        ],
+        "id": 16,
+        "imageId": null,
+        "lineId": 1,
+        "places": [],
+        "position": 0,
+        "seriesLineId": null,
+        "tags": [],
+        "templates": [],
+        "title": "Climax",
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "fromTemplateId": null
       }
     ],
-    "chapters": [
+    "beats": [
       {
-        "bookId": 1,
-        "id": 16,
-        "position": 15,
-        "templates": [],
-        "time": 0,
-        "title": "Chapter 12"
-      },
-      {
-        "bookId": 1,
-        "id": 15,
-        "position": 14,
-        "templates": [],
-        "time": 0,
-        "title": "Chapter 11"
-      },
-      {
-        "bookId": 1,
-        "id": 14,
-        "position": 13,
-        "templates": [],
-        "time": 0,
-        "title": "Chapter 10"
-      },
-      {
-        "bookId": 1,
-        "id": 13,
-        "position": 12,
-        "templates": [],
-        "time": 0,
-        "title": "Act IV"
-      },
-      {
-        "bookId": 1,
-        "id": 12,
-        "position": 11,
-        "templates": [],
-        "time": 0,
-        "title": "Chapter 9"
-      },
-      {
-        "bookId": 1,
-        "id": 11,
-        "position": 10,
-        "templates": [],
-        "time": 0,
-        "title": "Chapter 8"
-      },
-      {
-        "bookId": 1,
-        "id": 6,
-        "position": 0,
-        "templates": [],
-        "time": 0,
-        "title": "Act 1"
-      },
-      {
-        "bookId": 1,
         "id": 1,
-        "position": 1,
-        "templates": [],
+        "bookId": 1,
+        "position": 15,
+        "title": "Chapter 12",
         "time": 0,
-        "title": "Chapter 1"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
-        "bookId": 1,
         "id": 2,
-        "position": 2,
-        "templates": [],
+        "bookId": 1,
+        "position": 14,
+        "title": "Chapter 11",
         "time": 0,
-        "title": "Chapter 2"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
-        "bookId": 1,
         "id": 3,
-        "position": 3,
-        "templates": [],
+        "bookId": 1,
+        "position": 13,
+        "title": "Chapter 10",
         "time": 0,
-        "title": "Chapter 3"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
-        "bookId": 1,
-        "id": 5,
-        "position": 4,
-        "templates": [],
-        "time": 0,
-        "title": "Act II"
-      },
-      {
-        "bookId": 1,
         "id": 4,
-        "position": 5,
-        "templates": [],
+        "bookId": 1,
+        "position": 12,
+        "title": "Act IV",
         "time": 0,
-        "title": "Chapter 4"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
+        "id": 5,
         "bookId": 1,
+        "position": 11,
+        "title": "Chapter 9",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 10,
+        "title": "Chapter 8",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
         "id": 7,
-        "position": 6,
-        "templates": [],
+        "bookId": 1,
+        "position": 0,
+        "title": "Act 1",
         "time": 0,
-        "title": "Chapter 5"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
-        "bookId": 1,
         "id": 8,
-        "position": 7,
-        "templates": [],
+        "bookId": 1,
+        "position": 1,
+        "title": "Chapter 1",
         "time": 0,
-        "title": "Chapter 6"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       },
       {
-        "bookId": 1,
-        "id": 10,
-        "position": 8,
-        "templates": [],
-        "time": 0,
-        "title": "Act III"
-      },
-      {
-        "bookId": 1,
         "id": 9,
-        "position": 9,
-        "templates": [],
+        "bookId": 1,
+        "position": 2,
+        "title": "Chapter 2",
         "time": 0,
-        "title": "Chapter 7"
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 3,
+        "title": "Chapter 3",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 4,
+        "title": "Act II",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 5,
+        "title": "Chapter 4",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "bookId": 1,
+        "position": 6,
+        "title": "Chapter 5",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "bookId": 1,
+        "position": 7,
+        "title": "Chapter 6",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "bookId": 1,
+        "position": 8,
+        "title": "Act III",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 16,
+        "bookId": 1,
+        "position": 9,
+        "title": "Chapter 7",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      }
+    ],
+    "lines": [
+      {
+        "bookId": 1,
+        "characterId": null,
+        "color": "#78be20",
+        "id": 2,
+        "position": 1,
+        "title": "Sub plot",
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "characterId": null,
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plot",
+        "expanded": null,
+        "fromTemplateId": null
       }
     ]
   }

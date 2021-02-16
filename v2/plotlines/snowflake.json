@@ -6,100 +6,11 @@
   "version": "2020.10.15",
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
-    "chapters": [
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 0,
-        "title": "auto",
-        "time": 0,
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 1,
-        "title": "auto",
-        "time": 0,
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 2,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 3,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 4,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 10,
-        "bookId": 1,
-        "position": 5,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 6,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 7,
-        "title": "auto",
-        "time": 0,
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 8,
-        "title": "auto",
-        "time": 0,
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      }
-    ],
     "cards": [
       {
         "id": 3,
         "lineId": 1,
-        "chapterId": 10,
-        "beatId": null,
+        "beatId": 6,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -125,8 +36,7 @@
       {
         "id": 2,
         "lineId": 1,
-        "chapterId": 8,
-        "beatId": null,
+        "beatId": 4,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -152,8 +62,7 @@
       {
         "id": 1,
         "lineId": 1,
-        "chapterId": 3,
-        "beatId": null,
+        "beatId": 2,
         "seriesLineId": null,
         "bookId": null,
         "positionWithinLine": 0,
@@ -174,6 +83,98 @@
         "places": [],
         "templates": [],
         "imageId": null,
+        "fromTemplateId": "proj1"
+      }
+    ],
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 8,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
         "fromTemplateId": "proj1"
       }
     ],
