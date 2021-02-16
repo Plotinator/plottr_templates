@@ -1,0 +1,26 @@
+{
+  "name": "plottr_templates",
+  "version": "0.0.1",
+  "description": "Templates for Plottr",
+  "directories": {
+    "lib": "lib"
+  },
+  "private": true,
+  "scripts": {
+    "package-pltr": "webpack",
+    "migrate": "npm run package-pltr && node scripts/migrateTemplates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plotinator/plottr_templates.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Plotinator/plottr_templates/issues"
+  },
+  "homepage": "https://github.com/Plotinator/plottr_templates#readme",
+  "devDependencies": {
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
