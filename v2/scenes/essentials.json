@@ -1,0 +1,46 @@
+{
+  "id": "sc3",
+  "type": "scenes",
+  "version": "2020.2.19",
+  "name": "Scene Essentials",
+  "description": "Useful details for any scene",
+  "link": "",
+  "attributes": [
+    {
+      "name": "POV",
+      "type": "text"
+    },
+    {
+      "name": "Time Period",
+      "type": "text"
+    },
+    {
+      "name": "Hook",
+      "type": "text"
+    },
+    {
+      "name": "Purpose",
+      "type": "paragraph"
+    },
+    {
+      "name": "Conflict",
+      "type": "paragraph"
+    },
+    {
+      "name": "Climax",
+      "type": "paragraph"
+    },
+    {
+      "name": "Character Goals",
+      "type": "paragraph"
+    },
+    {
+      "name": "Character Development",
+      "type": "paragraph"
+    },
+    {
+      "name": "Sensory Detail",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sc1",
+  "type": "scenes",
+  "version": "2020.2.19",
+  "name": "Proactive Scene",
+  "description": "Inspired by Scene & Sequel and the Snowflake Method",
+  "link": "",
+  "attributes": [
+    {
+      "name": "Goal",
+      "type": "paragraph"
+    },
+    {
+      "name": "Conflict",
+      "type": "paragraph"
+    },
+    {
+      "name": "Setback",
+      "type": "paragraph"
+    }
+  ]
+}

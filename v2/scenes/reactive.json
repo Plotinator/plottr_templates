@@ -1,0 +1,22 @@
+{
+  "id": "sc2",
+  "type": "scenes",
+  "version": "2020.2.19",
+  "name": "Reactive Scene",
+  "description": "Inspired by Scene & Sequel and the Snowflake Method",
+  "link": "",
+  "attributes": [
+    {
+      "name": "Reaction",
+      "type": "paragraph"
+    },
+    {
+      "name": "Dilemma",
+      "type": "paragraph"
+    },
+    {
+      "name": "Decision",
+      "type": "paragraph"
+    }
+  ]
+}

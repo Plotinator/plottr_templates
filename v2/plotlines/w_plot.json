@@ -3,10 +3,9 @@
   "type": "plotlines",
   "name": "W Plot",
   "description": "A story structure by Kenneth Atchity similar to the 3 Act structure",
-  "version": "2020.3.23",
+  "version": "2021.2.19",
   "link": "",
   "templateData": {
-    "cards": [],
     "beats": [
       {
         "id": 1,
