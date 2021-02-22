@@ -1,6 +1,6 @@
 const fs = require('fs')
 const { template: { projectFromTemplate } }= require('../pltr-dist')
-const readline = require('readline');
+const readline = require('readline')
 
 const migrateTemplate = (version) => (templatePath) => {
   console.log(`Migrating: ${templatePath}`)
