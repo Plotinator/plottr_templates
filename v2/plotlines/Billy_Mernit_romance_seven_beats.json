@@ -324,6 +324,18 @@
     },
     "tags": [],
     "notes": [],
-    "images": {}
+    "images": {},
+    "hierarchyLevels": {
+      "0": {
+        "name": "Act",
+        "level": 0,
+        "autoNumber": true,
+        "textColor": "#6cace4",
+        "textSize": 24,
+        "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8"
+      }
+    }
   }
 }
