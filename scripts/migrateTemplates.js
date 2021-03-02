@@ -46,6 +46,7 @@ readline.createInterface({
         tags: migrated.tags,
         notes: migrated.notes,
         images: migrated.images,
+        hierarchyLevels: migrated.hierarchyLevels
       }
       fs.writeFileSync(templatePath, JSON.stringify(original, null, 2))
       console.log(`Writing migrated template for ${templatePath}`)
