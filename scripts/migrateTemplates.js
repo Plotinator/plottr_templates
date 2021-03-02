@@ -37,6 +37,7 @@ readline.createInterface({
   try {
     results.forEach(({ original, migrated, }, index) => {
       const templatePath = templatesToMigrate[index]
+      original.version = version
       original.templateData = {
         cards: migrated.cards,
         beats: migrated.beats,
