@@ -262,48 +262,31 @@
         "children": {
           "1": [],
           "2": [],
-          "3": [],
+          "3": [1, 2],
           "4": [],
           "5": [],
           "6": [],
           "7": [],
-          "8": [],
+          "8": [4, 5, 6, 7],
           "9": [],
           "10": [],
           "11": [],
-          "12": [],
-          "24": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "null": [
-            24
-          ]
+          "12": [9, 10, 11],
+          "null": [3, 8, 12]
         },
         "heap": {
-          "1": 24,
-          "2": 24,
-          "3": 24,
-          "4": 24,
-          "5": 24,
-          "6": 24,
-          "7": 24,
-          "8": 24,
-          "9": 24,
-          "10": 24,
-          "11": 24,
-          "12": 24,
-          "24": null
+          "1": 3,
+          "2": 3,
+          "3": null,
+          "4": 8,
+          "5": 8,
+          "6": 8,
+          "7": 8,
+          "8": null,
+          "9": 12,
+          "10": 12,
+          "11": 12,
+          "12": null
         },
         "index": {
           "1": {
@@ -437,17 +420,6 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
-          },
-          "24": {
-            "id": 24,
-            "bookId": 1,
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
           }
         }
       }
@@ -483,6 +455,28 @@
     },
     "tags": [],
     "notes": [],
-    "images": {}
+    "images": {},
+    "hierarchyLevels": {
+      "0": {
+        "name": "Act",
+        "level": 0,
+        "autoNumber": true,
+        "textColor": "#6cace4",
+        "textSize": 24,
+        "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8"
+      },
+      "1": {
+        "name": "Chapter",
+        "level": 1,
+        "autoNumber": true,
+        "textColor": "#78be20",
+        "textSize": 24,
+        "borderColor": "#78be20",
+        "borderStyle": "DASHED",
+        "backgroundColor": "#f1f5f8"
+      }
+    }
   }
 }
