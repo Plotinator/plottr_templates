@@ -41,6 +41,10 @@ readline.createInterface({
         cards: migrated.cards,
         beats: migrated.beats,
         lines: migrated.lines,
+        customAttributes: migrated.customAttributes,
+        tags: migrated.tags,
+        notes: migrated.notes,
+        images: migrated.images,
       }
       fs.writeFileSync(templatePath, JSON.stringify(original, null, 2))
       console.log(`Writing migrated template for ${templatePath}`)
