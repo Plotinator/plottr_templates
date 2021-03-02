@@ -215,118 +215,187 @@
         "fromTemplateId": null
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 10,
-        "title": "Sequence 8",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 9,
-        "title": "Sequence 7",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 8,
-        "title": "Act III",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 7,
-        "title": "Sequence 6",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 6,
-        "title": "Sequence 5",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "Sequence 4",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 4,
-        "title": "Sequence 3",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 3,
-        "title": "Act II",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 2,
-        "title": "Sequence 2",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 10,
-        "bookId": 1,
-        "position": 1,
-        "title": "Sequence 1",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 11,
-        "bookId": 1,
-        "position": 0,
-        "title": "Act I",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
+    "beats": {
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "22": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "null": [
+            22
+          ]
+        },
+        "heap": {
+          "1": 22,
+          "2": 22,
+          "3": 22,
+          "4": 22,
+          "5": 22,
+          "6": 22,
+          "7": 22,
+          "8": 22,
+          "9": 22,
+          "10": 22,
+          "11": 22,
+          "22": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 10,
+            "title": "Sequence 8",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 9,
+            "title": "Sequence 7",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 8,
+            "title": "Act III",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 7,
+            "title": "Sequence 6",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 6,
+            "title": "Sequence 5",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 5,
+            "title": "Sequence 4",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 4,
+            "title": "Sequence 3",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 3,
+            "title": "Act II",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "9": {
+            "id": 9,
+            "bookId": 1,
+            "position": 2,
+            "title": "Sequence 2",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "10": {
+            "id": 10,
+            "bookId": 1,
+            "position": 1,
+            "title": "Sequence 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "11": {
+            "id": 11,
+            "bookId": 1,
+            "position": 0,
+            "title": "Act I",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "22": {
+            "id": 22,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "bookId": 1,
@@ -348,6 +417,16 @@
         "expanded": null,
         "fromTemplateId": null
       }
-    ]
+    ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {}
   }
 }

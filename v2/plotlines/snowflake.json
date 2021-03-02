@@ -86,98 +86,159 @@
         "fromTemplateId": "proj1"
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 0,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 1,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 2,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 3,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 4,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 6,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 7,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 8,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
+    "beats": {
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "18": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "null": [
+            18
+          ]
+        },
+        "heap": {
+          "1": 18,
+          "2": 18,
+          "3": 18,
+          "4": 18,
+          "5": 18,
+          "6": 18,
+          "7": 18,
+          "8": 18,
+          "9": 18,
+          "18": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 1,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 2,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 3,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 4,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 5,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 6,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 7,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "9": {
+            "id": 9,
+            "bookId": 1,
+            "position": 8,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "18": {
+            "id": 18,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "id": 1,
@@ -189,6 +250,16 @@
         "expanded": null,
         "fromTemplateId": "proj1"
       }
-    ]
+    ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {}
   }
 }
