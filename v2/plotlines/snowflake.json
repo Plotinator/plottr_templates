@@ -210,17 +210,6 @@
             "autoOutlineSort": true,
             "fromTemplateId": "proj1",
             "expanded": true
-          },
-          "18": {
-            "id": 18,
-            "bookId": 1,
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
           }
         }
       }
