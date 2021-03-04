@@ -54,7 +54,8 @@ export function reorderCardsInBeat(
   lineId,
   newOrderInBeat,
   newOrderWithinLine,
-  newIdInBeat
+  newIdInBeat,
+  bookId
 ) {
   return {
     type: REORDER_CARDS_IN_BEAT,
@@ -63,6 +64,7 @@ export function reorderCardsInBeat(
     newOrderInBeat,
     newOrderWithinLine,
     newIdInBeat,
+    bookId
   }
 }
 
