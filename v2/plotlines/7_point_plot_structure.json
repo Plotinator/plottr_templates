@@ -192,7 +192,7 @@
           "5": [],
           "6": [],
           "7": [],
-          "14": [
+          "null": [
             1,
             2,
             3,
@@ -200,20 +200,16 @@
             5,
             6,
             7
-          ],
-          "null": [
-            14
           ]
         },
         "heap": {
-          "1": 14,
-          "2": 14,
-          "3": 14,
-          "4": 14,
-          "5": 14,
-          "6": 14,
-          "7": 14,
-          "14": null
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null
         },
         "index": {
           "1": {
@@ -292,17 +288,6 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
-          },
-          "14": {
-            "id": 14,
-            "bookId": 1,
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
           }
         }
       }
@@ -341,23 +326,13 @@
     "images": {},
     "hierarchyLevels": {
       "0": {
-        "name": "Act",
+        "name": "Chapter",
         "level": 0,
         "autoNumber": true,
         "textColor": "#6cace4",
         "textSize": 24,
         "borderColor": "#6cace4",
         "borderStyle": "NONE",
-        "backgroundColor": "#f1f5f8"
-      },
-      "1": {
-        "name": "Chapter",
-        "level": 1,
-        "autoNumber": true,
-        "textColor": "#78be20",
-        "textSize": 24,
-        "borderColor": "#78be20",
-        "borderStyle": "DASHED",
         "backgroundColor": "#f1f5f8"
       }
     }
