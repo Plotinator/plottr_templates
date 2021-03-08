@@ -192,6 +192,14 @@
       }
     ],
     "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
+      },
       "1": {
         "children": {
           "1": [],
