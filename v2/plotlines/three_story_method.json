@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
-  "version": "2021.2.19",
+  "version": "2021.4.1",
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
     "cards": [
@@ -1670,128 +1670,220 @@
         "fromTemplateId": null
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 0,
-        "title": "Act 1 - Conflict",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
+    "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
       },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 1,
-        "title": "Act 1 - Choice",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 2,
-        "title": "Act 1 - Consequence",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 3,
-        "title": "Act 2 - Conflict",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 4,
-        "title": "Act 2 - Obstacle 1",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "Act 2 - Obstacle 2",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 6,
-        "title": "Act 2 - Obstacle 3",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 7,
-        "title": "Act 2 - Choice",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 8,
-        "title": "Act 2 - Consequence",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 10,
-        "bookId": 1,
-        "position": 9,
-        "title": "Act 3 - Conflict",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 11,
-        "bookId": 1,
-        "position": 10,
-        "title": "Act 3 - Choice",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 12,
-        "bookId": 1,
-        "position": 11,
-        "title": "Act 3 - Consequence",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [1, 2, 3],
+          "14": [4, 5, 6, 7, 8, 9],
+          "15": [10, 11, 12],
+          "null": [13, 14, 15]
+        },
+        "heap": {
+          "1": 13,
+          "2": 13,
+          "3": 13,
+          "4": 14,
+          "5": 14,
+          "6": 14,
+          "7": 14,
+          "8": 14,
+          "9": 14,
+          "10": 15,
+          "11": 15,
+          "12": 15,
+          "13": null,
+          "14": null,
+          "15": null
+        },
+        "index": {
+          "13": {
+            "id": 13,
+            "bookId": 1,
+            "position": 0,
+            "title": "Act I",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 0,
+            "title": "Conflict",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 1,
+            "title": "Choice",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 2,
+            "title": "Consequence",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "14": {
+            "id": 14,
+            "bookId": 1,
+            "position": 3,
+            "title": "Act II",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }, 
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 3,
+            "title": "Conflict",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 4,
+            "title": "Obstacle 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 5,
+            "title": "Obstacle 2",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 6,
+            "title": "Obstacle 3",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 7,
+            "title": "Choice",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "9": {
+            "id": 9,
+            "bookId": 1,
+            "position": 8,
+            "title": "Consequence",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "15": {
+            "id": 15,
+            "bookId": 1,
+            "position": 9,
+            "title": "Act III",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "10": {
+            "id": 10,
+            "bookId": 1,
+            "position": 9,
+            "title": "Conflict",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "11": {
+            "id": 11,
+            "bookId": 1,
+            "position": 10,
+            "title": "Choice",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "12": {
+            "id": 12,
+            "bookId": 1,
+            "position": 11,
+            "title": "Consequence",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "id": 1,
@@ -1803,6 +1895,38 @@
         "expanded": null,
         "fromTemplateId": null
       }
-    ]
+    ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {},
+    "hierarchyLevels": {
+      "0": {
+        "name": "Act",
+        "level": 0,
+        "autoNumber": true,
+        "textColor": "#6cace4",
+        "textSize": 24,
+        "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8"
+      },
+      "1": {
+        "name": "Chapter",
+        "level": 1,
+        "autoNumber": true,
+        "textColor": "#78be20",
+        "textSize": 24,
+        "borderColor": "#78be20",
+        "borderStyle": "DASHED",
+        "backgroundColor": "#f1f5f8"
+      }
+    }
   }
 }

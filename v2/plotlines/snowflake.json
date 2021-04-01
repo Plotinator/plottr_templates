@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.2.19",
+  "version": "2021.4.1",
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
     "cards": [
@@ -86,98 +86,142 @@
         "fromTemplateId": "proj1"
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 0,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
+    "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
       },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 1,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 2,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 3,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 4,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 6,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 7,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 8,
-        "title": "auto",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": "proj1"
+      "1": {
+        "children": {
+          "1": [2, 3],
+          "2": [],
+          "3": [],
+          "4": [5, 6],
+          "5": [],
+          "6": [],
+          "7": [8, 9],
+          "8": [],
+          "9": [],
+          "null": [1, 4, 7]
+        },
+        "heap": {
+          "1": null,
+          "2": 1,
+          "3": 1,
+          "4": null,
+          "5": 4,
+          "6": 4,
+          "7": null,
+          "8": 7,
+          "9": 7
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 1,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 2,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 3,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 4,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 5,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 6,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 7,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          },
+          "9": {
+            "id": 9,
+            "bookId": 1,
+            "position": 8,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": "proj1",
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "id": 1,
@@ -189,6 +233,38 @@
         "expanded": null,
         "fromTemplateId": "proj1"
       }
-    ]
+    ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {},
+    "hierarchyLevels": {
+      "0": {
+        "name": "Act",
+        "level": 0,
+        "autoNumber": true,
+        "textColor": "#6cace4",
+        "textSize": 24,
+        "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8"
+      },
+      "1": {
+        "name": "Chapter",
+        "level": 1,
+        "autoNumber": true,
+        "textColor": "#78be20",
+        "textSize": 24,
+        "borderColor": "#78be20",
+        "borderStyle": "DASHED",
+        "backgroundColor": "#f1f5f8"
+      }
+    }
   }
 }

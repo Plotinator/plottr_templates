@@ -37,10 +37,16 @@ readline.createInterface({
   try {
     results.forEach(({ original, migrated, }, index) => {
       const templatePath = templatesToMigrate[index]
+      original.version = version
       original.templateData = {
         cards: migrated.cards,
         beats: migrated.beats,
         lines: migrated.lines,
+        customAttributes: migrated.customAttributes,
+        tags: migrated.tags,
+        notes: migrated.notes,
+        images: migrated.images,
+        hierarchyLevels: migrated.hierarchyLevels
       }
       fs.writeFileSync(templatePath, JSON.stringify(original, null, 2))
       console.log(`Writing migrated template for ${templatePath}`)
