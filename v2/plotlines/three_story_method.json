@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
-  "version": "2021.3.2",
+  "version": "2021.4.1",
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
     "cards": [
