@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Take Off Your Pants",
   "description": "An outline for faster, better writing by Libbie Hawker",
-  "version": "2021.6.9",
+  "version": "2021.2.23",
   "templateData": {
     "cards": [
       {
@@ -23,11 +23,13 @@
         "imageId": null,
         "lineId": 1,
         "places": [],
-        "position": 0,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Ally"
+        "title": "Ally",
+        "fromTemplateId": null
       },
       {
         "beatId": 9,
@@ -76,11 +78,13 @@
         "imageId": null,
         "lineId": 1,
         "places": [],
-        "position": 0,
+        "positionWithinLine": 0,
+        "positionInChapter": 0,
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Cycle"
+        "title": "Cycle",
+        "fromTemplateId": null
       }
     ],
     "beats": [
