@@ -3,13 +3,12 @@
   "type": "plotlines",
   "name": "Take Off Your Pants",
   "description": "An outline for faster, better writing by Libbie Hawker",
-  "version": "2021.2.19",
+  "version": "2021.6.9",
   "templateData": {
     "cards": [
       {
-        "beatId": null,
+        "beatId": 10,
         "bookId": null,
-        "chapterId": 10,
         "characters": [],
         "description": [
           {
@@ -31,9 +30,8 @@
         "title": "Ally"
       },
       {
-        "beatId": null,
+        "beatId": 9,
         "bookId": null,
-        "chapterId": 9,
         "characters": [],
         "description": [
           {
@@ -87,22 +85,142 @@
     ],
     "beats": [
       {
-        "id": 1,
-        "bookId": "series",
-        "position": 0,
-        "title": "auto",
-        "time": 0,
+        "bookId": 1,
+        "id": 14,
+        "position": 13,
         "templates": [],
+        "time": 0,
+        "title": "Outcome (new world)",
         "autoOutlineSort": true,
         "fromTemplateId": null
       },
       {
-        "id": 2,
         "bookId": 1,
-        "position": 0,
-        "title": "auto",
-        "time": 0,
+        "id": 13,
+        "position": 12,
         "templates": [],
+        "time": 0,
+        "title": "Death (of character flaw)",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 12,
+        "position": 11,
+        "templates": [],
+        "time": 0,
+        "title": "Battle",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 11,
+        "position": 10,
+        "templates": [],
+        "time": 0,
+        "title": "Girding the loins",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 10,
+        "position": 9,
+        "templates": [],
+        "time": 0,
+        "title": "Ally aids",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 9,
+        "position": 8,
+        "templates": [],
+        "time": 0,
+        "title": "Repeat the cycle",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 8,
+        "position": 7,
+        "templates": [],
+        "time": 0,
+        "title": "Revisiting flaw",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 7,
+        "position": 6,
+        "templates": [],
+        "time": 0,
+        "title": "Goal thwarted",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 6,
+        "position": 5,
+        "templates": [],
+        "time": 0,
+        "title": "Antagonist revealed",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 5,
+        "position": 4,
+        "templates": [],
+        "time": 0,
+        "title": "Drive for goal",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 4,
+        "position": 3,
+        "templates": [],
+        "time": 0,
+        "title": "Display of flaw",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 3,
+        "position": 2,
+        "templates": [],
+        "time": 0,
+        "title": "Character realizes goal",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 2,
+        "position": 1,
+        "templates": [],
+        "time": 0,
+        "title": "Inciting Event",
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "id": 1,
+        "position": 0,
+        "templates": [],
+        "time": 0,
+        "title": "Opening Scene",
         "autoOutlineSort": true,
         "fromTemplateId": null
       }
@@ -111,16 +229,6 @@
       {
         "id": 1,
         "bookId": 1,
-        "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
         "color": "#6cace4",
         "title": "Main Plot",
         "position": 0,

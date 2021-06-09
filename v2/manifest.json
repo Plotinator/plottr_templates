@@ -1,5 +1,5 @@
 {
-  "version": "2021.2.22",
+  "version": "2021.6.9",
   "templates": [
     {
       "id": "proj1",
@@ -83,7 +83,7 @@
     },
     {
       "id": "pl9",
-      "version": "2021.2.19",
+      "version": "2021.6.9",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/take_off_pants.json"
     },
     {
