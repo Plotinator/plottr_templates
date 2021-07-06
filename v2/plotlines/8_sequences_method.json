@@ -4,6 +4,7 @@
   "name": "8 Sequences Method",
   "description": "A sequence outline for a feature script",
   "version": "2021.2.19",
+  "categories": ["screenplay"],
   "templateData": {
     "cards": [
       {

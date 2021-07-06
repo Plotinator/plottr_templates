@@ -4,6 +4,7 @@
   "name": "Six Stage Plot Structure",
   "description": "A story structure with six stages",
   "version": "2021.2.19",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {

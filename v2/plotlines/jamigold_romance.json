@@ -4,6 +4,7 @@
   "name": "Romance Beat Sheet",
   "description": "A beat sheet for romance novels",
   "version": "2021.2.19",
+  "categories": ["romance"],
   "templateData": {
     "cards": [
       {

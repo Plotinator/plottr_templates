@@ -4,6 +4,7 @@
   "name": "Seven Romantic Comedy Beats",
   "description": "A romance plot structure",
   "version": "2021.2.19",
+  "categories": ["romance"],
   "templateData": {
     "cards": [
       {

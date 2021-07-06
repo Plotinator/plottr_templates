@@ -4,6 +4,7 @@
   "name": "Story Circle",
   "description": "A circular story structure",
   "version": "2021.2.19",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {

@@ -4,6 +4,7 @@
   "name": "Take Off Your Pants",
   "description": "An outline for faster, better writing by Libbie Hawker",
   "version": "2021.2.23",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {

@@ -4,6 +4,7 @@
   "name": "Shonen Battle Manga Formula",
   "description": "A story structure for Shonen Manga",
   "version": "2021.2.19",
+  "categories": ["manga"],
   "templateData": {
     "cards": [
       {

@@ -4,6 +4,7 @@
   "name": "Action Adventure Plot",
   "description": "A template for an action or adventure story",
   "version": "2021.2.19",
+  "categories": ["action"],
   "templateData": {
     "cards": [
       {

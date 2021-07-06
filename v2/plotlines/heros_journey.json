@@ -4,6 +4,7 @@
   "name": "Hero's Journey",
   "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
   "version": "2021.2.19",
+  "categories": ["general", "action"],
   "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
   "templateData": {
     "cards": [

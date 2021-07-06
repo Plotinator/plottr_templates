@@ -4,6 +4,7 @@
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
   "version": "2021.2.19",
+  "categories": ["general"],
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
     "cards": [

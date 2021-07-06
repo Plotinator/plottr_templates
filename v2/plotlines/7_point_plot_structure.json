@@ -4,6 +4,7 @@
   "name": "7 Point Plot Structure",
   "description": "A plot structure by Dan Wells",
   "version": "2021.2.19",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {
