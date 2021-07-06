@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["general"],
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
     "cards": [

@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "8 Sequences Method",
   "description": "A sequence outline for a feature script",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["screenplay"],
   "templateData": {
     "cards": [
       {

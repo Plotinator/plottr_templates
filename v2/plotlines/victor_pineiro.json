@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Victor Piñeiro Screenplay",
   "description": "A screenplay structure by Victor Piñeiro",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["screenplay"],
   "link": "https://byrslf.co/how-to-write-a-screenplay-or-tell-a-better-story-e91b3a2f9bfb",
   "templateData": {
     "cards": [

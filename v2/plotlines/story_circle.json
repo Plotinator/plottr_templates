@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Story Circle",
   "description": "A circular story structure",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {

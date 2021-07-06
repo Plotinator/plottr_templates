@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "A template for an action or adventure story",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["action"],
   "templateData": {
     "cards": [
       {

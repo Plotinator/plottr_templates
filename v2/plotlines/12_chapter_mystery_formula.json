@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "12 Chapter Mystery Formula",
   "description": "A sequence outline for a feature script",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["mystery"],
   "link": "http://ticket2write.tripod.com/mysplot.html",
   "templateData": {
     "cards": [

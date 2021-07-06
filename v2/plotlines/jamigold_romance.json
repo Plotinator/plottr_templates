@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Romance Beat Sheet",
   "description": "A beat sheet for romance novels",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["romance"],
   "templateData": {
     "cards": [
       {

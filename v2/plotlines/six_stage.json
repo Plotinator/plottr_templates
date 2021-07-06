@@ -3,7 +3,8 @@
   "type": "plotlines",
   "name": "Six Stage Plot Structure",
   "description": "A story structure with six stages",
-  "version": "2021.4.26",
+  "version": "2021.7.7",
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {
