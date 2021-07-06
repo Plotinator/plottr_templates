@@ -1,4 +1,4 @@
-import i18n from 'format-message'
+import { t as i18n } from 'plottr_locales'
 import {
   series,
   book,
@@ -10,7 +10,10 @@ import {
   customAttributes,
   seriesLine,
   categories,
+  hierarchyLevel,
+  featureFlags,
 } from './initialState'
+import { newTree } from '../reducers/tree'
 
 // data structure
 
@@ -51,14 +54,21 @@ export const newFileCharacterCategories = [
   { id: 3, name: i18n('Other'), position: 2 },
 ]
 
+export const newFileNoteCategories = [{ id: 1, name: i18n('Main'), position: 0 }]
+export const newFileTagCategories = [{ id: 1, name: i18n('Main'), position: 0 }]
+
 export const newFileCategories = Object.assign({}, categories, {
   characters: newFileCharacterCategories,
+  notes: newFileNoteCategories,
+  tags: newFileTagCategories,
 })
+
+export const newFileHierarchies = { 0: hierarchyLevel }
 
 export function emptyFile(name, version) {
   const books = {
     ...newFileBooks,
-    [1]: {
+    1: {
       ...newFileBooks[1],
       title: name,
     },
@@ -75,8 +85,13 @@ export function emptyFile(name, version) {
     places: newFilePlaces,
     tags: newFileTags,
     notes: newFileNotes,
-    beats: [...newFileBeats, ...newFileChapters],
+    beats: {
+      1: newTree('id', ...newFileChapters),
+      series: newTree('id', ...newFileBeats),
+    },
     categories: newFileCategories,
     images: newFileImages,
+    hierarchyLevels: newFileHierarchies,
+    featureFlags,
   }
 }

@@ -5,11 +5,12 @@ import {
   FILE_LOADED,
   NEW_FILE,
   RESET,
+  LOAD_IMAGES,
 } from '../constants/ActionTypes'
 import { newFileImages } from '../store/newFileState'
 import { imageId } from '../store/newIds'
 
-export default function cards(state, action) {
+const cards = (dataRepairers) => (state, action) => {
   switch (action.type) {
     case ADD_IMAGE: {
       const newId = imageId(state)
@@ -44,7 +45,12 @@ export default function cards(state, action) {
     case NEW_FILE:
       return newFileImages
 
+    case LOAD_IMAGES:
+      return action.images
+
     default:
       return state || {}
   }
 }
+
+export default cards
