@@ -3,8 +3,11 @@
   "type": "plotlines",
   "name": "Seven Romantic Comedy Beats",
   "description": "A romance plot structure",
-  "version": "2021.2.19",
-  "categories": ["romance"],
+  "version": "2021.7.7",
+  "categories": [
+    "romance",
+    "comedy"
+  ],
   "templateData": {
     "cards": [
       {
@@ -169,78 +172,116 @@
         "title": "Setup / hook"
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 6,
-        "title": "Beat 7",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 5,
-        "title": "Beat 6",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 4,
-        "title": "Beat 5",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 3,
-        "title": "Beat 4",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 2,
-        "title": "Beat 3",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 1,
-        "title": "Beat 2",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 0,
-        "title": "Beat 1",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
+    "beats": {
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "null": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        "heap": {
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 6,
+            "title": "Beat 7",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 5,
+            "title": "Beat 6",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 4,
+            "title": "Beat 5",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 3,
+            "title": "Beat 4",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 2,
+            "title": "Beat 3",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 1,
+            "title": "Beat 2",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 0,
+            "title": "Beat 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "id": 1,

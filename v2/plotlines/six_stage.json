@@ -3,8 +3,10 @@
   "type": "plotlines",
   "name": "Six Stage Plot Structure",
   "description": "A story structure with six stages",
-  "version": "2021.2.19",
-  "categories": ["general"],
+  "version": "2021.7.7",
+  "categories": [
+    "general"
+  ],
   "templateData": {
     "cards": [
       {
@@ -360,118 +362,172 @@
         "title": "Setup"
       }
     ],
-    "beats": [
-      {
-        "id": 1,
-        "bookId": 1,
-        "position": 10,
-        "title": "Stage 6",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "position": 9,
-        "title": "Turning point 5",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "position": 8,
-        "title": "Stage 5",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 4,
-        "bookId": 1,
-        "position": 7,
-        "title": "Turning point 4",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 5,
-        "bookId": 1,
-        "position": 6,
-        "title": "Stage 4",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 6,
-        "bookId": 1,
-        "position": 5,
-        "title": "Turning point 3",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 7,
-        "bookId": 1,
-        "position": 4,
-        "title": "Stage 3",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 8,
-        "bookId": 1,
-        "position": 3,
-        "title": "Turning point 2",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 9,
-        "bookId": 1,
-        "position": 2,
-        "title": "Stage 2",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 10,
-        "bookId": 1,
-        "position": 1,
-        "title": "Turning point 1",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
-      },
-      {
-        "id": 11,
-        "bookId": 1,
-        "position": 0,
-        "title": "Stage 1",
-        "time": 0,
-        "templates": [],
-        "autoOutlineSort": true,
-        "fromTemplateId": null
+    "beats": {
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "null": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        "heap": {
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": 1,
+            "position": 10,
+            "title": "Stage 6",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 9,
+            "title": "Turning point 5",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 8,
+            "title": "Stage 5",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 7,
+            "title": "Turning point 4",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "5": {
+            "id": 5,
+            "bookId": 1,
+            "position": 6,
+            "title": "Stage 4",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 5,
+            "title": "Turning point 3",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 4,
+            "title": "Stage 3",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 3,
+            "title": "Turning point 2",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "9": {
+            "id": 9,
+            "bookId": 1,
+            "position": 2,
+            "title": "Stage 2",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "10": {
+            "id": 10,
+            "bookId": 1,
+            "position": 1,
+            "title": "Turning point 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "11": {
+            "id": 11,
+            "bookId": 1,
+            "position": 0,
+            "title": "Stage 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
-    ],
+    },
     "lines": [
       {
         "id": 1,
