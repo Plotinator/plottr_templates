@@ -89,46 +89,204 @@
     "beats": {
       "1": {
         "children": {
-          "2": [],
-          "null": [
-            2
-          ]
-        },
-        "heap": {
-          "2": null
-        },
-        "index": {
-          "2": {
-            "id": 2,
-            "bookId": 1,
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          }
-        }
-      },
-      "series": {
-        "children": {
           "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
           "null": [
+            14,
+            13,
+            12,
+            11,
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
             1
           ]
         },
         "heap": {
-          "1": null
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null
         },
         "index": {
           "1": {
+            "bookId": 1,
             "id": 1,
-            "bookId": "series",
             "position": 0,
-            "title": "auto",
-            "time": 0,
             "templates": [],
+            "time": 0,
+            "title": "Opening Scene",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "2": {
+            "bookId": 1,
+            "id": 2,
+            "position": 1,
+            "templates": [],
+            "time": 0,
+            "title": "Inciting Event",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "bookId": 1,
+            "id": 3,
+            "position": 2,
+            "templates": [],
+            "time": 0,
+            "title": "Character realizes goal",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "bookId": 1,
+            "id": 4,
+            "position": 3,
+            "templates": [],
+            "time": 0,
+            "title": "Display of flaw",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "5": {
+            "bookId": 1,
+            "id": 5,
+            "position": 4,
+            "templates": [],
+            "time": 0,
+            "title": "Drive for goal",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "bookId": 1,
+            "id": 6,
+            "position": 5,
+            "templates": [],
+            "time": 0,
+            "title": "Antagonist revealed",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "bookId": 1,
+            "id": 7,
+            "position": 6,
+            "templates": [],
+            "time": 0,
+            "title": "Goal thwarted",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "8": {
+            "bookId": 1,
+            "id": 8,
+            "position": 7,
+            "templates": [],
+            "time": 0,
+            "title": "Revisiting flaw",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "9": {
+            "bookId": 1,
+            "id": 9,
+            "position": 8,
+            "templates": [],
+            "time": 0,
+            "title": "Repeat the cycle",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "10": {
+            "bookId": 1,
+            "id": 10,
+            "position": 9,
+            "templates": [],
+            "time": 0,
+            "title": "Ally aids",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "11": {
+            "bookId": 1,
+            "id": 11,
+            "position": 10,
+            "templates": [],
+            "time": 0,
+            "title": "Girding the loins",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "12": {
+            "bookId": 1,
+            "id": 12,
+            "position": 11,
+            "templates": [],
+            "time": 0,
+            "title": "Battle",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "13": {
+            "bookId": 1,
+            "id": 13,
+            "position": 12,
+            "templates": [],
+            "time": 0,
+            "title": "Death (of character flaw)",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "14": {
+            "bookId": 1,
+            "id": 14,
+            "position": 13,
+            "templates": [],
+            "time": 0,
+            "title": "Outcome (new world)",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
