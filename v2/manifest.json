@@ -1,139 +1,139 @@
 {
-  "version": "2021.2.22",
+  "version": "2021.7.8",
   "templates": [
     {
       "id": "proj1",
-      "version": "2021.2.22",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/project/snowflake.json"
     },
     {
       "id": "pl17",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/snowflake.json"
     },
     {
       "id": "ch7",
-      "version": "2020.10.15",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/snowflake.json"
     },
     {
       "id": "ch1",
-      "version": "2020.4.8",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/gmc.json"
     },
     {
       "id": "ch2",
-      "version": "2020.5.27",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/enneagram.json"
     },
     {
       "id": "ch3",
-      "version": "2020.5.27",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/birth_order.json"
     },
     {
       "id": "ch4",
-      "version": "2020.5.27",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/cognitive_distortions.json"
     },
     {
       "id": "ch5",
-      "version": "2020.4.14",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/character_bio.json"
     },
     {
       "id": "ch6",
-      "version": "2020.4.14",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/characters/myers-briggs.json"
     },
     {
       "id": "pl1",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/7_point_plot_structure.json"
     },
     {
       "id": "pl2",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/8_sequences_method.json"
     },
     {
       "id": "pl3",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
       "id": "pl4",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/action_adventure_plot.json"
     },
     {
       "id": "pl5",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/Billy_Mernit_romance_seven_beats.json"
     },
     {
       "id": "pl7",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/story_circle.json"
     },
     {
       "id": "pl8",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/jamigold_romance.json"
     },
     {
       "id": "pl9",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/take_off_pants.json"
     },
     {
       "id": "pl10",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/heros_journey.json"
     },
     {
       "id": "pl11",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/six_stage.json"
     },
     {
       "id": "pl12",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/shonen.json"
     },
     {
       "id": "pl13",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/victor_pineiro.json"
     },
     {
       "id": "pl14",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/w_plot.json"
     },
     {
       "id": "pl15",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/romancing_beat.json"
     },
     {
       "id": "pl16",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/plotlines/three_story_method.json"
     },
     {
       "id": "sc1",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/scenes/proactive.json"
     },
     {
       "id": "sc2",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/scenes/reactive.json"
     },
     {
       "id": "sc3",
-      "version": "2021.2.19",
+      "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/project-hierarchy/v2/scenes/essentials.json"
     }
   ]
