@@ -48,6 +48,9 @@ readline.createInterface({
         images: migrated.images,
         hierarchyLevels: migrated.hierarchyLevels
       }
+      original.version = migrated.version
+      original.initialVersion = migrated.initialVersion
+      original.appliedMigrations = migrated.appliedMigrations
       fs.writeFileSync(templatePath, JSON.stringify(original, null, 2))
       console.log(`Writing migrated template for ${templatePath}`)
     })
