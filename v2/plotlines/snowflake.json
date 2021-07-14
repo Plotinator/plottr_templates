@@ -3,10 +3,8 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.7.7",
-  "categories": [
-    "general"
-  ],
+  "version": "2021.2.19",
+  "categories": ["general"],
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
     "cards": [
@@ -89,144 +87,98 @@
         "fromTemplateId": "proj1"
       }
     ],
-    "beats": {
-      "1": {
-        "children": {
-          "1": [],
-          "2": [],
-          "3": [],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
-          "null": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        "heap": {
-          "1": null,
-          "2": null,
-          "3": null,
-          "4": null,
-          "5": null,
-          "6": null,
-          "7": null,
-          "8": null,
-          "9": null
-        },
-        "index": {
-          "1": {
-            "id": 1,
-            "bookId": 1,
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "2": {
-            "id": 2,
-            "bookId": 1,
-            "position": 1,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "3": {
-            "id": 3,
-            "bookId": 1,
-            "position": 2,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "4": {
-            "id": 4,
-            "bookId": 1,
-            "position": 3,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "5": {
-            "id": 5,
-            "bookId": 1,
-            "position": 4,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "6": {
-            "id": 6,
-            "bookId": 1,
-            "position": 5,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "7": {
-            "id": 7,
-            "bookId": 1,
-            "position": 6,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "8": {
-            "id": 8,
-            "bookId": 1,
-            "position": 7,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "9": {
-            "id": 9,
-            "bookId": 1,
-            "position": 8,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          }
-        }
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 0,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 1,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 2,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 4,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 5,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 6,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 8,
+        "title": "auto",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": "proj1"
       }
-    },
+    ],
     "lines": [
       {
         "id": 1,

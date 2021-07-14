@@ -4,10 +4,8 @@
   "name": "Romancing the Beat",
   "description": "Story structure for romance novels by Gwen Hayes",
   "link": "http://gwenhayes.com/books/romancing-the-beat/",
-  "version": "2021.7.7",
-  "categories": [
-    "romance"
-  ],
+  "version": "2021.2.19",
+  "categories": ["romance"],
   "templateData": {
     "cards": [
       {
@@ -706,298 +704,208 @@
         "fromTemplateId": null
       }
     ],
-    "beats": {
-      "1": {
-        "children": {
-          "1": [],
-          "2": [],
-          "3": [],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
-          "10": [],
-          "11": [],
-          "12": [],
-          "13": [],
-          "14": [],
-          "15": [],
-          "16": [],
-          "17": [],
-          "18": [],
-          "19": [],
-          "20": [],
-          "null": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        "heap": {
-          "1": null,
-          "2": null,
-          "3": null,
-          "4": null,
-          "5": null,
-          "6": null,
-          "7": null,
-          "8": null,
-          "9": null,
-          "10": null,
-          "11": null,
-          "12": null,
-          "13": null,
-          "14": null,
-          "15": null,
-          "16": null,
-          "17": null,
-          "18": null,
-          "19": null,
-          "20": null
-        },
-        "index": {
-          "1": {
-            "id": 1,
-            "bookId": 1,
-            "position": 0,
-            "title": "Beat 1",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "2": {
-            "id": 2,
-            "bookId": 1,
-            "position": 1,
-            "title": "Beat 2",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "3": {
-            "id": 3,
-            "bookId": 1,
-            "position": 2,
-            "title": "Beat 3",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "4": {
-            "id": 4,
-            "bookId": 1,
-            "position": 3,
-            "title": "Beat 4",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "5": {
-            "id": 5,
-            "bookId": 1,
-            "position": 4,
-            "title": "Beat 5",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "6": {
-            "id": 6,
-            "bookId": 1,
-            "position": 5,
-            "title": "Beat 6",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "7": {
-            "id": 7,
-            "bookId": 1,
-            "position": 6,
-            "title": "Beat 7",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "8": {
-            "id": 8,
-            "bookId": 1,
-            "position": 7,
-            "title": "Beat 8",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "9": {
-            "id": 9,
-            "bookId": 1,
-            "position": 8,
-            "title": "Beat 9",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "10": {
-            "id": 10,
-            "bookId": 1,
-            "position": 9,
-            "title": "Beat 10",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "11": {
-            "id": 11,
-            "bookId": 1,
-            "position": 10,
-            "title": "Beat 11",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "12": {
-            "id": 12,
-            "bookId": 1,
-            "position": 11,
-            "title": "Beat 12",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "13": {
-            "id": 13,
-            "bookId": 1,
-            "position": 12,
-            "title": "Beat 13",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "14": {
-            "id": 14,
-            "bookId": 1,
-            "position": 13,
-            "title": "Beat 14",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "15": {
-            "id": 15,
-            "bookId": 1,
-            "position": 14,
-            "title": "Beat 15",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "16": {
-            "id": 16,
-            "bookId": 1,
-            "position": 15,
-            "title": "Beat 16",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "17": {
-            "id": 17,
-            "bookId": 1,
-            "position": 16,
-            "title": "Beat 17",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "18": {
-            "id": 18,
-            "bookId": 1,
-            "position": 17,
-            "title": "Beat 18",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "19": {
-            "id": 19,
-            "bookId": 1,
-            "position": 18,
-            "title": "Beat 19",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "20": {
-            "id": 20,
-            "bookId": 1,
-            "position": 19,
-            "title": "Beat 20",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          }
-        }
+    "beats": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "position": 0,
+        "title": "Beat 1",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "bookId": 1,
+        "position": 1,
+        "title": "Beat 2",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "position": 2,
+        "title": "Beat 3",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "position": 3,
+        "title": "Beat 4",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "position": 4,
+        "title": "Beat 5",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "bookId": 1,
+        "position": 5,
+        "title": "Beat 6",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "position": 6,
+        "title": "Beat 7",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "bookId": 1,
+        "position": 7,
+        "title": "Beat 8",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "position": 8,
+        "title": "Beat 9",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "position": 9,
+        "title": "Beat 10",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "bookId": 1,
+        "position": 10,
+        "title": "Beat 11",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "bookId": 1,
+        "position": 11,
+        "title": "Beat 12",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "bookId": 1,
+        "position": 12,
+        "title": "Beat 13",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "bookId": 1,
+        "position": 13,
+        "title": "Beat 14",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "bookId": 1,
+        "position": 14,
+        "title": "Beat 15",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 16,
+        "bookId": 1,
+        "position": 15,
+        "title": "Beat 16",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 17,
+        "bookId": 1,
+        "position": 16,
+        "title": "Beat 17",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 18,
+        "bookId": 1,
+        "position": 17,
+        "title": "Beat 18",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 19,
+        "bookId": 1,
+        "position": 18,
+        "title": "Beat 19",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
+      },
+      {
+        "id": 20,
+        "bookId": 1,
+        "position": 19,
+        "title": "Beat 20",
+        "time": 0,
+        "templates": [],
+        "autoOutlineSort": true,
+        "fromTemplateId": null
       }
-    },
+    ],
     "lines": [
       {
         "id": 4,
