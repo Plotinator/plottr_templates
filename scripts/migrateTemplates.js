@@ -41,10 +41,17 @@ readline.createInterface({
         cards: migrated.cards,
         beats: migrated.beats,
         lines: migrated.lines,
+        hierarchyLevels: migrated.hierarchyLevels,
       }
-      original.version = migrated.version
-      original.initialVersion = migrated.initialVersion
-      original.appliedMigrations = migrated.appliedMigrations
+      if (original.type === 'project') {
+        original.templateData.customAttributes = migrated.customAttributes
+        original.templateData.tags = migrated.tags
+        original.templateData.notes = migrated.notes
+        original.templateData.images = migrated.images
+      }
+      original.version = migrated.file.version
+      original.initialVersion = migrated.file.initialVersion
+      original.appliedMigrations = migrated.file.appliedMigrations
       fs.writeFileSync(templatePath, JSON.stringify(original, null, 2))
       console.log(`Writing migrated template for ${templatePath}`)
     })
