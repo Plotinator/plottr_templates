@@ -4,7 +4,9 @@
   "name": "Victor Piñeiro Screenplay",
   "description": "A screenplay structure by Victor Piñeiro",
   "version": "2021.7.7",
-  "categories": ["screenplay"],
+  "categories": [
+    "screenplay"
+  ],
   "link": "https://byrslf.co/how-to-write-a-screenplay-or-tell-a-better-story-e91b3a2f9bfb",
   "templateData": {
     "cards": [
@@ -322,18 +324,12 @@
       }
     ],
     "beats": {
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {
-        },
-        "index": {}
-      },
       "1": {
         "children": {
           "1": [],
-          "2": [1],
+          "2": [
+            1
+          ],
           "3": [],
           "4": [],
           "5": [],
@@ -342,13 +338,28 @@
           "8": [],
           "9": [],
           "10": [],
-          "11": [10, 9, 8, 7, 6, 5, 4, 3],
+          "11": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
           "12": [],
           "13": [],
           "14": [],
-          "15": [14, 13, 12],
+          "15": [
+            14,
+            13,
+            12
+          ],
           "null": [
-            15, 11, 2
+            15,
+            11,
+            2
           ]
         },
         "heap": {
@@ -535,6 +546,13 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {},
+        "index": {}
       }
     },
     "lines": [
@@ -559,16 +577,6 @@
         "fromTemplateId": null
       }
     ],
-    "customAttributes": {
-      "characters": [],
-      "places": [],
-      "cards": [],
-      "scenes": [],
-      "lines": []
-    },
-    "tags": [],
-    "notes": [],
-    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",

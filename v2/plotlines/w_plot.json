@@ -4,19 +4,13 @@
   "name": "W Plot",
   "description": "A story structure by Kenneth Atchity similar to the 3 Act structure",
   "version": "2021.7.7",
-  "categories": ["general"],
+  "categories": [
+    "general"
+  ],
   "link": "",
   "templateData": {
     "cards": [],
     "beats": {
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {
-        },
-        "index": {}
-      },
       "1": {
         "children": {
           "1": [],
@@ -96,6 +90,13 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {},
+        "index": {}
       }
     },
     "lines": [
@@ -120,16 +121,6 @@
         "fromTemplateId": null
       }
     ],
-    "customAttributes": {
-      "characters": [],
-      "places": [],
-      "cards": [],
-      "scenes": [],
-      "lines": []
-    },
-    "tags": [],
-    "notes": [],
-    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",

@@ -4,7 +4,9 @@
   "name": "8 Sequences Method",
   "description": "A sequence outline for a feature script",
   "version": "2021.7.7",
-  "categories": ["screenplay"],
+  "categories": [
+    "screenplay"
+  ],
   "templateData": {
     "cards": [
       {
@@ -217,28 +219,35 @@
       }
     ],
     "beats": {
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {
-        },
-        "index": {}
-      },
       "1": {
         "children": {
           "1": [],
           "2": [],
-          "3": [1, 2],
+          "3": [
+            1,
+            2
+          ],
           "4": [],
           "5": [],
           "6": [],
           "7": [],
-          "8": [7, 6, 5, 4],
+          "8": [
+            7,
+            6,
+            5,
+            4
+          ],
           "9": [],
           "10": [],
-          "11": [9, 10],
-          "null": [3, 8, 11]
+          "11": [
+            9,
+            10
+          ],
+          "null": [
+            3,
+            8,
+            11
+          ]
         },
         "heap": {
           "1": 3,
@@ -376,6 +385,13 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {},
+        "index": {}
       }
     },
     "lines": [
@@ -400,16 +416,6 @@
         "fromTemplateId": null
       }
     ],
-    "customAttributes": {
-      "characters": [],
-      "places": [],
-      "cards": [],
-      "scenes": [],
-      "lines": []
-    },
-    "tags": [],
-    "notes": [],
-    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",

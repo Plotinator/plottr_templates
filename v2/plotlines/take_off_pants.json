@@ -4,7 +4,9 @@
   "name": "Take Off Your Pants",
   "description": "An outline for faster, better writing by Libbie Hawker",
   "version": "2021.7.7",
-  "categories": ["general"],
+  "categories": [
+    "general"
+  ],
   "templateData": {
     "cards": [
       {
@@ -316,16 +318,6 @@
         "fromTemplateId": null
       }
     ],
-    "customAttributes": {
-      "characters": [],
-      "places": [],
-      "cards": [],
-      "scenes": [],
-      "lines": []
-    },
-    "tags": [],
-    "notes": [],
-    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",

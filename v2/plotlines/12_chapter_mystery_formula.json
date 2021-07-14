@@ -4,7 +4,9 @@
   "name": "12 Chapter Mystery Formula",
   "description": "A sequence outline for a feature script",
   "version": "2021.7.7",
-  "categories": ["mystery"],
+  "categories": [
+    "mystery"
+  ],
   "link": "http://ticket2write.tripod.com/mysplot.html",
   "templateData": {
     "cards": [
@@ -582,34 +584,45 @@
       }
     ],
     "beats": {
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {
-        },
-        "index": {}
-      },
       "1": {
         "children": {
           "1": [],
           "2": [],
           "3": [],
-          "4": [1, 2, 3],
+          "4": [
+            1,
+            2,
+            3
+          ],
           "5": [],
           "6": [],
-          "7": [8, 9, 10],
+          "7": [
+            8,
+            9,
+            10
+          ],
           "8": [],
           "9": [],
           "10": [],
-          "11": [12, 13, 14],
+          "11": [
+            12,
+            13,
+            14
+          ],
           "12": [],
           "13": [],
           "14": [],
-          "15": [16, 5, 6],
+          "15": [
+            16,
+            5,
+            6
+          ],
           "16": [],
           "null": [
-            4, 7, 11, 15
+            4,
+            7,
+            11,
+            15
           ]
         },
         "heap": {
@@ -808,6 +821,13 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {},
+        "index": {}
       }
     },
     "lines": [
@@ -832,16 +852,6 @@
         "fromTemplateId": null
       }
     ],
-    "customAttributes": {
-      "characters": [],
-      "places": [],
-      "cards": [],
-      "scenes": [],
-      "lines": []
-    },
-    "tags": [],
-    "notes": [],
-    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",
