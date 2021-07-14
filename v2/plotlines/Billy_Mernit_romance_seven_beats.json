@@ -5,7 +5,8 @@
   "description": "A romance plot structure",
   "version": "2021.7.8",
   "categories": [
-    "romance"
+    "romance",
+    "comedy"
   ],
   "templateData": {
     "cards": [
