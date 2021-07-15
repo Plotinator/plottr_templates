@@ -4,9 +4,7 @@
   "name": "Shonen Battle Manga Formula",
   "description": "A story structure for Shonen Manga",
   "version": "2021.7.7",
-  "categories": [
-    "manga"
-  ],
+  "categories": ["manga"],
   "templateData": {
     "cards": [
       {
@@ -380,6 +378,14 @@
       }
     ],
     "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
+      },
       "1": {
         "children": {
           "1": [],
@@ -544,13 +550,6 @@
             "expanded": true
           }
         }
-      },
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {},
-        "index": {}
       }
     },
     "lines": [
@@ -575,6 +574,16 @@
         "fromTemplateId": null
       }
     ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",

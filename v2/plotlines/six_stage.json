@@ -4,9 +4,7 @@
   "name": "Six Stage Plot Structure",
   "description": "A story structure with six stages",
   "version": "2021.7.7",
-  "categories": [
-    "general"
-  ],
+  "categories": ["general"],
   "templateData": {
     "cards": [
       {
@@ -363,6 +361,14 @@
       }
     ],
     "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
+      },
       "1": {
         "children": {
           "1": [],
@@ -526,13 +532,6 @@
             "expanded": true
           }
         }
-      },
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {},
-        "index": {}
       }
     },
     "lines": [
@@ -557,6 +556,16 @@
         "fromTemplateId": null
       }
     ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Stage",

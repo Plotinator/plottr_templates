@@ -4,9 +4,7 @@
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
   "version": "2021.7.7",
-  "categories": [
-    "general"
-  ],
+  "categories": ["general"],
   "link": "https://thecareerauthor.com/threestorymethod/",
   "templateData": {
     "cards": [
@@ -1674,6 +1672,14 @@
       }
     ],
     "beats": {
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {
+        },
+        "index": {}
+      },
       "1": {
         "children": {
           "1": [],
@@ -1688,29 +1694,10 @@
           "10": [],
           "11": [],
           "12": [],
-          "13": [
-            1,
-            2,
-            3
-          ],
-          "14": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "15": [
-            10,
-            11,
-            12
-          ],
-          "null": [
-            13,
-            14,
-            15
-          ]
+          "13": [1, 2, 3],
+          "14": [4, 5, 6, 7, 8, 9],
+          "15": [10, 11, 12],
+          "null": [13, 14, 15]
         },
         "heap": {
           "1": 13,
@@ -1730,6 +1717,17 @@
           "15": null
         },
         "index": {
+          "13": {
+            "id": 13,
+            "bookId": 1,
+            "position": 0,
+            "title": "Act I",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
           "1": {
             "id": 1,
             "bookId": 1,
@@ -1757,6 +1755,17 @@
             "bookId": 1,
             "position": 2,
             "title": "Consequence",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "14": {
+            "id": 14,
+            "bookId": 1,
+            "position": 3,
+            "title": "Act II",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1829,6 +1838,17 @@
             "fromTemplateId": null,
             "expanded": true
           },
+          "15": {
+            "id": 15,
+            "bookId": 1,
+            "position": 9,
+            "title": "Act III",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
           "10": {
             "id": 10,
             "bookId": 1,
@@ -1861,48 +1881,8 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
-          },
-          "13": {
-            "id": 13,
-            "bookId": 1,
-            "position": 0,
-            "title": "Act I",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "14": {
-            "id": 14,
-            "bookId": 1,
-            "position": 3,
-            "title": "Act II",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "15": {
-            "id": 15,
-            "bookId": 1,
-            "position": 9,
-            "title": "Act III",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
           }
         }
-      },
-      "series": {
-        "children": {
-          "null": []
-        },
-        "heap": {},
-        "index": {}
       }
     },
     "lines": [
@@ -1917,6 +1897,16 @@
         "fromTemplateId": null
       }
     ],
+    "customAttributes": {
+      "characters": [],
+      "places": [],
+      "cards": [],
+      "scenes": [],
+      "lines": []
+    },
+    "tags": [],
+    "notes": [],
+    "images": {},
     "hierarchyLevels": {
       "0": {
         "name": "Act",
