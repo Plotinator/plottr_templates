@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.7.9",
+  "version": "2021.7.10",
   "categories": [
     "general"
   ],
@@ -254,29 +254,29 @@
         "name": "Act",
         "level": 0,
         "autoNumber": true,
-        "textColor": "#6cace4",
         "textSize": 24,
-        "borderColor": "#6cace4",
-        "borderStyle": "NONE",
-        "backgroundColor": "#f1f5f8",
+        "borderStyle": "DASHED",
+        "backgroundColor": "none",
+        "textColor": "#78be20",
+        "borderColor": "#78be20",
         "dark": {
-          "borderColor": "#c9e6ff",
-          "textColor": "#c9e6ff"
+          "textColor": "#baed79",
+          "borderColor": "#baed79"
         },
         "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#78be20",
+          "borderColor": "#78be20"
         }
       },
       "1": {
         "name": "Chapter",
         "level": 1,
         "autoNumber": true,
-        "textColor": "#78be20",
         "textSize": 24,
-        "borderColor": "#78be20",
-        "borderStyle": "DASHED",
-        "backgroundColor": "#f1f5f8",
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#6cace4",
+        "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "7 Point Plot Structure",
   "description": "A plot structure by Dan Wells",
-  "version": "2021.7.9",
+  "version": "2021.7.10",
   "categories": [
     "general"
   ],
@@ -329,11 +329,11 @@
         "name": "Chapter",
         "level": 0,
         "autoNumber": true,
-        "textColor": "#6cace4",
         "textSize": 24,
-        "borderColor": "#6cace4",
         "borderStyle": "NONE",
-        "backgroundColor": "#f1f5f8",
+        "backgroundColor": "none",
+        "textColor": "#6cace4",
+        "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"

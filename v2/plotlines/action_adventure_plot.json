@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "A template for an action or adventure story",
-  "version": "2021.7.9",
+  "version": "2021.7.10",
   "categories": [
     "action"
   ],
@@ -499,7 +499,7 @@
           "16": [],
           "17": [],
           "18": [],
-          "36": [
+          "null": [
             1,
             2,
             3,
@@ -518,31 +518,27 @@
             16,
             17,
             18
-          ],
-          "null": [
-            36
           ]
         },
         "heap": {
-          "1": 36,
-          "2": 36,
-          "3": 36,
-          "4": 36,
-          "5": 36,
-          "6": 36,
-          "7": 36,
-          "8": 36,
-          "9": 36,
-          "10": 36,
-          "11": 36,
-          "12": 36,
-          "13": 36,
-          "14": 36,
-          "15": 36,
-          "16": 36,
-          "17": 36,
-          "18": 36,
-          "36": null
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null
         },
         "index": {
           "1": {
@@ -788,32 +784,14 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Act",
+        "name": "Chapter",
         "level": 0,
         "autoNumber": true,
-        "textColor": "#6cace4",
         "textSize": 24,
-        "borderColor": "#6cace4",
         "borderStyle": "NONE",
-        "backgroundColor": "#f1f5f8",
-        "dark": {
-          "borderColor": "#c9e6ff",
-          "textColor": "#c9e6ff"
-        },
-        "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#6cace4"
-        }
-      },
-      "1": {
-        "name": "Chapter",
-        "level": 1,
-        "autoNumber": true,
-        "textColor": "#78be20",
-        "textSize": 24,
-        "borderColor": "#78be20",
-        "borderStyle": "DASHED",
-        "backgroundColor": "#f1f5f8",
+        "backgroundColor": "none",
+        "textColor": "#6cace4",
+        "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"
