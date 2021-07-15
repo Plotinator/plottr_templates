@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Seven Romantic Comedy Beats",
   "description": "A romance plot structure",
-  "version": "2021.7.7",
+  "version": "2021.4.26",
   "categories": ["romance"],
   "templateData": {
     "cards": [

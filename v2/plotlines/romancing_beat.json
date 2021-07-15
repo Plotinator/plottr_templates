@@ -4,7 +4,7 @@
   "name": "Romancing the Beat",
   "description": "Story structure for romance novels by Gwen Hayes",
   "link": "http://gwenhayes.com/books/romancing-the-beat/",
-  "version": "2021.7.7",
+  "version": "2021.4.26",
   "categories": ["romance"],
   "templateData": {
     "cards": [

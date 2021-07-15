@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "7 Point Plot Structure",
   "description": "A plot structure by Dan Wells",
-  "version": "2021.7.7",
+  "version": "2021.4.26",
   "categories": ["general"],
   "templateData": {
     "cards": [
