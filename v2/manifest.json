@@ -1,5 +1,5 @@
 {
-  "version": "2021.7.8",
+  "version": "2021.8.5",
   "templates": [
     {
       "id": "proj1",
@@ -43,7 +43,7 @@
     },
     {
       "id": "ch6",
-      "version": "2020.4.14",
+      "version": "2021.8.5",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/characters/myers-briggs.json"
     },
     {
