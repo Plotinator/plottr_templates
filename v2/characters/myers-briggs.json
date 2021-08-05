@@ -3,8 +3,8 @@
   "type": "characters",
   "name": "Myers-Briggs Type Indicator",
   "description": "Type of personality based on the Myers-Briggs test",
-  "link": "www.myersbriggs.org/my-mbti-personality-type/mbti-basics/",
-  "version": "2020.4.14",
+  "link": "https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/",
+  "version": "2021.8.5",
   "attributes": [
     {
       "name": "Type",
