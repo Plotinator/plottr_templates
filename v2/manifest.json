@@ -1,5 +1,5 @@
 {
-  "version": "2021.8.5",
+  "version": "2021.8.6",
   "templates": [
     {
       "id": "proj1",
@@ -95,11 +95,6 @@
       "id": "pl11",
       "version": "2021.7.8",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/six_stage.json"
-    },
-    {
-      "id": "pl12",
-      "version": "2021.7.8",
-      "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/shonen.json"
     },
     {
       "id": "pl13",
