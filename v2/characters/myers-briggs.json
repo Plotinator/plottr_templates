@@ -4,7 +4,7 @@
   "name": "Myers-Briggs Type Indicator",
   "description": "Type of personality based on the Myers-Briggs test",
   "link": "https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/",
-  "version": "2021.7.22",
+  "version": "2021.8.5",
   "attributes": [
     {
       "name": "Type",
