@@ -1,9 +1,9 @@
 {
   "id": "pl1",
   "type": "plotlines",
-  "name": "7 Point Plot Structure",
+  "name": "Seven Point Plot Structure",
   "description": "A plot structure by Dan Wells",
-  "version": "2021.7.8",
+  "version": "2021.8.6",
   "categories": [
     "general"
   ],
@@ -22,7 +22,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hook is the opening scene and your opportunity to engage the reader and draw them into your story. It is the beginning of the Protagonist's character arc and must show them in an opposite state from where they are at the end of the story. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Establish the setting, introduce the Protagonist, and showcase what their life is like under normal circumstances. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop a three-dimensional Protagonist with flaws, desires, problems, and a unique personality. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist is in the opposite state from the ending of the story (i.e. fearful vs brave, brash vs respectful, uncertain vs confident.)"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Hook should take approximately 12% of the story."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -47,7 +124,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The inciting incident and point of no return. In this section, the status quo is shaken up by something drastic, which forces the Protagonist out of their comfortable life and into the adventure. The world has changed in such a way the Protagonist is compelled to willingly - or reluctantly - take up the challenge."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The status quo is shaken up (e.g. a loss, an attack or natural disaster, a threat to their way of life, or acquisition of new knowledge.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist may initially refuse to engage, but Plot Turn 1 cannot be corrected by itself. The Protagonist is forced into action, past the point of no return, and must start the movement towards the eventual climax and resolution. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure the Protagonist's reactions are in line with their character development."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plot Turn 1 should take your story to the 25% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -72,7 +226,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist sets off on an adventure, leaving the comfort of their ordinary world behind, but they are not yet comfortable in their new role. While trying to adapt, the Protagonist is put under pressure and must face challenges and an obstacle, such as the Antagonist or other villains. The process of dealing with the obstacle solidifies the Protagonist's dedication to the quest and stopping the Antagonist. This Pinch Point continues to push the Protagonist forward, leading to the resolution and their transformation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist being uncomfortable in their new role, and how that leads to missteps and difficulty in facing their challenges, while creating tension and personal growth. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce obstacles such as an Antagonist and other enemies."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist either overcome the obstacle(s) or simply survive with lessons learned."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist's reaction to previous events lasts from around the 25% to 37% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Pinch Point 1 occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -97,7 +336,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "A major event occurs, which changes the Protagonist and their perspective for the remainder of the story. The event must be dramatic enough to drive the Protagonist to switch from reaction to action and reinforce their need to stop the Antagonist. The tension and intensity begin to ramp up."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce a major dramatic event (e.g. an attack, new knowledge, a change of direction, or a realization of the true stakes.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the event alters the Protagonist's perception moving forward (e.g. learning the Antagonist plans to poison a water supply, threatening the Protagonist's loved ones.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes, forcing the Protagonist to decide they must stop the Antagonist. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The dramatic event should capture the reader's attention and carry them to the climax."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Midpoint occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -122,7 +446,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist faces another major obstacle, bigger than the first, and everything seems to fall apart; it appears as though the Protagonist will be defeated and lose everything. They either find the confidence to move on and face the Antagonist or need allies to support them. At the end of this section, the Protagonist gains a new perspective which emboldens them to defeat the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist moving forward with confidence and speed from the Midpoint, only to have it fall apart in the face of this obstacle."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allies may become trapped, mentors may be killed, powers may fail, a critical item is lost or broken, or the Antagonist reveals themselves to be more powerful than anticipated."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist fights and struggles but ultimately suffers a major defeat."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide if the Protagonist finds their own strength to continue or needs to revisit a Mentor or allies."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Pinch Point 2 occurs around the 60% - 65% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -147,7 +556,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The second Plot Turn leads to the climax and must offer readers high stakes and high rewards for a satisfying payoff. Everything ties together, and the Protagonist receives or realizes they have all they need to defeat the Antagonist and emerge victorious. The Protagonist and Antagonist meet face to face for the final - dramatic - confrontation. The entire story has been leading to this point. It is important to have the Protagonist in a position of strength, now confident in their abilities."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Determine what is the new piece of information or ability granted to the Protagonist that helps rebuild their confidence (i.e. discovering the new potential of an idea or object they have.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist newly emboldened for the event/battle before them and make clear why they have regained their confidence and how they can use what they have learned to succeed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lead the Protagonist to the final confrontation with the Antagonist, and make it explosive or dramatic, bringing the story to its climax."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plot Turn 2 occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -172,7 +658,125 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Antagonist is defeated (or not) after the final confrontation. This concludes the character arc of the Protagonist; they have been transformed by what they have learned and experienced. If the book is a part of a series, leave some storylines unfinished and leave room for further growth for the Protagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist transformed and in an opposite state from the opening scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist's return to a sense of normal (or as close to normal as the story allows)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider showing the Protagonist's return to the normal world and how they are received and celebrated."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "If Part of a Series:",
+                "bold": true
+              },
+              {
+                "text": " "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider having the Antagonist not be defeated, just driven off to rebuild... OR the sense of normalcy be off-balance (i.e. the first challenge has been defeated, but it leads to potentially greater danger)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If the Antagonist has been defeated, begin to set the hook for the new Antagonist."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The climax occurs around the 85% - 90% mark"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Resolution occurs around the 98% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -293,6 +897,13 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "heap": {},
+        "index": {}
       }
     },
     "lines": [
@@ -300,43 +911,13 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "7 Point Plot Structure",
         "position": 0,
         "characterId": null,
         "expanded": null,
         "fromTemplateId": null
       }
-    ],
-    "hierarchyLevels": {
-      "0": {
-        "name": "Scene",
-        "level": 0,
-        "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#6cace4",
-        "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#c9e6ff",
-          "textColor": "#c9e6ff"
-        },
-        "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#6cace4"
-        }
-      }
-    }
+    ]
   },
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
