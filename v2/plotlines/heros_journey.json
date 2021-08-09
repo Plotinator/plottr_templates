@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Hero's Journey",
   "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
-  "version": "2021.7.8",
+  "version": "2021.8.11",
   "categories": [
     "general",
     "action"
@@ -24,7 +24,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This section introduces the reader to the Hero and their normal, everyday life – as well as something that will soon come to disrupt it, thrusting them into the Journey. This is the hook that makes the reader care about your character and compels them forward."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce readers to the Hero and their world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish a three-dimensional character with flaws, desires, problems, and a unique personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Showcase the Hero's comfort with their everyday life and activities."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hint at something that displeases them about their life/world (e.g. a problem or a dramatic event/question that bothers the Hero and must be solved)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Ordinary World should take approximately 12% of the story."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -49,7 +134,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "In this section, the Hero is driven out of their everyday life and into the adventure. Some Heroes may be hesitant and require more than one Call of Adventure to raise the stakes and convince them to respond, while others are willing to answer the Call and need only an opportunity. The Call introduces a challenge, mission, or quest that must be conquered before the Hero can return to the Ordinary World; these are the inciting incident(s) that hooks the reader and set the scene for the rest of the book."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce a tangible disruption to the Hero's everyday life (e.g. discovery of new knowledge, being sent on a mission, a threat to a family member)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how this incident makes the Hero's world uncomfortable."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "To consider: is the disruption interesting enough to hook the reader into the story?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Call of Adventure occurs around the 12% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -74,7 +236,100 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "A willing Hero may skip this step and take up the Call to Action immediately. However, most Heroes need a little convincing; after all, it is dangerous, and the challenge or quest often comes at great personal risk. Some challenges are so threatening the Hero has no choice but to accept quickly, while other challenges may need to gradually build to become dire enough to pressure the Hero into action. Ultimately, the Hero is left with no choice but to agree to the challenge."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero hesitate or try to refuse the Call (e.g. they may say it is too dangerous, they feel too old, they don't believe it, etc.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "More than one Call may be necessary to pressure the Hero."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes after each refusal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include the Hero's emotional response to the refusal – are they feeling guilty, angry, annoyed? This helps show their motivations and builds their character."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Force the Hero's hand with an inciting incident which can no longer be ignored."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Refusal of the Call occurs around the 15% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -99,7 +354,93 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true,
+                "fontSize": 20
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This is the introduction to the person or item which gives the Hero the confidence and tools to succeed. The Mentor must work with the Hero to overcome their previous objections, which often takes the form of a (not so) gentle nudge. The Mentor, for example, can be someone with the wisdom and experience to guide the Hero, someone with technical expertise who can provide tools and specialized equipment, or someone who can train the Hero to ready them physically and mentally."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identify the knowledge, tools, training, or other forms of support provided by the Mentor."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Hero gaining confidence due to the Mentor's help in procuring a magical item, a particular item or equipment, or new knowledge, etc."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the Mentor works with Hero to help change their perspective, carrying the Hero into the story and taking up the Call."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create an awe-inspiring moment (e.g. showcase an amazing discovery, magic, or superhuman abilities)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Meeting the Mentor occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -124,7 +465,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero has gained (or almost gained) all the knowledge, confidence, and tools needed to begin the journey. However, their training and work with the Mentor may be cut short due to the Antagonist's actions or another external force which pressures the Hero out of the Ordinary World and into the Unknown World. This is the first point of no return, which tests the Hero and has them officially commit to the challenge before them. Often this is an abrupt moment with high stakes and tension."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What external or internal forces push the Hero into the journey? Consider killing the Mentor, having a critical item stolen, or destroy a part of the Hero's world (e.g. a kidnapping or an explosion)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero leaving the comfort of their world and setting out to face the task before them."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Re-establish the central issue or Hero's task."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure the Hero's character is well developed and that they respond appropriately to the challenge before them (e.g. a previously timid Hero will not suddenly transform into a brash Hero; the reader must see the growth over the course of the story)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Crossing the First Threshold occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -149,7 +575,138 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero's first step into the Unknown World produces a series of challenges which quickly tests their new abilities. While the Hero has new tools and confidence, they have not yet learned how to harness them. The dangers and enemies of this new world overwhelm the Hero, leaving them in need of the assistance of Allies. By the end of this section, the reader may doubt if the Hero can succeed."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce enemies and harsh challenges to showcase how dangerous this new world is."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the Hero reason(s) to doubt their abilities."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce Allies to support and strengthen the Hero (e.g. a partner, a group, or a newly forged team who face multiple challenges with the Hero)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Test the Hero and their Allies to show how they function together."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Not all Allies may survive past this section."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Not all Allies may remain loyal, and not all Enemies may remain foes."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "This is an opportunity to add more characters to the story. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plan the character development of the supporting characters to ensure they are strong as well. What are their goals, motivations, and strategies? They may not always align with the Hero."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Test, Allies, Enemies occurs around the 30% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -174,7 +731,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero and (most) Allies have survived the previous Tests and journey into the Unknown World and can pause for a moment. If they have been hit by setbacks during the Tests, this is an opportunity for them to regroup and create their plan for the final confrontation by gathering tools, preparing plans, or cutting down the enemy's ranks. It may also be a good place for a morale booster or a visit from the Mentor to reconfirm the Hero's faith in their abilities. By the end of this section, the Hero should be entirely separated from the Ordinary World and have survived an event that reconfirms their commitment to the quest."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Allow the Hero to pause after surviving their introduction to the new world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Demonstrate that the Hero and their band are on the way to their final goal (e.g. have them gather needed supplies and intelligence)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Highlight them creating a plan but encountering hardships along the way."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show that the Hero is prepared and ready to face the Antagonist."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Approach to the Inmost Cave occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -199,7 +841,100 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Once the Hero has entered the Inmost Cave, they must face their biggest test, which leads them to their darkest moment. The Ordeal is a critical moment and the central conflict in the story. The Hero must draw upon all they have learned and their new skills to be victorious in the face of a dangerous task. Often the Hero faces a large sacrifice, a death, or a significant loss which breaks them down to their lowest. The Hero must transition through a form of death and rebirth, transforming into a stronger, more powerful version of themselves. If the Hero is successful, this rebirth grants them the strength to defeat the Antagonist and new insights which alter their perception for the rest of the story, giving them the strength to fulfill their duties. If the Hero fails, the Journey's success is thrown into question, while the tension and the stakes heighten."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero facing their biggest test so far (e.g. a confrontation with the Antagonist or their forces),  leading to their darkest moment."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the darkest moment: a painful sacrifice, the death of a Mentor or Ally, the Hero's death, the loss of an important artifact, or knowledge that shakes the Hero's faith in themselves and their world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Highlight the emotional, mental, and/or physical work the Hero must do to rebuild after being broken down to their lowest so that they can be \"reborn\" to face the Antagonist."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero transformed into a stronger, more powerful version of themselves, with renewed confidence in their abilities."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hint at how the Hero's perception for the rest of the story is altered by these events (e.g. a death drives them toward the final confrontation, or new knowledge inspires new determination)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Ordeal occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -224,7 +959,107 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero has been broken down by the Ordeal, but they have survived, meaning the Reward is at hand. The Reward is the item or knowledge the Hero has been fighting for all along the Journey. It is the key to the Hero's ultimate success against the Antagonist, and finally obtaining it is a moment of celebration. Give the Hero (and reader) a moment to stop, celebrate, and catch their breath. "
+              },
+              {
+                "text": "The story has not yet reached its climax, and this moment allows an emotional reset for all involved. However the Hero receives the Reward, it is a victory in the face of sacrifice – and"
+              },
+              {
+                "text": " propels the Hero on to the climax of the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero acquiring their Reward after facing the Ordeal – this can be an object, knowledge, new abilities, or reconciliation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "text": "The Reward may be rightfully claimed, given, or stolen depending on the circumstances."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Indicate how this Reward will aid the Hero in the rest of their journey and plays a central role in the Hero's defeat of the Antagonist and their forces."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow a moment for the Hero to celebrate and perhaps reflect back on all they have been through to get to this point."
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reward (Seizing the Sword) occurs around the 70% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -249,7 +1084,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero aims to return to the Ordinary World, but must face further dangers and the consequences of obtaining the Reward. The Road Back sees an increase in tension and heightened stakes as the Hero is pursued by danger, understands their mission is not yet complete, or uncovers an even more dire circumstance that must be dealt with before returning home. This moment serves as the catalyst for the Hero to complete their mission and transitions them towards the final battle, forcing them across the threshold to ultimately lead them back to the Ordinary World."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the consequences the Hero faces for overcoming The Ordeal and acquiring the Reward (e.g. a pursuing army, the need to reclaim an object from the villain, or a sense of time running out)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Use this section to re-confirm the danger and urgency of the mission – it is also a good time to remind the reader of the central dramatic event/question which started the Hero on their Journey."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The danger faced by the Hero may act as a turning point, creating an unexpected turn in the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make clear how these events compel the Hero to finish the adventure before returning home to the Ordinary World, leading them to the Climax and final confrontation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Road Back occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -274,7 +1194,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This is the true climax of the story, the final and most dangerous encounter. This is the definitive and greatest test of the Hero's abilities and all they have learned along the journey. With the stakes heightened during the Road Back, the Hero is now fighting for more than themselves; they are fighting to save others or perhaps the world. With time running out and pressure at its highest, the Hero draws upon their new abilities and finally strikes down the Antagonist, sometimes at great sacrifice. After this battle, they are fully transformed into the role of Hero and can return home."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the final battle – show how the Hero uses all they have learned to be victorious."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Demonstrate the Hero's resurrection, as they are transformed into a new, stronger version of themselves (e.g. a physical death and rebirth or a figurative death and rebirth of the mind, changing the Hero's perspective)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Hero may need to sacrifice their life to save the lives of others and the world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Prepare the newly transformed Hero to return home again."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Resurrection occurs around the 85% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -299,7 +1304,130 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero returns home a changed person with new strength and confidence, and the Elixir. This is an opportunity to reaffirm the Hero's growth, the reasons for the journey, and offers new hope. The Hero is celebrated by those they left behind in the Ordinary World and are accepted back with newfound respect as a reward for facing terrible dangers and risking it all. The Hero can choose to settle into a life of comfort until the next crisis arises, or they may find home too small, leading to a search for further adventures."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Present the Hero's return home: showcase how they are different from when they were first introduced in the Ordinary World."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reaffirm the Hero's growth, the reasons for the journey, and their new hope."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Highlight the Hero's new strength and the Elixir, which can be a prize, object, knowledge, or abilities. "
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Hero can use the Elixir to help those at home, provide more safety, or offer a new perspective, thereby making the journey and their sacrifices worthwhile."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide if the Hero chooses to settle in or if their journey has made their home feel too small, leading them to seek other adventures."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "If Part of a Series:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Leave some loose threads and room for further character development for the Hero."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider leaving tantalizing unfinished story lines or setting the hook for the next book."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Return with the Elixir occurs around the 95% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -497,43 +1625,13 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Hero's Journey",
         "position": 0,
         "characterId": null,
         "expanded": null,
         "fromTemplateId": null
       }
-    ],
-    "hierarchyLevels": {
-      "0": {
-        "name": "Scene",
-        "level": 0,
-        "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#6cace4",
-        "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#c9e6ff",
-          "textColor": "#c9e6ff"
-        },
-        "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#6cace4"
-        }
-      }
-    }
+    ]
   },
   "initialVersion": "2021.2.19",
   "appliedMigrations": [

@@ -1,5 +1,5 @@
 {
-  "version": "2021.8.6",
+  "version": "2021.8.11",
   "templates": [
     {
       "id": "proj1",
@@ -48,7 +48,7 @@
     },
     {
       "id": "pl1",
-      "version": "2021.8.6",
+      "version": "2021.8.11",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/7_point_plot_structure.json"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "pl10",
-      "version": "2021.7.8",
+      "version": "2021.8.11",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/heros_journey.json"
     },
     {
