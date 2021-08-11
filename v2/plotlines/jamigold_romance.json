@@ -3,10 +3,11 @@
   "type": "plotlines",
   "name": "Romance Beat Sheet",
   "description": "A beat sheet for romance novels developed by Jami Gold",
-  "version": "2021.8.11",
+  "version": "2021.8.12",
   "categories": [
     "romance"
   ],
+  "link": "https://jamigold.com/2012/11/write-romance-get-your-beat-sheet-here/",
   "templateData": {
     "cards": [
       {

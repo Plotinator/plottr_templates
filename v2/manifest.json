@@ -1,5 +1,5 @@
 {
-  "version": "2021.8.11",
+  "version": "2021.8.12",
   "templates": [
     {
       "id": "proj1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "pl3",
-      "version": "2021.8.11",
+      "version": "2021.8.12",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "id": "pl8",
-      "version": "2021.8.11",
+      "version": "2021.8.12",
       "url": "https://raw.githubusercontent.com/Plotinator/plottr_templates/master/v2/plotlines/jamigold_romance.json"
     },
     {
