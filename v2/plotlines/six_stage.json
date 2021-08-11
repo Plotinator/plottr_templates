@@ -2,11 +2,12 @@
   "id": "pl11",
   "type": "plotlines",
   "name": "Six Stage Plot Structure",
-  "description": "A story structure with six stages",
-  "version": "2021.7.8",
+  "description": "An outline formula based on ideas popularized by Michael Hague",
+  "version": "2021.8.11",
   "categories": [
     "general"
   ],
+  "link": "https://www.storymastery.com/story/screenplay-structure-five-key-turning-points-successful-scripts/",
   "templateData": {
     "cards": [
       {
@@ -18,7 +19,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character is now transformed and the reader gets a glimpse of their new post-journey life."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -26,7 +27,91 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the characters are together and happy for the foreseeable future. This is the “Happily Ever After” (or at least a “Happily For Now”) ending"
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist returns to the Ordinary World newly transformed, and the reader is shown a glimpse of their new life. If successful, the Protagonist is now able to use their new persona and abilities to face future events and assist those originally left behind in the Ordinary World. This stage sees the outer and inner conflicts resolved and wraps the character arcs of the Protagonist and all major characters."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist is in an opposite state from the beginning of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How has the Protagonist achieved their internal and external goals?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow the Protagonist a chance to celebrate, be celebrated, or otherwise reflect on their new life."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Is the Protagonist happy to return to the ordinary world, or does their transformation create new challenges?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, leave room for continued personal growth and consider setting the hook for the next installment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 6 brings the story to its conclusion."
+                  }
+                ]
               }
             ]
           }
@@ -39,7 +124,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Aftermath"
+        "title": "Stage 6: Aftermath"
       },
       {
         "beatId": 2,
@@ -50,7 +135,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character must face their fear one final time. The character’s wound, false belief, and/or fear should make another appearance here."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -58,7 +143,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the fear should threaten the relationship."
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the ultimate obstacle of the story. The Climax is where the Protagonist must face the Central Conflict one final time. It mirrors the story's opening by restating the Protagonist's difficulty or false belief and shows how they have finally overcome it. The Protagonist will either achieve their goal or fail in the final confrontation with the Antagonist."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist uses all they have learned, gained, and experienced to try to successfully obtain their goal / resolve the Central Conflict."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decide if the Antagonist is defeated, sent on the run, or successful – and how the Protagonist is transformed."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve the Protagonist's external motivation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point 5 occurs around the 90% - 99% mark."
+                  }
+                ]
               }
             ]
           }
@@ -71,7 +224,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Climax"
+        "title": "Turning Point 5: Climax"
       },
       {
         "beatId": 3,
@@ -82,7 +235,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character returns to their essence, which lets them “earn” their success."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -90,7 +243,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the characters try to figure out a way to make things work between them. They’ve accepted that they don’t want to live without this person anymore."
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The stakes and tension continue to rise. The challenges are overwhelming, and the pace of the story increases. Everything seems to be going wrong for the Protagonist as they try to recover from the \"all is lost\" event and achieve their ultimate goal. To succeed, the Protagonist must fully embrace their transformation, finally leaving their old self behind. They must use all they have learned and gained to face the final goal."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The situation gets worse, driving the Protagonist to their lowest (e.g. perhaps they have lost the support of a key Ally, lost faith in themselves, or the Antagonist is at their strongest)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Determine what new piece of information or ability gives the Protagonist the strength to move on – this can be realizing a truth about themselves or the true capability of an object they possess, or it may be a pep talk from an Ally or Mentor."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist has shed their old persona and accepted the new, emboldening them for the final confrontation of the problem."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 5 brings the story to around the 90% - 99% mark."
+                  }
+                ]
               }
             ]
           }
@@ -103,7 +324,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Final push"
+        "title": "Stage 5: Final Push"
       },
       {
         "beatId": 4,
@@ -114,7 +335,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "An “all is lost” event occurs. This event can be result of the character getting scared and retreating, or it can cause the character to retreat. The character attempts to hide behind their mask again. Often a sidekick character will point out how they’re stuck."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -122,7 +343,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, something happens to make it appear as though the characters can’t be together."
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A major event occurs, and the Protagonist is brought to their lowest and darkest moment, giving the impression that all is lost. The Protagonist slides back to the comfort of their old ways and tries to hide from the challenge of the Central Conflict, but they are unable. Often an Ally or Mentor is needed to bring the Protagonist back from the brink and give them the confidence they need to continue. Newly emboldened, the Protagonist takes up the mantle for one final grand push. Maximum effort."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Major Setback in your story? For example, it can be the loss of a loved one, the loss of an important object, the villain getting away, or realizing a great betrayal."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The reader and the Protagonist should doubt whether success is still within reach or even possible."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point 4 occurs around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -135,7 +416,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Major setback"
+        "title": "Turning Point 4: Major Setback"
       },
       {
         "beatId": 5,
@@ -146,7 +427,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character moves steadily toward living in their essence."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -154,7 +435,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the characters are getting along more than they were before."
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The tension and the stakes rise as the Protagonist risks losing it all if they fail; as the importance of reaching the goal grows, so does the difficulty and risk. The Protagonist moves steadily toward their goal and inner transformation, struggling through increasingly difficult challenges. It looks as though hard-fought success is in reach."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Illustrate the increased risk of failure as the tension and stakes rise."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Protagonist face a series of challenges, which they succeed in overcoming, if barely."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The outside world is closing in, and conflict grows."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 4 brings the story to around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -167,7 +516,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Complications & higher stakes"
+        "title": "Stage 4: Complications & Higher Stakes"
       },
       {
         "beatId": 6,
@@ -178,7 +527,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character must do something to show they’re committed to the goal, and they get a glimpse of what their life would be like if they lived in their essence. Even though the outside world is starting to close in, most of the character’s vacillation ends at this point."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -186,7 +535,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, this might be the hero and heroine’s first kiss, first sex scene, or first declaration of love. Some visible action has to reveal their desire (goal) to the world."
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The midpoint of the story and where the Protagonist crosses the Point of No Return and becomes committed to the final goal. Another Inciting Incident grants clarity and new insight to the Protagonist, driving them to a state of action rather than reaction. They get a glimpse of what is truly at stake and wholeheartedly take on the challenge of the Central Conflict."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "As implied by Point of No Return, this incident causes the Protagonist to fully commit to the goal. They no longer have a choice of returning to their ordinary life and are now on a collision course with the ultimate solution."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist must take a bigger risk than they have previously, possibly losing friends, Allies, or Mentors along the way."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point 3 occurs around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -199,7 +608,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Point of no return"
+        "title": "Turning Point 3: Point of No Return"
       },
       {
         "beatId": 7,
@@ -210,7 +619,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "As the character pursues their new goal, they get scared and retreat, so they waver between their identity and their essence."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -218,7 +627,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the characters will often “dance” around each other at this point. They vaguely know they want to be together, but they haven’t committed to the changes that would be required to make it happen."
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist works to resolve the central problems of the plot and grow as a person. They appear to be having successes as they pursue their new goal and deal with obstacles before them. However, in the face of challenges, they may begin to waver and revert to the comfort of their old self, recoiling from the growth and transformation they have shown to this point."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Protagonist face obstacles and challenges that they can overcome or avoid."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how the Protagonist is growing toward their internal goal as they work towards the external goal."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember the Protagonist is not yet fully committed to their transformation or final goal – their strength and courage may wax and wane."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 3 brings the story to around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -231,7 +708,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Progress"
+        "title": "Stage 3: Progress"
       },
       {
         "beatId": 8,
@@ -242,7 +719,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "An event occurs that creates a new desire with a specific (visible) goal and end point. A character’s external pursuit of the goal begins. The goal has to be something the character can’t fully achieve while living in their identity."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -250,7 +727,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the goal can be unrelated to the romance, but it should force the hero and heroine together."
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A new Inciting Incident occurs, creating a turn in the story and a new external goal for the Protagonist to pursue. The new goal presents a challenge the Protagonist cannot achieve without growth and transformation and becomes the end goal of the story."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use this section to clearly define the central story concept and the Protagonist's outer motivation. (Inner motivation represents a change like gaining courage, finding love, or learning patience; outer motivation represents a tangible objective like finding an object, stopping a plot, or saving someone.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This Turning Point can be the need to foil an evil plot, prevent something terrible, locate an essential item, or deliver someone/something on time – it must be a big enough event to change the course of the story and deepen the hook with the reader."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point 2 occurs around the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -263,7 +800,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Change of plans"
+        "title": "Turning Point 2: Change of Plans"
       },
       {
         "beatId": 9,
@@ -274,7 +811,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character attempts to adjust to their new situation."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -282,7 +819,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the hero and heroine react to their meeting."
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist attempts to adjust to their new situation and the new world they've entered upon leaving the comfort of their Ordinary World. Their views in life are challenged, and they get a glimpse of what life could be like. It is exciting but also daunting and frightening. As life changes and obstacles grow, they quickly realize the solution to the problem is not as straightforward as they anticipated."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how the Inciting Incident has challenged the Protagonist's views in life."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Protagonist leave their ordinary world to create the change they need (e.g. change of job, change of location, change of personal relationships)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Build tension and increase the stakes as the story moves toward Turning Point 2."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 2 brings the story to around the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -295,7 +900,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "New situation"
+        "title": "Stage 2: New Situation"
       },
       {
         "beatId": 10,
@@ -306,7 +911,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "An event occurs that creates desire in the character. This can be a glimpse of their longing or need. As Janice pointed out in her post, this is their first opportunity to face their fear and they run from it instead."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -314,7 +919,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, this is typically when the hero and heroine first meet"
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Turning Point 1 introduces an Inciting Incident that creates a goal / opportunity for the Protagonist; it challenges the Protagonist's views and offers an incentive to act and make a change. This event offers a glimpse of their want or need. They may decide to act upon this desire or run from it at first. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decide upon an Inciting Incident and whether it fits a want (external desire like leaving town or getting an object of power) or a need (internal desire like finding love, courage, or patience)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Will the Protagonist accept it or run from it? (Running from it eventually leads to accepting it.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This section should hook the reader to continue reading, as it drives the Protagonist into Stage 2."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point 1 occurs around the 10% mark."
+                  }
+                ]
               }
             ]
           }
@@ -327,7 +1000,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Opportunity"
+        "title": "Turning Point 1: Opportunity"
       },
       {
         "beatId": 11,
@@ -338,7 +1011,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The character is living fully in their identity. Their wound, false belief, and fears are holding them back. The purpose of this stage is to introduce the protagonist(s) and create empathy for them (victim, in jeopardy, likable, funny, highly skilled, etc.). Readers should see the character “stuck” in their life and/or identity."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -346,7 +1019,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "In a romance, the hero and the heroine are often equal protagonists and might be introduced separately. Sometimes this stage will be cut short or doled out in backstory snippets to instead open with Turning Point One in order to have the hero and heroine meet earlier."
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Setup introduces the Protagonist, how they interact with their Ordinary World, and introduces something that displeases them in their everyday life. The Protagonist must be well developed with desires, fears, flaws, and a unique personality. This section is the hook that draws the reader into the story and allows them to connect with the Protagonist. The reader should see the Protagonist facing a difficulty or false belief that has them mired in place."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a sympathetic Protagonist – are they a victim, in jeopardy, likable, skilled, funny, depressed?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What about their world displeases them, or is holding them back, but they have not worked to fix? How are they stuck?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the wound, false belief, and/or fear that has them entrenched?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Stage 1 brings the story to around the 10% mark."
+                  }
+                ]
               }
             ]
           }
@@ -359,7 +1100,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Setup"
+        "title": "Stage 1: Setup"
       }
     ],
     "beats": {
@@ -408,7 +1149,7 @@
             "id": 1,
             "bookId": 1,
             "position": 10,
-            "title": "Stage 6",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -419,7 +1160,7 @@
             "id": 2,
             "bookId": 1,
             "position": 9,
-            "title": "Turning point 5",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -430,7 +1171,7 @@
             "id": 3,
             "bookId": 1,
             "position": 8,
-            "title": "Stage 5",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -441,7 +1182,7 @@
             "id": 4,
             "bookId": 1,
             "position": 7,
-            "title": "Turning point 4",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -452,7 +1193,7 @@
             "id": 5,
             "bookId": 1,
             "position": 6,
-            "title": "Stage 4",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -463,7 +1204,7 @@
             "id": 6,
             "bookId": 1,
             "position": 5,
-            "title": "Turning point 3",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -474,7 +1215,7 @@
             "id": 7,
             "bookId": 1,
             "position": 4,
-            "title": "Stage 3",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -485,7 +1226,7 @@
             "id": 8,
             "bookId": 1,
             "position": 3,
-            "title": "Turning point 2",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -496,7 +1237,7 @@
             "id": 9,
             "bookId": 1,
             "position": 2,
-            "title": "Stage 2",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -507,7 +1248,7 @@
             "id": 10,
             "bookId": 1,
             "position": 1,
-            "title": "Turning point 1",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -518,7 +1259,7 @@
             "id": 11,
             "bookId": 1,
             "position": 0,
-            "title": "Stage 1",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -533,17 +1274,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Six Stage Plot Structure",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -552,13 +1283,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -566,7 +1297,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -574,6 +1305,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

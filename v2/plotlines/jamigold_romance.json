@@ -2,22 +2,397 @@
   "id": "pl8",
   "type": "plotlines",
   "name": "Romance Beat Sheet",
-  "description": "A beat sheet for romance novels",
-  "version": "2021.7.8",
+  "description": "A beat sheet for romance novels developed by Jami Gold",
+  "version": "2021.8.11",
   "categories": [
     "romance"
   ],
   "templateData": {
     "cards": [
       {
+        "id": 14,
+        "lineId": 1,
+        "beatId": 9,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "End of Beginning",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An event or a situation brings the Protagonists together and forces them to spend time cooperating to achieve a goal. This event raises the tension and stakes and allows for a clear definition of each of the Protagonist's goals. While still at odds with each other, sparks are starting to fly. In Romance stories, attention must be paid to the External (outside forces that impact the relationship) and Internal Relationship Arcs (beliefs, decisions, and actions of the Protagonists that impact the relationship). "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "External: What event forces the Protagonists to spend time together? (e.g. snowstorm, disaster cleanup, work project, or competition.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Internal: What action or choice do the characters make that reflects their desire for each other? (e.g. defending each other, being extra helpful, or thoughtful action.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember, sparks are beginning to fly, but the Protagonists are still in a state of denial."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "End of Beginning should occur at around the 25% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 13,
+        "lineId": 1,
+        "beatId": 1,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Final Image / Resolution",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonists are now together and moving into their happily ever after that readers have been waiting for. They are now fully committed and perfect for each other, with new perspectives in life. (Unless it is a happily ever... for now.)"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the Protagonists have changed over the course of the story and how they now interact with each other and their ordinary world. They must be in an opposite state from the beginning."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow the Protagonists a moment of enjoyment and celebration – they have earned it."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, consider leaving a hook for the next installment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolution should occur at around the 99% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 12,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Crisis",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This beat raises the stakes to their highest level yet, bringing a low for the Protagonist(s) and their relationship. An event or betrayal occurs which breaks the bond of trust, and the Protagonist falls back into their fear or false beliefs from before as they see them manifest before them. This often leads to a breakdown of the relationship and gives the reader the impression they will never be together."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "External: What event or betrayal triggers the characters' fear about their relationship, forcing them back into their false beliefs? (e.g. one choosing their external goals over their internal, like accepting a job in another city; or one sees the other with an ex-partner; or life interferes in other ways, like a family member planting seeds of doubt.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Internal: How do the characters realize the relationship is over? This is often a confirmation of doubts or false beliefs. (e.g. they knew the other cannot be trusted, and this event proves it; a Protagonist lets their guard down and the other takes a job in another city; or when faced with a decision, a Protagonist chooses their external goal over their internal goal.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Crisis should occur at around the 68% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
         "beatId": 2,
         "bookId": null,
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Show how the characters are now fully in their Essence and perfect for each other"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Both of the Protagonists are forced to decide if they will succumb to their false beliefs or work through their inner conflicts to save the relationship. They work to fix the internal and external problems and learn the lesson which brings them to their transformation. The central question of will the two Protagonists end up together is finally answered."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "External: What inner conflicts continue to threaten the relationship? These are the conflicts that must be addressed and solved."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Internal: How do the Protagonists prove they want to continue in a relationship together? This can be refusing the job, choosing to trust, or having a conversation to clear up misconceptions. Forgiveness is often a theme."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve the conflict of internal and external desires and show how the Protagonists have transformed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Climax should occur at around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -30,39 +405,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Show"
-      },
-      {
-        "beatId": 3,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "External Relationship Arc: How does fear threaten the potential of the relationship one last time?"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "Internal Relationship Arc: How do the characters prove they don't want to continue without the other anymore?"
-              }
-            ]
-          }
-        ],
-        "id": 10,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "External & Internal"
+        "title": "Climax"
       },
       {
         "beatId": 5,
@@ -73,7 +416,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "External Relationship Arc: What triggers the characters' fear about their relationship (& their retreat to Identity)?"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -81,7 +424,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Internal Relationship Arc: How do the characters realize the relationship can't succeed (at least with Identity)?"
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Pinch Point 2 introduces another glance at the inner conflict of the Protagonists. The intimacy and relationship are continuing to grow, but inner struggles and doubts begin to resurface. These are the inner conflicts that must be resolved before the Protagonists can receive love."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the next Pinch Point (e.g. perhaps one Protagonist does not fully trust the other, feels they cannot have both a career and a relationship, or past relationship traumas create doubt and fear)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does the Pinch Point affect their relationship?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Pinch Point 2 should occur at around the 62% mark."
+                  }
+                ]
               }
             ]
           }
@@ -94,7 +497,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "External & Internal"
+        "title": "Pinch Point 2"
       },
       {
         "beatId": 6,
@@ -102,9 +505,78 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "How does the Pinch Point affect their relationship?\t"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The tension continues to rise as another new development raises the stakes. This section sets the Protagonists on a false victory or false defeat. In a false victory, it appears as though the Protagonists will commit to each other; a false defeat will give the impression they will never find their way together."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "External: What visible sign of commitment do the Protagonists offer? (e.g. one or both could profess their love, they could surrender to the idea that it is true love, or they may have their first intimate moment.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Internal: How are the Protagonists doomed to fail due to internal struggles or dedication to their goals? (e.g. one Protagonist may refuse the profession of love, may recommit to their external goals, or back away due to inner conflict like feeling unworthy/unprepared for love.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Midpoint should occur at around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -117,7 +589,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "How"
+        "title": "Midpoint"
       },
       {
         "beatId": 7,
@@ -128,7 +600,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "External Relationship Arc: What visible sign of commitment do the characters make to each other?"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -136,7 +608,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Internal Relationship Arc: How are the characters still in their Identity (and thus doomed to fail)?"
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonists are starting to admit to their feelings for each other and may even begin considering a relationship. Enter Pinch Point 1: the reader is granted a first glimpse at the opposition or conflict between the Protagonist's inner and outer conflict. Each Protagonist is still working toward their own goals, but the growing relationship begins to create conflict, raising the tension."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What events occur in Pinch Point 1? The Protagonists may share a kiss, an intimate moment, a fun moment, or have feelings grow due to watching the other be selfless, trustworthy, or capable of achieving a goal."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does the Pinch Point affect their relationship?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Pinch Point 1 should occur at around the 37% mark."
+                  }
+                ]
               }
             ]
           }
@@ -149,30 +681,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "External & Internal"
-      },
-      {
-        "beatId": 8,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "How does the Pinch Point affect their relationship?"
-              }
-            ]
-          }
-        ],
-        "id": 5,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "How"
+        "title": "Pinch Point 1"
       },
       {
         "beatId": 10,
@@ -183,7 +692,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "External Relationship Arc: What happens that forces the characters to spend time together?"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
@@ -191,7 +700,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Internal Relationship Arc: What decision do the characters make that reflects their desire for each other?"
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Through external forces, chance, or a life event, the Protagonists meet for the first time. Occasionally there will be an instant attraction, in which case there should be an obstacle preventing them from being together; however, typically there is instant dislike, and one or both Protagonists refuse the relationship. Readers should be able to glimpse the Protagonists could be romantically right for each other... in time."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Pick an Inciting Incident that brings the Protagonists together (e.g. a vacation, new job, family introduction, or a stressful moment like severe weather or natural disaster)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create conflict between the Protagonists (e.g. different life perspectives, different values, personality clashes, or an external obstacle like a disapproving family)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": " Demonstrate how right the Protagonists could be right for each other and why/how they are not ready."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Inciting Incident should occur at around the 15% mark."
+                  }
+                ]
               }
             ]
           }
@@ -204,7 +781,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "External & Internal"
+        "title": "Inciting Incident"
       },
       {
         "beatId": 11,
@@ -212,16 +789,86 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Give a glimpse of how "
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Hook introduces the protagonists, grabs the reader's attention and draws them into the story, while setting up the romance conflict. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the Protagonist(s) by showing them in their everyday life and offer a glimpse at the internal struggle that is holding them back from love."
+                  }
+                ]
               },
               {
-                "text": "right",
-                "italic": true
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create empathy for the Protagonist(s) – demonstrate their desires, flaws, positive traits, and something they lack."
+                  }
+                ]
               },
               {
-                "text": " the characters could be for each other (Essence), but they're not ready yet (Identity)"
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Foreshadow the coming conflict that will challenge any potential romance with a collision between external goal and internal goal (e.g. the Protagonist is succeeding in their career and is expecting an upcoming promotion that may take up all of their time)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Hook should occur around the 10% mark."
+                  }
+                ]
               }
             ]
           }
@@ -234,30 +881,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Give"
-      },
-      {
-        "beatId": 12,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Opening scene or sequence of story; creat empathy with characters by showing how they lack for something"
-              }
-            ]
-          }
-        ],
-        "id": 1,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Opening"
+        "title": "Opening Image / Hook"
       }
     ],
     "beats": {
@@ -265,51 +889,42 @@
         "children": {
           "1": [],
           "2": [],
-          "3": [],
           "4": [],
           "5": [],
           "6": [],
           "7": [],
-          "8": [],
           "9": [],
           "10": [],
           "11": [],
-          "12": [],
           "null": [
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
-            8,
             9,
             10,
-            11,
-            12
+            11
           ]
         },
         "heap": {
           "1": null,
           "2": null,
-          "3": null,
           "4": null,
           "5": null,
           "6": null,
           "7": null,
-          "8": null,
           "9": null,
           "10": null,
-          "11": null,
-          "12": null
+          "11": null
         },
         "index": {
           "1": {
             "id": 1,
             "bookId": 1,
-            "position": 11,
-            "title": "Final image/ resolution",
+            "position": 8,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -319,19 +934,8 @@
           "2": {
             "id": 2,
             "bookId": 1,
-            "position": 10,
-            "title": "Climax",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "3": {
-            "id": 3,
-            "bookId": 1,
-            "position": 9,
-            "title": "Act III",
+            "position": 7,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -341,8 +945,8 @@
           "4": {
             "id": 4,
             "bookId": 1,
-            "position": 8,
-            "title": "Crisis",
+            "position": 6,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -352,8 +956,8 @@
           "5": {
             "id": 5,
             "bookId": 1,
-            "position": 7,
-            "title": "Pinch point #2",
+            "position": 5,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -363,8 +967,8 @@
           "6": {
             "id": 6,
             "bookId": 1,
-            "position": 6,
-            "title": "Midpoint",
+            "position": 4,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -374,19 +978,8 @@
           "7": {
             "id": 7,
             "bookId": 1,
-            "position": 5,
-            "title": "Pinch point #1",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "8": {
-            "id": 8,
-            "bookId": 1,
-            "position": 4,
-            "title": "Act II",
+            "position": 3,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -396,8 +989,8 @@
           "9": {
             "id": 9,
             "bookId": 1,
-            "position": 3,
-            "title": "End of the beginning",
+            "position": 2,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -407,8 +1000,8 @@
           "10": {
             "id": 10,
             "bookId": 1,
-            "position": 2,
-            "title": "Inciting incident",
+            "position": 1,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -418,19 +1011,8 @@
           "11": {
             "id": 11,
             "bookId": 1,
-            "position": 1,
-            "title": "Opening image/hook",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "12": {
-            "id": 12,
-            "bookId": 1,
             "position": 0,
-            "title": "Act I",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -445,17 +1027,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Romance Beat Sheet",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -464,7 +1036,7 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
@@ -478,7 +1050,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -486,6 +1058,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

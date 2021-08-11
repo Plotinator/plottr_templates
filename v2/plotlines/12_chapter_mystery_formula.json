@@ -1,41 +1,14 @@
 {
   "id": "pl3",
   "type": "plotlines",
-  "name": "12 Chapter Mystery Formula",
-  "description": "A sequence outline for a feature script",
-  "version": "2021.7.8",
+  "name": "12 Step Mystery Formula",
+  "description": "An outline formula for writing a traditional mystery",
+  "version": "2021.8.11",
   "categories": [
     "mystery"
   ],
-  "link": "http://ticket2write.tripod.com/mysplot.html",
   "templateData": {
     "cards": [
-      {
-        "beatId": 7,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Introduction of the crime (mystery) and the sleuth"
-              }
-            ]
-          }
-        ],
-        "id": 1,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Introduction",
-        "positionWithinLine": 0,
-        "positionInChapter": null,
-        "fromTemplateId": null
-      },
       {
         "beatId": 8,
         "bookId": null,
@@ -45,7 +18,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Disclose the crime and mystery to be solved. The crime must capture the imagination. It should have been committed in an extraordinary way and either the victim the perpetuator, or both, should be unusual. Give the reader enough information about the victim to make them truly care that the perpetrator is found out and that justice is served."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -53,7 +26,8 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Early in the story, clues should be revealed which suggest both physical and psychological aspects of the initial crime. Those clues should point to suspects and motive which will cary the sleuth to the end of Act I. Some clues should point the sleuth in the right direction, others may not be obvious or be recognized as actual clues unto later in the story."
+                "text": "Beginning of Act 1:",
+                "bold": true
               }
             ]
           },
@@ -61,7 +35,44 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "C. Introduce the sleuth who will solve the crime early, and have him or her do or say something very clever or unexpected which will establish that person as unique. Create this character with care. His or her personality should be interesting enough to sustain the interest of the reader to the very last page. (or through an entire series of books). It is not necessary to disclose all aspects of the sleuth’s personality at the onset. Let the description unfold gradually to sustain interest. Do reveal enough background to let the reader understand the world in which the protagonist functions. (Small town sheriff, Scotland Yard detective, Pinkerton agent in the old West, country squire, investigative reporter in New York City, etc.)"
+                "text": "This is the opening scene of the mystery where you disclose an extraordinary crime. This section hooks the reader's attention and includes an unusual victim and/or perpetrator; the victim must be well developed, with enough details to ensure the reader cares about the solution of the crime. The Sleuth should also be introduced, with unique character traits that set them apart."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Open with a vivid, dramatic event that transports the reader to the time and place of the crime. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Offer clues that hint at both the physical and psychological aspects of the crime, which will carry the Sleuth to the end of Act 1."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Offer some clues that will point the Sleuth in the right direction, some distracting red-herring clues, and other elements that are not yet obvious as clues."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the Sleuth with enough information to make them unique and allow the reader to understand their world (e.g. small-town detective, FBI agent, coroner, or journalist), but do not reveal too much of their character, as this will unfold throughout the story."
+                  }
+                ]
               }
             ]
           },
@@ -69,7 +80,37 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "D. Ground the reader in the time and place where the crime occurs. It is often useful to include some sort of symbol, an object or a person, in the opening scene which serves as a metaphor for what occurs in the story. The reappearance of this symbol at the conclusion of the story will create a certain organic unity."
+                "text": "Ideas to Consider:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Open the story with the Sleuth in a dire situation to allow the reader to see how the Sleuth works under pressure, with details unfolding gradually throughout the mystery."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify something unique about the crime which can act as a metaphor and/or be used again at the conclusion to create unity (e.g. the killer's signature, an object, a person, or setting)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use a prologue to describe the crime in detail or have the information revealed by characters."
+                  }
+                ]
               }
             ]
           },
@@ -77,7 +118,59 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "E. Begin with a dramatic event. Some writers offer a prologue, describing the execution of the crime in detail, as it occurs, possible from the point of view of the victim or perpetrators. The same information could also be revealed by a character, through dialogue. Sufficient details should be furnished to allow the reader to experience the event as though he or she were actually there. Another good opening would be to put the sleuth in a dire situation and allow detail of the crime to unfold in due course."
+                "text": "Note:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "As this is a mystery template and the events of later chapters depend on occurrences in early chapters, it is strongly suggested to review the entire template before beginning your story. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This template's subplot has three distinct chapters which must be kept in mind throughout the entire novel. As you write each chapter, consider how the events impact the Sleuth and continue to push them towards personal transformation by the conclusion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Disclose the Mystery should take approximately the first 10% of the story."
+                  }
+                ]
               }
             ]
           }
@@ -90,8 +183,8 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Disclose the mystery",
-        "positionWithinLine": 0,
+        "title": "Disclose the Mystery",
+        "positionWithinLine": 1,
         "positionInChapter": null,
         "fromTemplateId": null
       },
@@ -104,7 +197,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The sub-plot should be introduced. The plot will continue to maintain the progress of the story, but the sub-plot will carry the theme, which is a universal concept to which the reader can identify. Sub-plots tend to originate either in a crisis in the sleuth’s private life, or in the necessity of the sleuth to face a dilemma involving a matter of character, such as courage or honesty."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -112,7 +205,83 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. The ultimate resolution of the sub-plot with demonstrate change or growth on the part of the protagonist, and will climatic on a personal or professional level. That climax may coincide with, or occur as prelude to the climax of the main plot. The sub-plot may be a vehicle for a romantic interest or a confrontation with personal demons of the sleuth. The author can manipulate the pace of the novel by moving back and forth between the plot and sub-plot."
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Introduce a subplot, which will carry a theme while the main plot progresses the story. The subplot should represent a universal theme easily identified by the reader; the resolution of the subplot will demonstrate the transformation of the Sleuth, with either a personal or professional climax. Subplots allow the manipulation of the novel's pace by switching back and forth between main and subplots."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The subplot can originate either in a crisis in the Sleuth’s private life or a dilemma the Sleuth needs to face to resolve a matter of character, such as addiction, courage, or honesty."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider using this as an opportunity to introduce a love interest or a confrontation of the Sleuth's personal demons."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The subplot climax may occur before or in conjunction with the climax of the main plot."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In the chapters that follow, intermingle the impact of the main plot on the subplot and vice versa – do not lose sight of one over the other in future chapters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This section of the subplot should take the story to the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -125,7 +294,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "sub-plot",
+        "title": "Subplot",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -139,7 +308,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Set the sleuth on the path toward solving he mystery. Offer plausible suspects, all of whom appear to have had motive, means and opportunity to to commit the crime. Select the most likely suspects, and have the sleuth question them. One of these suspects will turn out to be the actual perpetrator."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -147,7 +316,83 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. At the approximate mid-point of Act 1, something should occur which makes it clear to the reader that the crime is more complicated than originally thought. Hints may be given to allow the reader to actually see possibilities not yet known to the sleuth."
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sleuth starts working toward solving the mystery. While considering suspects who appear to have the motive, means, and opportunity to commit the crime, however, the Sleuth encounters a twist about midway through this section that shows the crime is more complex than initially thought."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce suspects who appear to have the motive, means, and opportunity to commit the crime."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Sleuth question the most likely suspects, one of whom will end up being the perpetrator."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a twist that is attention-grabbing and makes it clear to the reader the investigation will not be straightforward."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Build suspense and tension by offering hints that allow the reader to see possibilities yet unknown to the Sleuth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Set the Sleuth on the Path should be from approximately the 10% - 20% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -160,33 +405,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Set the sleuth on the path",
-        "positionWithinLine": 0,
-        "positionInChapter": null,
-        "fromTemplateId": null
-      },
-      {
-        "beatId": 11,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Direct the investigation toward a conclusion which later proves to be erroneous."
-              }
-            ]
-          }
-        ],
-        "id": 5,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Erroneous conclusion",
+        "title": "Set the Sleuth on the Path",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -200,7 +419,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Reveal facts about suspects, through interrogations and the discovery of clues."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -208,7 +427,8 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Flight, or disappearance of one or more suspect."
+                "text": "Beginning of Act 2:",
+                "bold": true
               }
             ]
           },
@@ -216,7 +436,74 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "C. Develop a sense of urgency. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences."
+                "text": "During Act 2, the investigation is directed toward a conclusion that proves to be erroneous. In this section, further information about the suspects are revealed, but the investigation runs into obstacles. The stakes are raised, and it becomes clear that there will be terrible consequences if the mystery is not soon solved. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use interrogations and new clues to offer more information about the suspects."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have one or more suspects disappear or flee."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Develop a sense of urgency."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Facts About Suspects should be from approximately the 25% - 35% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -229,8 +516,8 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Facts about suspects",
-        "positionWithinLine": 0,
+        "title": "Facts About Suspects",
+        "positionWithinLine": 1,
         "positionInChapter": null,
         "fromTemplateId": null
       },
@@ -243,7 +530,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The investigation should broaden to put suspicion on other characters."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -251,7 +538,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Information gathered through interviews or the discovery of physical evidence, should point toward the solution, although the relevance may not yet be apparent."
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Use this section to introduce other characters, spread suspicion, and introduce new information which will point toward the solution. The relevance of the new information may not be apparent."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Place suspicion on other characters, new and old."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Gather new information and/or physical evidence to subtly point toward the solution (e.g. with interrogations or physical investigations)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Broaden the Investigation should be from approximately the 35% - 45% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -264,7 +619,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Broaden investigation",
+        "title": "Broaden the Investigation",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -278,7 +633,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The sleuth’s background is revealed as the sub-plot is developed. Tell the reader what drives the protagonist, what haunts or is missing in his or her life."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -286,7 +641,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Make it clear that the sleuth has a personal stake in the outcome, either because of threat to his or her life, or the possibility of revelation of matters deeply disturbing to the protagonist on an emotional level."
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Further develop the subplot by revealing more of the Sleuth's background. Make the Sleuth's personal stake in the outcome clear, and use this as an opportunity to further increase the tension and sense of urgency."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify what drives the Sleuth (e.g. Is there something missing from their life, or is there something from their past haunting them?)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate what is personally at stake for the Sleuth (e.g. Is there a threat to their life or safety? Do they risk having disturbing personal matters revealed?)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make the personal stakes hit on an emotional level."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Sleuth's Background should be from approximately the 45% - 50% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -299,33 +722,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Sleuth's background",
-        "positionWithinLine": 0,
-        "positionInChapter": null,
-        "fromTemplateId": null
-      },
-      {
-        "beatId": 15,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": "Change of focus and scope of the investigation. This is the pivotal point in the story where it become evident that the sleuth was on the wrong track. Something unexpected occurs, such as the appearance of a second body, the death of a major suspect, or discovery of evidence which clears the most likely suspect. The story must take a new direction."
-              }
-            ]
-          }
-        ],
-        "id": 9,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Change of focus",
+        "title": "Sleuth's Background",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -339,7 +736,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Reveal hidden motives. Formerly secret relationships come to light, such as business arrangements, romantic involvement's, scores to be settled or previously veiled kinships."
+                "text": "-- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -347,7 +744,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Develop and expose meanings of matters hinted at in Act I., to slowly clarify the significance of earlier clues."
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Midpoint of the story, Act 3 represents a pivotal point, which takes the story in a new direction as an unexpected occurrence makes it clear the Sleuth was on the wrong path. This section introduces new information and details which bring forth hidden motives and secrets."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Begin to clarify the importance of earlier clues by further developing and exposing the meanings behind matters hinted at  in Act 1."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal hidden motives that increase the tension and add a twist to the story (e.g. secret relationships or kinships, hidden business agreements, romantic involvements, or past scores to be settled)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the third 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal Hidden Motives should be from approximately the 50% - 60% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -360,8 +825,8 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Reveal hidden motives",
-        "positionWithinLine": 0,
+        "title": "Reveal Hidden Motives",
+        "positionWithinLine": 1,
         "positionInChapter": null,
         "fromTemplateId": null
       },
@@ -374,7 +839,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The sleuth reveals the results of the investigation. The reader, as well as the protagonist and other characters, are given an opportunity to review what is known and assess the possibilities."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -382,7 +847,99 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. The solution of the crime appears to be impossible. Attempts to solve the crime have stymied the sleuth. Misinterpretation of clues or mistaken conclusions have lead him or her in the wrong direction, and logic must be applied to force a new way of grasping an understanding of the uncertainties."
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The reader (and other characters) are able to review what is known and consider the possibilities of the case, as the Sleuth reveals the results of their investigation. The crime appears to be impossible to solve, and the Sleuth has been stymied at every approach, largely being led in the wrong direction by misinterpreting clues or faulty conclusions. The Sleuth must use logic to find a new perspective to understand the uncertainties. The reader begins to doubt the Sleuth's ability to solve the mystery."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Logically and clearly lay out the evidence as it is currently understood. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make it clear that the evidence does not add up and that a new approach must be taken."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What clues has the Sleuth misinterpreted? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What were the Sleuth's faulty conclusions?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Raise the stakes as all appears lost."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the third 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the Results should be from approximately the 60% -70% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -395,7 +952,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Reveal results",
+        "title": "Reveal Results",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -409,7 +966,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Have the sleuth review the case to determine where he or she went wrong."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -417,7 +974,8 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Reveal the chain of events which provoked the crime."
+                "text": "End of Act 3:",
+                "bold": true
               }
             ]
           },
@@ -425,7 +983,44 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "C. The crucial evidence is something overlooked in Act I, which appeared to have been of little consequence at the time it was first disclosed. That evidence takes on new meaning with information disclosed in Act III."
+                "text": "In this section, the Sleuth reviews the case in an attempt to find where they went wrong. In reviewing the crime's chain of events, the Sleuth identifies a seemingly inconsequential piece of evidence from Act 1, which has been overlooked until information revealed in Act 3 shows it to be crucial. This new understanding makes the Sleuth (and keen reader) aware of the error ahead of the other characters."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Give an overview of the case and chain of events. What was the critical piece of evidence overlooked in Act 1?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Why was the crucial evidence overlooked, and what new information offered in Act 3 illuminated its importance?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow the keen reader to piece together the error ahead of the other characters – this increases reader buy-in and connection to the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
               }
             ]
           },
@@ -433,7 +1028,29 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "D. The sleuth (and perhaps the reader, if a keen observer) becomes aware of the error which remains undisclosed to the other characters."
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the third 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Review the Case should be from approximately the 70% - 80% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -446,33 +1063,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Review the case",
-        "positionWithinLine": 0,
-        "positionInChapter": null,
-        "fromTemplateId": null
-      },
-      {
-        "beatId": 4,
-        "bookId": null,
-        "characters": [],
-        "description": [
-          {
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          }
-        ],
-        "id": 13,
-        "imageId": null,
-        "lineId": 1,
-        "places": [],
-        "position": 0,
-        "seriesLineId": null,
-        "tags": [],
-        "templates": [],
-        "title": "Solution",
+        "title": "Review the Case",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -486,7 +1077,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The sleuth weighs the evidence and information gleaned from the other characters."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -494,7 +1085,75 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Based on what only he or she now knows, the sleuth must seek positive proof to back up the yet undisclosed conclusion."
+                "text": "Beginning of Act 4:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Build toward the solution of the investigation. The Sleuth, and perhaps keen reader, weigh the evidence and come to a conclusion yet to be shared with the other characters. They must use their knowledge to find proof of concept. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Sleuth consider the information gleaned from interrogations and conversations with other characters, as well as the evidence, to come to a plausible conclusion."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Sleuth must use what knowledge they have to seek further evidence and proof to support their conclusion."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this section develops the subplot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Weigh the Evidence should be from approximately the 80% - 85% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -507,8 +1166,8 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Weigh evidence",
-        "positionWithinLine": 0,
+        "title": "Weigh the Evidence",
+        "positionWithinLine": 1,
         "positionInChapter": null,
         "fromTemplateId": null
       },
@@ -521,7 +1180,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. Resolution of the sub-plot"
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -529,7 +1188,67 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. The protagonist, having been tested by his or her private ordeal, is strengthened for the final action leading to the actual solution of the mystery."
+                "text": "Middle of Act 4:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In this section, the subplot is resolved. The Sleuth has been tested through the case and their private ordeal, leading to a personal transformation and preparing them for the final actions leading to the mystery's solution."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve the subplot completely if it's a stand-alone story or leave some threads unresolved if part of a greater series."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Sleuth being tested and overcoming an obstacle that prepares them for the conclusion of the case."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Subplot Resolution should be from approximately the 85% - 90% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -542,7 +1261,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Resolution",
+        "title": "Subplot Resolution",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -556,7 +1275,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A. The Climax - a dramatic confrontation between the sleuth and the perpetrator in which the sleuth prevails. The more “impossible” the odds have been, the more rewarding the climax will be."
+                "text": "--- Add Your Details Above This Line ---"
               }
             ]
           },
@@ -564,7 +1283,105 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "B. Resolution - Revelation of clues and the deductive process which lead to the solution. Establish that the case has been solved and justice has been served to the satisfaction of all involved (except, the villain)."
+                "text": "End of Act 4:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A dramatic confrontation between the Sleuth and perpetrator brings us to the ultimate Climax, with the Sleuth prevailing. The clues are revealed, the deductive process has been shared, and the case is solved; the greater the odds and the more impossible the solution seemed, the greater the payoff and reward will be for readers. A pleasant ending for all involved, save the perpetrator."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Increase the tension right up to the Climax. Is there a chase scene? Does the perpetrator fight back once they realize they are caught?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the clues and deductive reasoning to portray a clear picture of the whole case."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate that the case has been solved and justice has been served."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ideas to Consider:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reuse the unique object, item, or killer's signature from Chapter 1 to complete the circle back to the beginning of the case and create a tidy resolution."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, add a hook or a teaser for the next book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Climax should be approximately the final 10% of the story."
+                  }
+                ]
               }
             ]
           }
@@ -589,55 +1406,59 @@
           "1": [],
           "2": [],
           "3": [],
-          "4": [],
+          "4": [
+            1,
+            2,
+            3
+          ],
           "5": [],
           "6": [],
-          "7": [],
+          "7": [
+            8,
+            9,
+            10
+          ],
           "8": [],
           "9": [],
           "10": [],
-          "11": [],
+          "11": [
+            12,
+            13,
+            14
+          ],
           "12": [],
           "13": [],
           "14": [],
-          "15": [],
+          "15": [
+            16,
+            5,
+            6
+          ],
           "16": [],
           "null": [
-            1,
-            2,
-            3,
             4,
-            5,
-            6,
             7,
-            8,
-            9,
-            10,
             11,
-            12,
-            13,
-            14,
-            15,
-            16
+            15
           ]
         },
         "heap": {
-          "1": null,
-          "2": null,
-          "3": null,
+          "1": 4,
+          "2": 4,
+          "3": 4,
           "4": null,
-          "5": null,
-          "6": null,
+          "5": 15,
+          "6": 15,
           "7": null,
-          "8": null,
-          "9": null,
-          "10": null,
+          "8": 7,
+          "9": 7,
+          "10": 7,
           "11": null,
-          "12": null,
-          "13": null,
-          "14": null,
+          "12": 11,
+          "13": 11,
+          "14": 11,
           "15": null,
-          "16": null
+          "16": 15
         },
         "index": {
           "1": {
@@ -826,7 +1647,7 @@
         "color": "#78be20",
         "id": 2,
         "position": 1,
-        "title": "Sub plot",
+        "title": "12 Chapter Mystery Formula Subplot",
         "expanded": null,
         "fromTemplateId": null
       },
@@ -836,28 +1657,46 @@
         "color": "#6cace4",
         "id": 1,
         "position": 0,
-        "title": "Main Plot",
+        "title": "12 Chapter Mystery Formula",
         "expanded": null,
         "fromTemplateId": null
       }
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Act",
         "level": 0,
         "autoNumber": true,
+        "textColor": "#0b1117",
         "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#6cace4",
         "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
+        }
+      },
+      "1": {
+        "name": "Beat",
+        "level": 1,
+        "autoNumber": true,
+        "textColor": "#78be20",
+        "textSize": 24,
+        "borderColor": "#78be20",
+        "borderStyle": "NONE",
+        "backgroundColor": "#f1f5f8",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
@@ -865,6 +1704,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

@@ -2,8 +2,9 @@
   "id": "pl4",
   "type": "plotlines",
   "name": "Action Adventure Plot",
-  "description": "A template for an action or adventure story",
-  "version": "2021.7.8",
+  "description": "An outline formula for writing an action and adventure story",
+  "version": "2021.8.11",
+  "link": "http://shangchimokf.blogspot.com/2017/04/the-quintessential-action-adventure.html",
   "categories": [
     "action"
   ],
@@ -17,7 +18,100 @@
           {
             "children": [
               {
-                "text": "Hero's circumstance is revealed."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The beginning of the novel allows the reader to learn about the Hero's ordinary world and how they interact within it. For example, they may be looking for adventure, avoiding adventure, content with their life, unhappy, retired, or dreading their next mission. This section sets the hook and connects the reader to the Hero for the remainder of the story/series."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identify what about the Hero's ordinary world that makes them happy or displeased."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide if the Hero is comfortable or uncomfortable with their current circumstance."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identify what makes the Hero want to stay put or set off on a new adventure."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Emphasize why they are set in their decision and make them sympathetic to the reader."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create a three-dimensional Hero with hopes, flaws, problems, and a unique personality."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Hero's Circumstance should comprise approximately 8-10% of the story."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -30,7 +124,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Hero's circumstance",
+        "title": "Hero's Circumstance",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -43,7 +137,84 @@
           {
             "children": [
               {
-                "text": "Hero receives a mission or encounters a problem that needs to be solved."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This section triggers the rest of the story. While living their ordinary life, the Hero encounters a problem or is given a mission. The triggering event includes a multitude of options: the Hero may inadvertently stumble into the Villain's scheme; there may be an assault on the Hero's city; their mode of transport may be hijacked, attacked, or otherwise disrupted; or perhaps damaging information about them is released. This event must be such that it will not resolve independently, and the Hero is left no choice but to take on the mission."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identify a dramatic triggering event for the Hero. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider introducing other characters – is there an ally, mentor, or love interest? Are they in danger? Or have they switched allegiances and are responsible for the disrupting triggering event?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make the triggering event enticing and ensure the Hero reacts to it according to their current circumstance and character (e.g. a happily retired Hero may be disgruntled and push back at the idea of another mission)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Receives a mission occurs at approximately the 8-12% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -56,7 +227,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Receives a mission",
+        "title": "Receives a Mission",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -69,9 +240,94 @@
           {
             "children": [
               {
-                "text": "Hero begins toward the goal. Hero and his allies assemble to formulate a course of action, unless allies have already been strategically placed, or allies are recruited as the plot progresses."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero has answered the call to action and begins toward the goal. New Allies are introduced or already strategically placed, while other Allies may be recruited as the plot progresses. The Hero and Allies begin to form a plan of action and prepare for the journey ahead."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identify how the Hero will gather Allies."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Increase the stakes and consider adding a small twist here (e.g. perhaps the Hero loses the support of an Ally OR an important new Ally is recruited)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero devise and begin to implement a dangerous or risky plan – and if Allies are already strategically placed or to be recruited, decide how/where that fits into the story."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Begins Toward Goal occurs around the 12-15% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
           }
         ],
         "id": 3,
@@ -82,7 +338,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Begins toward goal",
+        "title": "Begins Toward Goal",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -95,7 +351,84 @@
           {
             "children": [
               {
-                "text": "Hero travels to an exotic and interesting location."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Having devised a risky plan, the Hero sets off to an interesting or exotic location, crossing the story's first threshold and beginning the mission in earnest. The Hero must locate an important object, person, location, or information; in their search, they may attempt to infiltrate the Villain's organization. The tension and danger increase in this section as the Hero seeks to meet with allies - who may turn their back - and others to gain resources needed for the mission."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider the mission and what items or resources the Hero needs to be successful. For example, do they need to locate a specific person, object, the Villain's headquarters, or piece of information?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide how the Hero will attain their needed information and equipment (e.g. infiltrating the Villain's organization, meeting with an informant or previous ally, or locating an object which gives them information, such as a diary)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider adding a twist to aid or hinder the Hero (e.g. a missing ally/informant, loss of an ally's support, or gaining the support of an important ally)"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Travels to Exotic Location occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -108,7 +441,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Travels to exotic location",
+        "title": "Travels to Exotic Location",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -121,7 +454,100 @@
           {
             "children": [
               {
-                "text": "Hero encounters the damsel and some type of relationship begins."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "While gathering information and putting the plan into action, the Hero encounters another obstacle in the form of the Damsel and a relationship forms. Depending on the nature of the relationship, it may help or hinder the Hero along their journey. The Damsel may appear in distress, or as an ally or adversary, though the true nature of the Damsel may change or take time to unfold."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Decide if the Damsel should appear in distress – and if it is actual distress or a ploy."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider what form the relationship will take (e.g. romantic, friendship, adversarial, a combination of all, or a relationship of deceit)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide who makes the advances and if they succeed or fail, keeping in line with the Hero's character."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "You can add depth to the plot by having both make advances, with each adding more detail to the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "A romantic relationship may lead to a form of consummation – consider having this interrupted or postponed, increasing tension in the romantic subplot. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Encounter the Damsel brings the story to approximately the 25% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -134,7 +560,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Encounter damsel",
+        "title": "Encounter the Damsel",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -147,7 +573,84 @@
           {
             "children": [
               {
-                "text": "Hero encounters the villain's henchman. Hero disrupts the evil scheme or the henchman disrupts hero's intentions. In the process, hero discovers some previously unknown, but vital, information."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The tension continues to rise as the Hero encounters the Villain's Henchman and is faced with an obstacle. This section is a turning point in the story and serves to alert the Villain to the Hero. Allies or adversaries may switch sides, the Hero may end up on the wrong side of the law, or the authorities may be corrupt. The obstacle threatens the mission, but once overcome, it provides vital information. This new information may interrupt the Hero's mission, turn it into a larger mission, provide deeper insight into the Villain's capabilities, or place the Hero on the run."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider using this section to place the Hero in serious danger or raise the stakes."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero make a narrow escape when it seems there is no way out (e.g. with the aid of Allies, the Damsel, or a Mentor)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure the newly gained information from overcoming the obstacle is enticing and vital to the plot."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Encounters Henchman occurs around the 30% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -160,7 +663,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Encounters henchman",
+        "title": "Encounters Henchman",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -173,7 +676,84 @@
           {
             "children": [
               {
-                "text": "An extended chase scenario occurs."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Early in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Increase the tension and the stakes with an extended chase scene. Having obtained vital knowledge and slipping their dire situation, the Hero is now pursued by evil forces. The Chase generally involves the Hero, Allies, Damsel, and several enemies. This scene provides an opportunity to further showcase the Hero's abilities and hook the reader with stunning physical feats, fantastic vehicles, daring maneuvers, etc."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The chase scene must be extraordinary and intense – allow your imagination to run wild as motorcycles are jumped into helicopters, cars are driven through shopping malls, and pedestrians are jumping every which way to safety."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aim to amaze the reader's mind and increase their heart rate – the more dramatic and fast-paced the scene, the more the reader will be drawn in."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have each side appear as though they may succeed."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Chase occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -199,7 +779,92 @@
           {
             "children": [
               {
-                "text": "Major complications arise. Hero makes a mistake or suffers a set-back, demonstrating that hero is not prepared to do what must be done. Hero tempted to abandon the mission."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Early in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "A Major Complication arises to cast doubt on the Hero's chances of success. The Hero makes a significant error or suffers an unexpected setback, demonstrating that they may not be ready or capable of completing the mission. The Hero begins to doubt themselves and considers abandoning the mission, bringing them to their lowest point thus far. This scene serves as another turning point for the overall plot, with many options to consider."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The Major Complication must be shattering for the Hero – perhaps they lose an ally, mentor, or love interest to betrayal or death, or they realize they have been chasing a decoy Villain, or the Villain gains a powerful ally."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Complication does not need to come from an external source – the Hero may make an error in judgement by trusting a traitorous ally, fall in love with the Villain, or may be tricked/required to work with the Villain."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The tide must turn in favor of the Villain, though it may also be by chance (e.g. a natural disaster derails the Hero's plan, a previous enemy returns for revenge, or the Hero losses an item of vital importance)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider having the Villain force the Hero into an impossible decision, like sacrificing a few innocent lives to prevent a much larger loss of life."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Major Complication arises around the 45% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -212,7 +877,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Major complications",
+        "title": "Major Complications",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -225,7 +890,84 @@
           {
             "children": [
               {
-                "text": "Hero acquires assistance or inspiration. Significant event re-ignites hero's will to fight."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Having suffered a defeat during the Major Complication, the Hero receives assistance and inspiration that emboldens them to return to the fight. The assistance may come in the form of a pep-talk by a Mentor or Love Interest, the return of an Ally, completing a dangerous task, or realizing the importance of a previously undervalued item, piece of knowledge, or clue. This significant event re-ignites the Hero's fire and will to fight as they regain their self-confidence."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider the Hero's character and the type of Assistance that would best re-invigorate their passion after a serious defeat – do they need to prove their self-worth to themselves, do they need encouragement from a Mentor, or perhaps a loved one is thrust into danger?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Does the emotion of the loss drive the Hero to do something atypical, like blackmail, coerce, or threaten a key person to obtain what they need? "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Rebuild the Hero and have them ready to fight by the end of this section."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Assistance occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -251,7 +993,84 @@
           {
             "children": [
               {
-                "text": "Hero infiltrates villain's highly secure fortress."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Newly inspired, the Hero travels to and infiltrates the Villain's secured Fortress, usually in a remote and difficult to access location. The Hero uses their renewed confidence and knowledge to battle their way past security, henchmen, and impressive guard animals. They are determined to defeat the Villain. As a twist, the Villain may infiltrate the Hero's base, leading to a confrontation where the Hero is in a defensive, rather than an offensive position."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Don't be afraid to go over the top – the Fortress must be challenging to access and is generally awe-inspiring (e.g. a black marble castle on a mountaintop, carved into the side of an active volcano, a rig in the middle of the ocean, or an abandoned temple in the jungle)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the Villain a crack security team and intimidating guard animals (e.g. tiger, pack of dogs, sharks, hyenas, or perhaps a moat full of alligators)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If the Villain infiltrates the Hero's base of operations, consider the Hero's defenses – have they already been hinted at, or do they need to be introduced?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Infiltrate the Fortress occurs around the 55% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -264,7 +1083,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Infiltrate fortress",
+        "title": "Infiltrate the Fortress",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -277,7 +1096,76 @@
           {
             "children": [
               {
-                "text": "Hero is captured and threatened with certain doom."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Late in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Perhaps overconfident or simply overwhelmed by the odds, the Hero finds themselves captured by the Villain. The Hero is in a dire situation as the Villain begins to torture the Hero and possibly attempts to kill someone close to the Hero, like a Love Interest, Ally, or Mentor. The tension and stakes are high as the Hero's success and future are cast into doubt."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Decide under what circumstances the Hero is captured – were they overwhelmed by enemy forces, cornered by an attack animal, or overly confident, causing an error in judgement?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider having your Hero intentionally be captured as part of their plan, only to have the stakes rise and the Hero lose control of the situation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Captured occurs around the 60% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -303,7 +1191,84 @@
           {
             "children": [
               {
-                "text": "Hero narrowly escapes the clutches of doom."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Late in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Through guile, planning, or luck, the Hero manages to escape the Villain's grasp and rescue their Allies, Mentor, Damsel, or Love Interest; if the Hero cannot free themselves, they may be rescued by them. Either way, the Hero escapes the clutches of certain doom."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Considering the Hero's character and how they are being held/tortured, decide how the Hero will escape their predicament."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide who needs rescuing and by whom, accounting for what will not only fit into the ongoing narrative but what will be satisfying for the reader."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider ramping up the tension and the stakes by having the Hero fail at rescuing one of their group (e.g. perhaps they save the Damsel but enter the room just in time to see the Mentor die), and then tie this emotional response into the rest of the narrative."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Narrow Escape occurs around the 70% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -316,7 +1281,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Narrow escape",
+        "title": "Narrow Escape",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -329,7 +1294,76 @@
           {
             "children": [
               {
-                "text": "Hero attains goal"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Now free (and angry), the Hero seeks out and obtains the item, person, or information they were seeking. Once the item is obtained, the Hero proceeds to wreak havoc in the Villain's lair; if what they seek is not found or is not on-site, they still wreak havoc in the Villain's lair. If the Villain has infiltrated the Hero's lair, they obtain the object or item they seek and wreak havoc in the Hero's lair."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Showcase the Hero/Villain seeking the needed item, knowledge, or person – whether it is obtained or not, unleash the havoc."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have fun with this scene and use it as a bit of a pressure release for the narrative."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Attain the Goal occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -342,7 +1376,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Attain goal",
+        "title": "Attain the Goal",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -355,7 +1389,76 @@
           {
             "children": [
               {
-                "text": "Hero battles loyal henchman."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero's escape is not yet complete as they confront or are confronted by the loyal henchman of the Villain. An exciting battle occurs with the Hero ultimately defeating the henchman."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider the narrative to this point in the story and decide what outcome to the battle fits best and will be most enticing for the reader (e.g. the Hero captures the henchman, kills the henchman, or the henchman narrowly escapes)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "After the quick pressure release in the previous section, the tension and stakes begin to rise again."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Battle the Henchman occurs around the 80% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -368,7 +1471,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Battle henchman",
+        "title": "Battle the Henchman",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -381,7 +1484,84 @@
           {
             "children": [
               {
-                "text": "Hero battles villain"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero faces off with the Villain in a fantastic battle. The Villain may attempt an escape, be captured or killed. Alternatively, the Hero's attempt to defeat the Villain may go terribly wrong, resulting in a severe injury or even their death; in this instance, the Villain may escape, be rescued, or captured/killed by the Hero's Allies, Mentor, Damsel, or Love Interest. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Showcase an exciting battle between the Hero and Villain."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "No matter the outcome, make sure the Hero (or Allies) lays waste to the Villain's fortress. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Include massive explosions and destruction – have fun with it!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Battle the Villain occurs around the 85% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -394,7 +1574,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Battle villian",
+        "title": "Battle the Villian",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -407,7 +1587,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero has battled the Villain and destroyed their fortress, but the story is not yet over. The Plot Twist must capture the reader's attention and let them know that the mission is not yet complete, as it presents one final obstacle to be overcome."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce a plot twist in this section that is in line with the narrative of the Villain escaping, being captured, or killed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "There are many ways to add a Plot Twist but keep in mind, there is more work to be done: if the Villain escaped, they must be tracked down; if the Villain is captured, they may escape or be rescued by henchmen; and if the Villain is killed, their nefarious plans must still be stopped."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes and capture the reader's attention – consider having the Hero be tempted by an opportunity which would make it impossible to foil the Villain, or have the henchman attempt to bribe or coerce the Hero, or have a trusted Ally turn and begin working with the Villain."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Plot Twist occurs around the 88-92% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -420,7 +1677,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Plot twist",
+        "title": "Plot Twist",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -433,7 +1690,84 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The final obstacle presented by the last Plot Twist is overcome, and the Hero moves on to the Resolution, the climax of the story. Not all Resolutions occur as planned: the Hero may foil the Villain's evil schemes; they may fail in their attempt to thwart the schemes; or they may negotiate an agreement with the Villain. No matter how the Resolution occurs, the initial threat/problem is over by the end of this section."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Ensure the reader is given a satisfactory solution in line with the Hero's development and the overall narrative of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Detail how the Hero brings about the Resolution and give them - and the reader - a moment to pause and reflect over all they have experienced and learned."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider the state of the Hero at the end of this section – are they victorious, defeated, injured, killed, or ready for the next adventure?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Resolution comes at the 93-97% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -459,7 +1793,92 @@
           {
             "children": [
               {
-                "text": ""
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The mission is concluded, and the Hero may now return to their ordinary world. The Hero has grown and transformed over the course of the adventure, and their character arc ends here, though not always with a happy ending. The story is wrapped by showcasing how the newly transformed Hero fits into the ordinary world once more and may be celebrated by those at home."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider the consequences of the resolution – the Hero may deepen their relationship with a Love Interest, enjoy a larger group of Allies, or simply enjoy the rewards of a mission well done."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Not all stories end on a purely happy note, so consider having the Hero recovering from injuries, struggling with the results of their failure, or losing their Love Interest through a breakup or tragedy."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If the Hero caused international incidents, broke laws, or angered authorities, consider if they need to atone in some way."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If this story is part of a series, be sure to leave room for further character development and set a hook for the next installment."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Conclusion occurs around the 98% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -747,17 +2166,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Action Adventure Plot",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -766,13 +2175,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -780,7 +2189,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -788,6 +2197,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

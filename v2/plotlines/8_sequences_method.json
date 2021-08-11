@@ -1,11 +1,18 @@
 {
   "id": "pl2",
   "type": "plotlines",
-  "name": "8 Sequences Method",
-  "description": "A sequence outline for a feature script",
-  "version": "2021.7.8",
+  "name": "Eight Sequences Method",
+  "description": "An outline formula for a feature script",
+  "version": "2021.8.11",
   "categories": [
     "screenplay"
+  ],
+  "link": "https://thescriptlab.com/screenwriting/structure/the-sequence/45-the-eight-sequences/",
+  "extraLinks": [
+    "https://www.emwelsh.com/blog/eight-sequence",
+    "https://jmjwilliamson.com/2018/09/27/the-eight-sequence-method/",
+    "https://medium.com/the-1000-day-mfa/the-three-act-eight-sequence-story-structure-46126febe4f9",
+    "http://www.mdellert.com/blog/the-eight-sequence-dramatic-structure/"
   ],
   "templateData": {
     "cards": [
@@ -17,7 +24,108 @@
           {
             "children": [
               {
-                "text": "Establishes the central character, his/her life, and the status quo and the world of the story. It usually ends with the POINT OF ATTACK or INCITING INCIDENT, but this plot point can sometimes appear earlier in the first few minutes of the film. "
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The opening section of a film introduces the Protagonist and show them living and interacting in their Ordinary World; typically there is something about the Ordinary World that displeases the Protagonist. This section is the hook that draws in the audience and allows them to connect to the Protagonist and the story, and it often ends with an Inciting Incident that drives the Protagonist into the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Begin this sequence by introducing the Protagonist, other characters, and their Ordinary World."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how they interact with their normal world and possibly include something which displeases them about it."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop a three-dimensional Protagonist with desires, problems, flaws, and a unique personality – developmentally, they will be in an opposite position from what they transform into by the end of the narrative."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "End this sequence with the Inciting Incident – this will be a significant event that cannot be resolved on its own."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider having the Inciting Incident occur in the first few minutes of the film for a bit of twist."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Status Quo brings the story to about the 12% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Inciting Incident occurs around the 12% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -30,7 +138,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Status quo & Inciting incident",
+        "title": "Status Quo & Inciting Incident",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -43,7 +151,92 @@
           {
             "children": [
               {
-                "text": "Sets up the predicament that will be central to the story, with first intimations of possible obstacles. The main tension will be established at the end of the act. The sequence ends when the main character is LOCKED IN the predicament, propelling him/her into a new direction to obtain his/her goal."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Sequence 2 introduces the Central Conflict and the incident which compels the Protagonist to take up the challenge. When first presented with the call to action, the Protagonist may attempt to solve the Central Conflict on their own (with dire consequences), or outright refuse the call until mounting pressure forces the decision. The Lock In is the moment of no return. The Protagonist's actions show they have accepted the challenge and make it impossible for them to walk away as they take their first steps into the adventure."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Protagonist struggling whether to resolve the Predicament or not (they always do, though the level of coercing required can differ)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider having the Protagonist attempt to resolve the Predicament but fail, creating an even worse situation."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's moment of Lock In, or point of no return, in your story? For example, it can be embarking on a voyage, chasing down the villain, or tackling the first challenge. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Predicament occurs around the 17% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Lock-in occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -69,7 +262,100 @@
           {
             "children": [
               {
-                "text": "The first OBSTACLE to the central character is faced, and the beginning of the elimination of the alternatives begins, often a time where EXPOSITION left over from ACT I is brought out. Since our character is locked into the situation and can’t simply walk away, the stakes are higher – there is a lot more to lose."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist's first steps into their New World are met with a series of challenges that test them while raising the stakes and tension. The Protagonist struggles in the face of their First Obstacle, but having crossed the point of no return, they cannot turn back and ultimately suffer a defeat. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist entering the new world and quickly being tested – introduce enemies and challenges to showcase the new world's dangers."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Let the Protagonist falter and fail to succeed in facing their First Obstacle."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce Allies to support the Protagonist during this section as the stakes rise, but remember that loyalties waver, and not all true motivations of the Allies may be apparent."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Use any remaining exposition to raise the stakes for the central conflict and subplots, showing that there is more to lose."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The First Obstacle occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raising the Stakes occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -95,7 +381,100 @@
           {
             "children": [
               {
-                "text": "A higher OBSTACLE, the principle of RISING ACTION is brought in and builds to the FIRST CULMINATION, which usually parallels the RESOLUTION of the film. If the story is a tragedy and our hero dies, then the first culmination (or midpoint) should be a low point for our character. If, however, our hero wins in the end of the film, then sequence four should end with him winning in some way."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist's defeat from the First Obstacle leads to a greater obstacle that adds to the rising action and leads to the First Culmination. The Protagonist may continue to try to solve the Central Conflict and restore the Ordinary World. This Sequence ends with the Protagonist obtaining a major revelation, knowledge, or item which alters their perspective as the story comes to its midpoint/crisis. The Midpoint mirrors the resolution. If, in the end, the Protagonist is defeated, this section should end in a defeat or low point; if they succeed at the end, the Sequence should end with a small victory."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "This section is the Protagonist's first major encounter with the Central Conflict or Predicament from the beginning."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The method used by the Protagonist to survive the First Obstacle fails them in the face of this greater Obstacle."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist attempts to solve the Central Conflict and learns valuable information or gains an object which changes their perspective – they go from passive to active, with a renewed sense of vigor."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "This is a moment of crisis for the Protagonist – they may suffer a significant loss, even though victorious, or they may suffer a defeat from which they must be resurrected, either figuratively or literally. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider the loss of an Ally or Mentor or essential item, raising the stakes, and increasing the tension."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The First Culmination occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -108,7 +487,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "First Culmination/ Midpoint",
+        "title": "First Culmination / Midpoint",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
@@ -121,7 +500,84 @@
           {
             "children": [
               {
-                "text": "The SECOND ACT SAG can set in at this point if we don’t have a strong SUBPLOT to take the ball for a while. We still want RISING ACTION, but we’re not ready for the MAIN CULMINATION yet."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Avoid a second act sag by building a strong subplot to continue the rising action. Use this Sequence to explore conflicts in the subplot and perhaps introduce new characters; often the troubles keep piling up for the Protagonist to increase tension and help set up the next Sequence. This is also a good point to increase the stakes to maintain the audience's interest. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show events continuing to worsen for the Protagonist after facing the Central Conflict for the first time and suffering a crisis."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Use this section to continue to strip the Protagonist (e.g. perhaps they lose their love interest or the support of an essential Ally)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Let the deepening tension of the subplot contribute to the Protagonist's transformation and lead to further clarity and strength that aids in the final confrontation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Subplot & Rising Action occurs around the 60% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -147,7 +603,92 @@
           {
             "children": [
               {
-                "text": "The build-up to the MAIN CULMINATION – back to the main story line with a vengeance. The highest obstacle, the last alternative, the highest or lowest moment and the end of our main tension come at this point. But we get the first inklings of the new tension that will carry us through the third act.\n\n_Note: Since most midpoints and endings are paralleled, the PLOT POINT at the end of act two is usually at a polar opposite of those points. So if our hero wins at the midpoint and at the end of the film, then she usually hs her lowest point here._"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Return to the Main Plot with force. This Sequence contains the largest Obstacle, the final option, and the lowest point for the Protagonist. The stakes, tension, and drama are at their highest as the Protagonist is put through the absolute worst circumstances; despite all the efforts of the Protagonist, victory seems completely out of reach. The tension set up in this section will carry the story to its conclusion."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Raise the tension and stakes so that the Protagonist's objective seems beyond reach (e.g. the Villain has returned with the full force of their armies, they are close to completing their nefarious plan, or perhaps they obtained an object which gives them incredible strength)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the full complement of the Protagonist's toolkit and abilities seems to fall short in the face of the increased threat, as all hope appears lost."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The audience should doubt that ultimate victory can be achieved."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Since most midpoints and endings are paralleled, the plot point at the end of Act 2 is usually at a polar opposite of those points; if our hero wins at the midpoint and at the end of the film, they are usually at their lowest point here."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Main Culmination occurs around the 70% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -173,7 +714,92 @@
           {
             "children": [
               {
-                "text": "The full yet simple, brief establishment of the third act tension with its requisite exposition. Simpler, faster in nearly all ways, with rapid, short scenes and no real elaborate set-ups. The TWIST can end this sequence or come at the start of the eighth sequence."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This sequence contains fast-paced action with short rapid scenes and minimal set-ups, as the solutions to the Central Conflict found at the end of the last Sequence falter. The stakes are raised as the Protagonist faces a new Twist that sends them and the story in a new direction. The Twist comes at the end of this Sequence and presents a new goal for the Protagonist, with the audience being quickly brought up-to-speed, with minimal exposition."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist has faced their lowest moment in Act 2 and is determined to defeat the Villain, but they are pursued by danger and face several small obstacles on their way to the final confrontation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show that the Villain is at their strongest, as is the Protagonist, who is ready to use all they have learned and experienced to get themselves to and past the final conflict."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce a Twist at this point in the story which adds to the tension or shifts the Protagonist's goal – they may realize the goal they have achieved is not what makes them happy or ends in success (e.g. they may have foiled the Villain's plan, only to realize it was a small part of a much larger plot with more dire consequences)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "New Tension occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Twist occurs around the 85% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -199,9 +825,118 @@
           {
             "children": [
               {
-                "text": "Hell-bent for the RESOLUTION. Clarity is important. If they turn left, all is well, if they go right, the world as we know it ends. Not that we don’t have complex emotions or ideas about what it all amounts to, but at this point we crave clarity. Will he get the girl, defuse the bomb, turn in his murderous brother and escape from the sinking boat surrounded by sharks?"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Resolution comes as the Protagonist faces the final battle, and the stakes are crystal clear. If they lose, the world faces disaster; if they win, they can return to the Ordinary World transformed and ready to be celebrated. The Resolution must tie up all loose ends, conclude the character arcs for all main characters, and set the hook for the next story in the series (if there is one). The Resolution also mirrors the Midpoint: a previous small victory ends in a great victory, and a previous small defeat ends in devastation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the final battle and demonstrate how the Protagonist has used all they have learned throughout the journey to be successful."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Vanquish the Villain or have the Protagonist succeed in their ultimate quest."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Wrap the character arc of the Protagonist and major characters – be sure to demonstrate how they have transformed from the beginning."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Protagonist and their Ordinary World has been altered by their success (or failure)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Remember to mirror the tone of the Midpoint."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If part of a greater series, be sure to leave room for further character development of the Protagonist and set the hooks for the next installment."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Resolution occurs around the 90% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
           }
         ],
         "id": 8,
@@ -223,48 +958,39 @@
         "children": {
           "1": [],
           "2": [],
-          "3": [],
           "4": [],
           "5": [],
           "6": [],
           "7": [],
-          "8": [],
           "9": [],
           "10": [],
-          "11": [],
           "null": [
             1,
             2,
-            3,
             4,
             5,
             6,
             7,
-            8,
             9,
-            10,
-            11
+            10
           ]
         },
         "heap": {
           "1": null,
           "2": null,
-          "3": null,
           "4": null,
           "5": null,
           "6": null,
           "7": null,
-          "8": null,
           "9": null,
-          "10": null,
-          "11": null
+          "10": null
         },
         "index": {
           "1": {
             "id": 1,
             "bookId": 1,
-            "position": 10,
-            "title": "Sequence 8",
+            "position": 7,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -274,19 +1000,8 @@
           "2": {
             "id": 2,
             "bookId": 1,
-            "position": 9,
-            "title": "Sequence 7",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "3": {
-            "id": 3,
-            "bookId": 1,
-            "position": 8,
-            "title": "Act III",
+            "position": 6,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -296,8 +1011,8 @@
           "4": {
             "id": 4,
             "bookId": 1,
-            "position": 7,
-            "title": "Sequence 6",
+            "position": 5,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -307,8 +1022,8 @@
           "5": {
             "id": 5,
             "bookId": 1,
-            "position": 6,
-            "title": "Sequence 5",
+            "position": 4,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -318,8 +1033,8 @@
           "6": {
             "id": 6,
             "bookId": 1,
-            "position": 5,
-            "title": "Sequence 4",
+            "position": 3,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -329,19 +1044,8 @@
           "7": {
             "id": 7,
             "bookId": 1,
-            "position": 4,
-            "title": "Sequence 3",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "8": {
-            "id": 8,
-            "bookId": 1,
-            "position": 3,
-            "title": "Act II",
+            "position": 2,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -351,8 +1055,8 @@
           "9": {
             "id": 9,
             "bookId": 1,
-            "position": 2,
-            "title": "Sequence 2",
+            "position": 1,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -362,19 +1066,8 @@
           "10": {
             "id": 10,
             "bookId": 1,
-            "position": 1,
-            "title": "Sequence 1",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "11": {
-            "id": 11,
-            "bookId": 1,
             "position": 0,
-            "title": "Act I",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -391,7 +1084,7 @@
         "color": "#78be20",
         "id": 2,
         "position": 1,
-        "title": "Subplot",
+        "title": "Eight Sequences Subplot",
         "expanded": null,
         "fromTemplateId": null
       },
@@ -401,20 +1094,20 @@
         "color": "#6cace4",
         "id": 1,
         "position": 0,
-        "title": "Main Plot",
+        "title": "Eight Sequences Main Plot",
         "expanded": null,
         "fromTemplateId": null
       }
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -422,7 +1115,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -430,6 +1123,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

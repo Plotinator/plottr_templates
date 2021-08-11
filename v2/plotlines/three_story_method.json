@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
-  "version": "2021.7.8",
+  "version": "2021.8.11",
   "categories": [
     "general"
   ],
@@ -22,15 +22,7 @@
           {
             "children": [
               {
-                "text": "CONSEQUENCE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "High-stakes consequences arise when the choice facing the character is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -38,14 +30,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "High-stakes consequences arise when the choice facing the Protagonist is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -53,86 +65,140 @@
           {
             "children": [
               {
-                "text": "Act 3 Consequence: Luke turns off his computer-aided navigation system to use the Force to take the shot at the Death Star’s single vulnerability, successfully blowing it up and saving the day. The “happy ending” occurs when Luke discovers his “new normal.” He has transformed from whiny farm boy to intergalactic hero as he’s awarded a medal by Princess Leia."
+                "text": "Luke turns off his computer-aided navigation system to use the Force to take the shot at the Death Star’s single vulnerability, successfully blowing it up and saving the day. The “happy ending” occurs when Luke discovers his “new normal.” He has transformed from a whiny farm boy to an intergalactic hero as he’s awarded a medal by Princess Leia."
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 - Consequence occurs around the 95% mark."
+                  }
+                ]
               }
             ]
           }
@@ -158,22 +224,31 @@
           {
             "children": [
               {
-                "text": "CHOICE"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
-            "type": "heading-one"
+            "type": "paragraph"
           },
           {
             "children": [
               {
-                "text": "In every act, your protagonist must face a choice. There "
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "In every act, the Protagonist must face a choice. There "
               },
               {
                 "text": "must ",
                 "italic": true
               },
               {
-                "text": "be a choice. The choice is a difficult decision the protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader (1) arguing with himself over which option is best for the character and (2) unable to put the book down, insistent on finding out what the character decides.\r"
+                "text": "be a choice. The choice is a difficult decision the Protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader arguing with themselves over which option is best for the Protagonist and unable to put the book down, insistent on finding out what the Protagonist decides.\r"
               }
             ],
             "type": "paragraph"
@@ -181,14 +256,17 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -196,86 +274,140 @@
           {
             "children": [
               {
-                "text": "Act 3 Choice: Does Luke rely on his computer to make the shot, but knowing he’s going too fast and a more experienced pilot has already missed and Luke is the last chance, or does Luke turn off the computer and use the Force that he hasn’t yet mastered and others look at cynically?"
+                "text": "Does Luke rely on his computer to make the shot, but knowing he’s going too fast and a more experienced pilot has already missed and Luke is the last chance, or does Luke turn off the computer and use the Force that he hasn’t yet mastered and others look at cynically?"
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 - Choice occurs around the 85% mark."
+                  }
+                ]
               }
             ]
           }
@@ -301,15 +433,7 @@
           {
             "children": [
               {
-                "text": "CONFLICT"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "The thing that yanks your protagonist out of his ordinary life. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on your genre. However, it does need to force the main character into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -317,14 +441,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The thing that yanks the Protagonist out of Act 2. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on the genre. However, it does need to force the Protagonist into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -332,86 +476,140 @@
           {
             "children": [
               {
-                "text": "Act 3 Conflict: With Han Solo at the helm of the Millennium Falcon, Luke and the others escape the Death Star, thanks to Kenobi’s sacrifice, as he had disabled the tractor beam that would have kept the ship in the dock."
+                "text": "With Han Solo at the helm of the Millennium Falcon, Luke and the others escape the Death Star, thanks to Kenobi’s sacrifice, as he had disabled the tractor beam that would have kept the ship in the dock."
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 - Conflict occurs around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -437,15 +635,7 @@
           {
             "children": [
               {
-                "text": "CONSEQUENCE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "High-stakes consequences arise when the choice facing the character is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -453,14 +643,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "High-stakes consequences arise when the choice facing the Protagonist is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -468,86 +678,140 @@
           {
             "children": [
               {
-                "text": "Act 2 Consequence: He decides to save the princess while watching Darth Vader strike down Kenobi."
+                "text": "Luke decides to save the princess while watching Darth Vader strike down Kenobi."
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Consequence occurs around the 70% mark."
+                  }
+                ]
               }
             ]
           }
@@ -573,22 +837,31 @@
           {
             "children": [
               {
-                "text": "CHOICE"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
-            "type": "heading-one"
+            "type": "paragraph"
           },
           {
             "children": [
               {
-                "text": "In every act, your protagonist must face a choice. There "
+                "text": "Late in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "In every Act, the Protagonist must face a choice. There "
               },
               {
                 "text": "must ",
                 "italic": true
               },
               {
-                "text": "be a choice. The choice is a difficult decision the protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader (1) arguing with himself over which option is best for the character and (2) unable to put the book down, insistent on finding out what the character decides.\r"
+                "text": "be a choice. The choice is a difficult decision the Protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader arguing with themselves over which option is best for the Protagonist and unable to put the book down, insistent on finding out what the Protagonist decides.\r"
               }
             ],
             "type": "paragraph"
@@ -596,14 +869,17 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -611,86 +887,140 @@
           {
             "children": [
               {
-                "text": "Act 2 Choice: Does Luke interfere with the lightsaber duel between Obi-Wan Kenobi and Darth Vader, saving his mentor but risking his life, or does he sacrifice Kenobi on behalf of the rebellion and get Princess Leia out of harm’s way?"
+                "text": "Does Luke interfere with the lightsaber duel between Obi-Wan Kenobi and Darth Vader, saving his mentor but risking his life, or does he sacrifice Kenobi on behalf of the rebellion and get Princess Leia out of harm’s way?"
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Choice occurs around the 65% mark."
+                  }
+                ]
               }
             ]
           }
@@ -711,20 +1041,12 @@
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
-        "title": "Obstacle 3",
+        "title": "Act 2 - Obstacle 3",
         "description": [
           {
             "children": [
               {
-                "text": "OBSTACLE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "Each obstacle should get progressively more challenging for the protagonist, ultimately leading up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the protagonist to overcome in the second act.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -732,14 +1054,43 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Each obstacle should get progressively more challenging for the Protagonist, ultimately leading up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the Protagonist to overcome in the second act.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note: Obstacles do not always have to occur within the second act. They are placed here to demonstrate the conventional 25/50/25 length of the three-act structure.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -747,7 +1098,110 @@
           {
             "children": [
               {
-                "text": "Act 2 Obstacle 3: Luke, Leia, Chewbacca, and Solo become trapped in an infested garbage compactor that threatens to crush them all.\r\r"
+                "text": "Luke, Leia, Chewbacca, and Solo become trapped in an infested garbage compactor that threatens to crush them all.\r\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -755,87 +1209,38 @@
           {
             "children": [
               {
-                "text": "*Note - Obstacles do not always have to occur within the second act. They are placed here to demonstrate the conventional 25/50/25 length of the three-act structure.\r",
-                "underline": true
+                "text": "Obstacles do not always have to occur within the second act. They are placed here to demonstrate the conventional 25/50/25 length of the three-act structure. "
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
-              }
-            ],
-            "type": "heading-two"
-          },
-          {
-            "children": [
-              {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Obstacle 3 occurs around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -856,20 +1261,12 @@
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
-        "title": "Obstacle 2",
+        "title": "Act 2 - Obstacle 2",
         "description": [
           {
             "children": [
               {
-                "text": "OBSTACLE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "Each obstacle should get progressively more challenging for the protagonist, ultimately leading up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the protagonist to overcome in the second act.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -877,14 +1274,43 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Each obstacle should get progressively more challenging for the Protagonist, ultimately leading up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the Protagonist to overcome in the second act.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note: Obstacles do not always have to occur within the second act. They are placed here to demonstrate the conventional 25/50/25 length of the three-act structure.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -892,86 +1318,140 @@
           {
             "children": [
               {
-                "text": "Act 2 Obstacle 2: The Millennium Falcon is captured and they must hide in Han Solo’s smuggling compartments.\r\r"
+                "text": "The Millennium Falcon is captured, and they must hide in Han Solo’s smuggling compartments.\r\r"
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Obstacle 2 occurs around the 40% mark."
+                  }
+                ]
               }
             ]
           }
@@ -992,20 +1472,12 @@
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
-        "title": "Obstacle 1",
+        "title": "Act 2 - Obstacle 1",
         "description": [
           {
             "children": [
               {
-                "text": "OBSTACLE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "Each obstacle should get progressively more challenging for the protagonist, ultimately leading up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the protagonist to overcome in the second act.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -1013,14 +1485,43 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Early in Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Each obstacle should get progressively more challenging for the Protagonist, ultimately lead up to the Act 2 choice. While three major obstacles would be a minimum, there is no maximum for the number of obstacles for the Protagonist to overcome in the second act.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note: Obstacles do not always have to occur within the second act. They are placed here to demonstrate the conventional 25/50/25 length of the three-act structure.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -1028,86 +1529,132 @@
           {
             "children": [
               {
-                "text": "Act 2 Obstacle 1: Luke and his small band must board the Death Star to rescue Princess Leia. In the second act, this complicates the situation for Luke and also marks a turn as he becomes openly rebellious."
+                "text": "Luke and his small band must board the Death Star to rescue Princess Leia. In the second act, this complicates the situation for Luke and also marks a turn as he becomes openly rebellious."
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
-              }
-            ],
-            "type": "heading-two"
-          },
-          {
-            "children": [
-              {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Answer these questions for each scene:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "What does the protagonist want (external pursuits)?"
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Obstacle 1 occurs around the 30% mark."
+                  }
+                ]
               }
             ]
           }
@@ -1133,15 +1680,7 @@
           {
             "children": [
               {
-                "text": "CONFLICT"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "The thing that yanks your protagonist out of his ordinary life. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on your genre. However, it does need to force the main character into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -1149,14 +1688,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The thing that yanks the Protagonist out of Act 1. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on the genre. However, it does need to force the Protagonist into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -1164,7 +1723,7 @@
           {
             "children": [
               {
-                "text": "Act 2 Conflict: Ben and Luke return to the farm where they discover that stormtroopers have killed Luke’s uncle and aunt, and then burned the house and farm to the ground. "
+                "text": "Ben and Luke return to the farm, where they discover that stormtroopers have killed Luke’s uncle and aunt and then burned the house and farm to the ground."
               }
             ],
             "type": "paragraph"
@@ -1172,78 +1731,132 @@
           {
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ]
               }
             ]
           },
           {
             "children": [
               {
-                "text": "What are you trying to say about life?"
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 - Conflict occurs around the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -1269,15 +1882,7 @@
           {
             "children": [
               {
-                "text": "CONSEQUENCE"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "High-stakes consequences arise when the choice facing the character is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -1285,14 +1890,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "High-stakes consequences arise when the choice facing the Protagonist is incredibly difficult. The more difficult the choice, the more engaged the reader will be.\r\r The consequence is the answer to the choice as well as the new circumstance resulting from it.\r"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -1300,7 +1925,7 @@
           {
             "children": [
               {
-                "text": "Act 1 Consequence: Luke turns down the invitation, taking what he believes is the more practical and logical approach. At this point, he doesn’t believe that some random kid can have an impact in the world. He begrudgingly accepts that perceived reality."
+                "text": "Luke turns down the invitation, taking what he believes is the more practical and logical approach. At this point, he doesn’t believe that some random kid can have an impact on the world. He begrudgingly accepts that perceived reality."
               }
             ],
             "type": "paragraph"
@@ -1308,78 +1933,124 @@
           {
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "What are you trying to say about life?"
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 - Consequence occurs around the 20% mark."
+                  }
+                ]
               }
             ]
           }
@@ -1405,22 +2076,31 @@
           {
             "children": [
               {
-                "text": "CHOICE"
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
-            "type": "heading-one"
+            "type": "paragraph"
           },
           {
             "children": [
               {
-                "text": "In every act, your protagonist must face a choice. There "
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "In every Act, the Protagonist must face a choice. There "
               },
               {
                 "text": "must ",
                 "italic": true
               },
               {
-                "text": "be a choice. The choice is a difficult decision the protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader (1) arguing with himself over which option is best for the character and (2) unable to put the book down, insistent on finding out what the character decides.\r"
+                "text": "be a choice. The choice is a difficult decision the Protagonist must face, born from a challenging question with equally wonderful or horrific consequences. The best choice leaves the reader arguing with themselves over which option is best for the character and unable to put the book down, insistent on finding out what the character decides.\r"
               }
             ],
             "type": "paragraph"
@@ -1428,14 +2108,17 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -1443,86 +2126,132 @@
           {
             "children": [
               {
-                "text": "Act 1 Choice: Does Luke accept Kenobi’s invitation to train as a Jedi so he can honor his father and join the rebellion or does Luke, being obedient and dutiful, deny the invitation and go back to his uncle’s farm?"
+                "text": "Does Luke accept Kenobi’s invitation to train as a Jedi so he can honor his father and join the rebellion, or does Luke, being obedient and dutiful, deny the invitation and go back to his uncle’s farm?"
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
-              }
-            ],
-            "type": "heading-two"
-          },
-          {
-            "children": [
-              {
-                "text": "In three sentences or less, explain what is happening in this scene."
+                "text": "Answer these questions for each scene:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What are you trying to say about life?"
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "What does the protagonist want (external pursuits)?"
+                "text": "Breakdown:",
+                "bold": true
               }
             ]
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 - Choice occurs around the 15% mark."
+                  }
+                ]
               }
             ]
           }
@@ -1548,15 +2277,7 @@
           {
             "children": [
               {
-                "text": "CONFLICT"
-              }
-            ],
-            "type": "heading-one"
-          },
-          {
-            "children": [
-              {
-                "text": "The thing that yanks your protagonist out of his ordinary life. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on your genre. However, it does need to force the main character into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ],
             "type": "paragraph"
@@ -1564,14 +2285,34 @@
           {
             "children": [
               {
-                "text": "Example from "
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The thing that yanks the Protagonist out of their ordinary life. Yes, it’s that simple. The term “Inciting Incident” is often used in screenwriting and movie production as well as novel writing, but we chose to call it “conflict” because it’s more specific. This single event does not necessarily need to be tense, dramatic, or a life-or-death situation—the nature of the inciting incident will depend on the genre. However, it does need to force the Protagonist into changing, which then “incites” the act. Without change precipitated by conflict, there is no story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example from ",
+                "bold": true
               },
               {
                 "text": "Star Wars",
-                "italic": true
+                "italic": true,
+                "bold": true
               },
               {
-                "text": ":"
+                "text": ":",
+                "bold": true
               }
             ],
             "type": "paragraph"
@@ -1579,86 +2320,132 @@
           {
             "children": [
               {
-                "text": "Act 1 Conflict: Luke buys the droids (R2-D2 and C-3PO) from the Jawa traders, even though he probably shouldn’t. This simple decision kicks off the first act."
+                "text": "Luke buys the droids (R2-D2 and C-3PO) from the Jawa traders, even though he probably shouldn’t. This simple decision kicks off the first act."
               }
             ],
             "type": "paragraph"
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Fill these out for each scene:"
+                "text": "Answer these questions for each scene:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "In three sentences or less, explain what is happening in this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What are you trying to say about life?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Protagonist need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism want (external pursuits)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What does the Antagonist or force of antagonism need (internal desires)?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What’s wrong with the Protagonist’s personal world? What is the disruption?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What single moment or circumstance pushes the Protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What choice must the Protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What event(s) occur as a result of the Protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
               }
             ],
-            "type": "heading-two"
+            "type": "paragraph"
           },
           {
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "In three sentences or less, explain what is happening in this scene."
-              }
-            ]
-          },
-          {
-            "children": [
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
               {
-                "text": "What are you trying to say about life?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the protagonist need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism want (external pursuits)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What does the antagonist or force of antagonism need (internal desires)?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What’s wrong with the protagonist’s personal world? What is the disruption?"
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What single moment or circumstance pushes the protagonist out of the status quo? Tip: It must be “on the page,” not something that occurred before the beginning of this scene."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What choice must the protagonist make in this scene? Tip: Label it as a Best Bad Choice or an Irreconcilable Good and list all possible outcomes."
-              }
-            ]
-          },
-          {
-            "children": [
-              {
-                "text": "What event(s) occur as a result of the protagonist’s decision? Tip: Use the consequence of this scene to set up the conflict of the next."
+                "children": [
+                  {
+                    "text": "Act 1 - Conflict occurs around the 10% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -1722,7 +2509,7 @@
             "id": 1,
             "bookId": 1,
             "position": 0,
-            "title": "Act 1 - Conflict",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1733,7 +2520,7 @@
             "id": 2,
             "bookId": 1,
             "position": 1,
-            "title": "Act 1 - Choice",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1744,7 +2531,7 @@
             "id": 3,
             "bookId": 1,
             "position": 2,
-            "title": "Act 1 - Consequence",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1755,7 +2542,7 @@
             "id": 4,
             "bookId": 1,
             "position": 3,
-            "title": "Act 2 - Conflict",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1766,7 +2553,7 @@
             "id": 5,
             "bookId": 1,
             "position": 4,
-            "title": "Act 2 - Obstacle 1",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1777,7 +2564,7 @@
             "id": 6,
             "bookId": 1,
             "position": 5,
-            "title": "Act 2 - Obstacle 2",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1788,7 +2575,7 @@
             "id": 7,
             "bookId": 1,
             "position": 6,
-            "title": "Act 2 - Obstacle 3",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1799,7 +2586,7 @@
             "id": 8,
             "bookId": 1,
             "position": 7,
-            "title": "Act 2 - Choice",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1810,7 +2597,7 @@
             "id": 9,
             "bookId": 1,
             "position": 8,
-            "title": "Act 2 - Consequence",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1821,7 +2608,7 @@
             "id": 10,
             "bookId": 1,
             "position": 9,
-            "title": "Act 3 - Conflict",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1832,7 +2619,7 @@
             "id": 11,
             "bookId": 1,
             "position": 10,
-            "title": "Act 3 - Choice",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1843,7 +2630,7 @@
             "id": 12,
             "bookId": 1,
             "position": 11,
-            "title": "Act 3 - Consequence",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1857,8 +2644,8 @@
       {
         "id": 1,
         "bookId": 1,
-        "color": "Gold",
-        "title": "Main Plot",
+        "color": "gold",
+        "title": "Three Story Method",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -1867,13 +2654,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -1881,7 +2668,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -1889,6 +2676,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

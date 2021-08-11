@@ -1,13 +1,16 @@
 {
   "id": "pl13",
   "type": "plotlines",
-  "name": "Victor Piñeiro Screenplay",
-  "description": "A screenplay structure by Victor Piñeiro",
-  "version": "2021.7.8",
+  "name": "Victor Piñeiro's Screenplay Method",
+  "description": "A formula for writing films based on ideas by Victor Piñeiro",
+  "version": "2021.8.11",
   "categories": [
     "screenplay"
   ],
   "link": "https://byrslf.co/how-to-write-a-screenplay-or-tell-a-better-story-e91b3a2f9bfb",
+  "extraLinks": [
+    "https://www.slideshare.net/purewest/how-to-write-a-screenplay-or-tell-a-better-story"
+  ],
   "templateData": {
     "cards": [
       {
@@ -18,7 +21,92 @@
           {
             "children": [
               {
-                "text": "Shows us what the hero’s world is like, it introduces all the main characters and it introduces the hero’s flaw or flaws."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The opening section shows us what the hero’s world is like, introduces all the main characters and introduces the hero’s flaw or flaws."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Create a robust picture of the Hero's ordinary world and how they interact within it."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create a sense of comfort for the Hero, but consider including something about the world that displeases the Hero."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop a three-dimensional character with flaws, hopes, problems, and a unique personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identify the Hero's wants (external) and needs (internal)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "A Day in the Life brings the story to the 8% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -44,7 +132,84 @@
           {
             "children": [
               {
-                "text": "Something happens and the hero’s world is flipped on its head. This is where the hook comes in. You can also consider this the call to adventure, where the hero is presented the opportunity to go on some kind of adventure."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Something happens and the Hero’s world is flipped on its head. This is where the hook comes in. You can also consider this the call to adventure, where the Hero is presented the opportunity to go on some kind of adventure."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Decide upon a compelling hook / inciting incident – this should be something that cannot be resolved on its own, and must be interesting to the audience."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider whether the inciting incident will be a personal loss like a death in the family, an external attack like a kidnapping, a natural force like a tornado, or based upon a larger disruption to the Hero's world like a war?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "This is the hook that carries the audience into the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Spark occurs around the 8% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -70,7 +235,76 @@
           {
             "children": [
               {
-                "text": "The hero needs to decide whether to embark on this adventure or take this new opportunity. 99% of the time the hero will refuse initially, but something will drive her make the decision and go go go… right into Act 2!"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero needs to decide whether to embark on this adventure or take this new opportunity. 99% of the time the Hero will refuse initially, but something will drive them to make a decision and go go go… right into Act 2!"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "If the Hero initially refuses the call to adventure, increase the tension and stakes until refusal is no longer an option."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider creating a willing Hero who wants to take up the call but is facing obstacles to do so (e.g. they want to stop the villain, but their specialized weapons have been confiscated by the government)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Do I Stay or Do I go occurs around the 15% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -96,7 +330,76 @@
           {
             "children": [
               {
-                "text": "Act 2 begins with the hero boldly venturing into the new world, which is the opposite of the world she’s lived in up to this point. Remember, it doesn’t literally have to be a new world — just an unfamiliar place or situation."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2 begins with the Hero boldly venturing into their new world, which is the opposite of the world they have lived in up to this point. Remember, it doesn’t literally have to be a New World — just an unfamiliar place or situation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Bring the audience into the New World by showcasing what is different about this world versus the Hero's ordinary world highlighted at the beginning (e.g. a tropical rain forest, an alien planet, a spaceship, or a far-off land.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The New World should be exciting but also a bit daunting to the Hero – what about this New World creates a sense of unease for the Hero or hinders them?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Into the New World occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -122,7 +425,84 @@
           {
             "children": [
               {
-                "text": "The new world often comes with a few new characters, including the love interest. He usually represents what the hero needs. Not what the hero wants, but what she actually needs."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Early Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The new world often comes with a few new characters, including the Love Interest. The Love Interest usually represents what the Hero needs – not what the Hero wants, but what they actually need."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce new characters, including the Love Interest. Pay attention to your character development, as each major character must have an arc."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "How does the love interest represent the Hero's needs? Remember needs are internal (e.g. courage, self-confidence, appreciation, or humility)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The introduction of the Love Interest must be enticing to the audience, who must care about the relationship."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "What is Love occurs around the 35% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -148,7 +528,84 @@
           {
             "children": [
               {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Mid Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
                 "text": "Remember that awesome hook you thought up? This is where you pay it off. The hero has fun with her new powers or her new situation. The audience should absolutely love this part. A large portion of a movie’s trailer often comes from scenes in this section."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Experiment with the Hero's new power or situation, showcasing what they can do and how they can still grow. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have fun with this section – the greater the passion involved, the deeper the buy-in for the audience."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "This should be a scene that has the audience talking and telling their friends."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Melt Their Faces Off occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -174,7 +631,76 @@
           {
             "children": [
               {
-                "text": "At the midpoint of the movie (and Act Two), the hero crosses the point of no return. She does something which she can’t undo, which will plunge her into the second half of Act 2, which is the nightmare. But not quite yet. First she has a…"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "At the midpoint of the film (and Act Two), the Hero crosses the point of no return. They do something they can’t undo, which will plunge them into the second half of Act 2, which is the nightmare. But not quite yet..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The trigger for the Hero's point of no return must be something significant (e.g. they kill the Villain's henchman, cause an international incident, disobey the government, or lose a vital item or object)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider the possible consequences of this action. How does it impact the story? How does it affect the Hero's mindset? "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Crossing the Rubicon occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -200,7 +726,84 @@
           {
             "children": [
               {
-                "text": "The hero gets a moment of clarity and everything seems like it’s going to be okay — she thinks she’s going to prevail. One small note here — in some movies this is the moment of false defeat. But either way the hero is headed into the…"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Mid Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Hero gets a moment of clarity and everything seems like it’s going to be okay — they thinks they're going to prevail. One small note here — in some movies this is the moment of false defeat. But either way the hero is headed into the Long Journey into Night."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero celebrate a victory and gain further confidence (e.g. they foil a portion of the Villain's plan, not realizing it is part of a larger scheme)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the Hero and the audience a false sense of victory and relief (e.g. they found the source of the Villain's power and believe they know how to stop it)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Alternatively, consider having the Hero suffer a false defeat (e.g. perhaps the Villain has absconded with an essential item or object, or the Hero's efforts to repair a dam cause another section to fail, threatening a town with a deluge of water)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "False Victory occurs around the 55% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -226,7 +829,84 @@
           {
             "children": [
               {
-                "text": "Here’s where things go from bad to worse. The villains come back far more powerful than before. The hero’s losing her external and internal battle. Often the love interest leaves at this point. Things continue to get dire until they hit…"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Late Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Here’s where things go from bad to worse. The Villains come back far more powerful than before. The Hero’s losing their external and internal battle. Often the Love Interest leaves at this point. Things continue to get dire."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero in a severe state of struggle (e.g. the Villain that escaped has returned with a greater army, is more powerful due to an object they stole previously, or all the Hero's efforts just seem to fail)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero descend into darkness as everything seems to fall apart around them, such that both the Hero - and the audience - begin to doubt if they can be successful."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Demonstrate how the the Hero's inability to face their flaws continues to hinder them."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Long Journey into Night occurs around the 60% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -252,7 +932,76 @@
           {
             "children": [
               {
-                "text": "Things could not get worse. The villains seem unstoppable. All hope is lost. The love interest ditched the hero, usually because of the hero’s flaw, and just when things are at their most hopeless, the hero rises…"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Late Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Things could not get worse, the Villains seem unstoppable, and all hope is lost. The Love Interest ditched the Hero, usually because of the Hero’s flaw, and things are at their most hopeless."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Villain wracking up victory after victory – they have unleashed the full force of their might, and all hope for the Hero appears to be lost, as they still struggle to face their flaws."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Use this section to ramp up tension and drama as the Villain appears to be heading toward successfully implementing their evil plan."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Rock Bottom occurs around the 65% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -278,7 +1027,84 @@
           {
             "children": [
               {
-                "text": "The hero realizes her flaw, learns her lesson, and formulates a plan to defeat the villain. Here’s where the A story — meaning the main plot, and the B story — often the love interest — meet. This is also the moment when the hero rushes right into Act 3"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero realizes their flaw, learns their lesson, and formulates a plan to defeat the Villain. Here’s where the A story — the main plot, and the B story — often the Love Interest — meet. This is also the moment when the Hero rushes right into Act 3."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Determine what leads the Hero to finally face their flaws and regain the determination to face the Villain (e.g. an epiphany, discovery of new information, or a pep talk with a Mentor or Ally)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Showcase the Hero's new perspective / abilities and identify how it gives them the strength and confidence to face the Villain."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the newly inspired Hero make amends with the Love Interest and devise a plan to foil the Villain."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "From the Ashes occurs around the 70% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -304,7 +1130,108 @@
           {
             "children": [
               {
-                "text": "The hero faces the villain, who is at their strongest, and wins! By winning she has now changed the world. The hero is now older and wiser. And every major character has changed. Yeah, I hadn’t mentioned that before — and it can be one of the trickiest parts of writing a screenplay. Every major character has to have an arc, and change in some way by the end of the movie."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero faces the Villain, who is at their strongest, and wins! By winning, they have now changed the world. The Hero is now older and wiser. And every major character has changed —  this can be one of the trickiest parts of writing a screenplay. Every major character has to have an arc and change in some way by the end of the movie."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The final payoff for the audience, this section must be dramatic, exciting, and satisfying."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Vanquish the Villain or stop their vile plan."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Hero has transformed from the beginning and satisfied their wants and needs."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Wrap up the character arcs for the other major characters and show how they have changed, as well."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Celebrate the Hero as they return to the ordinary world – how has it changed with their victory?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If the film is part of a series, be sure to leave room for further development of the Hero and perhaps set a hook for the next story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Time to Kick Ass starts around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -327,7 +1254,6 @@
       "1": {
         "children": {
           "1": [],
-          "2": [],
           "3": [],
           "4": [],
           "5": [],
@@ -336,14 +1262,11 @@
           "8": [],
           "9": [],
           "10": [],
-          "11": [],
           "12": [],
           "13": [],
           "14": [],
-          "15": [],
           "null": [
             1,
-            2,
             3,
             4,
             5,
@@ -352,16 +1275,13 @@
             8,
             9,
             10,
-            11,
             12,
             13,
-            14,
-            15
+            14
           ]
         },
         "heap": {
           "1": null,
-          "2": null,
           "3": null,
           "4": null,
           "5": null,
@@ -370,29 +1290,16 @@
           "8": null,
           "9": null,
           "10": null,
-          "11": null,
           "12": null,
           "13": null,
-          "14": null,
-          "15": null
+          "14": null
         },
         "index": {
           "1": {
             "id": 1,
             "bookId": 1,
-            "position": 14,
-            "title": "#12",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "2": {
-            "id": 2,
-            "bookId": 1,
-            "position": 13,
-            "title": "Act III",
+            "position": 11,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -402,8 +1309,8 @@
           "3": {
             "id": 3,
             "bookId": 1,
-            "position": 12,
-            "title": "#11",
+            "position": 10,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -413,8 +1320,8 @@
           "4": {
             "id": 4,
             "bookId": 1,
-            "position": 11,
-            "title": "#10",
+            "position": 9,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -424,8 +1331,8 @@
           "5": {
             "id": 5,
             "bookId": 1,
-            "position": 10,
-            "title": "#9",
+            "position": 8,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -435,8 +1342,8 @@
           "6": {
             "id": 6,
             "bookId": 1,
-            "position": 9,
-            "title": "#8",
+            "position": 7,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -446,8 +1353,8 @@
           "7": {
             "id": 7,
             "bookId": 1,
-            "position": 8,
-            "title": "#7",
+            "position": 6,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -457,8 +1364,8 @@
           "8": {
             "id": 8,
             "bookId": 1,
-            "position": 7,
-            "title": "#6",
+            "position": 5,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -468,8 +1375,8 @@
           "9": {
             "id": 9,
             "bookId": 1,
-            "position": 6,
-            "title": "#5",
+            "position": 4,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -479,19 +1386,8 @@
           "10": {
             "id": 10,
             "bookId": 1,
-            "position": 5,
-            "title": "#4",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "11": {
-            "id": 11,
-            "bookId": 1,
-            "position": 4,
-            "title": "Act II",
+            "position": 3,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -501,8 +1397,8 @@
           "12": {
             "id": 12,
             "bookId": 1,
-            "position": 3,
-            "title": "#3",
+            "position": 2,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -512,8 +1408,8 @@
           "13": {
             "id": 13,
             "bookId": 1,
-            "position": 2,
-            "title": "#2",
+            "position": 1,
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -523,19 +1419,8 @@
           "14": {
             "id": 14,
             "bookId": 1,
-            "position": 1,
-            "title": "#1",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          },
-          "15": {
-            "id": 15,
-            "bookId": 1,
             "position": 0,
-            "title": "Act I",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -550,17 +1435,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Victor Piñeiro's Screenplay Method",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -569,13 +1444,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -583,7 +1458,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -591,6 +1466,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

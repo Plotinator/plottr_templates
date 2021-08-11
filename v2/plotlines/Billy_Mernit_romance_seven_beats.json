@@ -2,12 +2,13 @@
   "id": "pl5",
   "type": "plotlines",
   "name": "Seven Romantic Comedy Beats",
-  "description": "A romance plot structure",
-  "version": "2021.7.8",
+  "description": "An outline formula for romantic comedy based on ideas by Billy Mernit",
+  "version": "2021.8.11",
   "categories": [
     "romance",
     "comedy"
   ],
+  "link": "https://livingromcom.typepad.com/",
   "templateData": {
     "cards": [
       {
@@ -16,9 +17,102 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "A reconciliation that reaffirms the primal importance of the relationship; usually a happy ending that implies marriage or a serious commitment, often at the cost of some personal sacrifice to the protagonist (116)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Both the Protagonist and Love Interest are forced to decide if they will stick to their external goals and succumb to their false beliefs... or work through their inner conflicts and sacrifice for love. By section's end, they work to fix their internal and external conflicts, leading to a reconciliation that reaffirms the primal importance of the relationship. The central question of will they end up together is answered, usually with a happy ending that implies marriage or a serious commitment, often at the cost of some personal sacrifice to the Protagonist. Hence the term Joyful Defeat. Both must admit defeat and embrace change to save the relationship."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What brought the Protagonist and Love Interest back from the brink? Perhaps they realized it was a misunderstanding, there was an ex manipulating the situation, or they came to realize the relationship was more important than any external goal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "One or both of the characters apologize to each other, and they make amends – be sure to keep this scene in line with their characters and arcs."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolve the internal and external conflicts while showing how the Protagonist and Love Interest have transformed so that the relationship may work."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the reader and the characters a moment of happily ever after."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Joyful Defeat occurs around the 88% mark."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolution occurs around the 98% mark."
+                  }
+                ]
               }
             ]
           }
@@ -31,7 +125,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Joyful defeat / resolution"
+        "title": "Joyful Defeat (Resolution)"
       },
       {
         "beatId": 2,
@@ -39,9 +133,86 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Wherein the consequences of the swivel decision yield disaster; generally, the humiliating scene where private motivations are revealed, and either the relationship and/or the protagonist’s goal is seemingly lost forever (115)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This section introduces the \"all is lost\" moment where everything seems to fall apart. The consequences of the swivel decision yield disaster as private motivations are revealed, seeming betrayals are uncovered, and either the relationship and/or the Protagonist’s goal is seemingly lost forever. This is when previous false beliefs and doubts come back to the surface, and the relationship falls apart, leading to a breakup and doubt as to whether they will ever be able to find their way back to each other."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What event or betrayal triggers the Protagonist's fears about their relationship, forcing them back into their false beliefs and doubts? For example, this could be the return of an ex, the resurfacing of a previous belief of the Love Interest, or an unexpected opportunity to achieve their external goal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider deepening the tension by having more than the relationship end (e.g. the Protagonist may also lose friends, the support of family, or even their job as they cope with this new stress)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Offer the reader an opportunity to see how the characters have returned to their old lives in an unsatisfactory way, so that everything is as it was, but a little darker and with less enjoyment. Did they make a mistake?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dark Moment/Crisis occurs around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -54,7 +225,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Dark moment / crisis"
+        "title": "Dark Moment (Crisis Climax)"
       },
       {
         "beatId": 3,
@@ -62,9 +233,78 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Traditionally occurring at the end of Act 2, stakes reach their highest point as the romantic relationship’s importance jeopardizes the protagonist’s chance to succeed at his/her state goal—or vice versa—and his/her goal shifts. (115)"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist and Love Interest have grown closer and may have shared an intimate moment. The stakes reach their highest point as the romantic relationship’s importance jeopardizes the Protagonist’s chance to succeed at their stated goal—or vice versa—and their goal shifts. This is the \"Finally\" moment for readers, where they get to see the relationship begin to take a physical step forward."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "How have the Protagonist and Love Interest deepened their relationship? This can be a physical connection, a verbal discussion, or an acceptance that this is love."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "How does the deepening relationship conflict with the external goals of the characters?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Swivel: Second Turning Point occurs around the 60-62% mark, three-quarters of the way through Act 2."
+                  }
+                ]
               }
             ]
           }
@@ -77,7 +317,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Swivel: second turning point"
+        "title": "Swivel (Turning Point 2)"
       },
       {
         "beatId": 4,
@@ -85,9 +325,86 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "A situation that irrevocably binds the protagonist with the antagonist (often while tweaking sexual tensions) and has further implications for the outcome of the relationship (113)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist and Love Interest are still committed to their goals, but their growing emotions for each other begin to create conflict. A situation irrevocably binds the Protagonist with the Love Interest, often while tweaking sexual tensions. This situation alters the perspective of the Protagonist and has further implications for the outcome of the relationship. The Protagonist begins to consider a relationship but realizes that it cannot work because of their external goals or false beliefs."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What event glues the Protagonist and Love Interest together? This could be an illness, friends seeing each other in a new way, or an act of selflessness, seemingly contrary to the Love Interest's personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Depict the Protagonist's consideration of the relationship and \"what if\" moment. How and why do they cling to their external goals and/or false beliefs?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the readers a 'this could actually work, but no' moment to increase the tension and stakes."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Midpoint/Raising the Stakes occurs around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -100,7 +417,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Midpoint / Raising the stakes"
+        "title": "The Hook (Midpoint)"
       },
       {
         "beatId": 5,
@@ -108,9 +425,78 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Traditionally occurring at the end of Act 1, a new development that raises story stakes and clearly defines the protagonist’s goal; most successful when it sets man and woman at cross-purposes and/or their inner emotions at odds with the goal (112)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "A new development raises the stakes and clearly defines the Protagonist’s external goal. This works best when it sets the Protagonist and Love Interest at cross-purposes and/or their internal needs at odds with their external goal. One or both characters begin to see each other in a different light, raising the romantic tension. More sparks are beginning to fly, but in a state of denial, and conflict is on the horizon."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider how the characters' internal needs and external goals conflict with each other (e.g. the Protagonist owns a struggling café, and the Love Interest is opening a fancy new café down the street)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember: Internal needs could include love, patience, humility, or courage, while external goals could include a job promotion, saving their bookstore, taking a trip, moving to a new city, etc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point occurs around the 25% mark as we begin Act 2."
+                  }
+                ]
               }
             ]
           }
@@ -123,7 +509,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning point"
+        "title": "A Sexy Complication (Turning Point 1)"
       },
       {
         "beatId": 6,
@@ -131,9 +517,86 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "The inciting incident brings man and woman together and into conflict; an inventive but credible contrivance, often amusing, which in some way sets the tone for the action to come (111)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Catalyst (or Inciting Incident) brings the Protagonist and the Love Interest together and into conflict. The Meet is brought about by a creative but credible event, often amusing, which sets the tone for the action to come. There may be an instant attraction, with an obstacle, or more often, an instant dislike due to misunderstandings, social miscues, or a clash of personalities. Sparks may fly, but the Protagonist is not ready for the relationship."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Decide upon the Catalyst / Inciting Incident, which sets the tone for future interactions / conflict."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make the Inciting Incident intriguing and amusing, as the reader must connect to the scene and care about the outcome for the Protagonist and Love Interest. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What is the root of the conflict? Does one have a significant other? Are they brash and overbearing?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Meet/Inciting Incident should take the story to the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -146,7 +609,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Meet / inciting incident"
+        "title": "Meet Cute (The Catalyst)"
       },
       {
         "beatId": 7,
@@ -154,9 +617,86 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "A scene or sequence identifying the exterior and/or interior conflict (i.e., unfulfilled desire), the “what’s wrong with this picture” implied in the protagonist’s (and/or antagonist’s) current status quo (Mernit, 110)."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This is the opening scene or sequence identifying the Protagonist's internal and/or external conflict. It introduces the reader to the current status quo of the Protagonist with something \"wrong\" implied as the reader views their ordinary world. The Protagonist and their Love Interest have goals and desires, which will come into conflict."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the reader to how the Protagonist functions in their ordinary life."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include something about their life that displeases the Protagonist or appears wrong to the reader."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identify the Protagonist's conflicts and goals as you develop a three-dimensional character."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Setup/Hook should take approximately 12-13% of the story, or the midway point of Act 1"
+                  }
+                ]
               }
             ]
           }
@@ -169,7 +709,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Setup / hook"
+        "title": "The Chemical Equation (Setup)"
       }
     ],
     "beats": {
@@ -206,7 +746,7 @@
             "id": 1,
             "bookId": 1,
             "position": 6,
-            "title": "Beat 7",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -217,7 +757,7 @@
             "id": 2,
             "bookId": 1,
             "position": 5,
-            "title": "Beat 6",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -228,7 +768,7 @@
             "id": 3,
             "bookId": 1,
             "position": 4,
-            "title": "Beat 5",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -239,7 +779,7 @@
             "id": 4,
             "bookId": 1,
             "position": 3,
-            "title": "Beat 4",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -250,7 +790,7 @@
             "id": 5,
             "bookId": 1,
             "position": 2,
-            "title": "Beat 3",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -261,7 +801,7 @@
             "id": 6,
             "bookId": 1,
             "position": 1,
-            "title": "Beat 2",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -272,7 +812,7 @@
             "id": 7,
             "bookId": 1,
             "position": 0,
-            "title": "Beat 1",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -287,17 +827,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "7 Romantic Comedy Beats",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -306,13 +836,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -320,7 +850,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -328,6 +858,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

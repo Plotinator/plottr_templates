@@ -2,7 +2,7 @@
   "id": "pl10",
   "type": "plotlines",
   "name": "Hero's Journey",
-  "description": "A classic story structure that's shared by stories worldwide. This version is defined by Christopher Vogler",
+  "description": "Based on the classic story structure by Joseph Campbell and Christopher Vogler",
   "version": "2021.8.11",
   "categories": [
     "general",
@@ -1631,11 +1631,32 @@
         "expanded": null,
         "fromTemplateId": null
       }
-    ]
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "name": "Beat",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        }
+      }
+    }
   },
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

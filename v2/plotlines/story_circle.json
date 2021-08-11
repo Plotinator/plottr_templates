@@ -2,10 +2,17 @@
   "id": "pl7",
   "type": "plotlines",
   "name": "Story Circle",
-  "description": "A circular story structure",
-  "version": "2021.7.8",
+  "description": "A circular story structure popularized by Dan Harmon",
+  "version": "2021.8.11",
   "categories": [
     "general"
+  ],
+  "link": "https://www.studiobinder.com/blog/dan-harmon-story-circle/",
+  "extraLinks": [
+    "https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle/",
+    "https://prowritingaid.com/art/1647/dan-harmon-s-story-circle-plot-structure.aspx",
+    "https://screencraft.org/2018/10/08/how-screenwriters-can-use-dan-harmons-circle-theory-of-story/",
+    "https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details"
   ],
   "templateData": {
     "cards": [
@@ -17,7 +24,108 @@
           {
             "children": [
               {
-                "text": "now capable of change"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...now capable of change.",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist has undergone a transformation and uses their new abilities, knowledge, perspective, or an item they found, to vanquish the Villain / achieve their goal. Their c"
+              },
+              {
+                "text": "hange must be made visual, often with a final showdown. This is t"
+              },
+              {
+                "text": "he resolution of the story"
+              },
+              {
+                "text": "."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Create a final showdown – demonstrate how the Protagonist and other major characters have transformed from the beginning of the story (e.g. stronger, more courageous, more capable)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Close the circle – show that the Protagonist, "
+                  },
+                  {
+                    "text": "having emerged victorious,"
+                  },
+                  {
+                    "text": " is once again in their normal world and ready for the next challenge which presents itself. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: The Protagonist and Allies lead the villagers in an attack, killing some of the loggers. The Allies hold the remaining logging crew at bay while the Protagonist faces off against their leader, causing grievous wounds. The loggers realize the cost of remaining in the village is too steep and agree to vacate the lands. The Protagonist has thus transformed from a passive protector of the lands to one who is willing to use force."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 85 - 87% mark."
+                  }
+                ]
               }
             ]
           }
@@ -40,7 +148,93 @@
           {
             "children": [
               {
-                "text": "and go back to where they started"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...and go back to where they started...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist returns to their normal world with whatever they found / took – along with a new perspective leading to new wants and needs. This passage back into the normal world mirrors their passage into the unfamiliar world in the Go step. It is a return to familiarity with a new perspective and new abilities."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist preparing for the final confrontation and returning to their normal world.."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Indicate how the Protagonist interacts with the normal world has changed throughout the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: Feeling they must resort to violence, the Protagonist and their allies return to the village newly armed and with a plan to take the village back and disperse the loggers. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -63,7 +257,101 @@
           {
             "children": [
               {
-                "text": "pay its price"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...pay its price...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist Takes what they wanted but pay a steep price, creating a new need that pushes them to the brink. The Protagonist is at their lowest, and all seems lost, leading to the Climax where the Protagonist faces their toughest conflict. This is often where the Protagonist's wants and needs collide."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist actions have serious consequences (e.g. putting more lives at risk, triggering a chase, or causing the Villain to speed up the timeline of their evil plans)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the tension and stakes rising as the Protagonist deals with new challenges in the wake of a seeming victory."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the Protagonist suffer a significant loss to continue the descent to their lowest (e.g. perhaps a key Ally is killed, an essential item is lost, or they lose the support of an Ally or love interest)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: With their machines destroyed, the loggers turn to violence and attack the village, killing some and holding the rest hostage, intent on ridding themselves of the disruption."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 60 - 62% mark."
+                  }
+                ]
               }
             ]
           }
@@ -86,7 +374,93 @@
           {
             "children": [
               {
-                "text": "find what they wanted"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...find what they wanted...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section creates a turning point. The Protagonist Finds what they've Wanted and achieves a brief moment of victory, but what once appeared as a direct solution soon devolves into something much more daunting and dangerous."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonist appearing to Find a solution to their goal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Highlight the Protagonist's brief moment of victory – just before the plot turns and tension increases."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: The generally peaceful Protagonist works with Allies and destroys and incapacitates the heavy machinery of the loggers, preventing further destruction of their home."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -109,7 +483,101 @@
           {
             "children": [
               {
-                "text": "adapt to it"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...adapt to it...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The result of Go-ing isn't what was expected, and the Protagonist must adapt to the new situation as things become more complicated. The Search for new solutions sets the stage for the turning point / climax of the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Add a set of roadblocks between the Protagonist and their need that test them in their new world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce Allies that assist the Protagonist in going through their trials."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider adding to the tension and raising the stakes by not having all Allies survive this section."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Example: The Protagonist attempts to talk to the loggers but is met with aggression which ramps up into hostility and violence. The loggers increase their work and focus on the village's food source to drive them off."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 27-30% mark."
+                  }
+                ]
               }
             ]
           }
@@ -132,7 +600,93 @@
           {
             "children": [
               {
-                "text": "they enter an unfamiliar situation"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...they enter an unfamiliar situation...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist enters a new and unfamiliar situation (or world). They must make a change or Go on an adventure and work towards their goal. This introduces the core conflict of the story. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the core conflict of the story and increase the tension and the stakes (this is the Protagonist's first challenge)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Protagonist is not quite comfortable in their new role but is willing to take action."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: The Protagonist goes to investigate the loggers in hopes of stopping their actions, only to find heavy machines at work and a large swath of land already cleared."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -155,7 +709,93 @@
           {
             "children": [
               {
-                "text": "but they want something"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "...but they want something...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "In this section of the narrative it becomes clear that something is not perfect in the Protagonist's world – they have some Need (internal or external) which introduces the inciting incident that propels the Protagonist into the story. The Need must be vital so that there is no choice but to Go and deal with it."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the Protagonist's external and/or internal Need(s). The external Need is often a desire to change or achieve something, while the internal Need may be courage, respect, patience, love, or humility."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Present the inciting incident which propels the Protagonist out of their Zone of Comfort."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: Loggers arrive and threaten the Protagonist's village and food source. The Protagonist needs to stop the loggers to protect their home."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This step occurs around the 12-15% mark."
+                  }
+                ]
               }
             ]
           }
@@ -178,7 +818,93 @@
           {
             "children": [
               {
-                "text": "A character is in a zone of comfort"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "A character is in a zone of comfort...",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Introduce the Protagonist, establish the status quo of their world, and show them in their zone of comfort."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Ensure the Protagonist is sympathetic to the audience to create buy-in – readers must care about the Protagonist to care about the solution to their forthcoming problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow the audience to see how the Protagonist functions in their normal world, showcasing their personality and comfort through their interactions."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Example: The Protagonist lives in a village in a lush rain forest, spending their days with their community in peace, living off the land."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "This step brings the story to about the 12% mark."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           }
@@ -323,17 +1049,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Story Circle",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -342,13 +1058,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -356,7 +1072,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -364,6 +1080,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

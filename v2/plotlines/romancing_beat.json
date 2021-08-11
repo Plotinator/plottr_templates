@@ -2,9 +2,9 @@
   "id": "pl15",
   "type": "plotlines",
   "name": "Romancing the Beat",
-  "description": "Story structure for romance novels by Gwen Hayes",
+  "description": "A story structure for romance novels by Gwen Hayes",
   "link": "http://gwenhayes.com/books/romancing-the-beat/",
-  "version": "2021.7.8",
+  "version": "2021.8.11",
   "categories": [
     "romance"
   ],
@@ -12,7 +12,7 @@
     "cards": [
       {
         "id": 20,
-        "lineId": 4,
+        "lineId": 1,
         "beatId": 20,
         "seriesLineId": null,
         "bookId": null,
@@ -20,9 +20,94 @@
         "title": "Epilogue",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "It’s up to you, a master at your craft, to manage a scene with little conflict that is still intriguing."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Fighting for Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "It’s up to you, a master at your craft, to manage a scene with little conflict that is still intriguing. This is the return to the ordinary world; each Protagonist has changed and fits in their world a little differently and with a new perspective."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show how each Protagonist fits back in the ordinary world and how they have transformed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have a moment of celebration – the Protagonists have been through a lot, so let them unwind a party a bit."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "How do their families react to their relationship and transformed selves?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If part of a series, consider planting a hook or foreshadowing a future difficulty."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Epilogue occurs around the 98-100% mark."
+                  }
+                ]
               }
             ]
           }
@@ -38,24 +123,102 @@
       },
       {
         "id": 19,
-        "lineId": 4,
+        "lineId": 1,
         "beatId": 19,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
-        "title": "What Whole Hearted Looks Like",
+        "title": "What Wholehearted Looks Like",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "They kissed and made up in the last beat, but show your reader what whole-hearted looks like for these two."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Fighting for Love",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "You’ve put them through the wringer. This is your chance to make it up to them and your readers."
+                "text": "They kissed and made up in the last beat, but show the reader what wholehearted looks like for the Protagonists. You’ve put them through the wringer. This is your chance to make it up to them and your readers."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Close the character arcs of the two Protagonists and show how they have changed (e.g. from selfish to selfless, arrogant to humble, doubting to trusting.)"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolve the internal and external conflicts."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how happy the Protagonists now are and why this was the outcome that was needed all along."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure you are fulfilling reader expectations – the harder the challenges and difficulties before, the sweeter the reward must be. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What Wholehearted Looks Like occurs around the 95% mark."
+                  }
+                ]
               }
             ]
           }
@@ -71,17 +234,94 @@
       },
       {
         "id": 18,
-        "lineId": 4,
+        "lineId": 1,
         "beatId": 18,
         "seriesLineId": null,
         "bookId": null,
         "position": 0,
-        "title": "Grand gesture",
+        "title": "Grand Gesture",
         "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Fighting for Love",
+                "bold": true
+              }
+            ]
+          },
           {
             "children": [
               {
-                "text": "It’s life or death now. He or she must be willing to put it all on the line now or risk losing the one thing they need to become whole-hearted. "
+                "text": "It’s life or death now. The Protagonist must be willing to put it all on the line now or risk losing the one thing they need to become wholehearted. The Grand Gesture, the great sacrifice is here, but will it be enough?"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Create a Grand Gesture that makes up for the errors of the past."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Don't let them off the hook too easily -t he Grand Gesture may be accepted right away, or there may be a little more work needed. Use this section to increase the tension for an increased pay-off."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Portray the reconciliation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Grand Gesture occurs around the 90% mark."
+                  }
+                ]
               }
             ]
           }
@@ -97,7 +337,7 @@
       },
       {
         "id": 17,
-        "lineId": 4,
+        "lineId": 1,
         "beatId": 17,
         "seriesLineId": null,
         "bookId": null,
@@ -105,9 +345,86 @@
         "title": "Wake Up",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "This beat is where they say: This time I choose love over fear. I have been an idiot. I need to fix this."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Fighting for Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist chooses love over fear and doubt. This is the 'I have been an idiot and need to fix this' moment."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What is the triggering event or moment to make the Protagonist choose love over fear?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide which challenges or sacrifices must be made to save the relationship (e.g. refusing the job transfer to another city)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Build tension and excitement as the Heroes decides to fight for love."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Wake Up occurs around the 85% mark."
+                  }
+                ]
               }
             ]
           }
@@ -123,7 +440,7 @@
       },
       {
         "id": 16,
-        "lineId": 4,
+        "lineId": 1,
         "beatId": 16,
         "seriesLineId": null,
         "bookId": null,
@@ -131,16 +448,78 @@
         "title": "Dark Night",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "It's the beat where your heroes think they should feel better than they do about the stupid thing they just did."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Fighting for Love",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "Suddenly, they are staring out windows while montages of Phase 2 play across their mind..."
+                "text": "The Dark Night is the \"what have I done\" moment for the Protagonist. It's the beat where think they should feel better than they do about the stupid thing they just did and begin to reconsider. Suddenly, they are staring out windows while montages of Phase 2 play across their mind..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have happy memories begin to challenge the false beliefs and doubts from before."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hint at a way back for the Protagonists, though it will be challenging."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dark Night occurs around the 80% mark."
+                  }
+                ]
               }
             ]
           }
@@ -156,7 +535,7 @@
       },
       {
         "id": 15,
-        "lineId": 3,
+        "lineId": 1,
         "beatId": 15,
         "seriesLineId": null,
         "bookId": null,
@@ -164,9 +543,26 @@
         "title": "Break Up",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Always have your black moment be tied to the moment when your heroes choose to hold onto their:"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Retreating From Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The darkest moment. The Protagonist has held onto their false beliefs or doubts, and the relationship is over. The reader is left wondering if the Protagonists will ever find their way back to each other. There seems to be no going back after the betrayal in the last beat."
               }
             ],
             "type": "paragraph"
@@ -177,7 +573,7 @@
               {
                 "children": [
                   {
-                    "text": "fears"
+                    "text": "Always tie the black moment to when the Protagonists choose to hold onto their fears, flaws, wounds, or misconceptions."
                   }
                 ],
                 "type": "list-item"
@@ -185,7 +581,7 @@
               {
                 "children": [
                   {
-                    "text": "flaws"
+                    "text": "The opportunity to transform came, and instead of opening their hearts completely, the Protagonist recoiled back to their old self."
                   }
                 ],
                 "type": "list-item"
@@ -193,15 +589,7 @@
               {
                 "children": [
                   {
-                    "text": "wounds"
-                  }
-                ],
-                "type": "list-item"
-              },
-              {
-                "children": [
-                  {
-                    "text": "misconceptions "
+                    "text": "The larger the event, the more dramatic the break-up, and further the distance between the two Protagonists, the greater the buy-in for the reader."
                   }
                 ],
                 "type": "list-item"
@@ -209,9 +597,32 @@
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "instead of opening their hearts completely."
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Break Up occurs around the 75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -227,7 +638,7 @@
       },
       {
         "id": 14,
-        "lineId": 3,
+        "lineId": 1,
         "beatId": 14,
         "seriesLineId": null,
         "bookId": null,
@@ -235,23 +646,86 @@
         "title": "Shields Up",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Whatever they foretold in their No Way Beats comes true."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Retreating From Love",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "No Way Beat says: I don’t believe in love/will never love again/don’t deserve love because_______. "
+                "text": "The worst-case scenario. The fears and false beliefs of Protagonist 1 seem to have come true, and the relationship is breaking down. The reader is left doubting the relationship between the two Protagonists."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Whatever they foretold in their No Way Beats comes true."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "No Way Beat says: I don’t believe in love/will never love again/don’t deserve love because_______. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "\r\rShields Up Beat says: I knew better than to believe in love/love again/think I deserve love because when I let my guard down\r______.\r"
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "\r\rShields Up Beat says: I knew better than to believe in love/love again/think I deserve love because when I let my guard down\r______.\r"
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Shields Up occurs around the 70-75% mark."
+                  }
+                ]
               }
             ]
           }
@@ -267,7 +741,7 @@
       },
       {
         "id": 13,
-        "lineId": 3,
+        "lineId": 1,
         "beatId": 13,
         "seriesLineId": null,
         "bookId": null,
@@ -275,9 +749,78 @@
         "title": "Retreat Beat",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "The Retreat Beat is one where you leave subtext behind and let them actually say, either in internal or external dialogue, what they fear and how they are going to protect their hearts."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Retreating From Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Retreat Beat is one where subtext is left behind, and the Protagonists actually say, either in an internal or external dialogue, what they fear and how they are going to protect their hearts."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What is the event that causes the trust to be broken and the relationship to falter? "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "How does this intersect with their internal fears and false beliefs? How will the Protagonist(s) express this?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Retreat Beat occurs around the 65-70% mark."
+                  }
+                ]
               }
             ]
           }
@@ -293,7 +836,7 @@
       },
       {
         "id": 12,
-        "lineId": 3,
+        "lineId": 1,
         "beatId": 12,
         "seriesLineId": null,
         "bookId": null,
@@ -301,9 +844,78 @@
         "title": "Deepening Doubt",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "The intimacy is continuing or may even appear to be growing, but the seed of doubt you planted in the last beat just poked up through the ground."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Retreating From Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The intimacy is continuing or may even appear to be growing, but the seed of doubt planted in the last beat just poked up through the ground."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Portray the growing relationship."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Expand upon the previous event(s) which planted the seed of doubt."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Deepening Doubt occurs around the 60% mark."
+                  }
+                ]
               }
             ]
           }
@@ -319,7 +931,7 @@
       },
       {
         "id": 11,
-        "lineId": 3,
+        "lineId": 1,
         "beatId": 11,
         "seriesLineId": null,
         "bookId": null,
@@ -327,9 +939,78 @@
         "title": "Inkling of Doubt",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Go back to your No Way Beats and give them an inkling of doubt custom made for their wholehearted selves."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Retreating From Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Everything seems to be riding high until past doubts and false beliefs come back. H1 and/or H2 fall back into their old ways, proving they are not quite ready for a transformation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Go back to the No Way Beats and give them an inkling of doubt custom made for their wholehearted selves (e.g. if H1 believes that the opposite sex cannot be trusted, have H2 be spotted chatting with an ex)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "H1 (and/or H2) begins to pull back from the relationship but is still committed."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Inkling of Doubt occurs around the 55% mark."
+                  }
+                ]
               }
             ]
           }
@@ -345,7 +1026,7 @@
       },
       {
         "id": 10,
-        "lineId": 2,
+        "lineId": 1,
         "beatId": 10,
         "seriesLineId": null,
         "bookId": null,
@@ -353,16 +1034,86 @@
         "title": "Midpoint of Love",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "This is the false high. Show H1 and H2 everything they want. "
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 2: Falling in Love",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "Make their goals just within reach."
+                "text": "This is the false high. It appears as thoughts the Protagonists can have both their internal and external goals at the same time. Why choose when you can have it all? Internal and external goals are clearly restated here."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonists everything they want. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make their goals just within reach."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the reader the impression that all will end well with the Protagonists together, goals achieved, and happy."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Midpoint of Love occurs around the 50% mark."
+                  }
+                ]
               }
             ]
           }
@@ -378,7 +1129,7 @@
       },
       {
         "id": 9,
-        "lineId": 2,
+        "lineId": 1,
         "beatId": 9,
         "seriesLineId": null,
         "bookId": null,
@@ -386,16 +1137,86 @@
         "title": "Maybe This Could Work",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "What if they gave in to that temptation?"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 2: Falling in Love",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "H1 & H2 begin to question their opinions of each other and the No Way statements."
+                "text": "The Protagonists begin to question their first opinions of each other and their previous No Way arguments against being together. They begin admitting to their feelings for each other. What if they gave in to that temptation? Each Protagonist is still working toward their own goals, but the growing idea of relationship begins to create tension and conflict."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What actions or events cause them to begin questioning their opinions of each other and their previous No Way statements?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Grant a glimpse at the opposition between the Protagonist's inner and outer conflict."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Depict the two Protagonists falling in love."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Maybe This Could Work occurs around the 45% mark."
+                  }
+                ]
               }
             ]
           }
@@ -411,7 +1232,7 @@
       },
       {
         "id": 8,
-        "lineId": 2,
+        "lineId": 1,
         "beatId": 8,
         "seriesLineId": null,
         "bookId": null,
@@ -419,9 +1240,78 @@
         "title": "Deepening Desire",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "H1 & H2 are starting to show each other glimpses of who they really are."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 2: Falling in Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The desire between the Protagonists continues to deepen as they begin showing each other glimpses of who they actually are."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What external and internal actions begin to show the other their true selves?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include further examples of how the deepening desire and positive actions continue to erode the false beliefs discussed earlier."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Deepening Desire occurs around the 40% mark."
+                  }
+                ]
               }
             ]
           }
@@ -437,7 +1327,7 @@
       },
       {
         "id": 7,
-        "lineId": 2,
+        "lineId": 1,
         "beatId": 7,
         "seriesLineId": null,
         "bookId": null,
@@ -445,9 +1335,78 @@
         "title": "Inkling of Desire",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Begin attacking your character’s false belief about what he or she stated in either No Way Beat 1 or No Way Beat 2."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 2: Falling in Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The attraction between the two Protagonists continues to grow, and they begin admitting their feelings for each other. The false beliefs and arguments of H1 begin to be challenged."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Begin attacking your character’s false belief about what he or she stated in either No Way Beat 1 or No Way Beat 2."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include little moments between the two Protagonists which show the false beliefs being challenged and their growing connection."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Inkling of Desire occurs around the 30% mark."
+                  }
+                ]
               }
             ]
           }
@@ -463,7 +1422,7 @@
       },
       {
         "id": 6,
-        "lineId": 2,
+        "lineId": 1,
         "beatId": 6,
         "seriesLineId": null,
         "bookId": null,
@@ -471,9 +1430,78 @@
         "title": "No Way 2",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Restate the argument against love."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 2: Falling in Love",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Attractions are starting to grow, but H1 once more runs from love. They are too dedicated to their external goals or too entrenched in their false beliefs. The argument against falling in love is restated here, showing that H1 is sticking to their old ways."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Restate the argument against love."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish how the external goals of H1 conflict with their internal needs."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "No Way 2 occurs around the 25% mark."
+                  }
+                ]
               }
             ]
           }
@@ -497,23 +1525,98 @@
         "title": "Adhesion",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "This beat pushes you into the second act. It is the plot thrust."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "H1 and H2 cannot walk away from each other now. Not until they see this conundrum through. "
+                "text": "This beat is the plot thrust that brings the story into the second act. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=DtCRElYLTkA",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": "An event or situation forces the two Protagonists together to achieve a goal or solve a problem; this event not only raises the stakes, but also clearly defines the goal of each Protagonist. While still at odds with each other, they begin to grow closer, and sparks start to fly. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The two Protagonists cannot walk away from each other now. Not until they see this conundrum through."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make sure your glue is sticky here – the event that forces them together must be such that it cannot be resolved on its own, nor by only one Protagonist; they must be stuck together to succeed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider what event forces them together and what actions or choices begin reflecting their desire for each other, even though they still deny it."
+                  }
+                ],
+                "type": "list-item"
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Make sure your glue is sticky here."
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Adhesion occurs around the 20% mark."
+                  }
+                ]
               }
             ]
           }
@@ -537,16 +1640,78 @@
         "title": "No Way 1",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "This is the argument H1 voices against falling in love."
+                "text": "--- Add Your Details Above this Line ---"
               }
             ]
           },
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "This sets up the romance arc for the reader. The character basically says, either out loud or in internal dialogue, the reason that he or she will not fall in love. Not now, not ever, but especially not with H2 (the character from the Meet Cute)."
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the argument H1 voices against falling in love. This sets up the romance arc for the reader. The character basically says, either out loud or in internal dialogue, the reason that he or she will not fall in love. Not now, not ever, but especially not with H2 (the character from the Meet Cute)."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What is the reason H1 thinks they will not fall in love?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Depict the argument H1 has against falling in love, either vocally or internally, and make it compelling."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "No Way 1 occurs around the 18-20% mark."
+                  }
+                ]
               }
             ]
           }
@@ -570,16 +1735,94 @@
         "title": "Meet Cute",
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "H1 and H2 meet for the first time on page."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
               }
             ]
           },
           {
             "children": [
               {
-                "text": "Make it memorable—this is the story they will share with their grandkids one day."
+                "text": "The two Protagonists meet for the first time on the page, brought together by external forces, chance, or a life event. There may be an instant attraction, but more often, there is an instant dislike with one or both of the Heroes refusing the relationship."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Decide the Inciting Incident that leads to the Meet Cute."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make it memorable—this is the story they will share with their grandchildren one day."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at how right the Protagonists could be for each other and why now is not the time."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at some conflict between the Protagonists."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Meet Cute occurs around the 10-12% mark."
+                  }
+                ]
               }
             ]
           }
@@ -603,39 +1846,94 @@
         "title": "Introduce H2",
         "description": [
           {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue to hook the reader's attention and draw them into the story by introducing the second Hero/Heroine while showing them in their everyday life. Offer a glimpse of their life and the internal struggle that is holding them back from love."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
             "type": "bulleted-list",
             "children": [
               {
+                "type": "list-item",
                 "children": [
                   {
-                    "text": "Introduce H2 in a way that makes that character compelling."
+                    "text": "Introduce H2 in a way that makes that character compelling (e.g. desires, flaws, success, a unique personality)."
                   }
-                ],
-                "type": "list-item"
+                ]
               },
               {
+                "type": "list-item",
                 "children": [
                   {
                     "text": "Show your character’s slice of life but throw a hitch in it."
                   }
-                ],
-                "type": "list-item"
+                ]
               },
               {
+                "type": "list-item",
                 "children": [
                   {
-                    "text": "Give or introduce your character’s external goal.\r\r"
+                    "text": "Give or introduce your character’s external goal – for example, a promotion, vacation, or to attain an object."
                   }
-                ],
-                "type": "list-item"
+                ]
               },
               {
+                "type": "list-item",
                 "children": [
                   {
-                    "text": "Introduce or hint at what your character needs."
+                    "text": "Introduce or hint at what your character needs – for example, to find love, courage, or develop patience."
                   }
-                ],
-                "type": "list-item"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce H2 occurs around the 5-8% mark."
+                  }
+                ]
               }
             ]
           }
@@ -659,12 +1957,37 @@
         "title": "Introduce H1",
         "description": [
           {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Hook the reader's attention and draw them into the story by introducing the first Hero/Heroine while showing them in their everyday life. Offer a glimpse of their life and the internal struggle that is holding them back from love."
+              }
+            ]
+          },
+          {
             "type": "bulleted-list",
             "children": [
               {
                 "children": [
                   {
-                    "text": "Introduce H1 in a way that makes that character compelling."
+                    "text": "Introduce H1 in a way that makes that character compelling (e.g. desires, flaws, success, a unique personality)."
                   }
                 ],
                 "type": "list-item"
@@ -680,7 +2003,7 @@
               {
                 "children": [
                   {
-                    "text": "Give or introduce your character’s external goal."
+                    "text": "Give or introduce your character’s external goal – for example, a promotion, vacation, or to attain an object."
                   }
                 ],
                 "type": "list-item"
@@ -688,10 +2011,40 @@
               {
                 "children": [
                   {
-                    "text": "Introduce or hint at what your character needs."
+                    "text": "Introduce or hint at what your character needs – for example, to find love, courage, or develop patience."
                   }
                 ],
                 "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce H1 should be about the first 4-5% of the story."
+                  }
+                ]
               }
             ]
           }
@@ -779,7 +2132,7 @@
             "id": 1,
             "bookId": 1,
             "position": 0,
-            "title": "Beat 1",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -790,7 +2143,7 @@
             "id": 2,
             "bookId": 1,
             "position": 1,
-            "title": "Beat 2",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -801,7 +2154,7 @@
             "id": 3,
             "bookId": 1,
             "position": 2,
-            "title": "Beat 3",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -812,7 +2165,7 @@
             "id": 4,
             "bookId": 1,
             "position": 3,
-            "title": "Beat 4",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -823,7 +2176,7 @@
             "id": 5,
             "bookId": 1,
             "position": 4,
-            "title": "Beat 5",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -834,7 +2187,7 @@
             "id": 6,
             "bookId": 1,
             "position": 5,
-            "title": "Beat 6",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -845,7 +2198,7 @@
             "id": 7,
             "bookId": 1,
             "position": 6,
-            "title": "Beat 7",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -856,7 +2209,7 @@
             "id": 8,
             "bookId": 1,
             "position": 7,
-            "title": "Beat 8",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -867,7 +2220,7 @@
             "id": 9,
             "bookId": 1,
             "position": 8,
-            "title": "Beat 9",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -878,7 +2231,7 @@
             "id": 10,
             "bookId": 1,
             "position": 9,
-            "title": "Beat 10",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -889,7 +2242,7 @@
             "id": 11,
             "bookId": 1,
             "position": 10,
-            "title": "Beat 11",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -900,7 +2253,7 @@
             "id": 12,
             "bookId": 1,
             "position": 11,
-            "title": "Beat 12",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -911,7 +2264,7 @@
             "id": 13,
             "bookId": 1,
             "position": 12,
-            "title": "Beat 13",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -922,7 +2275,7 @@
             "id": 14,
             "bookId": 1,
             "position": 13,
-            "title": "Beat 14",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -933,7 +2286,7 @@
             "id": 15,
             "bookId": 1,
             "position": 14,
-            "title": "Beat 15",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -944,7 +2297,7 @@
             "id": 16,
             "bookId": 1,
             "position": 15,
-            "title": "Beat 16",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -955,7 +2308,7 @@
             "id": 17,
             "bookId": 1,
             "position": 16,
-            "title": "Beat 17",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -966,7 +2319,7 @@
             "id": 18,
             "bookId": 1,
             "position": 17,
-            "title": "Beat 18",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -977,7 +2330,7 @@
             "id": 19,
             "bookId": 1,
             "position": 18,
-            "title": "Beat 19",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -988,7 +2341,7 @@
             "id": 20,
             "bookId": 1,
             "position": 19,
-            "title": "Beat 20",
+            "title": "auto",
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
@@ -1000,37 +2353,10 @@
     },
     "lines": [
       {
-        "id": 4,
-        "bookId": 1,
-        "title": "Phase 4: Fighting for Love",
-        "color": "#ff7f32",
-        "position": 3,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 3,
-        "bookId": 1,
-        "title": "Phase 3: Retreating From Love",
-        "color": "#e5554f",
-        "position": 2,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
-        "id": 2,
-        "bookId": 1,
-        "title": "Phase 2: Falling in Love",
-        "color": "#78be20",
-        "position": 1,
-        "expanded": null,
-        "fromTemplateId": null
-      },
-      {
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Phase 1: Set Up",
+        "title": "Romancing the Beat",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -1039,13 +2365,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -1053,7 +2379,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -1061,6 +2387,7 @@
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }

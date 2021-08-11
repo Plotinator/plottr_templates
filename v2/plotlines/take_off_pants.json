@@ -2,22 +2,1354 @@
   "id": "pl9",
   "type": "plotlines",
   "name": "Take Off Your Pants",
-  "description": "An outline for faster, better writing by Libbie Hawker",
-  "version": "2021.7.8",
+  "description": "An outline formula for faster, better writing based on the book by Libbie Hawker",
+  "version": "2021.8.11",
   "categories": [
     "general"
   ],
+  "link": "https://www.amazon.com/gp/product/B00UKC0GHA/",
   "templateData": {
     "cards": [
+      {
+        "id": 14,
+        "lineId": 1,
+        "beatId": 14,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Outcome (New World)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist is victorious and transformed as they return to their Ordinary World with a new perspective. This concludes the story and character arc and confirms the overall theme of the story."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Present the Protagonist's return home with their new perspective."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reaffirm the Protagonist's growth, the reasons for the journey, and their new hope."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the Protagonist's new strength, perspective, and object/knowledge/abilities impact the Ordinary World."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Close the character arc for the Protagonist and all major characters, as well as the story arc."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Give a moment of celebration/enjoyment for the Protagonist and decide if home is too small or if they want to stay."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If Part of a Series:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Leave some loose threads and room for further character development for the Protagonist."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider leaving tantalizing unfinished storylines or setting a hook for the next installment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Outcome (New World) occurs around the 95-98% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 13,
+        "lineId": 1,
+        "beatId": 13,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Death (of Character Flaw)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist finally transforms, leaving their old self and character flaw behind, to achieve their goal and emerge victorious over the Antagonist. The Antagonist may be defeated, driven off to fight another day, or captured. The Protagonist may need to sacrifice in some way to win – perhaps even making the ultimate sacrifice."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist is transformed into a new, stronger version of themselves."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Depict how the Protagonist has left behind their flaw and false beliefs (e.g. fears turns to confidence, arrogance becomes humility, or I can't becomes I can and will!)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the final battle end in a dramatic fashion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Death (of Character Flaw) occurs around the 90% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 12,
+        "lineId": 1,
+        "beatId": 12,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Battle",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It's the final showdown and the biggest test of the Protagonist. The Protagonist and Antagonist confront each other in a dramatic face-off, and the Protagonist must use all they have learned along the way to achieve their goal. The stakes are at their highest; in fact, the fate of the entire world may hang in the balance. Make it impactful. This is the moment the reader has been waiting for."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dramatize the final battle."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the Protagonist is using all they have learned to be successful."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The higher the stakes, the higher the drama, the more satisfying the payoff."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Battle occurs around the 85% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 11,
+        "lineId": 1,
+        "beatId": 11,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Girding the Loins",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Antagonist is at their most powerful, and stakes are at their highest. An event occurs which changes the Protagonist's perspective switching them from reaction to action. This event changes the Protagonist's mental state and makes them realize how to stop the Antagonist. This is a turning point in the story."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create an urgent triggering event that changes the Protagonist's perspective (e.g. perhaps the Antagonist has attacked with the full force of their armies, there is an immediate threat to someone close, or it has been realized the true Antagonist was hiding behind a puppet Antagonist)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reconfirm the danger and urgency of the Protagonist's pursuit of their goal and remind the reader of the central dramatic question/event."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show that the Protagonist is now ready to face the final confrontation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Girding the Loins occurs around the 75% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 10,
+        "lineId": 1,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Revisiting the Flaw",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Suffering a defeat, the Protagonist regresses back into their character flaw. They are not yet aware that the flaw is an issue, but that will become apparent."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Restate the character flaw and show how it is reinforced by the previous defeat (e.g. I can't do this because I am too out of shape; if I was in better shape, I would have succeeded)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use this scene to show the Protagonist had been moving toward transformation and their disheartening slide back to the comfortable ways of old. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Revisiting the Flaw occurs around the 50% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 9,
+        "lineId": 1,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Goal Thwarted",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist is gaining confidence and suffering a few defeats along the way, but they are close to reaching their Goal – close, but not successful. Something happens to thwart their attempt at success. The Protagonist is overwhelmed by this new world and is left doubting their abilities and in a low place."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How has the Protagonist been thwarted, and what was lost? For example, a vital object, an ally, or faith in themselves."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider adding a twist by having the Goal Thwarted by the betrayal of a close Ally or Mentor."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist comes to doubt their resolve and ability to succeed in their pursuit of their goal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Goal Thwarted occurs around the 40% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 8,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Antagonist Revealed",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Early in Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist, presented with trials and obstacles in their new world, now meets or becomes aware of the Antagonist for the first time. This raises the stakes and tension in the story while introducing the power and threat of the Antagonist."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What scene will present the most impactful entrance of the Antagonist?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Protagonist not fully comfortable in their new role."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce enemies and harsh new challenges."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider adding Allies to assist the Protagonist in their time of struggle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Antagonist Revealed occurs around the 30% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Drive for Goal",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist takes up the challenge presented by the Inciting Incident and makes their first attempt at reaching their goal. They are still uncomfortable with their new pursuit, leading to missteps and failures. These are learning lessons for the Protagonist and help in their transformation."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What was the external or internal force that pushed the Protagonist to pursue their goal?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Protagonist leaving the comfort of their Ordinary World as they begin to navigate their new world."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Re-establish the central issue or the Protagonist's task."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Drive for Goal occurs around the 25% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Display of Flaw",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If not already introduced, introduce the Protagonist's character flaw here. If already introduced, expand upon it. This flaw is what will be resolved by the end of the story."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Highlight the Protagonist's character flaw – are they arrogant, set in their ways, lacking confidence, fearful? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This character flaw must be partially overcome or assuaged for the Protagonist to begin their journey in pursuit of their goal, often with the assistance of a Mentor or Ally."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Display of Flaw occurs around the 20% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Character Realizes Goal",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist realizes what their external goal is and decides if they will go after it or not. An external goal could be a job promotion, the pursuit of a Love Interest, or the acquisition of a particular item or piece of knowledge. There may be a false belief or a character flaw, however, that prevents them from immediately pursuing their goal."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Determine what the Protagonist's external goal is and show them becoming aware of its importance."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist may not be willing to answer the call of the Inciting Incident, requiring raising stakes and tension until they are willing to fully pursue their goal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Character Realizes Goal occurs around the 15% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Inciting Incident",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Inciting Incident is the event that ultimately forces the Protagonist out of their Ordinary World and into an adventure or journey of transformation. This section triggers the rest of the story by introducing a goal that must be achieved before the Protagonist can return to the Ordinary World."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify a dramatic triggering event that cannot be resolved on its own (e.g. an attack, a death, a job loss, a threat from a Villain, fighting corrupt powers, or an impending disaster)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how this event makes the Protagonist uncomfortable in their Ordinary World."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Inciting Incident occurs around the 12-15% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "beatId": 1,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Opening Scene",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Opening Scene sets the stage for the story. Here the Protagonist is introduced, their ordinary world is depicted, and the Protagonist's flaw or the story's theme is introduced."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the Protagonist and showcase their comfort in their ordinary world."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at something that displeases the Protagonist about their life/world."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at the Protagonist's character flaw and/or the story's theme."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a Protagonist that readers can connect to with flaws, hopes, desires, and a unique personality."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Opening Scene brings the story to around the 10-12% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
       {
         "beatId": 10,
         "bookId": null,
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
             "children": [
               {
-                "text": "Ally aids or gives advice that finally changes character"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist has gone through trials and losses and has entered a dark place. Generally, by this point, they are at their lowest and need a confidence boost or a reminder of why they are capable and what they are fighting for. A visit with an Ally aids or gives advice that finally changes the Protagonist. This is often the 'you had it in you the whole time' moment, or the moment an existing object is found to have previously unknown power."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What has brought the Protagonist to their lowest? Who is best to pull them out of their dark place?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Break the Protagonist's doubt – the Protagonist has gone through trials and losses, and this scene needs to be inspirational for the Protagonist and the reader."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Decide if Assistance will take the form of a pep talk, the discovery of new knowledge, learning about the true power of an object, or something else."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ally Assistance occurs around the 70% mark."
+                  }
+                ]
               }
             ]
           }
@@ -31,7 +1363,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Ally",
+        "title": "Ally Assistance",
         "fromTemplateId": null
       },
       {
@@ -40,12 +1372,37 @@
         "characters": [],
         "description": [
           {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Late in Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist develops a new plan to reach their goal. The Antagonist surprises the Protagonist and makes things worse, causing the Protagonist to fail, forcing the Protagonist to develop a new plan. Repeat."
+              }
+            ]
+          },
+          {
             "type": "bulleted-list",
             "children": [
               {
                 "children": [
                   {
-                    "text": "Drive for new goal"
+                    "text": "Have the Protagonist develop a new goal and plan of attack (e.g. the Protagonist will attack the Antagonist at their base of operations)."
                   }
                 ],
                 "type": "list-item"
@@ -53,7 +1410,7 @@
               {
                 "children": [
                   {
-                    "text": "Antagonist action"
+                    "text": "The Antagonist pulls a surprising maneuver (e.g. the base of operations was simply a safe house, and the actual base is still hidden)."
                   }
                 ],
                 "type": "list-item"
@@ -61,7 +1418,7 @@
               {
                 "children": [
                   {
-                    "text": "Thwarted"
+                    "text": "Thwarted, the Protagonist must devise a new plan and deal with their losses (the Protagonist must formulate a plan to locate the actual base)."
                   }
                 ],
                 "type": "list-item"
@@ -69,10 +1426,35 @@
               {
                 "children": [
                   {
-                    "text": "(several times)"
+                    "text": "Repeat several times."
                   }
                 ],
                 "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2 makes up 50% of the story."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Repeat the Cycle occurs around the 55% mark."
               }
             ]
           }
@@ -86,7 +1468,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Cycle",
+        "title": "Repeat the Cycle",
         "fromTemplateId": null
       }
     ],
@@ -147,7 +1529,7 @@
             "position": 0,
             "templates": [],
             "time": 0,
-            "title": "Opening Scene",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -158,7 +1540,7 @@
             "position": 1,
             "templates": [],
             "time": 0,
-            "title": "Inciting Event",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -169,7 +1551,7 @@
             "position": 2,
             "templates": [],
             "time": 0,
-            "title": "Character realizes goal",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -180,7 +1562,7 @@
             "position": 3,
             "templates": [],
             "time": 0,
-            "title": "Display of flaw",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -191,7 +1573,7 @@
             "position": 4,
             "templates": [],
             "time": 0,
-            "title": "Drive for goal",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -202,7 +1584,7 @@
             "position": 5,
             "templates": [],
             "time": 0,
-            "title": "Antagonist revealed",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -213,7 +1595,7 @@
             "position": 6,
             "templates": [],
             "time": 0,
-            "title": "Goal thwarted",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -224,7 +1606,7 @@
             "position": 7,
             "templates": [],
             "time": 0,
-            "title": "Revisiting flaw",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -235,7 +1617,7 @@
             "position": 8,
             "templates": [],
             "time": 0,
-            "title": "Repeat the cycle",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -246,7 +1628,7 @@
             "position": 9,
             "templates": [],
             "time": 0,
-            "title": "Ally aids",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -257,7 +1639,7 @@
             "position": 10,
             "templates": [],
             "time": 0,
-            "title": "Girding the loins",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -268,7 +1650,7 @@
             "position": 11,
             "templates": [],
             "time": 0,
-            "title": "Battle",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -279,7 +1661,7 @@
             "position": 12,
             "templates": [],
             "time": 0,
-            "title": "Death (of character flaw)",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -290,7 +1672,7 @@
             "position": 13,
             "templates": [],
             "time": 0,
-            "title": "Outcome (new world)",
+            "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "expanded": true
@@ -303,7 +1685,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "Main Plot",
+        "title": "Take Off Your Pants",
         "position": 0,
         "characterId": null,
         "expanded": null,
@@ -312,13 +1694,13 @@
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -326,7 +1708,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     }
@@ -334,6 +1716,7 @@
   "initialVersion": "2021.2.23",
   "appliedMigrations": [
     "m2021_4_13",
-    "m2021_6_9"
+    "m2021_6_9",
+    "m2021_8_1"
   ]
 }
