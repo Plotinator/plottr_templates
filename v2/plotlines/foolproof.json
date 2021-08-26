@@ -1,0 +1,697 @@
+{
+  "id": "pl26",
+  "type": "plotlines",
+  "name": "Foolproof Pulp Formula",
+  "description": "An outline formula for writing pulp short stories by Nelson Bond",
+  "version": "2021.8.26",
+  "categories": [
+    "action",
+    "shortstory"
+  ],
+  "link": "https://www.storyhack.com/2017/07/17/another-pulp-story-formula/",
+  "templateData": {
+    "cards": [
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Fifth 1,000 Words",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Fifth 1,000 Words",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The fifth section of the story starts with the climax. The entire phase includes the solution, of final explanation, and "
+              },
+              {
+                "text": "denouement",
+                "italic": true
+              },
+              {
+                "text": ". It begins with violent action, tears along swiftly, leading to a swift, decisive conclusion – and ends happily. In the detective story, here’s where your cop or shamus explains whodunit, why, and how they figured it out. In the western, science, sport or action story, this is where the Hero fights free and, tying up loose ends, explains to their public how they knew just what to do."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Watch your timing here! Pace your final conflict so that the action of it consumes approximately 500 words or more. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Previous action may have been truncated to move the story along – but not this final scene. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Your readers have suffered with the Hero for 4,000 words, so give them a blow-by-blow description of the Last Stand, and let their empathies jump with glee as the Villain flinches, cowers, and dies."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fifth 1,000 Words ends on page 21 - 25, the final 20% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Fourth 1,000 Words",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Fourth 1,000 Words",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Herein, two things happen. The Hero finds, thinks, or fights their way out of the complication. This consumes almost all of the fourth phase. And when we’ve suffered with them, bled them into open country again... up pops the Villain with their deepest, most dastardly plot, unfolded, finally, in all its dire ramifications! "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Hero overcoming the complication of the previous section."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "At the end of this section, reveal the Villain's most sinister plan yet, which the Hero will need to overcome next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fourth 1,000 Words ends on page 17 - 19, covering from the 60-80% portion of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Third 1,000 Words",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Third 1,000 Words",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a longer story, this section would be called the midpoint. Here’s where the Hero stubs their toe. Things looked good – now the Villain heaves a monkey wrench into the works! Trouble-with a capital “Boo!” pops up. Technically this is known as a “plot complication,” which is just a literary way of saying it’s a mess. In short, then, this complication is generally something the Hero did not nor could have possibly expected; it may even be a break the Villain did not count on. But it makes a hell of a situation for the Hero."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Genre Examples: ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Sports: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Hero is a flashy player, without whom his team cannot win championship vital to the athletic future of the small college. In phase one, the main problem is set forth. In phase two, the path looks easy – Hero going like house afire. Phase three, complication: vital blocking back breaks leg before the crucial game!"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Science Fiction:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The Hero is hastily finishing a spaceship with which to visit Mars; must get special Martian desert weed to stave off dreadful scourge which threatens to destroy Earth. Complication: enemy scientists corner market on beryllium, vitally essential metal for construction of spaceship."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Detective Fiction:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The Detective Hero is hunting Red Jornegan, a gangster, whose fingerprints were found all over a gun that murdered a cop. Tracks Jornegan to hide-out. Complication: Finds Jornegan dead, killer’s gun lying across the room with Jornegan’s fingerprints on it! "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Love Story: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Hero admires a movie idol, wangles an introduction, succeeds in making him very, very interested. The soft odor of orange blossoms in the distance, and then... complication! Learns his contract has a no wedding clause."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Adventure: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Hero, a Foreign Legion Lieutenant, is besieged by a mob of howling Bedouins. Must carry news of uprising to post. Remembers cache of ammunition in the desert. Finds it. Complication: Bullets are for a different rifle!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Third 1,000 Words ends on page 13 - 15, from the 40-60% mark in the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Second 1,000 Words",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Second 1,000 Words",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the phase wherein the Hero’s star is in the ascendancy. Things move along with the reasonable assurance of eventual success. Looks like the problem wasn’t so terrible after all. With matters moving smoothly, this section may also be used for brief, telling “flashbacks” (if required), and for strengthening characterizations."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "When writing scene changes, bridge time by using a quadruple space between paragraphs."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "To quicken the pace and avoid boring the reader, don't reference everything that happens in between scenes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Save words, save time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Second 1,000 words ends on page 9 - 10 moving from the 20% mark to the 40% mark in the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "First 1,000 Words",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "First 1,000 Words",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Get going with a bang! Remember, you’re writing a short story, not "
+              },
+              {
+                "text": "Gone With the Wind.",
+                "italic": true
+              },
+              {
+                "text": " You can’t waste words, nor will the editor permit you to waste their or the readers’ time. Your first thousand words must tell "
+              },
+              {
+                "text": "who",
+                "italic": true
+              },
+              {
+                "text": " are to be the central characters of this work-of-art, "
+              },
+              {
+                "text": "when",
+                "italic": true
+              },
+              {
+                "text": " the story takes place, "
+              },
+              {
+                "text": "where",
+                "italic": true
+              },
+              {
+                "text": " the scene is set, "
+              },
+              {
+                "text": "what",
+                "italic": true
+              },
+              {
+                "text": " the problem is, and set the question as to how the Hero expects to take care of it."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Start with something happening to somebody, not with mental maunderings."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Grab the Hero by the neck and shove them smack into a mess of trouble. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Then show who started that trouble and why. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the other persons involved in the problem, make their opening speeches depict their characters. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "As you write, keep an eye on your page numbers. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember that this phase of the story must be finished by the middle of page 5."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "First 1,000 Words ends on page 5 or 20% of the way through the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 3,
+            "position": 1,
+            "time": 0,
+            "title": "auto"
+          },
+          "4": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 4,
+            "position": 2,
+            "time": 0,
+            "title": "auto"
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 3,
+            "time": 0,
+            "title": "auto"
+          },
+          "6": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 6,
+            "position": 4,
+            "time": 0,
+            "title": "auto"
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Foolproof Pulp Formula",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "name": "Beat",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        }
+      }
+    }
+  },
+  "initialVersion": "2021.8.16",
+  "appliedMigrations": []
+}

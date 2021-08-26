@@ -1,5 +1,5 @@
 {
-  "version": "2021.8.14",
+  "version": "2021.8.26",
   "templates": [
     {
       "id": "proj1",
@@ -125,6 +125,46 @@
       "id": "pl19",
       "version": "2021.8.26",
       "url": "/v2/plotlines/childrens_book.json"
+    },
+    {
+      "id": "pl20",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/horror_beats.json"
+    },
+    {
+      "id": "pl21",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/fichtean_curve.json"
+    },
+    {
+      "id": "pl22",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/freytags_pyramid.json"
+    },
+    {
+      "id": "pl23",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/in_media_res.json"
+    },
+    {
+      "id": "pl24",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/villians_journey.json"
+    },
+    {
+      "id": "pl25",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/lester_dent.json"
+    },
+    {
+      "id": "pl26",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/foolproof.json"
+    },
+    {
+      "id": "pl27",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/propp_folktale.json"
     },
     {
       "id": "sc1",
