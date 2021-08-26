@@ -1,0 +1,2758 @@
+{
+  "id": "pl18",
+  "type": "plotlines",
+  "name": "Cozy Mystery Beat Sheet",
+  "description": "A beat sheet for cozy mysteries by Sara Rosett",
+  "version": "2021.8.26",
+  "categories": [
+    "mystery"
+  ],
+  "link": "https://www.sararosett.com/nonfiction-for-writers/",
+  "templateData": {
+    "cards": [
+      {
+        "id": 21,
+        "lineId": 3,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Reactive Phase",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2 is the "
+              },
+              {
+                "text": "reactive",
+                "bold": true
+              },
+              {
+                "text": " phase. Because cozies are about amateur sleuths, Protagonists usually become gradually more involved in the investigation. They are getting their bearings and figuring out who is a suspect, and discovering clues and motives. During Act 2, the Protagonist is investigating, but they are reacting to events and discoveries instead of being proactive."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist may be a reluctant sleuth and have to be convinced to get more involved."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Protagonist may think of themselves as simply helping out/providing information to the police in the early stages of the investigation."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Why are they only partially invested in the investigation? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How are their actions reactive instead of proactive?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up approximately 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 20,
+        "lineId": 5,
+        "beatId": 21,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Equilibrium Restored",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 4: Confrontation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "With the murderer revealed, now justice must be done – for example, through the arrest of the murderer or death of the murderer. Readers want to see a functioning, healthy community at the close of the novel. If there are any lingering questions about red herrings, this is where you clear them up."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How will justice be done? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How will equilibrium be restored to the community?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How will the subplots be wrapped?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What glimpse of the Protagonist's new world will be given to the reader?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What new relationships have been created over the course of the story?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What possibilities are in store for the Protagonist now that the murderer has been caught? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, this is a good place to give a hint about the next book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 20% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 19,
+        "lineId": 5,
+        "beatId": 20,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Final Confrontation",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 4: Confrontation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What form does the final confrontation take? "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Battle of wits."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Actual physical battle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "How will the Protagonist confront the Antagonist?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Directly?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Forced into it?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Surprised by Antagonist?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What unique skills/tools will the Protagonist use to win the battle?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have those skills/tools been worked into the story from the beginning? "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 20% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 18,
+        "lineId": 5,
+        "beatId": 19,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Killer Revealed / Murder Method Explained",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 4: Confrontation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When the story reaches the final confrontation, the killer is revealed. How will the murder method be shown and answer any questions the readers might have about it? Make sure these things are clear: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Who committed the murder"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How the murder was committed"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How the Protagonist figured it out (what clues unlocked the mystery)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Explain any red herrings, if needed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 20% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 17,
+        "lineId": 4,
+        "beatId": 17,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Turning Point #3",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3: Proactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The turning point of Act 3 is an event that will set the final conflict in motion. Often it is a clue/knowledge/discovery that reveals the identity of the murderer."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the turning point?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What does the turning point reveal?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up approximately 20% of the story from 60% to 80%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 16,
+        "lineId": 4,
+        "beatId": 16,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Suspects Cleared",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 3: Proactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As the Protagonist tests theories, some suspects are cleared."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What theories are tested?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Which suspects are cleared? "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up approximately 20% of the story from 60% to 80%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 15,
+        "lineId": 4,
+        "beatId": 15,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Ultimate Try/Fail ",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 3: Proactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist develops a final theory and attempts to identify the murderer, but fails spectacularly. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's final theory?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Why does the theory not work?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does testing the theory lead to the biggest failure, the “all is lost” moment?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's reaction to the large failure?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up approximately 20% of the story from 60% to 80%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 14,
+        "lineId": 3,
+        "beatId": 13,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Turning Point #2",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the next big event in the story that turns everything on its head and makes the Protagonist reevaluate everything they have discovered. The turning point of Act 2 is often the death of the primary suspect, which means the Protagonist must reassess everything and form a new theory."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the turning point of this act?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Does the primary suspect die?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up approximately 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 13,
+        "lineId": 3,
+        "beatId": 12,
+        "bookId": null,
+        "positionWithinLine": 1,
+        "positionInBeat": 0,
+        "title": "Try/Fail #2",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Late Act 2: Reactive (Continued)",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist forms a new theory:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's new theory?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Does it work?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Why does the theory not work?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Are any suspects cleared?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If the theory fails, what is the Protagonist's reaction?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 25% of the story from 25% to 50%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 12,
+        "lineId": 3,
+        "beatId": 12,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Try/Fail #1",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Late Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist develops a theory and attempts to identify the murderer, but fails. The try/fail cycle repeats as many times as needed for the story."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's first theory?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Why does the theory not work?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's reaction to the first failure?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Some suspects are cleared as the Protagonist works through the try/fail cycles. Which suspects are cleared in this act?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 25% of the story from 25% to 50%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 11,
+        "lineId": 3,
+        "beatId": 11,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Antagonist Acts",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Mid Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In Act 2, the Sleuth gets involved in investigating the murder, and that makes the Antagonist (the murderer) nervous. The Antagonist takes action to prevent the Sleuth from discovering the truth.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Possible actions that the Antagonist might take to confuse the Sleuth and manipulate the direction of the investigation: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Plant false clues that implicate other people (often the Protagonist)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Move the body."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a scenario that makes it look as if the death occurred at a different time than it actually happened."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Makes an effort to get the case closed (puts pressure on officials)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Frame someone."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up approximately 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 10,
+        "lineId": 3,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Theories and Suspects",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "During Act 2, the Protagonist is discovering information – clues and red herrings – and developing theories about who the murderer is and how the crime was committed."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What clues does the Protagonist find in this act?  "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What red herrings does the Protagonist find in this act? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What theory do they develop?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up approximately 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 9,
+        "lineId": 3,
+        "beatId": 9,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Suspect Pool Narrows to Closed Community",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Mid Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As your Protagonist investigates, it becomes clear that the suspect pool is limited to a small group of people. But how is the suspect pool narrowed to the closed community? Some possible factors: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The window of time the crime could have been committed."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Access to the murder weapon."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Weather - storm limits travel, and only those in the immediate area could have committed the murder."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Moreover, as the investigation narrows to the closed community that the Protagonist is part of, it impacts the Protagonist's relationships."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Are any family or friends (or both!) suspects?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Is the Protagonist a suspect?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the second 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 8,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Turning Point #1",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1: Ordinary World",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A turning point is an event that sends the story in a new direction. Often the turning point of Act I is the discovery of the dead body or the decision to investigate. Once a murder occurs, your protagonist can't go on with their ordinary life."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the turning point of this act? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does the turning point change everything for the protagonist and launch her on a new path?  "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Change or Disturbance ",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Late Act 1: Ordinary World",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Do you have a change or disturbance? A change or disturbance shows the reader that something isn't right, and hints at the murder to come. For example:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Someone doesn't show up at work"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Someone receives a threatening letter"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Someone behaves in an out-of-character manner"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Do you need one? "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "You don't need to have a change or disturbance."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A disturbance signals to the reader that there is something going on in the background. If your murder takes place farther into the first act, a disturbance is a great way to keep readers turning pages until the murder."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If you have one, how does it foreshadow the turning point?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For more information on the disturbance, check out James Scott Bell's book Plot and Structure. ",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Ordinary World / Story Setup",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 1: Ordinary World",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is where you show the protagonist's ordinary life. It is the \"before\" view, before everything changes. This section may be a chapter to two or even just a few sentences. You want to give your reader a taste of what the protagonist's normal life is like before murder invades the community and messes everything up."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's ordinary world/story setup?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What situation is the story born out of?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Establish the Setting ",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Early Act 1: Ordinary World",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What is the setting of the book? How is it cozy?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Tone is important in a cozy, and one way to make sure you hit the right tone is with your setting. Cozy readers want to read about pleasant places, places they'd like to visit: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A small town with close-knit community"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A fun beach town"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A quaint village"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You're not limited to geographical communities. Your setting could be a college campus, a cruise ship, or a workplace like a flower shop or a bakery or a museum."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "lineId": 5,
+        "beatId": 18,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The Worst Thing",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 4: Confrontation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 4 is about the final confrontation between the Protagonist and the Antagonist. This is the lowest point of the novel. What is the worst thing (event/situation) that could happen to the Protagonist with the case?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Perhaps it seems that the murderer will escape justice, either with a physical escape (leaving town) or with a legal loophole that prevents the authorities from arresting or charging the murder. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Perhaps evidence that would prove the murderer's guilt is destroyed. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Perhaps a witness dies. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "How could this \"worst thing\" play into the Protagonist's external and internal goals? "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Perhaps the low point helps them reassess their goals/desire, possibly making a shift to a new goal/desires."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Or perhaps the low point lets them see that they are on the right track and makes them more determined than ever to carry on."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 4 makes up the final 20% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "lineId": 4,
+        "beatId": 14,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Stakes Rise",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3: Proactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The stakes rise for the Protagonist and the Antagonist. Often there's been a second murder, and the Protagonist realizes the killer must be caught so that the community can feel safe again. The Antagonist is more determined to make sure they aren't caught. Now, the Protagonist is "
+              },
+              {
+                "text": "Proactive",
+                "bold": true
+              },
+              {
+                "text": " and fully invested in catching the killer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What changed so that the Protagonist is now fully invested in catching the killer? Some possibilities: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Protagonist was threatened/nearly killed."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Someone close to the Protagonist was the second victim."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Threat of more violence unless the killer is caught."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Someone close to the Protagonist is arrested for the crimes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "How does the Antagonist up their game in this act? Some possibilities: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Threatens the Protagonist."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Tries to kill the Protagonist."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Tries to get the Protagonist arrested for the crimes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Plants more false clues."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Pressures to get the investigation closed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up approximately 20% of the story from 60% to 80%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 2,
+        "lineId": 3,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Reason to Investigate / Death Wasn't Random",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Early Act 2: Reactive",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In Act 2, you need to establish two important factors: "
+              }
+            ]
+          },
+          {
+            "type": "numbered-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Your sleuth's reason for investigating."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The fact that the crime wasn't random."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "First, unlike a police detective who is assigned a case and sets off to investigate it, the sleuth needs a"
+              },
+              {
+                "text": " ",
+                "bold": true
+              },
+              {
+                "text": "compelling reason to get involved in the search for the killer. Some reasons might be:  "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "They discovered the body and are a suspect."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A friend/family member is a suspect, and the Protagonist wants to help them clear their name"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The investigator/investigating agency is incompetent, and the crime will never be solved unless they get involved"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Second, cozy mystery readers want a whodunit puzzle they can solve. They don't want the crime to be committed by a random madman. No one likes to think that murder could happen in their community, so the initial reaction to the death may be that it was random violence or an accident. Establishing that the death was murder and that the crime was intentional helps move the story forward."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the Protagonist's reason for investigating?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What draws them into the investigation?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How is it established that the crime wasn't random violence or an accident?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up approximately 35% of the story from 25% to 60%."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Meet the Protagonist",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1: Ordinary World",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What does your protagonist want? "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is her external goal?*"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is your protagonist's internal goal? Does she have one?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What opposes these goals?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your protagonist's "
+              },
+              {
+                "text": "external goal",
+                "bold": true
+              },
+              {
+                "text": " may be straightforward or complex. In "
+              },
+              {
+                "text": "Murder on the Orient Express",
+                "italic": true
+              },
+              {
+                "text": ", Poirot's original goal is simply to get back to England, but once the murder happens, his goal is to solve the case. Your protagonist's goal might be to get a job or to run a marathon. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An "
+              },
+              {
+                "text": "internal goal ",
+                "bold": true
+              },
+              {
+                "text": "is something deeper and often relates to theme. Some internal goals could be to reconnect with an estranged friend/family member or to right a wrong. Seeing that justice is done is a common internal goal for mysteries. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Some mysteries, in particular from the Golden Age (1920s and 1930s), often have a protagonist without an internal goal other than solving the case, so you're not required to have an internal goal that relates to theme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once you've figured out your protagonist's goals, you can layer in roadblocks that will oppose and challenge her. The antagonist will create some opposition, but your protagonist may also create roadblocks that prevent her from reaching her goal. For instance, the antagonist may sabotage the protagonist's relationship with a key suspect or witness, which prevents the protagonist from getting information about the case. Or the protagonist may do something that sabotages the relationship and results in the same situation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*For a deeper dive on goals, check out Debra Dixon's book Goal, Motivation, Conflict.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "null": [
+            21,
+            20,
+            19,
+            18,
+            17,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null,
+          "20": null,
+          "21": null
+        },
+        "index": {
+          "2": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 2,
+            "position": 0,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "3": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 3,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "4": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 4,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "6": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 6,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 7,
+            "position": 5,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 8,
+            "position": 6,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "9": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 9,
+            "position": 7,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "10": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 10,
+            "position": 8,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "11": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 11,
+            "position": 9,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "12": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 12,
+            "position": 10,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "13": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 13,
+            "position": 11,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "14": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 14,
+            "position": 12,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "15": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 15,
+            "position": 13,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "16": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 16,
+            "position": 14,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "17": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 17,
+            "position": 15,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "18": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 18,
+            "position": 16,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "19": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 19,
+            "position": 17,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "20": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 20,
+            "position": 18,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "21": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 21,
+            "position": 19,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 5,
+        "bookId": 1,
+        "title": "Act 4: Confrontation",
+        "color": "#ff7f32",
+        "position": 3,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "title": "Act 3: Proactive",
+        "color": "#e5554f",
+        "position": 2,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 3,
+        "bookId": 1,
+        "title": "Act 2: Reactive",
+        "color": "#78be20",
+        "position": 1,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Act 1: Ordinary World",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "name": "Beat",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        }
+      }
+    }
+  },
+  "initialVersion": "2021.2.23",
+  "appliedMigrations": [
+    "m2021_4_13",
+    "m2021_6_9",
+    "m2021_8_1"
+  ]
+}
