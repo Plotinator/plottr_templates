@@ -1,0 +1,1029 @@
+{
+  "id": "pl19",
+  "type": "plotlines",
+  "name": "Children's Book Plot",
+  "description": "An outline formula for writing books for children",
+  "version": "2021.8.26",
+  "categories": [
+    "children"
+  ],
+  "templateData": {
+    "cards": [
+      {
+        "id": 7,
+        "lineId": 1,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Resolution",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Using all they have learned, the Protagonist works to find another solution, which is finally successful. The story's Resolution must be driven by the Protagonist, not an adult."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Let the Protagonist come to the solution on their own – for example, in a moment of reflection, with the help of friends, or by an idea triggered by an object or something else in the vicinity."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use all they have learned to solve the problem."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Protagonist enjoying the fruits of their labors and how they have changed."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Wrap up storylines and character arcs now that the problem has been solved."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As the girls get to the bottom of the stairs in the basement, they hear Amala's dog barking and growling at something. They run into the playroom and find the dog in its bed playing with Amala's boots! Apparently it had taken the boots from the top of the stairs. Amala runs over and hugs the dog as Carolina saves the boots. They then run upstairs and go outside to play, while Amala promises herself and Carolina that she'll keep her boots in her closet from now on."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolution occurs around the 90% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Climax",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Climax and the darkest moment for the Protagonist, which sets up the Resolution. Being a children's book, the darkest moment is relative."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a relatable and age-appropriate darkest moment for the Protagonist."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How has the Protagonist lost hope? What is their false belief?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Bring the Protagonist to, or just past, the point of giving up."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Amala wants to cry. With the sun now shining brightly outside, Amala apologizes to Carolina for not being able to find her boots. She is resigned to being punished for losing the boots, as the friends give up hope on playing in the puddles outside. They begin to walk back to Amala's bedroom and stop partway, deciding to go downstairs to play in the basement instead."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Climax occurs around the 75% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Solution 3",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The third attempt at the solution is unsuccessful as well. The Protagonist was certain that their third attempt would work, and is deeply disappointed when they have to head back to the drawing board, as a solution seems out of reach."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify a \"foolproof\" solution to the problem and have it fail as well."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Protagonist running out of ideas and losing faith."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Don't forget the problems, solutions, and reactions must be relatable and within the range of a child."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As they clean the room again, Carolina suggests that Amala stop and close her eyes, think about when she last had them, and then mentally retrace her steps. It's a technique Carolina's father taught her, and it works for her almost every time. Amala does that and remembers she saw her boots the previous day by the backdoor, close to the basement steps. The girls run to the backdoor to get the boots and once more see that they are not there. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Solution 3 occurs around the 55% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Solution 2",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "With each attempted solution, the stakes continue to rise. But keep in mind that this is a book for children – the stakes generally will not include the fate of the world. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make the stakes relatable and age-appropriate (e.g. not finishing the homework assignment, not finding a lost toy, or still not being able to reach the cookie jar)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider what the Protagonist has learned from Solution 1 and create another attempt that builds on it and teaches a new lesson, without being too obvious or preachy."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Male this solution a bit more complicated while ultimately making the situation worse."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How is the Protagonist reacting to each attempt and failure?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Remembering that Amala's mom and dad get upset when she leaves her stuff lying around, she thinks maybe her mom put her boots in her bedroom closet. They return to Amala's room, open the closet, and find it is a mess. The girls pull everything out of the closet, but the boots are not there – and time is slipping by as they have to put everything back."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Solution 2 occurs around the 40% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Solution 1",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Whether on their own or with the help of friends, the Protagonist considers the problem facing them and thinks of a possible solution. Unfortunately, this first solution does not work. In children's books, the Rule of Three applies: the Protagonist should attempt and fail three times before succeeding in finding a solution."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Think about the problem from a child's point of view and how they would approach a solution."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Don't be afraid of silly solutions – remember that children do not have the same level of understanding, world perspective, or life experience as adults."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The first attempt at a solution can be simple or obvious, leading to increasingly more sophisticated attempts."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember that while initial attempts are doomed to fail, they should bring the Protagonist closer to the solution with lessons learned."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the initial shock of discovering the boots missing, Amala runs out to the front porch with Carolina to see if she left them there to dry after the last rain. They look around everywhere, but the boots are nowhere to be seen."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Solution 1 occurs around the 25% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Problem",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the Protagonist's introduction, introduce the reader to the Central Problem that needs to be solved. There are limited pages in a children's book, so be sure to reveal the problem early."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make the Central Problem age-appropriate and relatable to the reader (e.g. needing to finish difficult homework, wanting an expensive toy, dealing with a school bully)."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a Central Problem that can be easily identified by the reader."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify what's a stake if the problem isn't solved."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The rain stops, and the girls run to the front closet to get their boots – only to find Amala's new boots missing! Amala knows she'll be in trouble if her parents discover she's lost the boots, and they only have a short period of time to play before Carolina has to go home."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Problem should take your story from approximately 12% to the 25% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Introduction",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The opening of the story hooks the reader and introduces the Protagonist, who is usually a child or an animal. If possible, have the story start in a state of action, grappling with something that will turn into the story's main conflict. Children's books are often short and don't require a significant amount of exposition. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a Protagonist who is age appropriate and relatable, with a compelling personality and motivation."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Start the story in the midst of action."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Briefly show the Protagonist in their Ordinary World. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Amala is playing with an old set of toys in her bedroom with her friend Carolina as it rains outside. They are bored and biding their time until the rain stops so they can go outside and play in the puddles."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduction should take approximately 12% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 3,
+            "position": 1,
+            "time": 0,
+            "title": "auto"
+          },
+          "4": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 4,
+            "position": 2,
+            "time": 0,
+            "title": "auto"
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 3,
+            "time": 0,
+            "title": "auto"
+          },
+          "6": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 6,
+            "position": 4,
+            "time": 0,
+            "title": "auto"
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 7,
+            "position": 5,
+            "time": 0,
+            "title": "auto"
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 8,
+            "position": 6,
+            "time": 0,
+            "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Children's Book Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "name": "Beat",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        }
+      }
+    }
+  },
+  "initialVersion": "2021.7.29",
+  "appliedMigrations": [
+    "m2021_8_1"
+  ]
+}

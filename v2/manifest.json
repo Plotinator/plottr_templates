@@ -1,25 +1,10 @@
 {
-  "version": "2021.8.13",
+  "version": "2021.8.14",
   "templates": [
     {
       "id": "proj1",
       "version": "2021.7.8",
       "url": "/v2/project/snowflake.json"
-    },
-    {
-      "id": "pl17",
-      "version": "2021.7.8",
-      "url": "/v2/plotlines/snowflake.json"
-    },
-    {
-      "id": "pl18",
-      "version": "2021.8.26",
-      "url": "/v2/plotlines/cozy_mystery.json"
-    },
-    {
-      "id": "ch7",
-      "version": "2020.10.15",
-      "url": "/v2/characters/snowflake.json"
     },
     {
       "id": "ch1",
@@ -50,6 +35,11 @@
       "id": "ch6",
       "version": "2021.8.5",
       "url": "/v2/characters/myers-briggs.json"
+    },
+    {
+      "id": "ch7",
+      "version": "2020.10.15",
+      "url": "/v2/characters/snowflake.json"
     },
     {
       "id": "pl1",
@@ -120,6 +110,21 @@
       "id": "pl16",
       "version": "2021.8.11",
       "url": "/v2/plotlines/three_story_method.json"
+    },
+    {
+      "id": "pl17",
+      "version": "2021.7.8",
+      "url": "/v2/plotlines/snowflake.json"
+    },
+    {
+      "id": "pl18",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/cozy_mystery.json"
+    },
+    {
+      "id": "pl19",
+      "version": "2021.8.26",
+      "url": "/v2/plotlines/childrens_book.json"
     },
     {
       "id": "sc1",
