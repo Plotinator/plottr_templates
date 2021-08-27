@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Seven Point Plot Structure",
   "description": "A plot structure popularized by Dan Wells",
-  "version": "2021.8.11",
+  "version": "2021.8.27",
   "categories": [
     "general"
   ],
@@ -911,7 +911,7 @@
         "id": 1,
         "bookId": 1,
         "color": "#6cace4",
-        "title": "7 Point Plot Structure",
+        "title": "Seven Point Plot Structure",
         "position": 0,
         "characterId": null,
         "expanded": null,

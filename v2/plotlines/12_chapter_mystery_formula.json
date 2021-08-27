@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "12 Step Mystery Formula",
   "description": "An outline formula for writing a traditional mystery",
-  "version": "2021.8.12",
+  "version": "2021.8.27",
   "categories": [
     "mystery"
   ],
@@ -1587,7 +1587,7 @@
         "color": "#78be20",
         "id": 2,
         "position": 1,
-        "title": "12 Chapter Mystery Formula Subplot",
+        "title": "12 Step Mystery Formula Subplot",
         "expanded": null,
         "fromTemplateId": null
       },
@@ -1597,7 +1597,7 @@
         "color": "#6cace4",
         "id": 1,
         "position": 0,
-        "title": "12 Chapter Mystery Formula",
+        "title": "12 Step Mystery Formula",
         "expanded": null,
         "fromTemplateId": null
       }
