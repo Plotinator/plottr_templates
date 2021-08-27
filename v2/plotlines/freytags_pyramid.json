@@ -3,10 +3,10 @@
   "type": "plotlines",
   "name": "Freytag's Pyramid",
   "description": "A classic story structure for writing dramatic plays ",
-  "version": "2021.8.26",
+  "version": "2021.8.27",
   "categories": [
     "general",
-    "screenplay"
+    "playwriting"
   ],
   "templateData": {
     "cards": [

@@ -1,5 +1,5 @@
 {
-  "version": "2021.8.26",
+  "version": "2021.8.27",
   "templates": [
     {
       "id": "proj1",
@@ -138,7 +138,7 @@
     },
     {
       "id": "pl22",
-      "version": "2021.8.26",
+      "version": "2021.8.27",
       "url": "/v2/plotlines/freytags_pyramid.json"
     },
     {
