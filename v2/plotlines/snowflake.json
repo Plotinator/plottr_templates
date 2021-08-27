@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.7.8",
+  "version": "2021.8.27",
   "categories": [
     "general"
   ],
@@ -24,7 +24,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The Third Disaster comes at the end of Act 2, approximately 75% of the way through the story. The Third Disaster is something bad that forces your lead Character AND the villain (if there is a villain) to commit to some final showdown that will decide who wins and who loses. That is, they must both commit to end the story. As an example, in the original Star Wars movie, at the end of Act 2, Luke and his comrades reach the rebel planet, where they learn that the storm troopers put a tracking device on the Millennium Falcon. The Death Star is now approaching the rebel planet, and Darth Vader means to destroy the planet and end the Rebellion. This is terrible! The rebels can all run and hide, fragmenting the Rebellion. Or they can fight to the death. They choose to make a last stand. The rest of the story is the final showdown, in which the rebels attack the Death Star while it moves into position to destroy the rebel planet. One side will win and one will lose, and the clock is ticking!"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Third Disaster comes at the end of Act 2, approximately 75% of the way through the story. The Third Disaster is something bad that forces your Protagonist AND the Antagonist (if there is an Antagonist) to commit to some final showdown that will decide who wins and who loses. That is, they must both commit to end the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example - Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Star Wars movie (Episode 4), at the end of Act 2, Luke and his comrades reach the rebel planet, where they learn that the stormtroopers put a tracking device on the Millennium Falcon. The Death Star is now approaching the rebel planet, and Darth Vader means to destroy the planet and end the Rebellion. This is terrible! The rebels can all run and hide, fragmenting the Rebellion, or they can fight to the death. They choose to make a last stand. The rest of the story is the final showdown, in which the rebels attack the Death Star while it moves into position to destroy the rebel planet. One side will win, and one will lose, and the clock is ticking!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Third Disaster occurs around the 75% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -34,7 +98,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       },
       {
         "id": 2,
@@ -50,7 +114,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The Second Disaster comes approximately at the middle of Act 2, roughly 50% of the way into your story. Your lead Character has spent the first half of Act 2 trying to achieve their Storygoal, but they've been pursuing a path that won't work. The Second Disaster is a bad thing that happens at the midpoint of the story that forces your Character to try a new approach. This new approach will actually work. As an example, in the original Star Wars movie, Obi-Wan Kenobi is killed by Darth Vader at the midpoint of the story. Up till now, Luke has been following Obi-Wan and just doing what he says. Now he has to step up and start making his own decisions--and he needs to actually start using the Force. He will never win unless he becomes strong in the Force, and he has the second half of Act 2 to get strong."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Second Disaster comes approximately at the middle of Act 2, roughly 50% of the way into your story. Your lead Character has spent the first half of Act 2 trying to achieve their story goal, but they've been pursuing a path that won't work. The Second Disaster is a bad thing that happens at the midpoint of the story that forces your Protagonist to try a new approach. This new approach will actually work. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example – Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Star Wars movie (Episode 4), Obi-Wan Kenobi is killed by Darth Vader at the midpoint of the story. Up till now, Luke has been following Obi-Wan and just doing what he says. Now he has to step up and start making his own decisions--and he needs to actually start using the Force. He will never win unless he becomes strong in the Force, and he has the second half of Act 2 to get strong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% to 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Second Disaster occurs around the 50% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -60,7 +188,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       },
       {
         "id": 1,
@@ -76,7 +204,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The First Disaster comes at the end of Act 1, roughly 25% of the way into your story. The First Disaster is something bad that forces your lead Character to commit to the story. As an example, in the original Stars Wars Movie (Episode 4), Luke's aunt and uncle are murdered by storm troopers. This drives Luke to agree to leave the planet with Obi-Wan Kenobi. He's now committed to the Rebellion, and he can't turn back."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The First Disaster comes at the end of Act 1, roughly 25% of the way into the story. The First Disaster is something bad that forces the Protagonist to commit to the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example – Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Stars Wars Movie (Episode 4), Luke's aunt and uncle are murdered by stormtroopers. This drives Luke to agree to leave the planet with Obi-Wan Kenobi. He's now committed to the Rebellion, and he can't turn back."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "First Disaster occurs around the 25% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -86,7 +278,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       }
     ],
     "beats": {
@@ -100,7 +292,6 @@
           "6": [],
           "7": [],
           "8": [],
-          "9": [],
           "null": [
             1,
             2,
@@ -109,8 +300,7 @@
             5,
             6,
             7,
-            8,
-            9
+            8
           ]
         },
         "heap": {
@@ -121,8 +311,7 @@
           "5": null,
           "6": null,
           "7": null,
-          "8": null,
-          "9": null
+          "8": null
         },
         "index": {
           "1": {
@@ -133,7 +322,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "2": {
@@ -144,7 +333,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "3": {
@@ -155,7 +344,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "4": {
@@ -166,7 +355,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "5": {
@@ -177,7 +366,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "6": {
@@ -188,7 +377,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "7": {
@@ -199,7 +388,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "8": {
@@ -210,18 +399,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "9": {
-            "id": 9,
-            "bookId": 1,
-            "position": 8,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           }
         }
@@ -231,38 +409,37 @@
       {
         "id": 1,
         "bookId": 1,
-        "color": "#6cace4",
-        "title": "Three Disaster Structure",
+        "color": "#78be20",
+        "title": "The Snowflake Method",
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       }
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"
         },
         "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4"
         }
       }
     }
   },
-  "initialVersion": "2021.2.19",
+  "initialVersion": "2021.7.8",
   "appliedMigrations": [
-    "m2021_4_13",
-    "m2021_6_9"
+    "m2021_8_1"
   ]
 }

@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.7.8",
+  "version": "2021.8.27",
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
     "cards": [
@@ -21,7 +21,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The Third Disaster comes at the end of Act 2, approximately 75% of the way through the story. The Third Disaster is something bad that forces your lead Character AND the villain (if there is a villain) to commit to some final showdown that will decide who wins and who loses. That is, they must both commit to end the story. As an example, in the original Star Wars movie, at the end of Act 2, Luke and his comrades reach the rebel planet, where they learn that the storm troopers put a tracking device on the Millennium Falcon. The Death Star is now approaching the rebel planet, and Darth Vader means to destroy the planet and end the Rebellion. This is terrible! The rebels can all run and hide, fragmenting the Rebellion. Or they can fight to the death. They choose to make a last stand. The rest of the story is the final showdown, in which the rebels attack the Death Star while it moves into position to destroy the rebel planet. One side will win and one will lose, and the clock is ticking!"
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Third Disaster comes at the end of Act 2, approximately 75% of the way through the story. The Third Disaster is something bad that forces your Protagonist AND the Antagonist (if there is an Antagonist) to commit to some final showdown that will decide who wins and who loses. That is, they must both commit to end the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example - Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Star Wars movie (Episode 4), at the end of Act 2, Luke and his comrades reach the rebel planet, where they learn that the stormtroopers put a tracking device on the Millennium Falcon. The Death Star is now approaching the rebel planet, and Darth Vader means to destroy the planet and end the Rebellion. This is terrible! The rebels can all run and hide, fragmenting the Rebellion, or they can fight to the death. They choose to make a last stand. The rest of the story is the final showdown, in which the rebels attack the Death Star while it moves into position to destroy the rebel planet. One side will win, and one will lose, and the clock is ticking!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Third Disaster occurs around the 75% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -31,7 +95,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       },
       {
         "id": 2,
@@ -47,7 +111,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The Second Disaster comes approximately at the middle of Act 2, roughly 50% of the way into your story. Your lead Character has spent the first half of Act 2 trying to achieve their Storygoal, but they've been pursuing a path that won't work. The Second Disaster is a bad thing that happens at the midpoint of the story that forces your Character to try a new approach. This new approach will actually work. As an example, in the original Star Wars movie, Obi-Wan Kenobi is killed by Darth Vader at the midpoint of the story. Up till now, Luke has been following Obi-Wan and just doing what he says. Now he has to step up and start making his own decisions--and he needs to actually start using the Force. He will never win unless he becomes strong in the Force, and he has the second half of Act 2 to get strong."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Second Disaster comes approximately at the middle of Act 2, roughly 50% of the way into your story. Your lead Character has spent the first half of Act 2 trying to achieve their story goal, but they've been pursuing a path that won't work. The Second Disaster is a bad thing that happens at the midpoint of the story that forces your Protagonist to try a new approach. This new approach will actually work. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example – Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Star Wars movie (Episode 4), Obi-Wan Kenobi is killed by Darth Vader at the midpoint of the story. Up till now, Luke has been following Obi-Wan and just doing what he says. Now he has to step up and start making his own decisions--and he needs to actually start using the Force. He will never win unless he becomes strong in the Force, and he has the second half of Act 2 to get strong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% to 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Second Disaster occurs around the 50% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -57,7 +185,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       },
       {
         "id": 1,
@@ -73,7 +201,71 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "The First Disaster comes at the end of Act 1, roughly 25% of the way into your story. The First Disaster is something bad that forces your lead Character to commit to the story. As an example, in the original Stars Wars Movie (Episode 4), Luke's aunt and uncle are murdered by storm troopers. This drives Luke to agree to leave the planet with Obi-Wan Kenobi. He's now committed to the Rebellion, and he can't turn back."
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The First Disaster comes at the end of Act 1, roughly 25% of the way into the story. The First Disaster is something bad that forces the Protagonist to commit to the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example – Star Wars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the original Stars Wars Movie (Episode 4), Luke's aunt and uncle are murdered by stormtroopers. This drives Luke to agree to leave the planet with Obi-Wan Kenobi. He's now committed to the Rebellion, and he can't turn back."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "First Disaster occurs around the 25% mark of the story."
+                  }
+                ]
               }
             ]
           }
@@ -83,7 +275,7 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       }
     ],
     "beats": {
@@ -97,7 +289,6 @@
           "6": [],
           "7": [],
           "8": [],
-          "9": [],
           "null": [
             1,
             2,
@@ -106,8 +297,7 @@
             5,
             6,
             7,
-            8,
-            9
+            8
           ]
         },
         "heap": {
@@ -118,8 +308,7 @@
           "5": null,
           "6": null,
           "7": null,
-          "8": null,
-          "9": null
+          "8": null
         },
         "index": {
           "1": {
@@ -130,7 +319,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "2": {
@@ -141,7 +330,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "3": {
@@ -152,7 +341,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "4": {
@@ -163,7 +352,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "5": {
@@ -174,7 +363,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "6": {
@@ -185,7 +374,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "7": {
@@ -196,7 +385,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           },
           "8": {
@@ -207,18 +396,7 @@
             "time": 0,
             "templates": [],
             "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
-            "expanded": true
-          },
-          "9": {
-            "id": 9,
-            "bookId": 1,
-            "position": 8,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": "proj1",
+            "fromTemplateId": null,
             "expanded": true
           }
         }
@@ -233,18 +411,18 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": "proj1"
+        "fromTemplateId": null
       }
     ],
     "hierarchyLevels": {
       "0": {
-        "name": "Scene",
+        "name": "Beat",
         "level": 0,
         "autoNumber": true,
         "textSize": 24,
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#6cace4",
+        "textColor": "#0b1117",
         "borderColor": "#6cace4",
         "dark": {
           "borderColor": "#c9e6ff",
@@ -252,7 +430,7 @@
         },
         "light": {
           "borderColor": "#6cace4",
-          "textColor": "#6cace4"
+          "textColor": "#0b1117"
         }
       }
     },
@@ -316,9 +494,9 @@
         }
       ],
       "places": [],
-      "cards": [],
       "scenes": [],
-      "lines": []
+      "lines": [],
+      "notes": []
     },
     "tags": [
       {
@@ -342,6 +520,130 @@
         "id": 1,
         "title": "Introduction to the Snowflake Method, by Randy Ingermanson",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "I invented",
+                "bold": true
+              },
+              {
+                "text": " the Snowflake Method in the summer of 2002."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The problem ",
+                "bold": true
+              },
+              {
+                "text": "the Snowflake Method solves is \"How do you get the first draft of your novel written?\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that there are many possible answers",
+                "bold": true
+              },
+              {
+                "text": " to that problem. The Snowflake Method is my answer, and it's been immensely popular. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
+                "children": [
+                  {
+                    "text": "My  \"Snowflake Method\" page "
+                  }
+                ]
+              },
+              {
+                "text": "on my website has been viewed more than 6.5 million times over the years, and it's made me famous around the world as a teacher of \"how to write fiction.\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "I've also written",
+                "bold": true
+              },
+              {
+                "text": " a best-selling book, "
+              },
+              {
+                "type": "link",
+                "url": "https://www.advancedfictionwriting.com/books/write-novel-using-snowflake-method/",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method,"
+                  }
+                ]
+              },
+              {
+                "text": " which you can buy at any of the usual online retailers. The book is written as a story. It's the story of a young woman who always wanted to write a novel, but didn't know how. The story is written in fairy tale format, and it's pretty crazy and very silly. That's for a reason. "
+              },
+              {
+                "text": "The crazy, silly story makes it easy to remember. ",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Let's remember",
+                "bold": true
+              },
+              {
+                "text": " that there are other ways to write your first draft. If the Snowflake Method works for you, then that's a win. If some other method works for you, that's also a win. In the end, your reader won't care how you wrote your first draft. Your reader only cares if your novel gives them a powerful emotional experience. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You might be wondering",
+                "bold": true
+              },
+              {
+                "text": " why it's called the Snowflake Method. I'm glad you asked... "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The answer",
+                "bold": true
+              },
+              {
+                "text": " is in the next note."
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628614538643,
+        "templates": [],
+        "imageId": "6",
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -456,20 +758,341 @@
             ]
           }
         ],
-        "tags": [
-          1
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602207016097,
-        "templates": [],
-        "imageId": "6",
-        "bookIds": []
+        "categoryId": "11"
       },
       {
         "id": 2,
         "title": "Why It's Called the \"Snowflake Method\"",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "I have a PhD",
+                "bold": true
+              },
+              {
+                "text": " in theoretical physics and have worked as a software developer to write many complex scientific software projects over the years. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When faced ",
+                "bold": true
+              },
+              {
+                "text": "with a new challenge, a software developer starts with something small and builds out. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Here's a metaphor",
+                "bold": true
+              },
+              {
+                "text": " for how to do that. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Imagine you're asked",
+                "bold": true
+              },
+              {
+                "text": " to draw the following complicated \"Snowflake fractal\":"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "How could you ",
+                "bold": true
+              },
+              {
+                "text": "possibly draw that?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You could just put",
+                "bold": true
+              },
+              {
+                "text": " your pencil down on the paper and start drawing, but ... it's complicated! There must be an easier way. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "There is an easier way",
+                "bold": true
+              },
+              {
+                "text": ". Instead of trying to draw the whole complicated image in one shot, you can start with a simple triangle:"
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "That's not much",
+                "bold": true
+              },
+              {
+                "text": ", but it's a start. You can build from that. All you have to do is erase the middle part of each side and then add a triangle projecting out. Like this:"
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "That's still not much",
+                "bold": true
+              },
+              {
+                "text": ", but it's more than what you started with. Now you can again erase the middle of each edge and replace it with a triangle again. Like this:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "That's starting to look",
+                "bold": true
+              },
+              {
+                "text": " like something! Now you just keep repeating the process, erasing the middle of each edge and adding more tiny triangles. Like this: "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You can see that",
+                "bold": true
+              },
+              {
+                "text": " in just a few steps, you've made enormous progress. At each step, all you did was either erase a bit of a line segment or draw a triangle. Each step was easy, but the whole is so much more than the sum of the parts. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You can take as many steps",
+                "bold": true
+              },
+              {
+                "text": " as you like, but very soon, you'll be adding triangles smaller than the thickness of your pencil. That's when it's time to stop. And you'll have this:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "image-data",
+            "data": "data:image/jpeg;base64,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",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "All of this ",
+                "bold": true
+              },
+              {
+                "text": "is a deep metaphor for how you design a novel "
+              },
+              {
+                "text": "before you begin writing it.",
+                "italic": true,
+                "bold": true
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You start ",
+                "bold": true
+              },
+              {
+                "text": "with the basic idea of the novel. Then you make it a bit more complex. Then a bit more complex. Then a bit more. After doing that just a few times, you have the skeleton of a beautiful, perfectly-designed novel. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once you have that",
+                "bold": true
+              },
+              {
+                "text": ", you can sit down and start writing. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Snowflake Method",
+                "bold": true
+              },
+              {
+                "text": " has 10 steps. Step #10 is to write your novel. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Here in this template",
+                "bold": true
+              },
+              {
+                "text": ", we'll work through the other 9 steps. You can do each of these nine steps right here in Plottr. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Just follow ",
+                "bold": true
+              },
+              {
+                "text": "the guidelines in the notes below. Each step will tell you to do one task, and it will tell you which part of Plottr to use to complete that task. Just follow your nose, and in a few hours of intense, creative work, you'll have a beautiful and elegant design for your novel. "
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628614990337,
+        "templates": [],
+        "imageId": null,
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -789,15 +1412,7 @@
             ]
           }
         ],
-        "tags": [
-          1
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602207009842,
-        "templates": [],
-        "imageId": null,
-        "bookIds": []
+        "categoryId": "11"
       },
       {
         "id": 3,
@@ -914,10 +1529,117 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602206997930,
+        "lastEdited": 1628615099221,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take an hour",
+                "bold": true
+              },
+              {
+                "text": " and write a “Storyline” — a one-sentence summary of your novel. Something like this: “A rogue physicist travels back in time to kill the apostle Paul.” (This is the summary for my first novel, "
+              },
+              {
+                "text": "Transgression",
+                "italic": true
+              },
+              {
+                "text": ".) Your Storyline will serve you forever as a ten-second selling tool. This is the big picture, the analog of that big starting triangle in the snowflake picture. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write your book proposal",
+                "bold": true
+              },
+              {
+                "text": ", this Storyline should appear very early in the proposal. It’s the hook that will sell your book to your editor, to your publishing committee, to the sales force, to bookstore owners, and ultimately to readers. So make it the best one you can! "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Some hints",
+                "bold": true
+              },
+              {
+                "text": " on what makes a good Storyline: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Shorter is better. Try for fewer than 15 words. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "No character names, please! Better to say “a handicapped trapeze artist” than “Jane Doe”. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Tie together the big picture and the personal picture. Which character has the most to lose in this story? Now tell me what he or she wants to win. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Read the one-line blurbs on the New York Times Bestseller list to learn how to do this. Writing a one-sentence description is an art form. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details ",
+                "bold": true
+              },
+              {
+                "text": "on the one-sentence summary, see Chapter 3, \"Your Story in One Sentence,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "1"
       },
       {
         "id": 4,
@@ -983,15 +1705,190 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602206991505,
+        "lastEdited": 1628615128646,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Edit this Note",
+                "bold": true
+              },
+              {
+                "text": " to write your one-sentence summary. Give yourself a one-hour time limit and write the best one you can come up with now. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Don't worry ",
+                "bold": true
+              },
+              {
+                "text": "if it's not perfect. You can always come back and do another version later. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You may find it helpful",
+                "bold": true
+              },
+              {
+                "text": " to put today's date by today's version of your one-sentence summary. Then if you revise it later, don't erase the old one. Just add the new one to the bottom of this note with the date you write it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "<Erase this part and replace it with your one-sentence summary here.>",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "categoryId": "1"
       },
       {
         "id": 5,
         "title": "Step 2: Explanation of the One-Paragraph Summary",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take another hour ",
+                "bold": true
+              },
+              {
+                "text": "and expand your one-sentence summary to a full paragraph describing the story setup, major disasters, and ending of the novel. This is the analog of the second stage of the snowflake. I like to structure a story as “three disasters plus an ending.” Each of the disasters takes a quarter of the book to develop, and the ending takes the final quarter. I don’t know if this is the ideal structure, it’s just my personal taste. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you believe in the Three-Act Structure,",
+                "bold": true
+              },
+              {
+                "text": " then the first disaster corresponds to the end of Act 1. The second disaster is the mid-point of Act 2. The third disaster is the end of Act 2 and forces Act 3, which wraps things up. It is OK to have the first disaster be caused by external circumstances, but I think that the second and third disasters should be caused by the protagonist’s attempts to “fix things”. Things just get worse and worse. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You can ultimately use this paragraph",
+                "bold": true
+              },
+              {
+                "text": " in your proposal. I recommend that you write a paragraph with five sentences: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The first sentence tells the backdrop and story setup. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The second sentence explains the beginning up to the first disaster. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The third sentence describes the first half of the middle, up to the second disaster. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The fourth sentence describes the second half of the middle, up to the third disaster. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The fifth sentence explains the ending. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details ",
+                "bold": true
+              },
+              {
+                "text": "on the one-paragraph summary, see Chapter 5, \"The Importance of Being Disastrous,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "https://www.advancedfictionwriting.com/books/write-novel-using-snowflake-method/",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method",
+                    "italic": true,
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1,
+          2
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628615234276,
+        "templates": [],
+        "imageId": null,
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -1100,16 +1997,7 @@
             ]
           }
         ],
-        "tags": [
-          1,
-          2
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602206951947,
-        "templates": [],
-        "imageId": null,
-        "bookIds": []
+        "categoryId": "2"
       },
       {
         "id": 6,
@@ -1155,15 +2043,184 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117958730,
+        "lastEdited": 1628615253864,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Edit this Note ",
+                "bold": true
+              },
+              {
+                "text": "to write your one-paragraph summary. Give yourself a one-hour time limit and write the best one you can come up with now. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Don't worry if it's not perfect",
+                "bold": true
+              },
+              {
+                "text": ". You can always come back and do another version later. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "<Erase this part and replace it with your one-paragraph summary here. Sentence 1 is the backdrop and story setup. Sentence 2 explains the beginning of the novel up to the first disaster. Sentence 3 explains the first half of the middle, up to the second disaster. Sentence 4 explains the second half of the middle, up to the third disaster. Sentence 5 explains the ending.>",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "categoryId": "2"
       },
       {
         "id": 7,
         "title": "Step 3: Explanation of Your Character Definitions",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the first two steps ",
+                "bold": true
+              },
+              {
+                "text": "of the Snowflake Method, you’ve worked out a high-level view of your novel. Now you need something similar for the storylines of each of your characters. Characters are the most important part of any novel, and the time you invest in designing them up front will pay off ten-fold when you start writing. For each of your major characters, take an hour and fill out the beginnings of a character sheet. You don't need to define everything about these characters. Just the really important stuff, such as: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The character’s Name "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The character's Role in the story (Hero, Villain, Love Interest, Sidekick, or whatever role you want to assign. Or none at all.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The character’s Storygoal (what does the character want concretely?) "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The character’s Ambition (what does the character want abstractly?) "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The character's Values (each Value can be summarized in a single sentence of this form: \"Nothing is more important than _________.\")"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A one-sentence summary of the character’s Storyline (write this as if this character is the Hero of the story. Remember that every character thinks they are the Hero of their own story. Even the Villain thinks so.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A one-paragraph summary of the character’s storyline (again, write this as if this character is the Hero of the story.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An important point: ",
+                "bold": true
+              },
+              {
+                "text": "You may find that you need to go back and revise your one-sentence summary and/or your one-paragraph summary that you did in Steps 1 and 2. Go ahead! This is good — it means your characters are teaching you things about your story. It’s always okay at any stage of the design process to go back and revise earlier stages. In fact, it’s not just okay — it’s inevitable. And it’s good. Any revisions you make now are revisions you won’t need to make later on a clunky 400-page manuscript. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Another important point:",
+                "bold": true
+              },
+              {
+                "text": " It doesn’t have to be perfect. The purpose of each step in the design process is to advance you to the next step. Keep your forward momentum! You can always come back later and fix it when you understand the story better. You will do this too, unless you’re a lot smarter than I am. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details ",
+                "bold": true
+              },
+              {
+                "text": "on the character definitions, see Chapter 6, \"Nothing is More Important Than Characters\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1,
+          3
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628615425532,
+        "templates": [],
+        "imageId": null,
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -1286,21 +2343,115 @@
             ]
           }
         ],
+        "categoryId": "3"
+      },
+      {
+        "id": 8,
+        "title": "Step 3: Where to Write Your Character Definitions",
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Click",
+                "bold": true
+              },
+              {
+                "text": " on the "
+              },
+              {
+                "text": "Characters",
+                "bold": true
+              },
+              {
+                "text": " menu entry in the menubar at the top of this window. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In the upper left corner ",
+                "bold": true
+              },
+              {
+                "text": "of the window, you'll see a button that says \"New\" and right next to it a button that says \"Use Template\". Click on that \"Use Template\" button."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The window ",
+                "bold": true
+              },
+              {
+                "text": "will now show you all the available character templates. Select the one that says \"Snowflake Method Character Template\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Click on the green Choose button",
+                "bold": true
+              },
+              {
+                "text": " in the lower right corner of the window. From now on, you'll be using the Character template that was custom-designed for the Snowflake Method."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you need ",
+                "bold": true
+              },
+              {
+                "text": "to add more Character attributes, you can do so and save them as your own template."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now just add ",
+                "bold": true
+              },
+              {
+                "text": "new Characters and fill in the blanks. You don't have to fill in all the blanks. They are there to serve you by making you think about your Characters. You are not put on this planet to serve the template. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Have",
+                "bold": true
+              },
+              {
+                "text": " fun!"
+              }
+            ]
+          }
+        ],
         "tags": [
           1,
           3
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117952603,
+        "lastEdited": 1628615476123,
         "templates": [],
         "imageId": null,
-        "bookIds": []
-      },
-      {
-        "id": 8,
-        "title": "Step 3: Where to Write Your Character Definitions",
-        "content": [
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -1393,21 +2544,120 @@
             ]
           }
         ],
-        "tags": [
-          1,
-          3
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602117946923,
-        "templates": [],
-        "imageId": null,
-        "bookIds": []
+        "categoryId": "3"
       },
       {
         "id": 9,
         "title": "Step 4: Explanation of your One-Page Synopsis",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you’ve done ",
+                "bold": true
+              },
+              {
+                "text": "the first three steps of the Snowflake Method, you should have a good idea of the large-scale structure of your novel. So now just keep growing the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take several hours ",
+                "bold": true
+              },
+              {
+                "text": "and expand each sentence of your one-paragraph summary (from Step 2) into a full paragraph. All but the last paragraph should end in a disaster. The final paragraph should tell how the book ends. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write your one-page synopsis ",
+                "bold": true
+              },
+              {
+                "text": "in the present tense, like this: “Jack sells his cow in town for some magic beans. When he comes home, his mother throws the beans out the window . . .” "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is a lot of fun,",
+                "bold": true
+              },
+              {
+                "text": " and at the end of the exercise, you have a pretty decent one-page skeleton of your novel, which we’ll call a short synopsis or a one-page synopsis. It’s okay if you can’t get it all onto one single-spaced page. What matters is that you are growing the ideas that will go into your story. You are expanding the conflict. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It's also okay ",
+                "bold": true
+              },
+              {
+                "text": "if you can do your one-page synopsis quicker than the \"several hours\" I recommended above. But you don't want this to drag out for days or weeks. Write it fast, and remember that you can always come back and make it better later when you understand your story better. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Eventually, you might expand this ",
+                "bold": true
+              },
+              {
+                "text": "into a synopsis suitable for a proposal, or you may find that this is all the synopsis you need. You can decide that question later. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details ",
+                "bold": true
+              },
+              {
+                "text": "on the one-page synopsis, see Chapter 7, \"Your Story in One Page,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1,
+          2
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628615548204,
+        "templates": [],
+        "imageId": null,
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -1505,16 +2755,7 @@
             ]
           }
         ],
-        "tags": [
-          1,
-          2
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602117939590,
-        "templates": [],
-        "imageId": null,
-        "bookIds": []
+        "categoryId": "4"
       },
       {
         "id": 10,
@@ -1560,10 +2801,46 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117932206,
+        "lastEdited": 1628615571165,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Edit this Note ",
+                "bold": true
+              },
+              {
+                "text": "to write your one-page synopsis. Give yourself a three-hour time limit and write the best one you can come up with now. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Don't worry if it's not perfect.",
+                "bold": true
+              },
+              {
+                "text": " You can always come back and do another version later. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "<Erase this part and replace it with your one-page summary here. You might want to just cut and paste your one-paragraph summary from Step 2 into this form and then expand each of the five sentences into a paragraph.>",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "categoryId": "4"
       },
       {
         "id": 11,
@@ -1636,10 +2913,73 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117925664,
+        "lastEdited": 1628615595009,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take a day or two ",
+                "bold": true
+              },
+              {
+                "text": "and write up a one-page description of each major character and a half-page description of the other important characters. These “character synopses” should tell the story from the point of view of each character. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As always",
+                "bold": true
+              },
+              {
+                "text": ", feel free to cycle back to the earlier steps and make revisions as you learn cool stuff about your characters. I usually enjoy this step the most. I find it effective to put the resulting “character synopses” into my proposals in addition to a plot-based synopsis. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Editors love ",
+                "bold": true
+              },
+              {
+                "text": "character synopses, because editors love character-based fiction. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details",
+                "bold": true
+              },
+              {
+                "text": " on the character synopses, see Chapter 8, \"Your People's Secret Stories,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "5"
       },
       {
         "id": 12,
@@ -1731,10 +3071,92 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117919896,
+        "lastEdited": 1628615611718,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In Step 3,",
+                "bold": true
+              },
+              {
+                "text": " you already began defining your Characters by filling in the "
+              },
+              {
+                "text": "Snowflake Method Character Template ",
+                "bold": true
+              },
+              {
+                "text": "for each of your main characters. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "However",
+                "bold": true
+              },
+              {
+                "text": ", you didn't fill in everything yet. You only filled in the character's Name, Role, Storygoal, Ambition, Values, One-Sentence Summary, and One-Paragraph Summary. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "There's a lot more ",
+                "bold": true
+              },
+              {
+                "text": "to your Characters than that! "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now I strongly recommend",
+                "bold": true
+              },
+              {
+                "text": " you take some time to think more about each character and write up a synopsis of that Character's storyline as if they were the Hero of the story. Just tell the story as that Character sees the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "There is a Character Synopsis ",
+                "bold": true
+              },
+              {
+                "text": "attribute in the Snowflake Method Character Template. Fill it in. Take as much space as you need."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "And",
+                "bold": true
+              },
+              {
+                "text": " have fun!"
+              }
+            ]
+          }
+        ],
+        "categoryId": "5"
       },
       {
         "id": 13,
@@ -1807,10 +3229,73 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117908408,
+        "lastEdited": 1628615644096,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "By now, you have a solid story",
+                "bold": true
+              },
+              {
+                "text": " and several story-threads, one for each Character. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now take a week",
+                "bold": true
+              },
+              {
+                "text": " and expand the one-page synopsis of the novel to a long synopsis of about four pages. Basically, you will again be expanding each paragraph from Step 4 into a full page. This is a lot of fun, because you are figuring out the high-level logic of the story and making strategic decisions. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Here, you will definitely want to cycle back ",
+                "bold": true
+              },
+              {
+                "text": "and fix things in the earlier steps as you gain insight into the story and new ideas whack you in the face. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details ",
+                "bold": true
+              },
+              {
+                "text": "on the long synopsis, see Chapter 11, \"Your Long Synopsis,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "6"
       },
       {
         "id": 14,
@@ -1856,15 +3341,123 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117896811,
+        "lastEdited": 1628615662396,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Edit this Note ",
+                "bold": true
+              },
+              {
+                "text": "to write your long synopsis. Give yourself a one-week time limit and write the best one you can come up with now. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Don't worry if it's not perfect",
+                "bold": true
+              },
+              {
+                "text": ". You can always come back and do another version later. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "<Erase this part and replace it with your long summary here. You might want to just cut and paste your one-page synopsis from Step 4 into this form and then expand each of the five paragraphs into a full page.>",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "categoryId": "6"
       },
       {
         "id": 15,
         "title": "Step 7: Explanation of Your Character Charts",
         "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take another week ",
+                "bold": true
+              },
+              {
+                "text": "and expand your Character definitions into full-fledged Character charts detailing everything there is to know about each character. Some writers call this the Character “bible.” You’ll want to include the standard stuff such as birthdate, description, history, motivation, goal, etc. Most importantly, how will this character change by the end of the novel? "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This step ",
+                "bold": true
+              },
+              {
+                "text": "is an expansion of your work in Steps 3 and 5, and it will teach you a lot about your Characters. You will probably go back and revise Steps 1 through 6 as your Characters become “real” to you and begin making petulant demands on the story. This is good — great fiction is Character-driven. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Take as much time ",
+                "bold": true
+              },
+              {
+                "text": "as you need to do this because you’re just saving time downstream. When you have finished this process, (and it may take a full month of solid effort to get here), you should know your characters inside out. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details",
+                "bold": true
+              },
+              {
+                "text": " on Character charts, see Chapter 12, \"Your Character Bible,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "tags": [
+          1,
+          3
+        ],
+        "characters": [],
+        "places": [],
+        "lastEdited": 1628615699852,
+        "templates": [],
+        "imageId": null,
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -1926,21 +3519,115 @@
             ]
           }
         ],
+        "categoryId": "7"
+      },
+      {
+        "id": 16,
+        "title": "Step 7: Where to Write Your Character Charts",
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In Steps 3 and 5",
+                "bold": true
+              },
+              {
+                "text": ", you already began defining your Characters by filling in the "
+              },
+              {
+                "text": "Snowflake Method Character Template ",
+                "bold": true
+              },
+              {
+                "text": "for each of your Main Characters. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "However",
+                "bold": true
+              },
+              {
+                "text": ", you didn't fill in everything yet. You only filled in the Character's Name, Role, Storygoal, Ambition, Values, One-Sentence Summary, One-Paragraph Summary, and the Character Synopsis. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "There's much more",
+                "bold": true
+              },
+              {
+                "text": " to your Characters than that! "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Snowflake Method Character Template",
+                "bold": true
+              },
+              {
+                "text": " has some basic attributes defined for things like Date of Birth, Age, Height, Weight, and a number of other obvious ones. If you don't care about these, you can actually delete them from the template. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "More importantly",
+                "bold": true
+              },
+              {
+                "text": ", you can add custom attributes. You can make your own Character template that has exactly the things you care about. Go ahead and do that first, and then fill in the charts for each Character."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Always remember",
+                "bold": true
+              },
+              {
+                "text": " that these charts are for your benefit, to help you think deeply about your Characters. Don't fill them in just because they're there. Fill them in only if they help you get a clear understanding of your Characters."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "And have fun",
+                "bold": true
+              },
+              {
+                "text": ", always!"
+              }
+            ]
+          }
+        ],
         "tags": [
           1,
           3
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117887737,
+        "lastEdited": 1628615790395,
         "templates": [],
         "imageId": null,
-        "bookIds": []
-      },
-      {
-        "id": 16,
-        "title": "Step 7: Where to Write Your Character Charts",
-        "content": [
+        "bookIds": [],
+        "description": [
           {
             "type": "paragraph",
             "children": [
@@ -2033,16 +3720,7 @@
             ]
           }
         ],
-        "tags": [
-          1,
-          3
-        ],
-        "characters": [],
-        "places": [],
-        "lastEdited": 1602117880024,
-        "templates": [],
-        "imageId": null,
-        "bookIds": []
+        "categoryId": "7"
       },
       {
         "id": 17,
@@ -2127,10 +3805,85 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117867089,
+        "lastEdited": 1628615929344,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your next step ",
+                "bold": true
+              },
+              {
+                "text": "is to take either your long synopsis or your short synopsis (or any other synopsis you may have made) and make a list of all the scenes that you’ll need to turn the story into a novel. All you need is one sentence that tells what happens in each scene. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Every scene ",
+                "bold": true
+              },
+              {
+                "text": "should have a \"Point of View\" Character. You can set up a Timeline for each of your POV Characters. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For our purposes,",
+                "bold": true
+              },
+              {
+                "text": " every Chapter in the Timeline should be a single scene in your story. (Ultimately, when you write your novel, you'll cluster your scenes into chapters, but you can make that decision very late in your story development. For right now, just consider each Chapter as a single scene.)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It can take a week",
+                "bold": true
+              },
+              {
+                "text": " to make a good scene list. In Step 8, you only need to write up a single sentence for each scene, telling what happens. (Later in Step 9, you can flesh this out with more details.)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want more details",
+                "bold": true
+              },
+              {
+                "text": " on scene lists, see Chapter 14, \"Your List of Scenes,\" in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "8"
       },
       {
         "id": 18,
@@ -2239,10 +3992,109 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117861170,
+        "lastEdited": 1628616012655,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Click on the Timeline menu entry ",
+                "bold": true
+              },
+              {
+                "text": "in the menubar at the top of this window."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "That will show",
+                "bold": true
+              },
+              {
+                "text": " you your Timeline, where you can fill in scenes and move them around."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This template",
+                "bold": true
+              },
+              {
+                "text": " contains one pre-made Timeline named \"Three Disaster Structure.\" "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "That just provides",
+                "bold": true
+              },
+              {
+                "text": " you with the boundary points that mark off the three main disasters in the story. These happen approximately at the 25%, 50%, and 75% marks in your story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you know",
+                "bold": true
+              },
+              {
+                "text": " the Three-Act Structure, then the first Disaster comes at the end of Act 1. The second Disaster comes in the middle of Act 2. The third Disaster comes at the end of Act 2. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "These three Disasters",
+                "bold": true
+              },
+              {
+                "text": " mark major turning points in your story. The first Disaster commits your lead Character irrevocably to the story. The second Disaster causes your lead Character to rethink what isn't working and to choose a new approach that will actually work. The third Disaster causes your lead Character (and the villain, if you have one) to BOTH commit to end the story in some sort of final showdown. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want to know more ",
+                "bold": true
+              },
+              {
+                "text": "about the Three-Disaster Structure, see chapters 5, 9, and 13 in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "8"
       },
       {
         "id": 19,
@@ -2409,10 +4261,167 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117851185,
+        "lastEdited": 1628616062005,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You may want to make ",
+                "bold": true
+              },
+              {
+                "text": "some extra notes about each of the scenes in the scene list that you created in Step 8. You can select any scene from the list here. If necessary, you can change the Point-of-View character and edit the summary of the scene. Then you can add any extra notes that you want to remember for the scene. You might want to write notes on the setting, characters, cool dialogue, or anything else related to your scene. Write as many notes as you need to. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scenes generally",
+                "bold": true
+              },
+              {
+                "text": " fall into two types, and you may want to classify each scene as one of these types and make notes on the various parts: "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A Proactive Scene ",
+                "bold": true
+              },
+              {
+                "text": "has the following pattern: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Goal "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Conflict "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Setback "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A Reactive Scene",
+                "bold": true
+              },
+              {
+                "text": " has the following pattern: "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reaction "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dilemma "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decision "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The structure of scenes",
+                "bold": true
+              },
+              {
+                "text": " is very important, because the scene is the fundamental unit of fiction. If you’d like a quick survey on scene structure, see chapter 17 of my book in my book "
+              },
+              {
+                "type": "link",
+                "url": "#",
+                "children": [
+                  {
+                    "text": "How to Write a Novel Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you want to become an expert",
+                "bold": true
+              },
+              {
+                "text": " in scene structure, I've written a whole book that goes into great detail on exactly how scenes work, with lots of examples. So check out my best-selling book "
+              },
+              {
+                "type": "link",
+                "url": "https://www.advancedfictionwriting.com/books/write-dynamite-scene-using-snowflake-method/",
+                "children": [
+                  {
+                    "text": "How to Write a Dynamite Scene Using the Snowflake Method"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "categoryId": "9"
       },
       {
         "id": 20,
@@ -2485,10 +4494,73 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117843621,
+        "lastEdited": 1628616089440,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In step 8,",
+                "bold": true
+              },
+              {
+                "text": " you already made your scene list using the Timeline tool."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now you can return",
+                "bold": true
+              },
+              {
+                "text": " to your Timeline and edit each scene card with all the details you need. I personally like to put in info on whether the scene is Proactive or Reactive, and then write a short sentence describing the Goal, the Conflict, and the Setback (if it's a Proactive Scene) or the Reaction, the Dilemma, and the Decision (if it's a Reactive Scene). "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If the scene",
+                "bold": true
+              },
+              {
+                "text": " is neither a Proactive Scene nor a Reactive Scene, then you should think very hard about whether this scene is pulling its own weight. Why is this scene in your story? What does it do for your story? Is it advancing the conflict? If not, maybe you don't need the scene, or you can revise it to be either Proactive or Reactive, or you can combine it with some other scene that contributes to the conflict. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Of course",
+                "bold": true
+              },
+              {
+                "text": ", you can do whatever you want, but when a scene is neither Proactive nor Reactive, that's a big red flag. Proceed with caution."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Have fun! ",
+                "bold": true
+              },
+              {
+                "text": "Always have fun. Writing should be fun."
+              }
+            ]
+          }
+        ],
+        "categoryId": "9"
       },
       {
         "id": 21,
@@ -2560,12 +4632,170 @@
         ],
         "characters": [],
         "places": [],
-        "lastEdited": 1602117833125,
+        "lastEdited": 1628616108280,
         "templates": [],
         "imageId": null,
-        "bookIds": []
+        "bookIds": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you've completed",
+                "bold": true
+              },
+              {
+                "text": " all the first 9 steps of the Snowflake Method, you now have a well-balanced strategic plan to write your novel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You can now export",
+                "bold": true
+              },
+              {
+                "text": " this Plottr project to a Microsoft Word document or a Scrivener document, and that'll give you a place to start writing. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now that ",
+                "bold": true
+              },
+              {
+                "text": "you have a plan for your novel, you can write each scene with confidence. You know it's in the right place. You know it serves the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write fast ",
+                "bold": true
+              },
+              {
+                "text": "and write well."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "And",
+                "bold": true
+              },
+              {
+                "text": " have fun!"
+              }
+            ]
+          }
+        ],
+        "categoryId": "10"
       }
     ],
+    "categories": {
+      "characters": [
+        {
+          "id": 1,
+          "name": "Main",
+          "position": 0
+        },
+        {
+          "id": 2,
+          "name": "Supporting",
+          "position": 1
+        },
+        {
+          "id": 3,
+          "name": "Other",
+          "position": 2
+        }
+      ],
+      "places": [],
+      "notes": [
+        {
+          "id": 11,
+          "name": "Intro",
+          "position": 0,
+          "type": "text"
+        },
+        {
+          "id": 1,
+          "name": "Step 1",
+          "position": 1,
+          "type": "text"
+        },
+        {
+          "id": 2,
+          "name": "Step 2",
+          "position": 2,
+          "type": "text"
+        },
+        {
+          "id": 3,
+          "name": "Step 3",
+          "position": 3,
+          "type": "text"
+        },
+        {
+          "id": 4,
+          "name": "Step 4",
+          "position": 4,
+          "type": "text"
+        },
+        {
+          "id": 5,
+          "name": "Step 5",
+          "position": 5,
+          "type": "text"
+        },
+        {
+          "id": 6,
+          "name": "Step 6",
+          "position": 6,
+          "type": "text"
+        },
+        {
+          "id": 7,
+          "name": "Step 7",
+          "position": 7,
+          "type": "text"
+        },
+        {
+          "id": 8,
+          "name": "Step 8",
+          "position": 8,
+          "type": "text"
+        },
+        {
+          "id": 9,
+          "name": "Step 9",
+          "position": 9,
+          "type": "text"
+        },
+        {
+          "id": 10,
+          "name": "Step 10",
+          "position": 10,
+          "type": "text"
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "Main",
+          "position": 0
+        }
+      ]
+    },
     "images": {
       "2": {
         "id": 2,
@@ -2599,9 +4829,8 @@
       }
     }
   },
-  "initialVersion": "2021.2.22",
+  "initialVersion": "2021.7.8",
   "appliedMigrations": [
-    "m2021_4_13",
-    "m2021_6_9"
+    "m2021_8_1"
   ]
 }
