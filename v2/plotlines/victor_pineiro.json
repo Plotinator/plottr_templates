@@ -3,14 +3,11 @@
   "type": "plotlines",
   "name": "Piñeiro Screenplay Method",
   "description": "A formula for writing films based on ideas by Victor Piñeiro",
-  "version": "2021.8.27",
+  "version": "2021.10.15",
   "categories": [
     "screenplay"
   ],
   "link": "https://byrslf.co/how-to-write-a-screenplay-or-tell-a-better-story-e91b3a2f9bfb",
-  "extraLinks": [
-    "https://www.slideshare.net/purewest/how-to-write-a-screenplay-or-tell-a-better-story"
-  ],
   "templateData": {
     "cards": [
       {
@@ -1419,6 +1416,30 @@
           "14": {
             "id": 14,
             "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "15": [],
+          "null": [
+            15
+          ]
+        },
+        "heap": {
+          "15": null
+        },
+        "index": {
+          "15": {
+            "id": 15,
+            "bookId": "series",
             "position": 0,
             "title": "auto",
             "time": 0,

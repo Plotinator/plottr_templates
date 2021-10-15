@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Freytag's Pyramid",
   "description": "A classic story structure for writing dramatic plays ",
-  "version": "2021.8.27",
+  "version": "2021.10.15",
   "categories": [
     "general",
     "playwriting"
@@ -975,6 +975,30 @@
             "position": 6,
             "time": 0,
             "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           }
         }
       }

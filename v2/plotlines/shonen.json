@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Shonen Battle Manga Formula",
   "description": "A story structure for Shonen Manga",
-  "version": "2021.7.8",
+  "version": "2021.10.15",
   "categories": [
     "manga"
   ],
@@ -520,6 +520,30 @@
           "10": {
             "id": 10,
             "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "11": [],
+          "null": [
+            11
+          ]
+        },
+        "heap": {
+          "11": null
+        },
+        "index": {
+          "11": {
+            "id": 11,
+            "bookId": "series",
             "position": 0,
             "title": "auto",
             "time": 0,
