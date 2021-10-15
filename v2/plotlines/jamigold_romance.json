@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Romance Beat Sheet",
   "description": "A beat sheet for romance novels developed by Jami Gold",
-  "version": "2021.8.12",
+  "version": "2021.10.15",
   "categories": [
     "romance"
   ],
@@ -1012,6 +1012,30 @@
           "11": {
             "id": 11,
             "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "12": [],
+          "null": [
+            12
+          ]
+        },
+        "heap": {
+          "12": null
+        },
+        "index": {
+          "12": {
+            "id": 12,
+            "bookId": "series",
             "position": 0,
             "title": "auto",
             "time": 0,

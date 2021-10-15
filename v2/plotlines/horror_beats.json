@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Horror Beat Sheet",
   "description": "A beat sheet for horror novels and films by T.L. Bodine",
-  "version": "2021.8.26",
+  "version": "2021.10.15",
   "categories": [
     "horror"
   ],
@@ -1975,6 +1975,30 @@
             "position": 14,
             "time": 0,
             "title": "auto",
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "17": [],
+          "null": [
+            17
+          ]
+        },
+        "heap": {
+          "17": null
+        },
+        "index": {
+          "17": {
+            "id": 17,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
             "expanded": true
           }
         }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2021.8.27",
+  "version": "2021.10.15",
   "categories": [
     "general"
   ],
@@ -395,6 +395,30 @@
             "id": 8,
             "bookId": 1,
             "position": 7,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
             "title": "auto",
             "time": 0,
             "templates": [],

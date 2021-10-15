@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Three Story Method",
   "description": "Based on the book Three Story Method by J. Thorn",
-  "version": "2021.8.11",
+  "version": "2021.10.15",
   "categories": [
     "general"
   ],
@@ -2630,6 +2630,30 @@
             "id": 12,
             "bookId": 1,
             "position": 11,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "13": [],
+          "null": [
+            13
+          ]
+        },
+        "heap": {
+          "13": null
+        },
+        "index": {
+          "13": {
+            "id": 13,
+            "bookId": "series",
+            "position": 0,
             "title": "auto",
             "time": 0,
             "templates": [],

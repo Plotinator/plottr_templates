@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Lester Dent Master Plot Formula",
   "description": "The classic short story formula for pulp fiction by Lester Dent",
-  "version": "2021.8.26",
+  "version": "2021.10.15",
   "categories": [
     "action",
     "shortstory"
@@ -611,6 +611,30 @@
             "position": 1,
             "time": 0,
             "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           }
         }
       }

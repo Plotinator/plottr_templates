@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Villain's Journey",
   "description": "An outline formula for writing villains based on the classic Hero's Journey",
-  "version": "2021.8.26",
+  "version": "2021.10.15",
   "categories": [
     "general"
   ],
@@ -988,6 +988,30 @@
             "position": 7,
             "time": 0,
             "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "10": [],
+          "null": [
+            10
+          ]
+        },
+        "heap": {
+          "10": null
+        },
+        "index": {
+          "10": {
+            "id": 10,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           }
         }
       }
