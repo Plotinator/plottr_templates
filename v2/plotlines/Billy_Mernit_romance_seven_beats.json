@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Seven Romantic Comedy Beats",
   "description": "An outline formula for romantic comedy based on ideas by Billy Mernit",
-  "version": "2021.8.27",
+  "version": "2021.10.15",
   "categories": [
     "romance",
     "comedy"
@@ -811,6 +811,30 @@
           "7": {
             "id": 7,
             "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "8": [],
+          "null": [
+            8
+          ]
+        },
+        "heap": {
+          "8": null
+        },
+        "index": {
+          "8": {
+            "id": 8,
+            "bookId": "series",
             "position": 0,
             "title": "auto",
             "time": 0,

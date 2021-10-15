@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Cozy Mystery Beat Sheet",
   "description": "A beat sheet for cozy mysteries by Sara Rosett",
-  "version": "2021.8.26",
+  "version": "2021.10.15",
   "categories": [
     "mystery"
   ],
@@ -2684,6 +2684,30 @@
             "position": 19,
             "time": 0,
             "title": "auto",
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "22": [],
+          "null": [
+            22
+          ]
+        },
+        "heap": {
+          "22": null
+        },
+        "index": {
+          "22": {
+            "id": 22,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
             "expanded": true
           }
         }

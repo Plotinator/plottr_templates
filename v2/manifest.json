@@ -1,9 +1,9 @@
 {
-  "version": "2021.8.27",
+  "version": "2021.10.15",
   "templates": [
     {
       "id": "proj1",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/project/snowflake.json"
     },
     {
@@ -43,82 +43,82 @@
     },
     {
       "id": "pl1",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/7_point_plot_structure.json"
     },
     {
       "id": "pl2",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/8_sequences_method.json"
     },
     {
       "id": "pl3",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
       "id": "pl4",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/action_adventure_plot.json"
     },
     {
       "id": "pl5",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/Billy_Mernit_romance_seven_beats.json"
     },
     {
       "id": "pl7",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/story_circle.json"
     },
     {
       "id": "pl8",
-      "version": "2021.8.12",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/jamigold_romance.json"
     },
     {
       "id": "pl9",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/take_off_pants.json"
     },
     {
       "id": "pl10",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/heros_journey.json"
     },
     {
       "id": "pl11",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/six_stage.json"
     },
     {
       "id": "pl13",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/victor_pineiro.json"
     },
     {
       "id": "pl14",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/w_plot.json"
     },
     {
       "id": "pl15",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/romancing_beat.json"
     },
     {
       "id": "pl16",
-      "version": "2021.8.11",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/three_story_method.json"
     },
     {
       "id": "pl17",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/snowflake.json"
     },
     {
       "id": "pl18",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/cozy_mystery.json"
     },
     {
@@ -128,42 +128,42 @@
     },
     {
       "id": "pl20",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/horror_beats.json"
     },
     {
       "id": "pl21",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/fichtean_curve.json"
     },
     {
       "id": "pl22",
-      "version": "2021.8.27",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/freytags_pyramid.json"
     },
     {
       "id": "pl23",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/in_media_res.json"
     },
     {
       "id": "pl24",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/villians_journey.json"
     },
     {
       "id": "pl25",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/lester_dent.json"
     },
     {
       "id": "pl26",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/foolproof.json"
     },
     {
       "id": "pl27",
-      "version": "2021.8.26",
+      "version": "2021.10.15",
       "url": "/v2/plotlines/propp_folktale.json"
     },
     {

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Foolproof Pulp Formula",
   "description": "An outline formula for writing pulp short stories by Nelson Bond",
-  "version": "2021.8.26",
+  "version": "2021.10.15",
   "categories": [
     "action",
     "shortstory"
@@ -655,6 +655,30 @@
             "position": 4,
             "time": 0,
             "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "7": [],
+          "null": [
+            7
+          ]
+        },
+        "heap": {
+          "7": null
+        },
+        "index": {
+          "7": {
+            "id": 7,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           }
         }
       }

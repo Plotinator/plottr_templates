@@ -618,6 +618,30 @@
             "expanded": true
           }
         }
+      },
+      "series": {
+        "children": {
+          "15": [],
+          "null": [
+            15
+          ]
+        },
+        "heap": {
+          "15": null
+        },
+        "index": {
+          "15": {
+            "id": 15,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
     },
     "lines": [

@@ -3,17 +3,12 @@
   "type": "plotlines",
   "name": "W Plot",
   "description": "A five point story structure for novelists and screenwriters",
-  "version": "2021.8.11",
+  "version": "2021.10.15",
   "categories": [
     "general",
     "screenplay"
   ],
   "link": "https://www.youtube.com/watch?v=pMhLvMJ_r0Y",
-  "extraLinks": [
-    "https://www.how-to-write-a-book-now.com/w-plot.html",
-    "https://www.zarawestsuspense.com/w-plot-your-scene/",
-    "http://www.karendocter.com/workshop/"
-  ],
   "templateData": {
     "cards": [
       {
@@ -605,6 +600,30 @@
             "position": 4,
             "time": 0,
             "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "7": [],
+          "null": [
+            7
+          ]
+        },
+        "heap": {
+          "7": null
+        },
+        "index": {
+          "7": {
+            "id": 7,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           }
         }
       }
