@@ -1,0 +1,3728 @@
+{
+  "id": "pl29",
+  "type": "plotlines",
+  "name": "Sleuth's Journey",
+  "description": "A mystery novel formula by Troy Lambert, based on the classic Hero's Journey",
+  "version": "2022.1.19",
+  "link": "https://www.youtube.com/watch?v=zCWjP2q1x-k",
+  "categories": ["Mystery"],
+  "templateData": {
+    "cards": [
+      {
+        "bookId": null,
+        "title": "The Impossible Solution",
+        "lineId": 10,
+        "templates": [],
+        "color": null,
+        "fromTemplateId": null,
+        "imageId": null,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "While the true motive is now clear, there are still issues the Sleuth must face, and the solution seems to be difficult, if not impossible. Attempts to solve the crime have stymied the Sleuth. Misinterpretation of clues or mistaken conclusions have led them in the wrong direction. While some clues are starting to fall into place, others assumed to be valuable thus far are now meaningless, and logic must be applied to force a new way of grasping an understanding of the uncertainties. This beat is a bit of a roller coaster, as the Sleuth reveals the results of the investigation. The reader, as well as the Sleuth and other characters, are given an opportunity to review what is known and assess the possibilities."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Use this section to re-confirm the danger and urgency of solving the case – it is also a good time to remind the reader of the central dramatic event/question which started the Sleuth on their journey."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The danger faced by the Sleuth may act as a turning point, creating an unexpected turn in the story."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the Wrong Turn occurs around the 75% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionWithinLine": 0,
+        "beatId": 11,
+        "tags": [],
+        "places": [],
+        "id": 220,
+        "characters": []
+      },
+      {
+        "title": "The Sleuth Has Answers",
+        "imageId": null,
+        "places": [],
+        "id": 219,
+        "templates": [],
+        "lineId": 10,
+        "beatId": 13,
+        "fromTemplateId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is a short beat where the Sleuth takes what they have learned in the last two beats, weighs the evidence and information they have been given, and now look to prove the conclusion they've already come to. The reader may not know what is going on exactly, but they will have a hint as to what the Sleuth assumes and why they assume it. However, they don't know the answer for sure and have no idea how the Sleuth will get the proof they need. Based on what only they now know, the Sleuth must seek positive proof to back up the yet undisclosed conclusion."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Sleuth weigh the evidence and information gleaned from the other characters."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Be sure that at this point, the reader generally does not know the answer. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Resurrection occurs around the 80-85% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "color": null,
+        "tags": []
+      },
+      {
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 1:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is an optional beat, but one in which the Sleuth meets a new partner, their sidekick for this story. This person, although often their polar opposite, gives them the confidence and tools they need to succeed. The partner must get the Sleuth over their previous objections, which often takes the form of a (not so) gentle nudge. The partner, for example, can be someone with youth or experience, someone with technical expertise who can provide tools and specialized equipment, or someone sent to either train the Sleuth or keep an eye on them and keep them in line."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identify how the partner will interact with the Sleuth."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Sleuth gaining confidence in the partner because of something impressive they do to help them."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Illustrate how the partner changes their perspective, helping propel them toward the new case."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create an awe-inspiring moment between the two of them."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The New Partner occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "The New Partner",
+        "beatId": 17,
+        "places": [],
+        "fromTemplateId": null,
+        "templates": [],
+        "positionInBeat": 0,
+        "id": 218,
+        "color": null,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "tags": [],
+        "lineId": 10
+      },
+      {
+        "positionInChapter": null,
+        "beatId": 1,
+        "imageId": null,
+        "position": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the world the Sleuth lives in. It can be action-packed. Think of James Bond movies or the intro to John Wick, or the intro to other thrillers."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create the setting: Where does the story take place? What time period is the story set in? Be sure to give the reader a sense of place. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the character and reveal their job (private eye, cop, photographer, novelist, etc.)"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop a three-dimensional character with flaws, desires, problems, and a unique personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Showcase the Sleuth's comfort with their everyday life and activities."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at something that displeases them about their life/world (e.g. a problem or a dramatic event/question that bothers the Sleuth and must be solved)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If this is a series, these elements are reintroduced for readers new to the series. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Sleuth's Ordinary World should take approximately 0-10% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "title": "The Sleuth's Ordinary World",
+        "bookId": 1,
+        "places": [],
+        "tags": [],
+        "fromTemplateId": null,
+        "seriesLineId": null,
+        "templates": [],
+        "lineId": 10,
+        "id": 10,
+        "characters": [],
+        "positionWithinLine": 0
+      },
+      {
+        "seriesLineId": null,
+        "fromTemplateId": null,
+        "beatId": 2,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sleuth learns of the crime, and their Ordinary World is disrupted, because: "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "They are hired to solve the crime."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "They are assigned the case."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "They are somehow drawn into the investigation. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "This should include one clue that the Sleuth receives that will play a role later in the mystery."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Remember, in the case of an amateur sleuth, they must have a Motive to get involved in the case, and officials like police and others must also have a Motive for involving them, unless that is part of the conflict, and they are working contrary to officials involved. This may mean a slow burn in the early section of the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Sleuth's World Disrupted occurs around the 12% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionInChapter": null,
+        "templates": [],
+        "characters": [],
+        "tags": [],
+        "id": 20,
+        "title": "The Sleuth's World Disrupted",
+        "places": [],
+        "positionWithinLine": 0,
+        "position": 0,
+        "lineId": 10,
+        "imageId": null,
+        "bookId": 1
+      },
+      {
+        "characters": [],
+        "bookId": 1,
+        "fromTemplateId": null,
+        "title": "Reluctance to Take the Case",
+        "positionWithinLine": 0,
+        "templates": [],
+        "tags": [],
+        "positionInChapter": null,
+        "beatId": 3,
+        "imageId": null,
+        "lineId": 10,
+        "id": 30,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "-- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The amateur Sleuth feels pulled to investigate, but doesn’t feel qualified or want to dive into the investigation. If the Sleuth is a detective, the refusal of the call"
+              },
+              {
+                "text": " ",
+                "bold": true
+              },
+              {
+                "text": "occurs when they don’t want the case or fear they won’t be given the case. Often, the refusal of the call is not the decision of the Sleuth, but of their superiors or those around them. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Sleuth hesitate or try to refuse the case (e.g. I'm retiring, I'm too old, I don't need a partner, I have enough work already, I am not qualified to investigate this kind of case) – and realize that more than one type of pressure may be necessary to persuade our Sleuth. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Raise the stakes after each time the Sleuth refuses."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Include the Sleuth's emotional response to the refusal – are they feeling guilty, angry, annoyed? This helps show their motivations and builds their character."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Force the Sleuth to take the case with an inciting incident that can no longer be ignored: command from their captain, events that involve them directly in the case, etc. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Refusal of the Call occurs around the 15% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "seriesLineId": null,
+        "position": 0
+      },
+      {
+        "positionInChapter": null,
+        "templates": [],
+        "title": "Set the Sleuth on the Path",
+        "beatId": 4,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 1:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Set the Sleuth on the path toward solving the mystery. Offer plausible suspects, all of whom appear to have had motive, means, and opportunity to commit the crime. Select the most likely suspects, and have the Sleuth question them. One of these suspects will turn out to be the actual perpetrator."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At the approximate end of Act 1, something should occur which makes it clear to the reader that the crime is more complicated than originally thought. Hints may be given to allow the reader to actually see possibilities not yet known to the Sleuth."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Answer the question: what causes the Sleuth to become more interested in the case? A bonus for a P.I.? An assignment from their boss? Perhaps something personal that draws the Sleuth in?"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Sleuth beginning to embrace the investigation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make it clear what the case is about, at least as far as our Sleuth knows so far."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure the Sleuth's character is well developed and that they respond in a way that aligns with their character. Usually, a detective or investigator becomes very determined at this point in the story. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Set the Sleuth on the Path occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "characters": [],
+        "fromTemplateId": null,
+        "lineId": 10,
+        "imageId": null,
+        "bookId": 1,
+        "positionWithinLine": 0,
+        "tags": [],
+        "id": 40,
+        "seriesLineId": null,
+        "places": [],
+        "position": 0
+      },
+      {
+        "lineId": 10,
+        "id": 50,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "tags": [],
+        "position": 0,
+        "bookId": 1,
+        "fromTemplateId": null,
+        "places": [],
+        "title": "The First Erroneous Conclusion (Try/Fail)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Direct the investigation toward a conclusion that later proves to be erroneous. Usually, this conclusion and its failure do provide the Sleuth with some new information that sets them on the path to the correct answer, or at least the next try/fail. This is a good place for a clue the Sleuth does not realize is important but pays off later. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce a challenge to showcase how dangerous this case is."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make the Sleuth doubt their ability to solve the case."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce dependence on the new partner to provide unique skills."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the relationship between the Sleuth and the partner either gets better or worse."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Someone may die here, and that often provides the clue that the Sleuth uses later on. Not all relationships are what they seem, and we can see hints of that happening here. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This is an opportunity to add more characters to the story, including a rival detective team, old friends, and even potential suspects.  "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Plan the character development of the supporting characters to ensure they are strong as well. What are their goals, motivations, and strategies? They may not always align with those of the Sleuth."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The First Erroneous Conclusion occurs around the 25-30% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "characters": [],
+        "positionInChapter": null,
+        "seriesLineId": null,
+        "beatId": 5
+      },
+      {
+        "tags": [],
+        "characters": [],
+        "fromTemplateId": null,
+        "seriesLineId": null,
+        "id": 60,
+        "lineId": 10,
+        "places": [],
+        "templates": [],
+        "bookId": 1,
+        "beatId": 6,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the first erroneous conclusion, our Sleuth will double down on investigations. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal facts about suspects through interrogations and the discovery of clues."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce the flight or disappearance of one or more suspect(s)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Develop a sense of urgency and increase tension here. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is a great place to take those characters just introduced and let the reader learn more about them. Add suspicion to one or more of them, providing the Sleuth with some false leads to follow, mixed with some meaningful clues. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is also where the first try/fail in the B-Story happens (if you have one)."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Facts about Suspects occurs around the 35% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "Facts About Suspects",
+        "position": 0,
+        "imageId": null
+      },
+      {
+        "title": "Broaden the Investigation",
+        "characters": [],
+        "seriesLineId": null,
+        "id": 70,
+        "templates": [],
+        "lineId": 10,
+        "position": 0,
+        "imageId": null,
+        "beatId": 7,
+        "positionInChapter": null,
+        "positionWithinLine": 0,
+        "bookId": 1,
+        "fromTemplateId": null,
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist and (most) Allies have survived the previous tests and journey into the Unknown World and can pause for a moment. If they have been hit by setbacks during the tests, this is an opportunity for them to regroup and create their plan for the final confrontation by gathering tools, preparing plans, or cutting down the enemy's ranks. It may also be a good place for a morale booster or a visit from the Mentor to reconfirm the Protagonist's faith in their abilities. By the end of this section, the Protagonist should be entirely separated from the Ordinary World and have survived an event that reconfirms their commitment to the quest. Information gathered through interviews or the discovery of physical evidence, should point toward the solution, although the relevance may not yet be apparent."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Broaden the investigation to put suspicion on other characters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow the Sleuth or perhaps the partner to make a plan that could potentially solve the case."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show that the Sleuth feels confident about coming to a solution, even if they are wrong."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Broaden the Investigation occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "tags": []
+      },
+      {
+        "bookId": 1,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Through the subplot and other relationships, we start to learn more about the Sleuth and their background. This establishes what drives them, haunts them, or may be missing in their life. This is a breather for the reader from the action, although there can be some personal action in this scene. It happens right before the midpoint of the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Make it clear that the Sleuth has a personal stake in the outcome, either because of threat to their life, or the possibility of revelation of matters deeply disturbing to the Sleuth on an emotional level."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Highlight both strengths (e.g. drive and determination) and weaknesses (e.g lack of personal connections, poor relationships, drinking, drugs, or another kind of obsession). This weakness should play into their struggles to solve the case. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow the Sleuth to empathize with the victim or their family, this time related to their own deep-seated issues. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Sleuth's Background occurs around the 45% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "characters": [],
+        "tags": [],
+        "lineId": 10,
+        "positionWithinLine": 0,
+        "title": "The Sleuth's Background",
+        "places": [],
+        "seriesLineId": null,
+        "imageId": null,
+        "beatId": 8,
+        "templates": [],
+        "positionInChapter": null,
+        "fromTemplateId": null,
+        "id": 80,
+        "position": 0
+      },
+      {
+        "id": 90,
+        "seriesLineId": null,
+        "tags": [],
+        "beatId": 9,
+        "position": 0,
+        "bookId": 1,
+        "positionWithinLine": 0,
+        "lineId": 10,
+        "imageId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once the Sleuth has a plan and a personal reason to solve the case, they must face their biggest test, which leads them to their darkest moment. They have been on the wrong track, and tragic events make that obvious. There may be the appearance of a second body, the death of a major suspect, or the discovery of evidence that rules out the most likely suspect. Either way, the mystery takes a completely different turn. Often the Sleuth faces a large sacrifice, a death, or a significant loss which breaks them down to their lowest. The Sleuth must transition through a form of death and rebirth, whether that is a death of their best ideas, or the literal death of someone close to them. The greater the emotional impact the better. If the Sleuth is successful, this grants them new insights which alter their perception for the rest of the story, giving them the determination to solve the crime. If the Sleuth fails, their success is thrown into question, while the tension and the stakes heighten."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Sleuth facing their biggest test so far leading to their darkest moment physically, emotionally, or both."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dramatize this through a painful sacrifice, the death of a someone close to them, or new evidence or knowledge that shakes the Sleuth's faith in themselves and their solution."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Highlight the emotional, mental, and/or physical work the Sleuth must do to rebound after this defeat so they can ultimately win."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Sleuth transformed into a stronger, more powerful version of themselves, with renewed confidence in their abilities."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Change of Focus occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "positionInChapter": null,
+        "places": [],
+        "title": "Change of Focus (Try/Fail #2)",
+        "templates": []
+      },
+      {
+        "beatId": 10,
+        "characters": [],
+        "tags": [],
+        "lineId": 10,
+        "templates": [],
+        "seriesLineId": null,
+        "bookId": 1,
+        "title": "Reveal Hidden Motives",
+        "fromTemplateId": null,
+        "id": 100,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "positionInChapter": null,
+        "places": [],
+        "position": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sleuth has really been put through it at the midpoint of our story, and now things turn around for them. The motive for the crime they were chasing may have been wrong, but now new, previously hidden motives are revealed. Formerly secret relationships come to light, such as business arrangements, romantic involvements, scores to be settled, or previously veiled kinships. This can come to light in a number of ways, but should be a result of the action the Sleuth has taken. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Sleuth acquiring new clues to the actual motive for the crime. This can be an object, knowledge, new abilities, or reconciliation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Indicate how this clue is central and a critical part of the solution to the crime. This is where other clues previously meaningless start to make sense."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop and expose meanings of matters hinted at in Act 1 to slowly clarify the significance of earlier clues."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow a moment for the Sleuth to celebrate their cleverness again. Their confidence starts to return in this beat just before we head into Act 3."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reward (Seizing the Sword) occurs around the 70% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "lineId": 10,
+        "positionInChapter": null,
+        "id": 120,
+        "position": 0,
+        "beatId": 12,
+        "tags": [],
+        "bookId": 1,
+        "characters": [],
+        "places": [],
+        "positionWithinLine": 0,
+        "title": "Reveal the Wrong Turn",
+        "imageId": null,
+        "seriesLineId": null,
+        "templates": [],
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Sleuth made a wrong assumption about motive. This caused them to take a wrong turn, which they now realize and work to correct. The crucial evidence is something overlooked in Act 1, which appeared to have been of little consequence at the time it was first disclosed. That evidence takes on new meaning with information disclosed in Act 3. The Sleuth (and perhaps the reader, if a keen observer) becomes aware of the error which remains undisclosed to the other characters."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Sleuth review the case to determine where they went wrong."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the chain of events that provoked the crime."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The story is now headed for the climax, so this beat gives the foundation that sets the Sleuth and the reader up to solve the case. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the Wrong Turn occurs around the 80% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "imageId": null,
+        "beatId": 14,
+        "positionWithinLine": 0,
+        "lineId": 10,
+        "characters": [],
+        "templates": [],
+        "title": "The Final Reveal",
+        "seriesLineId": null,
+        "position": 0,
+        "bookId": 1,
+        "tags": [],
+        "places": [],
+        "fromTemplateId": null,
+        "id": 140,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once the Sleuth has the answer, this beat shows them finding the final clue they need to solve the crime and revealing it to the reader. This clue should fulfill a promise made in Act 1 and the reader should feel satisfied that the loose ends have been wrapped up. This is another quick beat and could be combined with the previous one. The only thing left is to catch the Villain, and the final confrontation or chase scene often occurs at this point in the story. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show that the Sleuth and the reader know the answer now."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make sure that the clues have all led up to this final solution."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Final Reveal occurs around the 85-90% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionInChapter": null
+      },
+      {
+        "tags": [],
+        "id": 150,
+        "places": [],
+        "position": 0,
+        "fromTemplateId": null,
+        "templates": [],
+        "title": "Caught",
+        "positionInChapter": null,
+        "lineId": 10,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the true climax of the story, the final and most dangerous encounter between the Sleuth and the Villain. This is the definitive and greatest test of the Sleuth's determination to solve the case. With the solution in hand, it is time for the Sleuth to confront the Villain, often alone and without the support they need. With time running out and pressure at its highest, the Sleuth captures the Villain, but there is often a sacrifice involved. A partner is shot, something valuable is lost, etc. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the final showdown – show how the Sleuth uses the final clue and what they now know of the Villain to predict what they will do next and capture them."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the change in the Sleuth and how that change has helped them solve the case."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Prepare the Sleuth to return to some kind of normal again. "
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish that the case has been solved and justice has been served to the satisfaction of all involved (except the Villain)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Caught occurs around the 90-95% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "bookId": 1,
+        "imageId": null,
+        "beatId": 15,
+        "characters": [],
+        "seriesLineId": null,
+        "positionWithinLine": 0
+      },
+      {
+        "bookId": null,
+        "beatId": 16,
+        "imageId": null,
+        "fromTemplateId": null,
+        "id": 160,
+        "tags": [],
+        "position": 0,
+        "lineId": 10,
+        "templates": [],
+        "characters": [],
+        "positionInChapter": null,
+        "title": "Denouement",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Sleuth is now a changed person with new strength and confidence. This is an opportunity to reaffirm their growth. The Sleuth can choose to settle into a life of comfort until the next crisis arises, or they seek a new mystery and adventure right away."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Present the Sleuth's return to normal and the routine of their lives. Reaffirm the Sleuth's change and new hope."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decide if the Sleuth chooses to settle in or if they seek more cases and mysteries right away."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "If Part of a Series:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Leave some loose threads and room for further character development for the Sleuth."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider setting the hook for the next book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Denouement occurs around the 99% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "places": [],
+        "positionWithinLine": 0,
+        "seriesLineId": null
+      },
+      {
+        "lineId": 6,
+        "places": [],
+        "beatId": 2,
+        "imageId": null,
+        "seriesLineId": null,
+        "templates": [],
+        "fromTemplateId": null,
+        "characters": [],
+        "position": 0,
+        "positionWithinLine": 0,
+        "bookId": 1,
+        "id": 22,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 1:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Victim is introduced. Their Ordinary World is disrupted when a crime is committed against them. They are killed, robbed, assaulted, etc. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This should include:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "At least one unique trait, so the reader cares about them right away. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The crime itself, and the impact on the victim. (How it disrupts their world)."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Victim's World Disrupted occurs around the 12% mark, and is tied to the disruption of the Victim's world"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionInChapter": null,
+        "title": "The Victim's World Disrupted",
+        "tags": []
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 1:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Sleuth, and therefore the reader, learns something about the victim that makes them feel empathy. The Sleuth is more motivated to solve the case because of this information. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Empathy Trigger occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "beatId": 4,
+        "places": [],
+        "bookId": null,
+        "positionInChapter": null,
+        "fromTemplateId": null,
+        "id": 44,
+        "title": "Empathy Trigger",
+        "imageId": null,
+        "position": 0,
+        "templates": [],
+        "characters": [],
+        "lineId": 6,
+        "positionWithinLine": 0,
+        "seriesLineId": null
+      },
+      {
+        "positionWithinLine": 0,
+        "id": 77,
+        "bookId": 1,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Information gathered through interviews, or the discovery of physical evidence should reveal new facts about the victim that will help the Sleuth solve the crime. It also fleshes out their character, so the reader is reminded to care that they were victimized."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Sleuth and the Victim occurs around the 40% mark, and is a result of broadening the investigation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "seriesLineId": null,
+        "tags": [],
+        "fromTemplateId": null,
+        "positionInChapter": null,
+        "templates": [],
+        "beatId": 7,
+        "imageId": null,
+        "places": [],
+        "position": 0,
+        "title": "The Sleuth and the Victim",
+        "lineId": 6
+      },
+      {
+        "fromTemplateId": "pl24",
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 3:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Victory is snatched away by the Sleuth... and the Villain is left to face the consequences. They may be destroyed, killed, banished, jailed, or convinced to turn back to the path of good. No matter the outcome, the Villain is no longer a threat."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Finish the final confrontation between Villain and Sleuth."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Outline the consequences for the Villain."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, set the hook for the next installment and hint at the Villain's next diabolical plan if they are going to return."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "While the Villain's Journey closely mirrors the Hero's Journey, the Villain does not have a reward, a homecoming, or an opportunity to relax in a new world they have created. They have been defeated and are sent off to lick their wounds and devise another plan."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ordeal, Death, Rebirth occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Villain's final consequences occur around the 90% - 95% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "id": 217,
+        "title": "Ordeal, Death, Rebirth",
+        "beatId": 15,
+        "imageId": null,
+        "bookId": null,
+        "templates": [],
+        "color": null,
+        "tags": [],
+        "lineId": 12,
+        "positionWithinLine": 0,
+        "characters": [],
+        "positionInBeat": 0
+      },
+      {
+        "templates": [],
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sleuth now has many of the facts they will need to solve the case. The Villain is getting close to success and getting away with things. But alas, the Sleuth stands in their way."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Villain's frustration, either in their POV or by what the Sleuth observes."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Take away the Villain's hope and make them desperate for success."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "On the Run occurs around the 75% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "lineId": 12,
+        "beatId": 12,
+        "bookId": null,
+        "id": 216,
+        "positionWithinLine": 0,
+        "places": [],
+        "color": null,
+        "imageId": null,
+        "fromTemplateId": "pl24",
+        "positionInBeat": 0,
+        "title": "On the Run",
+        "tags": []
+      },
+      {
+        "fromTemplateId": "pl24",
+        "title": "The Villain's Midpoint",
+        "characters": [],
+        "imageId": null,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This is a time of victory for the Villain. Even if we do not see this through their POV, we should see that the bad triumphs at this point when the good is at the lowest. The Villain is always on the opposite track as your Protagonist. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Villain's Midpoint occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "beatId": 9,
+        "bookId": null,
+        "places": [],
+        "lineId": 12,
+        "tags": [],
+        "positionWithinLine": 0,
+        "templates": [],
+        "id": 215,
+        "color": null
+      },
+      {
+        "lineId": 12,
+        "templates": [],
+        "places": [],
+        "fromTemplateId": "pl24",
+        "id": 214,
+        "imageId": null,
+        "bookId": null,
+        "characters": [],
+        "beatId": 2,
+        "positionInBeat": 0,
+        "color": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Villain takes action and commits a serious offense or crime. They may steal, kill, rob, or kidnap, but whatever it is, they are now past the point of no return and are beginning on the path to their ultimate goal. They are now unquestionably the story's Villain."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Establish the Central Issue of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What action does the Villain take to push them beyond the point of return?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How do these actions make the Villain clearly the Villain?"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Villain's World Disrupted occurs around the 12% mark, and directly relates to the disruption of both the Sleuth's and the Victim's worlds being disrupted."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "tags": [],
+        "title": "The Villain's Word Disrupted"
+      },
+      {
+        "lineId": 12,
+        "beatId": 17,
+        "title": "The Criminal Preparation",
+        "places": [],
+        "imageId": null,
+        "tags": [],
+        "positionInBeat": 0,
+        "id": 213,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 1:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Sleuth may be seen preparing a partner or a team if you are showing the reader their POV. Otherwise, the Sleuth may be called to another in a series of crimes or something that clues them into someone or a sinister group behind the crimes. This is also related to the new partner, and the Villain may even know them."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce those behind the crime that partner with the Sleuth."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Identify the strengths of the team."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the team will work together."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Criminal Preparation occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": "pl24",
+        "positionWithinLine": 0,
+        "templates": [],
+        "characters": [],
+        "color": null
+      },
+      {
+        "bookId": null,
+        "color": null,
+        "templates": [],
+        "positionWithinLine": 0,
+        "title": "Villain's Ordinary World",
+        "tags": [],
+        "places": [],
+        "lineId": 12,
+        "positionInBeat": 0,
+        "imageId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 1:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "As the story begins, the Villain is in their Ordinary World... and something is not quite right. For example, an important project they've been working on has gone wrong; they feel betrayed by their government; they've witnessed a loved one die, or they've given in to their darkest desires. This section either creates sympathy for the Villain or a feeling of revulsion. Either way, the key is to hook the reader with an emotional response to the Villain's behavior."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the readers to the Villain and their Ordinary World."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show something in the Villain's world that displeases them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ordinary World brings the story to about the 10% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "beatId": 1,
+        "id": 210,
+        "fromTemplateId": "pl24"
+      },
+      {
+        "tags": [],
+        "beatId": 1,
+        "bookId": 1,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Whatever the subplot is, it is shown as a part of the Sleuth's Ordinary World."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This can be a family story, a budding romance, or another mystery or case that is happening at the same time as the main storyline,"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This Opening Image/Hook happens by the 10% mark of the story"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "places": [],
+        "id": 13,
+        "lineId": 9,
+        "title": "B-Story Opening Image/Hook",
+        "characters": [],
+        "imageId": null,
+        "seriesLineId": null,
+        "templates": [],
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "position": 0,
+        "fromTemplateId": null
+      },
+      {
+        "id": 26,
+        "characters": [],
+        "templates": [],
+        "positionInChapter": null,
+        "imageId": null,
+        "places": [],
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The love interest or the B-Story is disrupted by the same events that disrupt the Sleuth's Ordinary World. The marriage retreat is postponed, or the beach vacation, or the Sleuth is pulled off another case, forced to postpone retirement, etc. This is a conflict that will always be at odds with and making a mess of the main storyline. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The B-Story Disrupted occurs around the 12% mark, and directly relates to the disruption of both the Sleuth's and the Victim's worlds being disrupted."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "bookId": 1,
+        "fromTemplateId": null,
+        "title": "B-Story Disrupted",
+        "tags": [],
+        "lineId": 9,
+        "seriesLineId": null,
+        "position": 0,
+        "beatId": 2
+      },
+      {
+        "positionWithinLine": 0,
+        "characters": [],
+        "positionInChapter": null,
+        "imageId": null,
+        "position": 0,
+        "id": 39,
+        "bookId": 1,
+        "beatId": 4,
+        "fromTemplateId": null,
+        "seriesLineId": null,
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 1:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The decision to take the case spells the end of the original plan for the B-Story, whatever that might be. In this case of a romance, this jeopardizes the relationship."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This End of the Beginning for the B-story is often a part of or a reflection of the empathy trigger."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "End of the Beginning occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "tags": [],
+        "title": "End of the Beginning",
+        "lineId": 9,
+        "places": []
+      },
+      {
+        "title": "Try/Fail #1",
+        "fromTemplateId": null,
+        "imageId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "As the Sleuth learns more about the case, a possible resolution of the B-Story occurs. Because of the case, this does not work out. It is the first subplot try/fail. It generally comes as a consequence of the first try/fail in the main storyline."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Facts about Suspects occurs around the 35% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "beatId": 6,
+        "places": [],
+        "positionWithinLine": 0,
+        "characters": [],
+        "tags": [],
+        "seriesLineId": null,
+        "positionInChapter": null,
+        "lineId": 9,
+        "bookId": 1,
+        "templates": [],
+        "id": 78,
+        "position": 0
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "We learn here the reason the B-Story is not working out is because of the same thing we learn about the Sleuth that causes them to empathize with the case. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In a romance subplot, the Sleuth may identify with the victim because of a past relationship he is not yet over. In the retirement scenario, they may fear retirement, and so is more attached to the case than they should be. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Remember, this is the midpoint of the B-story, but that does not mean it is also the midpoint of the main story line."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Sleuth's Background occurs around the 45% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "bookId": 1,
+        "positionWithinLine": 0,
+        "positionInChapter": null,
+        "title": "Midpoint",
+        "imageId": null,
+        "position": 0,
+        "fromTemplateId": null,
+        "characters": [],
+        "seriesLineId": null,
+        "tags": [],
+        "places": [],
+        "beatId": 8,
+        "templates": [],
+        "lineId": 9,
+        "id": 104
+      },
+      {
+        "seriesLineId": null,
+        "bookId": 1,
+        "places": [],
+        "imageId": null,
+        "characters": [],
+        "templates": [],
+        "id": 156,
+        "positionWithinLine": 0,
+        "beatId": 12,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 3:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "There is a crisis in the B-Story, and it is often related to a lesson learned as part of the error in the main plot. This ads tension as it occurs just as the villain is on the run, and the Sleuth learns of their Wrong Turn."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "On the Run occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionInChapter": null,
+        "fromTemplateId": null,
+        "position": 0,
+        "title": "Crisis",
+        "lineId": 9,
+        "tags": []
+      },
+      {
+        "id": 195,
+        "position": 0,
+        "lineId": 9,
+        "bookId": 1,
+        "imageId": null,
+        "title": "Climax",
+        "positionInChapter": null,
+        "positionWithinLine": 0,
+        "seriesLineId": null,
+        "places": [],
+        "fromTemplateId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As the final confrontation approaches, the A and B stories both reach a climax that is related to the other, resolving both plot lines.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Caught occurs around the 90-95% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "beatId": 15,
+        "tags": [],
+        "templates": []
+      },
+      {
+        "seriesLineId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "What is the lesson learned, the character trait developed, or the heart won? How does the story resolve in a positive way for the Sleuth? "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Denouement occurs around the 99% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "title": "Final Image/Resolution",
+        "position": 0,
+        "positionInChapter": null,
+        "lineId": 9,
+        "bookId": 1,
+        "tags": [],
+        "imageId": null,
+        "characters": [],
+        "id": 208,
+        "places": [],
+        "positionWithinLine": 0,
+        "beatId": 16,
+        "fromTemplateId": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "heap": {
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null
+        },
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "null": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "expanded": true,
+            "position": 0,
+            "title": "auto",
+            "bookId": 1,
+            "templates": [],
+            "time": 0,
+            "fromTemplateId": null,
+            "autoOutlineSort": true
+          },
+          "2": {
+            "expanded": true,
+            "id": 2,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "title": "auto",
+            "position": 1,
+            "time": 0,
+            "autoOutlineSort": true,
+            "templates": []
+          },
+          "3": {
+            "id": 3,
+            "autoOutlineSort": true,
+            "time": 0,
+            "bookId": 1,
+            "expanded": true,
+            "position": 2,
+            "fromTemplateId": null,
+            "templates": [],
+            "title": "auto"
+          },
+          "4": {
+            "fromTemplateId": null,
+            "templates": [],
+            "autoOutlineSort": true,
+            "position": 4,
+            "id": 4,
+            "title": "auto",
+            "bookId": 1,
+            "expanded": true,
+            "time": 0
+          },
+          "5": {
+            "time": 0,
+            "bookId": 1,
+            "title": "auto",
+            "expanded": true,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 5,
+            "templates": []
+          },
+          "6": {
+            "position": 6,
+            "id": 6,
+            "autoOutlineSort": true,
+            "time": 0,
+            "templates": [],
+            "expanded": true,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "title": "auto"
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 7,
+            "title": "auto",
+            "bookId": 1,
+            "expanded": true,
+            "fromTemplateId": null,
+            "templates": [],
+            "position": 7
+          },
+          "8": {
+            "expanded": true,
+            "id": 8,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 1,
+            "position": 8,
+            "fromTemplateId": null,
+            "time": 0,
+            "templates": []
+          },
+          "9": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "position": 9,
+            "bookId": 1,
+            "templates": [],
+            "time": 0,
+            "fromTemplateId": null,
+            "id": 9,
+            "expanded": true
+          },
+          "10": {
+            "expanded": true,
+            "templates": [],
+            "position": 10,
+            "time": 0,
+            "id": 10,
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null
+          },
+          "11": {
+            "autoOutlineSort": true,
+            "templates": [],
+            "position": 11,
+            "time": 0,
+            "title": "auto",
+            "id": 11,
+            "expanded": true,
+            "bookId": 1,
+            "fromTemplateId": null
+          },
+          "12": {
+            "expanded": true,
+            "templates": [],
+            "id": 12,
+            "position": 12,
+            "title": "auto",
+            "time": 0,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null
+          },
+          "13": {
+            "title": "auto",
+            "expanded": true,
+            "time": 0,
+            "autoOutlineSort": true,
+            "position": 13,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "templates": [],
+            "id": 13
+          },
+          "14": {
+            "position": 14,
+            "templates": [],
+            "expanded": true,
+            "bookId": 1,
+            "time": 0,
+            "fromTemplateId": null,
+            "id": 14,
+            "title": "auto",
+            "autoOutlineSort": true
+          },
+          "15": {
+            "fromTemplateId": null,
+            "title": "auto",
+            "templates": [],
+            "position": 15,
+            "bookId": 1,
+            "id": 15,
+            "expanded": true,
+            "time": 0,
+            "autoOutlineSort": true
+          },
+          "16": {
+            "autoOutlineSort": true,
+            "id": 16,
+            "position": 16,
+            "templates": [],
+            "bookId": 1,
+            "expanded": true,
+            "fromTemplateId": null,
+            "title": "auto",
+            "time": 0
+          },
+          "17": {
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "id": 17,
+            "time": 0,
+            "bookId": 1,
+            "position": 3,
+            "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "null": []
+        },
+        "index": {},
+        "heap": {}
+      }
+    },
+    "lines": [
+      {
+        "expanded": null,
+        "color": "DeepSkyBlue",
+        "title": "Sleuth's Journey",
+        "bookId": 1,
+        "characterId": null,
+        "id": 10,
+        "position": 0,
+        "fromTemplateId": null
+      },
+      {
+        "id": 6,
+        "expanded": null,
+        "bookId": 1,
+        "color": "Lime",
+        "position": 1,
+        "title": "Victim's Journey",
+        "fromTemplateId": null,
+        "characterId": null
+      },
+      {
+        "fromTemplateId": "pl24",
+        "expanded": null,
+        "title": "Villain's Journey",
+        "characterId": null,
+        "position": 2,
+        "id": 12,
+        "bookId": 1,
+        "color": "#ff7f32"
+      },
+      {
+        "bookId": 1,
+        "title": "Sub-Plot (Romance, etc)",
+        "fromTemplateId": null,
+        "id": 9,
+        "color": "Hotpink",
+        "expanded": null,
+        "position": 3
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "textColor": "#0b1117",
+        "dark": {
+          "textColor": "#c9e6ff",
+          "borderColor": "#c9e6ff"
+        },
+        "name": "Beat",
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        },
+        "borderColor": "#6cace4",
+        "borderStyle": "NONE",
+        "autoNumber": true,
+        "level": 0,
+        "backgroundColor": "none",
+        "textSize": 24
+      }
+    }
+  },
+  "initialVersion": "",
+  "appliedMigrations": []
+}

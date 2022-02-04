@@ -1,0 +1,1234 @@
+{
+  "id": "pl28",
+  "type": "plotlines",
+  "name": "Three Act Structure",
+  "description": "The classic story structure for plotting novels and screenplays",
+  "version": "2022.1.17",
+  "categories": ["General", "Screenwriting"],
+  "templateData": {
+    "cards": [
+      {
+        "tags": [],
+        "id": 9,
+        "color": null,
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 3: Resolution"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist is successful in their goal and can now return home with their reward – unless they have a few more minor obstacles to overcome before success is complete. This section ties up loose ends, completes the Protagonist's character arc and transformation, and the arcs of any other major characters. As the changed Protagonist revisits their Ordinary World, the tension releases, and the central theme is emphasized one final time."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Has the Protagonist completed their goal, or is there more work to do? If so, what are the final obstacles?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Clearly demonstrate the conclusion of the central conflict or question of the narrative."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist has grown and is now in an opposite state of being from the start of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Wrap up any loose ends and complete the character arcs for the Protagonist and other major characters, resolving any subplots at the same time."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the changed Protagonist back in their Ordinary World and what life looks like for them now."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If the story is part of a larger series, leave some room for growth and set the hook for the next story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Denouement occurs around the 95% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "places": [],
+        "bookId": null,
+        "templates": [],
+        "positionInBeat": 0,
+        "lineId": 4,
+        "imageId": null,
+        "positionWithinLine": 0,
+        "title": "Denoument",
+        "beatId": 10,
+        "characters": []
+      },
+      {
+        "characters": [],
+        "beatId": 9,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Middle of Act 3: Resolution",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Having suffered a significant setback, the Protagonist must use all they have learned and gained from the experience of their Darkest Hour to gather themselves and prepare for the final confrontation. This is the moment of payoff the reader has anticipated from the start of the narrative, so it must be gripping and rewarding. The Protagonist emerges changed but victorious, and the Antagonist is vanquished, killed, or driven off to return another day. Generally, the central conflict or question has been resolved by the end of this beat."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Demonstrate how the Protagonist has rebuilt themselves from their Darkest Hour and how they have grown to use all they have learned along the way to be victorious."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider how the Protagonist will overcome the Antagonist's newly showcased strengths."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a compelling and gripping final conflict that offers a strong payoff for the reader."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "What is the fate of the Antagonist - are they killed, destroyed, vanquished, or merely driven off?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Climax occurs around the 90% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "lineId": 4,
+        "tags": [],
+        "id": 8,
+        "title": "Climax",
+        "bookId": null,
+        "color": null,
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "imageId": null,
+        "templates": [],
+        "positionWithinLine": 0,
+        "places": []
+      },
+      {
+        "characters": [],
+        "title": "Pre-Climax",
+        "bookId": null,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "id": 7,
+        "color": null,
+        "tags": [],
+        "lineId": 4,
+        "positionInBeat": 0,
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3: Resolution",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Through trials and obstacles, the Protagonist has finally made their way (with gusto) to confront the Antagonist. However, the Antagonist's true strength has been hidden until now. Caught off guard, the Protagonist fails in the confrontation and faces an All is Lost moment. This is sometimes referred to as the Dark Night of the Soul or The Hero's Darkest Hour. As a result, the Protagonist's chance for success should now seem in doubt both to readers and to the character."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at how the Protagonist and (especially the) Antagonist have grown and become more powerful."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a surprising show of strength for the Antagonist and connect it to the Protagonist's inner conflict or flawed thinking."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Antagonist's victory be not just physically, but mentally destructive for the Protagonist as well."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Structure this section in such a way that there appears no hope of victory."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Pre-Climax occurs around the 80% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "beatId": 8,
+        "fromTemplateId": null
+      },
+      {
+        "imageId": null,
+        "fromTemplateId": null,
+        "id": 6,
+        "characters": [],
+        "tags": [],
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 2: Confrontation"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist has been thrown off balance and is now unsure of how they will reach their goal. The Midpoint punctured their belief that they were getting close, and now they must formulate a new plan of attack. After reflection – and possibly a kick in the side by a Mentor or Ally – they become proactive rather than reactive, restore or even raise their confidence, and strike off to face the Antagonist and defeat them once and for all."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Give the Protagonist time to consider the story's conflict and how they will move forward."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider having the Protagonist and Allies achieve a series of successes, even if they are small, to build their confidence, equip them with the proper toolkit, outlook, or information, and prepare them for the final confrontation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider how the Protagonist reacts to these events and the impact on their overall character arc."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Don't forget to develop the character arcs of the other main characters – and Antagonist(s)."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plot Point 2 occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "templates": [],
+        "title": "Plot Point 2",
+        "beatId": 7,
+        "lineId": 3,
+        "bookId": null,
+        "color": null
+      },
+      {
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2: Confrontation"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Midpoint of the story re-establishes the Protagonist's main goal and the central question of the story. While the Protagonist feels as though they are closer to their goal, this is the point where success is threatened, and the stakes for failure are raised. This beat changes the Protagonist's perspective moving forward, reinforcing their need or want to continue their journey despite the challenges they must face."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider having the Protagonist reach their goal only to have success stripped away (e.g. they reach the address where the kidnapper is holding the hostages only to find they have left or were never there)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes in a way that changes the Protagonist's perspective (e.g. they visit an informant to find them murdered and the critical information missing)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Restate and remind the reader of the central question or problem of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember, while this section creates a setback for the Protagonist, it does not completely destroy their faith in themselves and their abilities (that comes later), but rather refocuses them on their overall goal and re-establishes and raises the stakes."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Midpoint occurs around the 50% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "characters": [],
+        "positionWithinLine": 0,
+        "color": null,
+        "positionInBeat": 0,
+        "tags": [],
+        "lineId": 3,
+        "bookId": null,
+        "beatId": 6,
+        "fromTemplateId": null,
+        "places": [],
+        "title": "Midpoint",
+        "imageId": null,
+        "id": 5
+      },
+      {
+        "tags": [],
+        "beatId": 5,
+        "positionInBeat": 0,
+        "lineId": 3,
+        "id": 4,
+        "positionWithinLine": 0,
+        "places": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2: Confrontation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist has entered into the New World and now faces challenges and roadblocks. New characters and enemies are introduced as the Protagonist successfully navigates (or fails to navigate) the challenges before them, leading toward a final confrontation with the primary Antagonist. With each challenge, the Protagonist grows, learns, and perhaps recoils as they undergo character transformation. Make sure this character change is not a straight path; the Protagonist learns and grows, slides back to old ways, and perseveres again."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce difficult challenges and enemies to show how dangerous the New World is."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Remember the Protagonist is not yet fully comfortable with any new abilities or knowledge they have gained, or the role set before them, and they will not always be successful when they face challenges."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce Allies and friends who can help the Protagonist move toward their goal – and test them severely. Which Allies will survive this section?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "During each challenge and with each obstacle the Protagonist faces, keep in mind how the events propel the Protagonist and main characters forward or backward in their character arcs. "
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "If there is a subplot, each conflict builds it, while the subplot supports the overall narrative."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Rising Action occurs around the 30% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "bookId": null,
+        "color": null,
+        "fromTemplateId": null,
+        "characters": [],
+        "imageId": null,
+        "title": "Rising Action",
+        "templates": []
+      },
+      {
+        "title": "Plot Point 1",
+        "bookId": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "beatId": 4,
+        "places": [],
+        "id": 3,
+        "color": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 1: The Setup",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Plot Point 1 presents the moment or event that influences the Protagonist to take up the call to action and \"cross the threshold\" into the story – this could be a symbolic threshold or a physical one like going through a door and leaving home. By the end of Act I, the Protagonist leaves their Ordinary World to enter into the special New World. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ask yourself if a Mentor gives the Protagonist the tools, training, or motivation needed to accept the challenge before them."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create a gripping event that pulls the Protagonist into the story (e.g. they visit their Mentor only to find them murdered and the villains escaping)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Re-establish the central theme or question of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Protagonist take up the challenge – willingly or begrudgingly – and break into the special New World."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plot Point 1 occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "lineId": 1,
+        "fromTemplateId": null,
+        "imageId": null,
+        "tags": [],
+        "characters": []
+      },
+      {
+        "characters": [],
+        "id": 2,
+        "beatId": 3,
+        "places": [],
+        "lineId": 1,
+        "bookId": null,
+        "color": null,
+        "title": "Inciting Incident",
+        "templates": [],
+        "imageId": null,
+        "tags": [],
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 1: The Setup"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Inciting Incident is the event that drives the character out of their comfort zone and into the story. The Protagonist may initially be unwilling to take up the call to adventure presented by the Inciting Incident, but they ultimately have no choice. This event disrupts their life in such a way that it cannot be overcome on its own and requires direct intervention, leading them into the main storyline and setting up their external goal. The Inciting Incident must be intriguing to hook the reader and keep them interested in the story's resolution."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce a dramatic event that disrupts the Protagonist's life/world (e.g. a natural disaster, a developing romance, an assault on their town, a kidnapping/murder, being sent on a quest)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Clearly present how this event impacts the Protagonist and why they must step into action and solve the problem (e.g. their child is kidnapped and they have a very particular set of skills)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider how this event collides with the Protagonist's flawed thinking or inner conflict."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember, the event must be compelling to hook the reader into the story."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Inciting Incident occurs around the 15% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "positionInBeat": 0
+      },
+      {
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above This Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 1: The Setup"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Exposition sets the scene of the story. It introduces the Protagonist in their Ordinary World, gives an example of their everyday life, offers a sense of what is important to them, and hints at something in their world that challenges or displeases them. It should also offer the reader a glimpse at the Protagonist's internal conflict, setting it up to collide with their external goals later in the story. The Protagonist is in a different state of being here than they will be at the end."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the Protagonist and what their life is like in their Ordinary World."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Develop a three-dimensional character with flaws, desires, problems, and a unique personality. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Present the Protagonist's flawed thinking or internal conflict (this may be connected to something about the Ordinary World that upsets them)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Set the scene and atmosphere in an interesting way – the reader must care about what is happening!"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Exposition should take approximately 10% of the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "beatId": 2,
+        "title": "Exposition",
+        "positionWithinLine": 0,
+        "characters": [],
+        "positionInBeat": 0,
+        "templates": [],
+        "lineId": 1,
+        "tags": [],
+        "bookId": null,
+        "id": 1,
+        "places": [],
+        "fromTemplateId": null,
+        "color": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "index": {
+          "2": {
+            "fromTemplateId": null,
+            "id": 2,
+            "time": 0,
+            "templates": [],
+            "bookId": 1,
+            "expanded": true,
+            "position": 0,
+            "title": "auto",
+            "autoOutlineSort": true
+          },
+          "3": {
+            "time": 0,
+            "fromTemplateId": null,
+            "id": 3,
+            "autoOutlineSort": true,
+            "position": 1,
+            "bookId": 1,
+            "title": "auto"
+          },
+          "4": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "fromTemplateId": null,
+            "position": 2,
+            "id": 4,
+            "bookId": 1,
+            "time": 0
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "id": 5,
+            "time": 0,
+            "position": 3,
+            "title": "auto",
+            "fromTemplateId": null,
+            "bookId": 1
+          },
+          "6": {
+            "bookId": 1,
+            "id": 6,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "position": 4
+          },
+          "7": {
+            "fromTemplateId": null,
+            "position": 5,
+            "id": 7,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "time": 0,
+            "title": "auto"
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "id": 8,
+            "position": 6
+          },
+          "9": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "position": 7,
+            "id": 9,
+            "fromTemplateId": null,
+            "time": 0
+          },
+          "10": {
+            "id": 10,
+            "time": 0,
+            "fromTemplateId": null,
+            "title": "auto",
+            "position": 8,
+            "autoOutlineSort": true,
+            "bookId": 1
+          }
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null
+        },
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      },
+      "series": {
+        "heap": {
+          "1": null
+        },
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "index": {
+          "1": {
+            "position": 0,
+            "id": 1,
+            "title": "auto",
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "time": 0,
+            "templates": [],
+            "bookId": "series",
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "expanded": null,
+        "fromTemplateId": null,
+        "title": "Act 3: Resolution",
+        "color": "#e5554f",
+        "id": 4,
+        "position": 2,
+        "bookId": 1
+      },
+      {
+        "color": "#78be20",
+        "fromTemplateId": null,
+        "position": 1,
+        "expanded": null,
+        "title": "Act 2: Confrontation",
+        "id": 3,
+        "bookId": 1
+      },
+      {
+        "characterId": null,
+        "color": "#6cace4",
+        "title": "Act 1: Setup",
+        "id": 1,
+        "bookId": 1,
+        "expanded": null,
+        "fromTemplateId": null,
+        "position": 0
+      },
+      {
+        "title": "Main Plot",
+        "fromTemplateId": null,
+        "bookId": "series",
+        "position": 0,
+        "expanded": null,
+        "characterId": null,
+        "color": "#6cace4",
+        "id": 2
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "light": {
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4"
+        },
+        "autoNumber": true,
+        "borderStyle": "NONE",
+        "dark": {
+          "textColor": "#c9e6ff",
+          "borderColor": "#c9e6ff"
+        },
+        "level": 0,
+        "backgroundColor": "none",
+        "name": "Beat",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "textSize": 24
+      }
+    }
+  },
+  "initialVersion": "",
+  "appliedMigrations": []
+}
