@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "24 Chapter Novel Outline",
   "description": "Based on the book The Plot Dot by Derek Murphy",
-  "version": "2021.2.7",
+  "version": "2022.2.8",
   "link": "https://www.creativindie.com/plot-outline/",
   "categories": [
     "general"
@@ -4107,16 +4107,6 @@
     },
     "lines": [
       {
-        "color": "#6cace4",
-        "title": "Main Plot",
-        "expanded": null,
-        "position": 0,
-        "id": 2,
-        "fromTemplateId": null,
-        "characterId": null,
-        "bookId": "series"
-      },
-      {
         "fromTemplateId": null,
         "position": 0,
         "bookId": 1,
@@ -4175,6 +4165,6 @@
       }
     }
   },
-  "initialVersion": "",
+  "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }
