@@ -4,7 +4,10 @@
   "name": "Three Act Structure",
   "description": "The classic story structure for plotting novels and screenplays",
   "version": "2022.1.17",
-  "categories": ["General", "Screenwriting"],
+  "categories": [
+    "general",
+    "screenwriting"
+  ],
   "templateData": {
     "cards": [
       {

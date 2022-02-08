@@ -5,7 +5,9 @@
   "description": "Based on the book The Plot Dot by Derek Murphy",
   "version": "2021.12.28",
   "link": "https://www.creativindie.com/plot-outline/",
-  "categories": ["General"],
+  "categories": [
+    "general"
+  ],
   "templateData": {
     "cards": [
       {
