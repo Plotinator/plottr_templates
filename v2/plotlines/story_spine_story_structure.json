@@ -1,0 +1,1203 @@
+{
+  "id": "pl30",
+  "type": "plotlines",
+  "name": "Story Spine",
+  "description": "A simple but powerful outlining technique that starts with \"Once upon a time...\"",
+  "version": "2022.2.7",
+  "categories": [
+    "general",
+    "screenwriting"
+  ],
+  "templateData": {
+    "cards": [
+      {
+        "positionInBeat": 0,
+        "imageId": null,
+        "bookId": null,
+        "places": [],
+        "fromTemplateId": null,
+        "lineId": 4,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Protagonist has new routine established.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Having faced off against the Antagonist and won (or lost), the Protagonist can now return back to the Ordinary World with their new set of skills and perspective."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Protagonist return to the Ordinary World with their spoils and completed character arc."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Don't be afraid to create a few more challenges along the road home."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish the Protagonist's new routine in the Ordinary World and how it has changed from the beginning."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "And ever since then, the little penguin has been considered a hero for saving the colony from the seals and for forging a relationship with the whales. Now, the whales keep their homes safe so long as the penguins continue to lead aggressive seals their way."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "And Ever Since Then occurs around the 85% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionWithinLine": 0,
+        "id": 8,
+        "beatId": 9,
+        "title": "And Ever Since Then...",
+        "tags": [],
+        "color": null,
+        "templates": []
+      },
+      {
+        "beatId": 8,
+        "positionInBeat": 0,
+        "imageId": null,
+        "title": "Until Finally...",
+        "templates": [],
+        "places": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 2:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Protagonist succeeds or fails.",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section brings the reader to the climax of the story, where they face off against the Antagonist, and either succeeds or fails. (Failure if the story is a drama or tragedy.) This is the payoff the reader has been waiting for. Make it big."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Protagonist use all they have learned to this point to finally confront the Antagonist."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Protagonist has grown since the beginning of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create drama and tension – here is where the stakes are highest."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Until finally the little penguin remembered being told to avoid the deep depths where the whales lived. The little penguin used its newfound speed and swimming abilities to lead the seal into their territory, where the whales immediately begin chasing the seal, allowing the little penguin to escape home..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Until Finally occurs around the 75% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "id": 7,
+        "tags": [],
+        "lineId": 3,
+        "color": null,
+        "fromTemplateId": null,
+        "bookId": null,
+        "characters": [],
+        "positionWithinLine": 0
+      },
+      {
+        "imageId": null,
+        "fromTemplateId": null,
+        "characters": [],
+        "lineId": 3,
+        "places": [],
+        "templates": [],
+        "beatId": 7,
+        "bookId": null,
+        "positionInBeat": 0,
+        "title": "Because of That...",
+        "id": 6,
+        "tags": [],
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Mid Act 2:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "How will the Protagonist fare?",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Challenges continue to pile up, becoming ever more difficult and dangerous. Here is where the Protagonist - and the reader - become unsure of the Protagonist's ability to succeed and whether they will be okay in the end."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a final set of consequences and obstacles facing the Protagonist that directly result from the previous section."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Continue to increase stakes, drama, and tension."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Protagonist is growing and using the tools they have gained to this point, though they may not be effective."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Because of that the little penguin was found and chased by a seal, and the penguin had to swim faster and faster to escape, realizing it now couldn't return home without risking the seal discovering where the penguins lived..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Because of That occurs around the 65% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "color": null
+      },
+      {
+        "color": null,
+        "lineId": 3,
+        "id": 5,
+        "places": [],
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "More consequences."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The first set of consequences leads to the next set of challenges, which are more dangerous and difficult to overcome."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Continue increasing the tension and raising the stakes for the Protagonist by adding another set of consequences stemming from the previous section."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Plant seeds of doubt that the Protagonist will be able to succeed in their situation."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Continue to consider the Protagonist's character arc and development."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Because of that, the little penguin's friends redoubled their efforts to make the penguin comfortable in the water, teaching it to swim faster and longer distances, until one day it swam into seal territory..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Because of That occurs around the 50% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "positionInBeat": 0,
+        "tags": [],
+        "beatId": 6,
+        "title": "Because of That...",
+        "templates": [],
+        "bookId": null,
+        "fromTemplateId": null,
+        "imageId": null
+      },
+      {
+        "color": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "fromTemplateId": null,
+        "id": 4,
+        "imageId": null,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Mid Act 2:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "Dire consequences."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breaking the routine causes dire consequences for the Protagonist, forcing them out of their comfort zone and into a New World of danger and challenges. Each challenge allows the Protagonist to grow, and develops their character arc toward becoming the Hero."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce consequences the Protagonist is not fully equipped to deal with."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consider how this consequence impacts the Protagonist's growth."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Because of that, the little penguin faced its fears and went into the water, but needed help from friends after having difficulty getting back on the ice..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Because of That occurs around the 35% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "Because of That...",
+        "beatId": 5,
+        "places": [],
+        "tags": [],
+        "characters": [],
+        "lineId": 3,
+        "templates": []
+      },
+      {
+        "positionInBeat": 0,
+        "color": null,
+        "lineId": 3,
+        "beatId": 4,
+        "id": 3,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "Protagonist breaks routine. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Protagonist either breaks their routine, or something happens to disrupt their routine, setting them on the path into the story and toward the New World."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Create an event that the Protagonist cannot ignore and cannot be solved on its own."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create a clear goal or objective for the Protagonist, also known as the central question or goal."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "But one day, the penguin leader decided all penguins must swim and catch food due to a shortage of fish in storage..."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "But, One Day occurs around the 25% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "bookId": null,
+        "places": [],
+        "positionWithinLine": 0,
+        "imageId": null,
+        "title": "But One Day...",
+        "templates": [],
+        "characters": [],
+        "tags": []
+      },
+      {
+        "lineId": 1,
+        "color": null,
+        "imageId": null,
+        "id": 2,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 1:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "Protagonist's routine is established."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section introduces a typical day in the life of the Protagonist and how they function in their world."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Establish the Protagonist's routine and daily interactions."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Develop the Protagonist's Ordinary World."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Every day friends and family would bring the little penguin fish to eat..."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Every Day occurs around the 15% mark."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "templates": [],
+        "beatId": 3,
+        "bookId": null,
+        "positionInBeat": 0,
+        "title": "Every Day...",
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "characters": [],
+        "tags": []
+      },
+      {
+        "id": 1,
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "World is introduced.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section introduces the readers to the Protagonist and their ordinary world."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the Protagonist, other main characters, and their ordinary world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Set clear expectations and an understanding of what life is currently like."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once upon a time, there was a little penguin who was afraid of water..."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Once Upon a Time should take approximately 10% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "bookId": null,
+        "color": null,
+        "places": [],
+        "imageId": null,
+        "lineId": 1,
+        "positionWithinLine": 0,
+        "templates": [],
+        "characters": [],
+        "positionInBeat": 0,
+        "beatId": 2,
+        "title": "Once Upon a Time..."
+      }
+    ],
+    "beats": {
+      "1": {
+        "index": {
+          "2": {
+            "title": "auto",
+            "time": 0,
+            "bookId": 1,
+            "templates": [],
+            "position": 0,
+            "expanded": true,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "id": 2
+          },
+          "3": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 3,
+            "position": 1,
+            "fromTemplateId": null,
+            "bookId": 1
+          },
+          "4": {
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "id": 4,
+            "fromTemplateId": null
+          },
+          "5": {
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "id": 5,
+            "position": 3,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "6": {
+            "title": "auto",
+            "bookId": 1,
+            "id": 6,
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 4,
+            "autoOutlineSort": true
+          },
+          "7": {
+            "fromTemplateId": null,
+            "id": 7,
+            "time": 0,
+            "bookId": 1,
+            "position": 5,
+            "title": "auto",
+            "autoOutlineSort": true
+          },
+          "8": {
+            "time": 0,
+            "autoOutlineSort": true,
+            "id": 8,
+            "title": "auto",
+            "bookId": 1,
+            "position": 6,
+            "fromTemplateId": null
+          },
+          "9": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 1,
+            "id": 9,
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 7
+          }
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "index": {
+          "1": {
+            "fromTemplateId": null,
+            "expanded": true,
+            "templates": [],
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 1,
+            "position": 0,
+            "bookId": "series"
+          }
+        },
+        "heap": {
+          "1": null
+        }
+      }
+    },
+    "lines": [
+      {
+        "position": 2,
+        "expanded": null,
+        "bookId": 1,
+        "id": 4,
+        "color": "#e5554f",
+        "fromTemplateId": null,
+        "title": "End"
+      },
+      {
+        "color": "#78be20",
+        "bookId": 1,
+        "position": 1,
+        "id": 3,
+        "title": "Middle",
+        "fromTemplateId": null,
+        "expanded": null
+      },
+      {
+        "id": 2,
+        "position": 0,
+        "title": "Main Plot",
+        "fromTemplateId": null,
+        "characterId": null,
+        "color": "#6cace4",
+        "expanded": null,
+        "bookId": "series"
+      },
+      {
+        "color": "#6cace4",
+        "expanded": null,
+        "fromTemplateId": null,
+        "title": "Beginning",
+        "characterId": null,
+        "id": 1,
+        "bookId": 1,
+        "position": 0
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        },
+        "backgroundColor": "none",
+        "autoNumber": true,
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "level": 0,
+        "textColor": "#0b1117",
+        "borderStyle": "NONE",
+        "borderColor": "#6cace4",
+        "name": "Beat",
+        "textSize": 24
+      }
+    }
+  },
+  "initialVersion": "",
+  "appliedMigrations": []
+}
