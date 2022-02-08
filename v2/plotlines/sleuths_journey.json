@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Sleuth's Journey",
   "description": "A mystery novel formula by Troy Lambert, based on the classic Hero's Journey",
-  "version": "2022.2.7",
+  "version": "2022.2.8",
   "link": "https://www.youtube.com/watch?v=zCWjP2q1x-k",
   "categories": [
     "mystery"
@@ -3657,10 +3657,27 @@
       },
       "series": {
         "children": {
-          "null": []
+          "18": [],
+          "null": [
+            18
+          ]
         },
-        "index": {},
-        "heap": {}
+        "index": {
+          "18": {
+            "fromTemplateId": null,
+            "expanded": true,
+            "templates": [],
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 18,
+            "position": 0,
+            "bookId": "series"
+          }
+        },
+        "heap": {
+          "18": null
+        }
       }
     },
     "lines": [
@@ -3725,6 +3742,6 @@
       }
     }
   },
-  "initialVersion": "",
+  "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }

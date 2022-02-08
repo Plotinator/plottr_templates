@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Story Spine",
   "description": "A simple but powerful outlining technique that starts with \"Once upon a time...\"",
-  "version": "2022.2.7",
+  "version": "2022.2.8",
   "categories": [
     "general",
     "screenwriting"
@@ -1157,16 +1157,6 @@
         "expanded": null
       },
       {
-        "id": 2,
-        "position": 0,
-        "title": "Main Plot",
-        "fromTemplateId": null,
-        "characterId": null,
-        "color": "#6cace4",
-        "expanded": null,
-        "bookId": "series"
-      },
-      {
         "color": "#6cace4",
         "expanded": null,
         "fromTemplateId": null,
@@ -1198,6 +1188,6 @@
       }
     }
   },
-  "initialVersion": "",
+  "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }
