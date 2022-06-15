@@ -1,5 +1,5 @@
 {
-  "version": "2022.2.8",
+  "version": "2022.6.15",
   "templates": [
     {
       "id": "proj1",
@@ -158,7 +158,7 @@
     },
     {
       "id": "pl26",
-      "version": "2021.10.15",
+      "version": "2022.6.15",
       "url": "/v2/plotlines/foolproof.json"
     },
     {

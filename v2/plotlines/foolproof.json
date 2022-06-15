@@ -3,12 +3,12 @@
   "type": "plotlines",
   "name": "Foolproof Pulp Formula",
   "description": "An outline formula for writing pulp short stories by Nelson Bond",
-  "version": "2021.10.15",
+  "version": "2022.6.15",
   "categories": [
     "action",
     "shortstory"
   ],
-  "link": "https://www.storyhack.com/2017/07/17/another-pulp-story-formula/",
+  "link": "http://thepulparchvist.blogspot.com/2017/07/nelson-bonds-pulp-formula.html",
   "templateData": {
     "cards": [
       {
