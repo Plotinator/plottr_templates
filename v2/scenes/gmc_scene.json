@@ -1,0 +1,24 @@
+{
+  "id": "sc4",
+  "type": "scenes",
+  "name": "Goal, Motivation, Conflict",
+  "description": "A foundational approach to writing good scenes",
+  "version": "2022.07.20",
+  "attributes": [
+    {
+      "name": "Goal",
+      "type": "text",
+      "description": "What does the character want or need to achieve in this scene?"
+    },
+    {
+      "name": "Motivation",
+      "type": "text",
+      "description": "What drives the character to pursue their goal in this scene?"
+    },
+    {
+      "name": "Conflict",
+      "type": "text",
+      "description": "What stops (or could stop) the character from achieving their goal in this scene?"
+    }
+  ]
+}

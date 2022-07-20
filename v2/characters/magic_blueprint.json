@@ -1,0 +1,75 @@
+{
+  "id": "ch8",
+  "version": "2022.07.20",
+  "type": "characters",
+  "name": "Magic Blueprint",
+  "description": "Based on the book Magic System Blueprint by C.R. Rowenson",
+  "link": "https://crrowenson.com/books/the-magic-system-blueprint/",
+  "attributes": [
+    {
+      "name": "Name",
+      "type": "text",
+      "description": "A term or label to reference the magic itself (e.g. Dark or Light Magic)"
+    },
+    {
+      "name": "Type of Magic",
+      "type": "text",
+      "description": "Is the magic well understood or mysterious? Are its effects predictable or unpredictable?"
+    },
+    {
+      "name": "Effects and Abilities",
+      "type": "paragraph",
+      "description": "Describe the special effects and abilities the magic produces"
+    },
+    {
+      "name": "Limitations and Boundaries",
+      "type": "paragraph",
+      "description": "Describe any limitations, costs, consequences, or countermeasures that exist relating to the magic"
+    },
+    {
+      "name": "Source",
+      "type": "text",
+      "description": "Describe where the magic comes from, how much is present, and whether it can run out"
+    },
+    {
+      "name": "Transference",
+      "type": "text",
+      "description": "The degree to which the magic can be acquired, lost, or transferred to others (e.g. high or low)"
+    },
+    {
+      "name": "Prevalence",
+      "type": "text",
+      "description": "The degree to which the magic is widespread and commonplace (e.g. high or low)"
+    },
+    {
+      "name": "Naturalness",
+      "type": "text",
+      "description": "The degree to which the magic seems \"natural\" or \"normal\" for the setting (e.g. high or low)"
+    },
+    {
+      "name": "Ease of Use",
+      "type": "text",
+      "description": "The degree to which the magic can be used safely and effectively (e.g. high or low)"
+    },
+    {
+      "name": "Reliability",
+      "type": "text",
+      "description": "The degree to which the magic consistently produces the expected results (e.g. high or low)"
+    },
+    {
+      "name": "Balance",
+      "type": "text",
+      "description": "Does the magic create power disparities in the world or between characters?"
+    },
+    {
+      "name": "Perception",
+      "type": "text",
+      "description": "How is the magic viewed by others? Is it good or evil? Is it desirable?"
+    },
+    {
+      "name": "Consistency",
+      "type": "text",
+      "description": "The degree to which the magic is consistent with the rest of the magic system (e.g. high or low)"
+    }
+  ]
+}
