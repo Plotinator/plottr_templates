@@ -1,46 +1,55 @@
 {
   "id": "sc3",
   "type": "scenes",
-  "version": "2020.2.19",
+  "version": "2022.07.20",
   "name": "Scene Essentials",
   "description": "Useful details for any scene",
   "link": "",
   "attributes": [
     {
       "name": "POV",
-      "type": "text"
+      "type": "text",
+      "description": "Whose viewpoint is the scene told from? (e.g. 1st person, 2nd person, 3rd person)"
     },
     {
       "name": "Time Period",
-      "type": "text"
+      "type": "text",
+      "description": "When does the scene take place? (e.g. present, past, future)"
     },
     {
       "name": "Hook",
-      "type": "text"
+      "type": "text",
+      "description": "What will convince the reader to start and keep reading this scene?"
     },
     {
       "name": "Purpose",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "Why is this scene important to the story? Does it advance the plot or develop characters?"
     },
     {
       "name": "Conflict",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What two forces or characters are on opposing sides in this scene?"
     },
     {
       "name": "Climax",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "How does the scene end, and how does it hook the reader into the next scene?"
     },
     {
       "name": "Character Goals",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What does your character want or need to achieve in this scene?"
     },
     {
       "name": "Character Development",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "How does the character change or develop in this scene?"
     },
     {
       "name": "Sensory Detail",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "How do the five senses (taste, touch, sight, hearing, smell) impact this scene?"
     }
   ]
 }
