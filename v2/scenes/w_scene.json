@@ -3,7 +3,7 @@
   "type": "scenes",
   "name": "W Scene",
   "description": "Based on the W Plot method",
-  "version": "2022.07.20",
+  "version": "2022.7.20",
   "attributes": [
     {
       "name": "Trigger Event",

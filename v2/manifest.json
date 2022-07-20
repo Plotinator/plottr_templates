@@ -1,5 +1,5 @@
 {
-  "version": "2022.07.20",
+  "version": "2022.7.20",
   "templates": [
     {
       "id": "proj1",
@@ -8,12 +8,12 @@
     },
     {
       "id": "ch1",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/characters/gmc.json"
     },
     {
       "id": "ch2",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/characters/enneagram.json"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "ch8",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/characters/magic_blueprint.json"
     },
     {
@@ -193,37 +193,37 @@
     },
     {
       "id": "pl32",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/plotlines/story_engines.json"
     },
     {
       "id": "sc1",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
     },
     {
       "id": "sc2",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/reactive.json"
     },
     {
       "id": "sc3",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/essentials.json"
     },
     {
       "id": "sc4",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/gmc_scene.json"
     },
     {
       "id": "sc5",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/w_scene.json"
     },
     {
       "id": "sc6",
-      "version": "2022.07.20",
+      "version": "2022.7.20",
       "url": "/v2/scenes/three_story.json"
     }
   ]
