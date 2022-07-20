@@ -4,11 +4,12 @@
   "name": "Enneagram",
   "description": "Personality types",
   "link": "https://www.enneagraminstitute.com/type-descriptions",
-  "version": "2020.5.27",
+  "version": "2022.07.20",
   "attributes": [
     {
       "name": "Type",
-      "type": "text"
+      "type": "text",
+      "description": "Type of personality based on the Enneagram test"
     },
     {
       "name": "Core Desire",

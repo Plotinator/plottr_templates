@@ -3,31 +3,37 @@
   "type": "characters",
   "name": "Goal, Motivation, Conflict",
   "description": "Each character should have one internally and externally",
-  "version": "2020.4.8",
+  "version": "2022.07.20",
   "attributes": [
     {
-      "name": "Internal Goal",
-      "type": "text"
-    },
-    {
-      "name": "Internal Motivation",
-      "type": "text"
-    },
-    {
-      "name": "Internal Conflict",
-      "type": "text"
-    },
-    {
       "name": "External Goal",
-      "type": "text"
+      "type": "text",
+      "description": "Describe the physical outcome the character wants or needs to achieve (e.g. play professional sports)"
     },
     {
       "name": "External Motivation",
-      "type": "text"
+      "type": "text",
+      "description": "Describe the outside force driving the character toward their goal (e.g. fame and fortune)"
     },
     {
       "name": "External Conflict",
-      "type": "text"
+      "type": "text",
+      "description": "Describe the obstacle preventing the character from achieving their goal (e.g. competition)"
+    },
+    {
+      "name": "Internal Goal",
+      "type": "text",
+      "description": "Describe the emotional outcome the character wants or needs to achieve (e.g. finding love)"
+    },
+    {
+      "name": "Internal Motivation",
+      "type": "text",
+      "description": "Describe the inner force or emotion that drives the character toward their goal (e.g. loneliness)"
+    },
+    {
+      "name": "Internal Conflict",
+      "type": "text",
+      "description": "Describe what stands in the character's way of achieving their inner goal (e.g. fear of failure)"
     }
   ]
 }

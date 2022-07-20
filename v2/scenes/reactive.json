@@ -1,22 +1,25 @@
 {
   "id": "sc2",
   "type": "scenes",
-  "version": "2020.2.19",
+  "version": "2022.07.20",
   "name": "Reactive Scene",
   "description": "Inspired by Scene & Sequel and the Snowflake Method",
   "link": "",
   "attributes": [
     {
       "name": "Reaction",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "How does the character respond to the setback in the previous scene?"
     },
     {
       "name": "Dilemma",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What choices does the character have to respond to their setback? Where will each choice lead?"
     },
     {
       "name": "Decision",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What does the character decide to do in response to their setback?"
     }
   ]
 }
