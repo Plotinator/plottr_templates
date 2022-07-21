@@ -2,12 +2,12 @@
   "id": "pl32",
   "type": "plotlines",
   "name": "Story Engines Blueprint",
-  "description": "A popular four act structure by NY Times bestselling author Joseph Nassise",
+  "description": "A four act structure for commercial fiction by NY Times bestselling author Joseph Nassise",
+  "version": "2022.7.21",
   "categories": [
     "general"
   ],
   "link": "https://www.yourfirst10kreaders.com/storyengines",
-  "version": "2022.6.29",
   "initialVersion": "2022.6.29",
   "appliedMigrations": [],
   "templateData": {
