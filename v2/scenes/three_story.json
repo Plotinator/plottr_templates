@@ -1,0 +1,25 @@
+{
+  "id": "sc6",
+  "type": "scenes",
+  "name": "Three Story Scene",
+  "description": "Based on the book Three Story Method by J. Thorn",
+  "link": "https://thecareerauthor.com/threestorymethod/",
+  "version": "2022.7.20",
+  "attributes": [
+    {
+      "name": "Conflict",
+      "type": "text",
+      "description": "What is the central conflict of the scene?"
+    },
+    {
+      "name": "Choice",
+      "type": "text",
+      "description": "What choice do the characters make to deal with the scene's conflict?"
+    },
+    {
+      "name": "Consequence",
+      "type": "text",
+      "description": "What is the consequence of the choice? Use the consequence as a hook to the next scene"
+    }
+  ]
+}

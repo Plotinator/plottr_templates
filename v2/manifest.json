@@ -1,5 +1,5 @@
 {
-  "version": "2022.6.15",
+  "version": "2022.7.21",
   "templates": [
     {
       "id": "proj1",
@@ -8,12 +8,12 @@
     },
     {
       "id": "ch1",
-      "version": "2020.4.8",
+      "version": "2022.7.20",
       "url": "/v2/characters/gmc.json"
     },
     {
       "id": "ch2",
-      "version": "2020.5.27",
+      "version": "2022.7.20",
       "url": "/v2/characters/enneagram.json"
     },
     {
@@ -40,6 +40,11 @@
       "id": "ch7",
       "version": "2020.10.15",
       "url": "/v2/characters/snowflake.json"
+    },
+    {
+      "id": "ch8",
+      "version": "2022.7.20",
+      "url": "/v2/characters/magic_blueprint.json"
     },
     {
       "id": "pl1",
@@ -187,19 +192,39 @@
       "url": "/v2/plotlines/24_chapter_outline.json"
     },
     {
+      "id": "pl32",
+      "version": "2022.7.21",
+      "url": "/v2/plotlines/story_engines.json"
+    },
+    {
       "id": "sc1",
-      "version": "2021.2.19",
+      "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
     },
     {
       "id": "sc2",
-      "version": "2021.2.19",
+      "version": "2022.7.20",
       "url": "/v2/scenes/reactive.json"
     },
     {
       "id": "sc3",
-      "version": "2021.2.19",
+      "version": "2022.7.20",
       "url": "/v2/scenes/essentials.json"
+    },
+    {
+      "id": "sc4",
+      "version": "2022.7.20",
+      "url": "/v2/scenes/gmc_scene.json"
+    },
+    {
+      "id": "sc5",
+      "version": "2022.7.20",
+      "url": "/v2/scenes/w_scene.json"
+    },
+    {
+      "id": "sc6",
+      "version": "2022.7.20",
+      "url": "/v2/scenes/three_story.json"
     }
   ]
 }

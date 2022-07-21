@@ -1,22 +1,25 @@
 {
   "id": "sc1",
   "type": "scenes",
-  "version": "2020.2.19",
+  "version": "2022.7.20",
   "name": "Proactive Scene",
   "description": "Inspired by Scene & Sequel and the Snowflake Method",
   "link": "",
   "attributes": [
     {
       "name": "Goal",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What does the character want or need to achieve in this scene?"
     },
     {
       "name": "Conflict",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What stops (or could stop) the character from achieving their goal in this scene?"
     },
     {
       "name": "Setback",
-      "type": "paragraph"
+      "type": "paragraph",
+      "description": "What takes away the agency or power of the character in this scene?"
     }
   ]
 }

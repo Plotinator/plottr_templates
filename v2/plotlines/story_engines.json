@@ -1,0 +1,3227 @@
+{
+  "id": "pl32",
+  "type": "plotlines",
+  "name": "Story Engines Blueprint",
+  "description": "A four act structure for commercial fiction by NY Times bestselling author Joseph Nassise",
+  "version": "2022.7.21",
+  "categories": [
+    "general"
+  ],
+  "link": "https://www.yourfirst10kreaders.com/storyengines",
+  "initialVersion": "2022.6.29",
+  "appliedMigrations": [],
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": [],
+          "32": [],
+          "33": [],
+          "34": [],
+          "35": [],
+          "36": [],
+          "37": [],
+          "38": [],
+          "39": [],
+          "40": [],
+          "41": [],
+          "42": [],
+          "43": [],
+          "44": [],
+          "45": [],
+          "46": [],
+          "47": [],
+          "48": [],
+          "49": [],
+          "null": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        "heap": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null,
+          "20": null,
+          "21": null,
+          "22": null,
+          "23": null,
+          "24": null,
+          "25": null,
+          "26": null,
+          "27": null,
+          "28": null,
+          "29": null,
+          "30": null,
+          "31": null,
+          "32": null,
+          "33": null,
+          "34": null,
+          "35": null,
+          "36": null,
+          "37": null,
+          "38": null,
+          "39": null,
+          "40": null,
+          "41": null,
+          "42": null,
+          "43": null,
+          "44": null,
+          "45": null,
+          "46": null,
+          "47": null,
+          "48": null,
+          "49": null
+        },
+        "index": {
+          "10": {
+            "autoOutlineSort": true,
+            "expanded": true,
+            "position": 0,
+            "templates": [],
+            "title": "auto",
+            "fromTemplateId": null,
+            "bookId": 1,
+            "id": 10,
+            "time": 0
+          },
+          "11": {
+            "position": 37,
+            "fromTemplateId": null,
+            "title": "auto",
+            "time": 0,
+            "id": 11,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "12": {
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "position": 36,
+            "time": 0,
+            "id": 12,
+            "bookId": 1,
+            "title": "auto"
+          },
+          "13": {
+            "title": "auto",
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "time": 0,
+            "id": 13,
+            "position": 35
+          },
+          "14": {
+            "time": 0,
+            "autoOutlineSort": true,
+            "id": 14,
+            "bookId": 1,
+            "position": 34,
+            "fromTemplateId": null,
+            "title": "auto"
+          },
+          "15": {
+            "position": 33,
+            "fromTemplateId": null,
+            "title": "auto",
+            "time": 0,
+            "id": 15,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "16": {
+            "id": 16,
+            "position": 32,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1
+          },
+          "17": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "position": 31,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "id": 17
+          },
+          "18": {
+            "title": "auto",
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 30,
+            "bookId": 1,
+            "id": 18,
+            "autoOutlineSort": true
+          },
+          "19": {
+            "position": 29,
+            "autoOutlineSort": true,
+            "id": 19,
+            "fromTemplateId": null,
+            "title": "auto",
+            "bookId": 1,
+            "time": 0
+          },
+          "20": {
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "id": 20,
+            "bookId": 1,
+            "position": 28,
+            "title": "auto",
+            "time": 0
+          },
+          "21": {
+            "position": 27,
+            "bookId": 1,
+            "id": 21,
+            "fromTemplateId": null,
+            "title": "auto",
+            "time": 0,
+            "autoOutlineSort": true
+          },
+          "22": {
+            "fromTemplateId": null,
+            "position": 26,
+            "title": "auto",
+            "id": 22,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "time": 0
+          },
+          "23": {
+            "bookId": 1,
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 25,
+            "title": "auto",
+            "id": 23,
+            "autoOutlineSort": true
+          },
+          "24": {
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 24,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 1,
+            "id": 24
+          },
+          "25": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "time": 0,
+            "id": 25,
+            "fromTemplateId": null,
+            "position": 23
+          },
+          "26": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 26,
+            "bookId": 1,
+            "position": 22,
+            "title": "auto",
+            "fromTemplateId": null
+          },
+          "27": {
+            "id": 27,
+            "time": 0,
+            "title": "auto",
+            "fromTemplateId": null,
+            "bookId": 1,
+            "position": 21,
+            "autoOutlineSort": true
+          },
+          "28": {
+            "id": 28,
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "position": 20,
+            "fromTemplateId": null
+          },
+          "29": {
+            "title": "auto",
+            "id": 29,
+            "fromTemplateId": null,
+            "position": 19,
+            "time": 0,
+            "bookId": 1,
+            "autoOutlineSort": true
+          },
+          "30": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1,
+            "position": 18,
+            "id": 30,
+            "fromTemplateId": null
+          },
+          "31": {
+            "position": 17,
+            "id": 31,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto"
+          },
+          "32": {
+            "id": 32,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 16,
+            "autoOutlineSort": true,
+            "title": "auto"
+          },
+          "33": {
+            "fromTemplateId": null,
+            "title": "auto",
+            "id": 33,
+            "bookId": 1,
+            "time": 0,
+            "autoOutlineSort": true,
+            "position": 15
+          },
+          "34": {
+            "time": 0,
+            "title": "auto",
+            "fromTemplateId": null,
+            "id": 34,
+            "bookId": 1,
+            "position": 14,
+            "autoOutlineSort": true
+          },
+          "35": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "time": 0,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "id": 35,
+            "position": 13
+          },
+          "36": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "id": 36,
+            "bookId": 1,
+            "position": 12,
+            "time": 0,
+            "fromTemplateId": null
+          },
+          "37": {
+            "position": 11,
+            "bookId": 1,
+            "time": 0,
+            "id": 37,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null
+          },
+          "38": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 10,
+            "bookId": 1,
+            "id": 38,
+            "title": "auto"
+          },
+          "39": {
+            "id": 39,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "position": 9
+          },
+          "40": {
+            "autoOutlineSort": true,
+            "id": 40,
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 8,
+            "title": "auto",
+            "bookId": 1
+          },
+          "41": {
+            "id": 41,
+            "bookId": 1,
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "position": 7,
+            "fromTemplateId": null
+          },
+          "42": {
+            "id": 42,
+            "fromTemplateId": null,
+            "title": "auto",
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "time": 0,
+            "position": 6
+          },
+          "43": {
+            "title": "auto",
+            "id": 43,
+            "bookId": 1,
+            "position": 5,
+            "time": 0,
+            "autoOutlineSort": true,
+            "fromTemplateId": null
+          },
+          "44": {
+            "bookId": 1,
+            "title": "auto",
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 44,
+            "position": 4
+          },
+          "45": {
+            "id": 45,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "time": 0,
+            "position": 3,
+            "title": "auto"
+          },
+          "46": {
+            "id": 46,
+            "title": "auto",
+            "bookId": 1,
+            "time": 0,
+            "position": 2,
+            "fromTemplateId": null,
+            "autoOutlineSort": true
+          },
+          "47": {
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "time": 0,
+            "position": 1,
+            "title": "auto",
+            "bookId": 1,
+            "id": 47
+          },
+          "48": {
+            "autoOutlineSort": true,
+            "id": 48,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1,
+            "position": 38,
+            "fromTemplateId": null
+          },
+          "49": {
+            "id": 49,
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 39,
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "50": [],
+          "null": [
+            50
+          ]
+        },
+        "index": {
+          "50": {
+            "fromTemplateId": null,
+            "expanded": true,
+            "templates": [],
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 50,
+            "position": 0,
+            "bookId": "series"
+          }
+        },
+        "heap": {
+          "50": null
+        }
+      }
+    },
+    "lines": [
+      {
+        "expanded": null,
+        "fromTemplateId": null,
+        "color": "BlueViolet",
+        "title": "Conclusion Phase",
+        "bookId": 1,
+        "id": 14,
+        "position": 6
+      },
+      {
+        "id": 12,
+        "fromTemplateId": null,
+        "position": 4,
+        "bookId": 1,
+        "expanded": null,
+        "color": "#ff7f32",
+        "title": "Proactive Phase"
+      },
+      {
+        "bookId": 1,
+        "id": 10,
+        "position": 2,
+        "color": "#78be20",
+        "title": "Reactive Phase",
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "fromTemplateId": null,
+        "id": 7,
+        "expanded": null,
+        "characterId": null,
+        "bookId": 1,
+        "color": "#ff7f32",
+        "title": "Preparation Phase",
+        "position": 0
+      }
+    ],
+    "cards": [
+      {
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The conclusion of the story and where the Protagonist returns to the Ordinary World a changed person. Be sure to tie up any loose ends, complete all the story and character arcs, and set any hooks that may be needed for future stories."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "id": 44,
+        "templates": [],
+        "lineId": 14,
+        "color": null,
+        "imageId": null,
+        "tags": [],
+        "beatId": 49,
+        "characters": [],
+        "bookId": null,
+        "title": "Conclusion Phase - Scene Forty",
+        "fromTemplateId": null
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionInBeat": 0,
+        "tags": [],
+        "bookId": null,
+        "positionWithinLine": 0,
+        "templates": [],
+        "fromTemplateId": null,
+        "beatId": 48,
+        "characters": [],
+        "lineId": 14,
+        "places": [],
+        "id": 43,
+        "color": null,
+        "title": "Conclusion Phase - Scene Thirty-Nine",
+        "imageId": null
+      },
+      {
+        "bookId": null,
+        "positionInBeat": 0,
+        "id": 42,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "characters": [],
+        "places": [],
+        "imageId": null,
+        "templates": [],
+        "tags": [],
+        "positionWithinLine": 0,
+        "lineId": 14,
+        "title": "Conclusion Phase - Scene Thirty-Eight",
+        "beatId": 11,
+        "color": null
+      },
+      {
+        "places": [],
+        "positionInBeat": 0,
+        "id": 41,
+        "imageId": null,
+        "bookId": null,
+        "fromTemplateId": null,
+        "tags": [],
+        "color": null,
+        "title": "Conclusion Phase - Scene Thirty-Seven",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "lineId": 14,
+        "beatId": 12,
+        "characters": [],
+        "templates": [],
+        "positionWithinLine": 0
+      },
+      {
+        "positionInBeat": 0,
+        "characters": [],
+        "id": 40,
+        "beatId": 13,
+        "title": "Conclusion Phase - Scene Thirty-Six",
+        "fromTemplateId": null,
+        "color": null,
+        "places": [],
+        "templates": [],
+        "positionWithinLine": 0,
+        "lineId": 14,
+        "imageId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "tags": [],
+        "bookId": null
+      },
+      {
+        "id": 39,
+        "characters": [],
+        "title": "Conclusion Phase - Scene Thirty-Five",
+        "tags": [],
+        "bookId": null,
+        "imageId": null,
+        "fromTemplateId": null,
+        "beatId": 14,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ]
+          }
+        ],
+        "color": null,
+        "positionWithinLine": 0,
+        "lineId": 14,
+        "positionInBeat": 0,
+        "places": [],
+        "templates": []
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Show the Protagonist continuing to grow and become more comfortable with their new skills and courage as they work towards, and ultimately reach, the final confrontation. Remember, the final confrontation is the big payoff the readers have been waiting for, win or lose. Make it epic and memorable while using all the Protagonist has gained to this point."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "bookId": null,
+        "lineId": 14,
+        "positionWithinLine": 0,
+        "title": "Conclusion Phase - Scene Thirty-Four",
+        "id": 38,
+        "imageId": null,
+        "characters": [],
+        "tags": [],
+        "beatId": 15,
+        "color": null,
+        "places": []
+      },
+      {
+        "characters": [],
+        "beatId": 16,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 4: The Conclusion Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Conclusion Phase is the most straightforward of the four phases of story structure.  "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "In this phase, the final phase of the book, the Protagonist finds the courage and personal growth to force their way forward with a solution to the problem before them and, at long last, finally defeat the Antagonist and achieve their goal."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Or fail trying."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Simply put, the Protagonist does whatever must be done in order to reach the goal, even if it means giving the ultimate sacrifice."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Conclusion Phase makes up approximately the final 20% of the story, from 80% - 100%."
+              }
+            ]
+          }
+        ],
+        "title": "Conclusion Phase - Scene Thirty-Three",
+        "id": 37,
+        "bookId": null,
+        "color": null,
+        "fromTemplateId": null,
+        "tags": [],
+        "templates": [],
+        "places": [],
+        "positionInBeat": 0,
+        "imageId": null,
+        "positionWithinLine": 0,
+        "lineId": 14
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ]
+          }
+        ],
+        "color": null,
+        "tags": [],
+        "places": [],
+        "beatId": 18,
+        "characters": [],
+        "fromTemplateId": null,
+        "templates": [],
+        "imageId": null,
+        "bookId": null,
+        "title": "Proactive Phase - Scene Thirty-One",
+        "id": 48,
+        "lineId": 12,
+        "positionWithinLine": 0,
+        "positionInBeat": 0
+      },
+      {
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "beatId": 17,
+        "bookId": null,
+        "places": [],
+        "id": 47,
+        "imageId": null,
+        "templates": [],
+        "characters": [],
+        "lineId": 12,
+        "color": "#e5554f",
+        "title": "Game Changing Moment #3",
+        "tags": [],
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 3: Game-Changing Moment #3 (Connects the Proactive Phase to the Conclusion Phase)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Game-Changing Moment #3 is the beginning of the end.  It is the point where the final piece of information the Protagonist needs to combat the Antagonist comes into play.  "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "With this information, the Protagonist can move from the cycle of attempt and failure to one final, no-holds-barred, all-or-nothing attempt to confront the Antagonist and come out successful."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "It is this new information that takes the Protagonist from the attacking warrior forced to face off against their own inner demons (and failing as a result) to the selfless martyr that will do or give anything to come out on top in that final confrontation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Nothing new should enter your story after this point. The Protagonist should have everything they need to either save the day or fail miserably. Either way, the end is nigh."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "positionInBeat": 0,
+        "lineId": 12,
+        "characters": [],
+        "templates": [],
+        "imageId": null,
+        "color": null,
+        "places": [],
+        "bookId": null,
+        "fromTemplateId": null,
+        "beatId": 19,
+        "title": "Proactive Phase - Scene Thirty",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "tags": []
+      },
+      {
+        "tags": [],
+        "color": null,
+        "fromTemplateId": null,
+        "places": [],
+        "beatId": 20,
+        "title": "Proactive Phase - Scene Twenty-Nine",
+        "templates": [],
+        "imageId": null,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionInBeat": 0,
+        "lineId": 12,
+        "positionWithinLine": 0,
+        "id": 33,
+        "characters": []
+      },
+      {
+        "fromTemplateId": null,
+        "templates": [],
+        "places": [],
+        "color": null,
+        "positionInBeat": 0,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionWithinLine": 0,
+        "title": "Proactive Phase - Scene Twenty-Eight",
+        "characters": [],
+        "imageId": null,
+        "id": 32,
+        "beatId": 21,
+        "lineId": 12,
+        "tags": []
+      },
+      {
+        "color": null,
+        "characters": [],
+        "positionInBeat": 0,
+        "title": "Proactive Phase - Scene Twenty-Seven",
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "bookId": null,
+        "fromTemplateId": null,
+        "imageId": null,
+        "tags": [],
+        "positionWithinLine": 0,
+        "lineId": 12,
+        "templates": [],
+        "beatId": 22,
+        "id": 31
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "beatId": 23,
+        "places": [],
+        "bookId": null,
+        "characters": [],
+        "positionWithinLine": 0,
+        "lineId": 12,
+        "tags": [],
+        "fromTemplateId": null,
+        "id": 30,
+        "templates": [],
+        "positionInBeat": 0,
+        "color": null,
+        "title": "Proactive Phase - Scene Twenty-Six",
+        "imageId": null
+      },
+      {
+        "templates": [],
+        "positionInBeat": 0,
+        "bookId": null,
+        "fromTemplateId": null,
+        "beatId": 24,
+        "positionWithinLine": 0,
+        "tags": [],
+        "title": "Proactive Phase - Scene Twenty-Five",
+        "id": 29,
+        "color": null,
+        "imageId": null,
+        "lineId": 12,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "places": [],
+        "characters": []
+      },
+      {
+        "characters": [],
+        "beatId": 25,
+        "lineId": 12,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "places": [],
+        "bookId": null,
+        "imageId": null,
+        "title": "Proactive Phase - Scene Twenty-Four",
+        "templates": [],
+        "tags": [],
+        "color": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "id": 28,
+        "fromTemplateId": null
+      },
+      {
+        "positionWithinLine": 0,
+        "places": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "imageId": null,
+        "bookId": null,
+        "fromTemplateId": null,
+        "beatId": 26,
+        "characters": [],
+        "title": "Proactive Phase - Scene Twenty-Three",
+        "lineId": 12,
+        "color": null,
+        "tags": [],
+        "id": 27,
+        "templates": [],
+        "positionInBeat": 0
+      },
+      {
+        "lineId": 12,
+        "templates": [],
+        "imageId": null,
+        "characters": [],
+        "beatId": 27,
+        "color": null,
+        "positionWithinLine": 0,
+        "tags": [],
+        "id": 26,
+        "places": [],
+        "positionInBeat": 0,
+        "title": "Proactive Phase - Scene Twenty-Two",
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 3: The Proactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue putting the Protagonist through try fail cycles as they use what they learned in the second GCM while they attempt to confront the Antagonist. Remember, the Protagonist is growing stronger and learning more as this progresses, leading them to the next and final GCM. The tension and stakes rise at each attempt to confront the Antagonist."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "bookId": null
+      },
+      {
+        "tags": [],
+        "positionWithinLine": 0,
+        "places": [],
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 3: The Proactive Phase"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Proactive Phase is that point in the story when the Protagonist begins to confront the Antagonist with direct thought and action.  "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Up to this point, the Protagonist has been fumbling about, reacting to events and doing what they can to understand the mess they find themselves in.  Then the information the Protagonist gains in the second GCM parts the curtain just enough so he can see what lies ahead.  A new plan of action forms, and the Protagonist charges off to see it through."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "No longer content to sit back and wait for the conflict to happen to him, the Protagonist now goes in search of it directly."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Proactive Phase is all about the Protagonist trying and failing and trying again.  Each time they attempt to defeat the Antagonist, the stakes grow higher, and the tension grows stronger.  "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Proactive Phase makes up approximately 30% of the story, from 50% - 80%."
+              }
+            ]
+          }
+        ],
+        "id": 25,
+        "characters": [],
+        "fromTemplateId": null,
+        "beatId": 28,
+        "templates": [],
+        "imageId": null,
+        "color": null,
+        "lineId": 12,
+        "bookId": null,
+        "title": "Proactive Phase - Scene Twenty-One"
+      },
+      {
+        "beatId": 30,
+        "title": "Reactive Phase - Scene Nineteen",
+        "bookId": null,
+        "imageId": null,
+        "tags": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "id": 46,
+        "lineId": 10,
+        "characters": [],
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "templates": [],
+        "color": null,
+        "places": []
+      },
+      {
+        "places": [],
+        "lineId": 10,
+        "characters": [],
+        "title": "Game Changing Moment #2",
+        "imageId": null,
+        "bookId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "id": 45,
+        "color": "#e5554f",
+        "templates": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 2: Game-Changing Moment #2 (Connects the Reactive Phase to the Proactive Phase)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Much like the first, the second Game-Changing Moment (GCM #2) serves as a transitional scene, moving the story from the Reactive Phase to the Proactive Phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It is at this point that the Protagonist learns who or what is standing in their way. They know the identity of the Antagonist and realize that in order to reach their goal, they will have to prevent the Antagonist from reaching their own. The Protagonist’s goal and the Antagonist’s goal are diametrically opposed.    "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "From this point forward, the Protagonist will make increasingly more difficult attempts to reach their story goal."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ]
+          }
+        ],
+        "beatId": 29,
+        "tags": [],
+        "positionInBeat": 0
+      },
+      {
+        "positionWithinLine": 0,
+        "imageId": null,
+        "places": [],
+        "fromTemplateId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "beatId": 31,
+        "id": 23,
+        "bookId": null,
+        "lineId": 10,
+        "title": "Reactive Phase - Scene Eighteen",
+        "characters": [],
+        "tags": [],
+        "positionInBeat": 0,
+        "color": null
+      },
+      {
+        "places": [],
+        "positionInBeat": 0,
+        "title": "Reactive Phase - Scene Seventeen",
+        "positionWithinLine": 0,
+        "beatId": 32,
+        "fromTemplateId": null,
+        "tags": [],
+        "lineId": 10,
+        "characters": [],
+        "color": null,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "id": 22,
+        "imageId": null
+      },
+      {
+        "lineId": 10,
+        "places": [],
+        "color": null,
+        "imageId": null,
+        "characters": [],
+        "id": 21,
+        "beatId": 33,
+        "tags": [],
+        "positionInBeat": 0,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "fromTemplateId": null,
+        "title": "Reactive Phase - Scene Sixteen"
+      },
+      {
+        "id": 20,
+        "title": "Reactive Phase - Scene Fifteen",
+        "bookId": null,
+        "templates": [],
+        "beatId": 34,
+        "fromTemplateId": null,
+        "color": null,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "characters": [],
+        "places": [],
+        "positionInBeat": 0,
+        "lineId": 10,
+        "tags": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "color": null,
+        "beatId": 35,
+        "title": "Reactive Phase - Scene Fourteen",
+        "positionWithinLine": 0,
+        "places": [],
+        "templates": [],
+        "bookId": null,
+        "imageId": null,
+        "lineId": 10,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "tags": [],
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "characters": []
+      },
+      {
+        "bookId": null,
+        "characters": [],
+        "color": null,
+        "fromTemplateId": null,
+        "beatId": 36,
+        "imageId": null,
+        "positionInBeat": 0,
+        "title": "Reactive Phase - Scene Thirteen",
+        "positionWithinLine": 0,
+        "places": [],
+        "lineId": 10,
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "id": 18
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "imageId": null,
+        "positionWithinLine": 0,
+        "lineId": 10,
+        "beatId": 37,
+        "bookId": null,
+        "templates": [],
+        "positionInBeat": 0,
+        "characters": [],
+        "places": [],
+        "tags": [],
+        "color": null,
+        "title": "Reactive Phase - Scene Twelve",
+        "id": 17,
+        "fromTemplateId": null
+      },
+      {
+        "color": null,
+        "lineId": 10,
+        "templates": [],
+        "positionInBeat": 0,
+        "title": "Reactive Phase - Scene Eleven",
+        "beatId": 38,
+        "tags": [],
+        "characters": [],
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2: Reactive Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from the GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ]
+          }
+        ],
+        "bookId": null,
+        "imageId": null,
+        "id": 16,
+        "places": [],
+        "positionWithinLine": 0
+      },
+      {
+        "fromTemplateId": null,
+        "places": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Act 2: Reactive Phase"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue developing the Protagonist's response to the conflict from GCM#1. Keep in mind that the Protagonist knows very little information at this point, and their emotional response to the problem should reflect that. As the Reactive Phase continues, be sure to show the Protagonist adapting accordingly, so they are ready for the next phase."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ]
+          }
+        ],
+        "lineId": 10,
+        "bookId": null,
+        "imageId": null,
+        "beatId": 39,
+        "title": "Reactive Phase - Scene Ten",
+        "tags": [],
+        "color": null,
+        "positionWithinLine": 0,
+        "characters": [],
+        "id": 15,
+        "positionInBeat": 0,
+        "templates": []
+      },
+      {
+        "characters": [],
+        "title": "Reactive Phase - Scene Nine",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 2: The Reactive Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase is focused entirely around how the Protagonist responds to the conflict that has just reared its head in GCM#1. It is, in essence, the Protagonist’s blind response to the problem.  They are not yet organized enough or knowledgeable enough to attack the problem head-on (that’s the next phase of the story structure). Right now, they are just reacting – running, hiding, observing, analyzing, avoiding, and the like."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Put yourself in the Protagonist’s shoes.  If your own world suddenly fell apart, you’d probably spend some time simply reacting to the mess as well.  You’d try to figure out what was going on, buy yourself some time to get organized, plan a response, and regroup, and that is exactly what happens to the Protagonist in this section of the book."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonist knows very little information at this point, and their emotional response to the problem should reflect that."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Reactive Phase makes up approximately 30% of the story, from 20% - 50%."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "beatId": 40,
+        "lineId": 10,
+        "fromTemplateId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "color": null,
+        "positionInBeat": 0,
+        "templates": [],
+        "tags": [],
+        "id": 14,
+        "places": []
+      },
+      {
+        "positionInBeat": 0,
+        "tags": [],
+        "positionWithinLine": 0,
+        "places": [],
+        "beatId": 41,
+        "color": "#e5554f",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 1: Game-Changing Moment #1 (Connects the Preparation Phase to the Reactive Phase)",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Game Changing Moment #1 is the first critical moment in the story. It is that point in the story where the Protagonist can no longer continue doing the same old thing they’ve been doing.  Something has happened that drives them forward into the rest of the tale, and nothing will be the same for them ever again."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the point where the story really begins because it is at this point that the conflict of the story is introduced."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Remember, without conflict, you don’t have a story at all, so this is one of the most important points  in the entire plot, if not THE most important point. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Game-Changing Moment #1 lets the Protagonist – and thus the reader as well – know that from this point forward, things will be different.  Something new has entered the Protagonist’s life – a sudden need, a mission, a calling – and once it arrives, they can never go back to the ways things were.  Game-Changing Moment #1 demands attention, for it has now become an obstacle to whatever it is the Protagonist needs to accomplish."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "lineId": 7,
+        "imageId": null,
+        "fromTemplateId": null,
+        "bookId": null,
+        "id": 50,
+        "templates": [],
+        "characters": [],
+        "title": "Game Changing Moment #1"
+      },
+      {
+        "title": "Prep Phase - Scene Seven",
+        "beatId": 42,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, internal and external goals and needs, and something that displeases them about their Ordinary World. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "positionInBeat": 0,
+        "imageId": null,
+        "lineId": 7,
+        "positionWithinLine": 0,
+        "fromTemplateId": null,
+        "templates": [],
+        "places": [],
+        "characters": [],
+        "tags": [],
+        "id": 49,
+        "bookId": null,
+        "color": null
+      },
+      {
+        "fromTemplateId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, as well as their needs and internal and external goals. Identifying those personal flaws that they struggle against will also help you plan out their character growth as the story progresses. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "imageId": null,
+        "id": 12,
+        "title": "Prep Phase - Scene Six",
+        "bookId": null,
+        "lineId": 7,
+        "characters": [],
+        "beatId": 43,
+        "tags": [],
+        "color": null,
+        "positionInBeat": 0,
+        "places": [],
+        "templates": []
+      },
+      {
+        "positionWithinLine": 0,
+        "color": null,
+        "beatId": 44,
+        "templates": [],
+        "imageId": null,
+        "title": "Prep Phase - Scene Five",
+        "places": [],
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, as well as their needs and internal and external goals. Identifying those personal flaws that they struggle against will also help you plan out their character growth as the story progresses. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "id": 11,
+        "fromTemplateId": null,
+        "tags": [],
+        "lineId": 7,
+        "positionInBeat": 0,
+        "bookId": null
+      },
+      {
+        "templates": [],
+        "beatId": 45,
+        "fromTemplateId": null,
+        "imageId": null,
+        "title": "Prep Phase - Scene Four",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, as well as their needs and internal and external goals. Identifying those personal flaws that they struggle against will also help you plan out their character growth as the story progresses. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "id": 10,
+        "bookId": null,
+        "tags": [],
+        "positionInBeat": 0,
+        "characters": [],
+        "lineId": 7,
+        "positionWithinLine": 0,
+        "color": null
+      },
+      {
+        "color": null,
+        "tags": [],
+        "positionInBeat": 0,
+        "id": 9,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, as well as their needs and internal and external goals. Identifying those personal flaws that they struggle against will also help you plan out their character growth as the story progresses. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "imageId": null,
+        "lineId": 7,
+        "templates": [],
+        "title": "Prep Phase - Scene Three",
+        "beatId": 46,
+        "fromTemplateId": null,
+        "characters": [],
+        "places": [],
+        "bookId": null
+      },
+      {
+        "templates": [],
+        "bookId": null,
+        "beatId": 47,
+        "fromTemplateId": null,
+        "characters": [],
+        "color": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "tags": [],
+        "title": "Prep Phase - Scene Two",
+        "imageId": null,
+        "id": 8,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Continue introducing the Protagonist to your readers. Be sure to include details about their daily life, as well as their needs and internal and external goals. Identifying those personal flaws that they struggle against will also help you plan out their character growth as the story progresses. Remember, this is all leading up to the first GCM (Game-Changing Moment)."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that these percentage breakdowns are approximations. If your Preparation Phase is only 15%, that's fine and so on. However, keep them close to these numbers. A novel with a Reactive Phase that is 80% of the book will be wildly off-balance."
+              }
+            ]
+          }
+        ],
+        "lineId": 7
+      },
+      {
+        "bookId": null,
+        "characters": [],
+        "id": 7,
+        "templates": [],
+        "color": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "imageId": null,
+        "tags": [],
+        "lineId": 7,
+        "places": [],
+        "beatId": 10,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 1: The Preparation Phase",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase gets the story off to a proper start by introducing the characters, the setting, and the stakes. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "It introduces the reader to the hero and lets them glimpse what life is like for that individual prior to the events that send things spiraling out of the ordinary. Doing so allows the reader to connect with the Protagonist, to care about them, before the writer throws them both to the wolves.   The more the reader cares about the Protagonist - their wants and goals, dreams and desires, trials and tribulations before the arrival of the central conflict of the story - the more they will care about what happens to them after that conflict appears."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "About The Story Engines Framework:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Story Engines process uses a four-act (four-phase) structure designed to heighten the emotional connection between the reader and the Protagonist of the story. Each act exists for a specific reason and pushes the story forward in different, but equally important, ways.  Their positions in the story are as important as their content; put the wrong act in the wrong place and you’ll destroy that emotional connection you’re working so hard to build.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Each act is tied to the next through a critical transition scene known as a Game-Changing Moment (GCM.) Each GCM moves the Protagonist forward through the revelation of key information which they need to reach their story goal and puts them into a new emotional stance that is represented by the action that follows."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Seven elements – four acts and three game-changing moments – form the base structure of your story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Preparation Phase makes up approximately the first 20% of the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note that this template is set up as a forty-chapter story, based around 80K word manuscripts with forty scenes of 2k words each. Each chapter also happens to be only a single scene in length. This model can be used to shrink or expand the number of chapters or scenes as needed. This works so long as the proper ratios for each phase (20% - 30% - 30% - 20%) are maintained. You can rearrange this template as necessary to fit whatever length novel you need."
+              }
+            ]
+          }
+        ],
+        "title": "Prep Phase - Scene One",
+        "fromTemplateId": null
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "textColor": "#0b1117",
+        "borderStyle": "NONE",
+        "name": "Chapter",
+        "autoNumber": true,
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "backgroundColor": "none",
+        "textSize": 24,
+        "level": 0,
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        },
+        "borderColor": "#6cace4"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sc5",
+  "type": "scenes",
+  "name": "W Scene",
+  "description": "Based on the W Plot method",
+  "version": "2022.7.20",
+  "attributes": [
+    {
+      "name": "Trigger Event",
+      "type": "text",
+      "description": "The scene's opening event, which places the protagonist into difficult circumstances"
+    },
+    {
+      "name": "1st Turning Point",
+      "type": "text",
+      "description": "An event or choice that briefly improves the protagonist's circumstances"
+    },
+    {
+      "name": "2nd Trigger Event",
+      "type": "text",
+      "description": "An event at the \"scene midpoint\" that presents the protagonist with further difficulty"
+    },
+    {
+      "name": "2nd Turning Point",
+      "type": "text",
+      "description": "At the scene's darkest moment, circumstances improve again, leading to the scene's climax"
+    },
+    {
+      "name": "Resolution",
+      "type": "text",
+      "description": "Wrap up the scene's central conflict and hook the reader into the next scene or chapter"
+    }
+  ]
+}
