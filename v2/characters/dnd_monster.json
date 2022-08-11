@@ -1,0 +1,140 @@
+{
+  "id": "ch14",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "D&D Monster Sheet",
+  "description": "Develop your monster based on the Dungeons & Dragons tabletop role-playing game",
+  "link": "https://dnd.wizards.com/products/monster-manual",
+  "attributes": [
+    {
+      "name": "Type",
+      "description": "The monster's Type, or species, influences their appearance and traits (e.g. Beast, Dragon, Giant)",
+      "type": "text"
+    },
+    {
+      "name": "Alignment",
+      "description": "A representation of the monster's ethical and moral values (e.g. lawful good, neutral, chaotic evil)",
+      "type": "text"
+    },
+    {
+      "name": "Armor Class",
+      "description": "A score representing how difficult the monster is to successfully attack",
+      "type": "text"
+    },
+    {
+      "name": "Hit Points",
+      "description": "A score representing the's monster's current health",
+      "type": "text"
+    },
+    {
+      "name": "Speed",
+      "description": "A score representing the monster's raw speed, which is influenced by their Type",
+      "type": "text"
+    },
+    {
+      "name": "Strength",
+      "description": "On a scale of 1-30, a score representing skill in physical combat, carrying objects, and breaking physical barriers",
+      "type": "text"
+    },
+    {
+      "name": "Dexterity",
+      "description": "On a scale of 1-30, a score representing skill in dodging attacks, avoiding traps, and hiding from enemies",
+      "type": "text"
+    },
+    {
+      "name": "Constitution",
+      "description": "On a scale of 1-30, a score representing health, endurance, and general survival ability",
+      "type": "text"
+    },
+    {
+      "name": "Intelligence",
+      "description": "On a scale of 1-30, a score representing knowledge, cleverness, and logical reasoning skills",
+      "type": "text"
+    },
+    {
+      "name": "Wisdom",
+      "description": "On a scale of 1-30, a score representing awareness, intuition, and ability to spot hidden traps and foes",
+      "type": "text"
+    },
+    {
+      "name": "Charisma",
+      "description": "On a scale of 1-30, a score representing skill in social situations, likability, and general persuasiveness",
+      "type": "text"
+    },
+    {
+      "name": "Saving Throws",
+      "description": "A score representing the character's ability to resist or prevent a threat",
+      "type": "paragraph"
+    },
+    {
+      "name": "Skills",
+      "description": "The ability score of each character skill (e.g. acrobatics, arcana, medicine, religion, survival)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Damage Vulnerabilities",
+      "description": "The damage types that cause double damage (e.g. acid, fire, poison)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Damage Resistances",
+      "description": "The damage types that only cause the monster half damage (e.g. bludgeoning, force, lightning)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Damage Immunities",
+      "description": "The damage types that cause the monster no damage (e.g. psychic, slashing, thunder)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Condition Immunities",
+      "description": "The conditions that cause the monster no adverse effects (e.g. blinded, paralyzed, stunned)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Senses",
+      "description": "The monster's Passive Wisdom (Perception) score, and any special senses they have (e.g. Truesight)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Languages",
+      "description": "The languages the monster can speak or understand",
+      "type": "paragraph"
+    },
+    {
+      "name": "Challenge",
+      "description": "A score representing how difficult the monster is to defeat in combat and the experience points (XP) it awards",
+      "type": "text"
+    },
+    {
+      "name": "Actions",
+      "description": "The actions the monster can take in combat",
+      "type": "paragraph"
+    },
+    {
+      "name": "Reactions",
+      "description": "The monster's special reactions in combat, if any",
+      "type": "paragraph"
+    },
+    {
+      "name": "Legendary Actions",
+      "description": "Special actions the monster can take outside its turn (applies to legendary creatures only)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Size",
+      "description": "The monster's Size determines how much space it occupies in combat (e.g. Tiny, Medium, Huge)",
+      "type": "text"
+    },
+    {
+      "name": "Special Traits",
+      "description": "Special characteristics and/or abilities that may influence the monster's skill in combat",
+      "type": "paragraph"
+    },
+    {
+      "name": "Equipment",
+      "description": "The monster's inventory of gear, gems, jewelry, magic items, and other objects of value (e.g. rope)",
+      "type": "paragraph"
+    }
+  ]
+}

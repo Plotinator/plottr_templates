@@ -1,0 +1,30 @@
+{
+  "id": "ch23",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Syd Field Character Qualities",
+  "description": "Identify these four qualities acclaimed screenwriter Syd Field believes all great characters must have",
+  "link": "https://sydfield.com/",
+  "attributes": [
+    {
+      "name": "Dramatic Need",
+      "description": "What drives the character? What do they want to win, gain, obtain, or achieve?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Strong Point of View",
+      "description": "What is the character's unique point of view? What do they believe that could generate conflict?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Attitude",
+      "description": "What are the character's mannerisms, behaviors, and feelings? How do these reveal their attitude?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Change",
+      "description": "How does the character change? Is their need, point of view, or attitude transformed by the story's end?",
+      "type": "paragraph"
+    }
+  ]
+}

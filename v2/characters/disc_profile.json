@@ -1,0 +1,56 @@
+{
+  "id": "ch16",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "DISC Personality Profile",
+  "description": "Identify how your character expresses the four personality profiles of this framework",
+  "link": "https://www.discprofile.com/what-is-disc",
+  "attributes": [
+    {
+      "name": "DISC Style",
+      "description": "There are four main DISC personality styles: D = Dominance; I = Influence; S = Steadiness; and C = Conscientiousness",
+      "link": "https://www.discprofile.com/what-is-disc/disc-styles",
+      "type": "text"
+    },
+    {
+      "name": "Traits",
+      "description": "What are their primary traits?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Goals",
+      "description": "What are their primary goals?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Fears",
+      "description": "What are their primary fears?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Influences Others with...",
+      "description": "What traits do they use to influence others?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Overuses",
+      "description": "What traits do they overuse to their detriment?",
+      "type": "paragraph"
+    },
+    {
+      "name": "In Conflict",
+      "description": "How do they respond when experiencing a conflict?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Could Improve Effectiveness by...",
+      "description": "What could they do to become a better version of themselves?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Leadership Qualities",
+      "description": "How do they demonstrate their leadership?",
+      "type": "paragraph"
+    }
+  ]
+}

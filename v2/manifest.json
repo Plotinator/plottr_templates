@@ -1,5 +1,5 @@
 {
-  "version": "2022.7.21",
+  "version": "2022.8.11",
   "templates": [
     {
       "id": "proj1",
@@ -45,6 +45,81 @@
       "id": "ch8",
       "version": "2022.7.20",
       "url": "/v2/characters/magic_blueprint.json"
+    },
+    {
+      "id": "ch9",
+      "version": "2022.8.11",
+      "url": "/v2/characters/bernard_pivot.json"
+    },
+    {
+      "id": "ch10",
+      "version": "2022.8.11",
+      "url": "/v2/characters/big_5_personality.json"
+    },
+    {
+      "id": "ch11",
+      "version": "2022.8.11",
+      "url": "/v2/characters/character_arc.json"
+    },
+    {
+      "id": "ch12",
+      "version": "2022.8.11",
+      "url": "/v2/characters/clifton_strengths.json"
+    },
+    {
+      "id": "ch13",
+      "version": "2022.8.11",
+      "url": "/v2/characters/dnd_character.json"
+    },
+    {
+      "id": "ch14",
+      "version": "2022.8.11",
+      "url": "/v2/characters/dnd_monster.json"
+    },
+    {
+      "id": "ch15",
+      "version": "2022.8.11",
+      "url": "/v2/characters/dnd_npc.json"
+    },
+    {
+      "id": "ch16",
+      "version": "2022.8.11",
+      "url": "/v2/characters/disc_profile.json"
+    },
+    {
+      "id": "ch17",
+      "version": "2022.8.11",
+      "url": "/v2/characters/james_lipton.json"
+    },
+    {
+      "id": "ch18",
+      "version": "2022.8.11",
+      "url": "/v2/characters/marcel_proust.json"
+    },
+    {
+      "id": "ch19",
+      "version": "2022.8.11",
+      "url": "/v2/characters/maslow_hierarchy.json"
+    },
+    {
+      "id": "ch20",
+      "version": "2022.8.11",
+      "url": "/v2/characters/numerology.json"
+    },
+    {
+      "id": "ch21",
+      "version": "2022.8.11",
+      "url": "/v2/characters/dating_profile.json"
+    },
+    {
+      "id": "ch22",
+      "version": "2022.8.11",
+      "url": "/v2/characters/rorschach_inkblot.json"
+    },
+    {
+      "id": "ch23",
+      "version": "2022.8.11",
+      "url": "/v2/characters/syd_field.json"
     },
     {
       "id": "pl1",
