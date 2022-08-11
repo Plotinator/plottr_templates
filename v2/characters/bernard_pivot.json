@@ -1,0 +1,49 @@
+{
+  "id": "ch9",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Bernard Pivot Questionnaire",
+  "description": "Interview your character using the ten questions from this questionnaire inspired by Marcel Proust",
+  "attributes": [
+    {
+      "name": "What is your favorite word?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your least favorite word?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your favorite drug?",
+      "type": "paragraph"
+    },
+    {
+      "name": "If you were reincarnated as some other plant or animal, what would it be?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What sound or noise do you hate?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Who would you like to see on a new banknote?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What sound or noise do you love?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your favorite curse word?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What profession other than your own would you not like to attempt?",
+      "type": "paragraph"
+    },
+    {
+      "name": "If Heaven exists, what would you like to hear God say when you arrive at the Pearly Gates?",
+      "type": "paragraph"
+    }
+  ]
+}

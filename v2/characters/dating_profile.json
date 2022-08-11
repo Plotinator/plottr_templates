@@ -1,0 +1,230 @@
+{
+  "id": "ch21",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Online Dating Profile",
+  "description": "Interview your character using these profile prompts from real online dating sites",
+  "attributes": [
+    {
+      "name": "Headline",
+      "description": "A short tagline that would intrigue a potential partner to learn more about you",
+      "type": "text"
+    },
+    {
+      "name": "About Me",
+      "description": "A few paragraphs introducing yourself in a way that would make potential partners interested in communicating with you",
+      "type": "paragraph"
+    },
+    {
+      "name": "Seeking",
+      "description": "What type of partner are you seeking? What age range, gender, and other personal details are important to you?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Age",
+      "description": "What age are you?",
+      "type": "text"
+    },
+    {
+      "name": "Sexual Preference",
+      "description": "What is your sexual preference? (e.g. heterosexual, homosexual, bisexual)",
+      "type": "text"
+    },
+    {
+      "name": "Gender",
+      "description": "What is your gender? (e.g. male, female, nonbinary, transgender)",
+      "type": "text"
+    },
+    {
+      "name": "Pronouns",
+      "description": "What pronouns do you use? (e.g. he/him, she/her, they/them)",
+      "type": "text"
+    },
+    {
+      "name": "Location",
+      "description": "Where do you currently live?",
+      "type": "text"
+    },
+    {
+      "name": "Relationship Status",
+      "description": "What is your current relationship status? (e.g. single, divorced, in an open relationship)",
+      "type": "text"
+    },
+    {
+      "name": "Height",
+      "description": "How tall are you?",
+      "type": "text"
+    },
+    {
+      "name": "Body Type / Weight",
+      "description": "What is your body type or weight?",
+      "type": "text"
+    },
+    {
+      "name": "Languages",
+      "description": "What languages do you speak?",
+      "type": "text"
+    },
+    {
+      "name": "Education",
+      "description": "What level of education do you have? Where did you go to school?",
+      "type": "text"
+    },
+    {
+      "name": "Religion / Spirituality",
+      "description": "What is your religious or spiritual background?",
+      "type": "text"
+    },
+    {
+      "name": "Ethnicity",
+      "description": "What is your ethnic background?",
+      "type": "text"
+    },
+    {
+      "name": "Smoking / Drinking / Drugs",
+      "description": "Do you smoke, drink, or use drugs? If so, what type and how often?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Kids",
+      "description": "Do you have kids? If not, would you like to start a family?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Pets",
+      "description": "Do you have any pets? If so, what type and how many?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Diet",
+      "description": "Do you keep a particular diet or have any dietary restrictions?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Zodiac Sign",
+      "description": "What is your astrological sign?",
+      "type": "text"
+    },
+    {
+      "name": "Where were you born?",
+      "description": "What is your country or city of birth?",
+      "type": "text"
+    },
+    {
+      "name": "What's the first thing people notice about you?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are you doing with your life? Do you have a job?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What’s the most important thing you’re looking for in a partner?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are your short-term goals for yourself this year?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What’s one long-term goal you have for the next five years?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What personal qualities make you especially good at your job?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What have you worked hardest to achieve in your life?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are you most passionate about?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are you really good at?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you spend a lot of time thinking about?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What aspects of yourself are you most proud of?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are the three things for which you are most thankful?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are five things you could never do without?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What activities or moments make you happy to be alive?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How do you typically spend your leisure time?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you do on a typical Friday night?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How would you describe your ideal weekend?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you wish you did more often?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are your most and least favorite books, movies, shows, music, and food?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What was the last live event you went to? How did you enjoy it?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What’s your favorite thing to cook?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How would you describe your relationship with your family?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are your favorite things to do with your friends?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What characteristics do your friends have in common?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are four words your friends would use to describe you?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What people or life experiences have shaped you the most? How?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How have you been feeling about life lately?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How do you feel about your physical appearance?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What's the most private thing you're willing to admit?",
+      "type": "paragraph"
+    }
+  ]
+}

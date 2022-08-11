@@ -1,0 +1,35 @@
+{
+  "id": "ch10",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Big 5 Personality Traits",
+  "description": "Identify how your character expresses these five major personality traits",
+  "link": "https://www.psychologytoday.com/us/basics/big-5-personality-traits",
+  "attributes": [
+    {
+      "name": "Openness",
+      "description": "The degree to which they are creative, curious, and eager to learn or experience life (e.g. high or low)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Conscientiousness",
+      "description": "The degree to which they are thoughtful, organized, detail-oriented, or goal-directed (e.g. high or low)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Extraversion",
+      "description": "The degree to which they are talkative, assertive, expressive, or thrive in social situations (e.g. high or low)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Agreeableness",
+      "description": "The degree to which they are trustworthy, kind, altruistic, helpful, or empathetic (e.g. high or low)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Neuroticism",
+      "description": "The degree to which they are sad, moody, anxious, irritable, or emotionally unstable (e.g. high or low)",
+      "type": "paragraph"
+    }
+  ]
+}
