@@ -1,5 +1,5 @@
 {
-  "version": "2022.8.11",
+  "version": "2022.8.15",
   "templates": [
     {
       "id": "proj1",
@@ -68,7 +68,7 @@
     },
     {
       "id": "ch13",
-      "version": "2022.8.11",
+      "version": "2022.8.15",
       "url": "/v2/characters/dnd_character.json"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "id": "ch15",
-      "version": "2022.8.11",
+      "version": "2022.8.15",
       "url": "/v2/characters/dnd_npc.json"
     },
     {
