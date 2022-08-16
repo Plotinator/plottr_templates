@@ -1,6 +1,6 @@
 {
   "id": "ch15",
-  "version": "2022.8.11",
+  "version": "2022.8.15",
   "type": "characters",
   "name": "D&D NPC Sheet",
   "description": "Develop your non-player character based on the Dungeons & Dragons tabletop role-playing game",
@@ -103,7 +103,7 @@
     },
     {
       "name": "Cantrips",
-      "description": "The smaller spells the NPC can cast at will",
+      "description": "The lesser spells the NPC can cast at will",
       "type": "paragraph"
     },
     {
