@@ -1,0 +1,75 @@
+{
+  "id": "ch22",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Rorschach Inkblot Test",
+  "description": "Assess your character using psychologist Hermann Rorschach's image-based personality test",
+  "link": "https://rorschach.org/",
+  "attributes": [
+    {
+      "name": "Blot Card 1",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-1.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 2",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-2.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 3",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-3.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 4",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-4.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 5",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-5.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 6",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-6.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 7",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-7.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 8",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-8.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 9",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-9.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Blot Card 10",
+      "description": "What does this image mean to them? (Click the link to view)",
+      "link": "https://www.rorschach.org/blots/rorschach-blot-10.jpg",
+      "type": "paragraph"
+    },
+    {
+      "name": "Interpretation",
+      "description": "What do the character's responses as a whole indicate about who they are and how they think and behave?",
+      "type": "paragraph"
+    }
+  ]
+}

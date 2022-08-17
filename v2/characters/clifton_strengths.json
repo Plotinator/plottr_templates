@@ -1,0 +1,40 @@
+{
+  "id": "ch12",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Clifton Strengths Profile",
+  "description": "Identify how your character expresses these four personality domains to accomplish their goals",
+  "link": "https://www.gallup.com/cliftonstrengths/en/252137/home.aspx",
+  "attributes": [
+    {
+      "name": "Executing",
+      "description": "Which themes represent how they work to achieve their goals? (e.g. Achiever, Discipline, Focus)",
+      "link": "https://www.gallup.com/cliftonstrengths/en/252086/executing-domain.aspx",
+      "type": "paragraph"
+    },
+    {
+      "name": "Influencing",
+      "description": "Which themes represent how they communicate and persuade others to achieve their goals? (e.g. Command, Maximizer, Woo)",
+      "link": "https://www.gallup.com/cliftonstrengths/en/252089/influencing-domain.aspx",
+      "type": "paragraph"
+    },
+    {
+      "name": "Relationship Building",
+      "description": "Which themes represent how they build relationships and contribute to a team culture? (e.g. Empathy, Includer, Positivity)",
+      "link": "https://www.gallup.com/cliftonstrengths/en/252083/relationship-building-domain.aspx",
+      "type": "paragraph"
+    },
+    {
+      "name": "Strategic Thinking",
+      "description": "Which themes represent how they think, make decisions, and empower those around them? (e.g. Futuristic, Input, Learner)",
+      "link": "https://www.gallup.com/cliftonstrengths/en/252080/strategic-thinking-domain.aspx",
+      "type": "paragraph"
+    },
+    {
+      "name": "Interpretation",
+      "description": "What does the character's overall strengths profile indicate about who they are and how they think and behave?",
+      "link": "",
+      "type": "paragraph"
+    }
+  ]
+}

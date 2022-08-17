@@ -1,0 +1,125 @@
+{
+  "id": "ch15",
+  "version": "2022.8.15",
+  "type": "characters",
+  "name": "D&D NPC Sheet",
+  "description": "Develop your non-player character based on the Dungeons & Dragons tabletop role-playing game",
+  "link": "https://www.dndbeyond.com/sources/basic-rules/monsters#NonplayerCharacters",
+  "attributes": [
+    {
+      "name": "Size",
+      "description": "The NPC's Size determines how much space it occupies in combat (e.g. Tiny, Medium, Huge)",
+      "type": "text"
+    },
+    {
+      "name": "Race",
+      "description": "The NPC's species, which influences their appearance and traits (e.g. Human, Dwarf, Elf)",
+      "type": "text"
+    },
+    {
+      "name": "Alignment",
+      "description": "A representation of the NPC's ethical and moral values (e.g. lawful good, neutral, chaotic evil)",
+      "type": "text"
+    },
+    {
+      "name": "Armor Class",
+      "description": "A score representing how difficult the NPC is to successfully attack",
+      "type": "text"
+    },
+    {
+      "name": "Hit Points",
+      "description": "A score representing the NPC's current health",
+      "type": "text"
+    },
+    {
+      "name": "Speed",
+      "description": "A score representing the NPC's raw speed, which is influenced by their Race",
+      "type": "text"
+    },
+    {
+      "name": "Strength",
+      "description": "On a scale of 1-30, a score representing skill in physical combat, carrying objects, and breaking physical barriers",
+      "type": "text"
+    },
+    {
+      "name": "Dexterity",
+      "description": "On a scale of 1-30, a score representing skill in dodging attacks, avoiding traps, and hiding from enemies",
+      "type": "text"
+    },
+    {
+      "name": "Constitution",
+      "description": "On a scale of 1-30, a score representing health, endurance, and general survival ability",
+      "type": "text"
+    },
+    {
+      "name": "Intelligence",
+      "description": "On a scale of 1-30, a score representing knowledge, cleverness, and logical reasoning skills",
+      "type": "text"
+    },
+    {
+      "name": "Wisdom",
+      "description": "On a scale of 1-30, a score representing awareness, intuition, and ability to spot hidden traps and foes",
+      "type": "text"
+    },
+    {
+      "name": "Charisma",
+      "description": "On a scale of 1-30, a score representing skill in social situations, likability, and general persuasiveness",
+      "type": "text"
+    },
+    {
+      "name": "Skills",
+      "description": "The ability score of each character skill (e.g. acrobatics, arcana, medicine, religion, survival)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Senses",
+      "description": "The NPC's Passive Wisdom (Perception) score, alongside any special senses they have",
+      "type": "paragraph"
+    },
+    {
+      "name": "Languages",
+      "description": "The languages the NPC speaks and understands",
+      "type": "text"
+    },
+    {
+      "name": "Challenge",
+      "description": "A score representing how difficult the NPC is to defeat in combat and the experience points (XP) it awards",
+      "type": "text"
+    },
+    {
+      "name": "Saving Throws",
+      "description": "A score representing the character's ability to resist or prevent a threat",
+      "type": "paragraph"
+    },
+    {
+      "name": "Damage Resistances",
+      "description": "The damage types that only cause the NPC half damage (e.g. bludgeoning, force, lightning)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Attacks & Spellcasting",
+      "description": "A list of the NPC's favorite melee and ranged weapons (or spells) and describe their attacks",
+      "type": "paragraph"
+    },
+    {
+      "name": "Cantrips",
+      "description": "The lesser spells the NPC can cast at will",
+      "type": "paragraph"
+    },
+    {
+      "name": "Actions",
+      "description": "The actions the NPC can take in combat",
+      "type": "paragraph"
+    },
+    {
+      "name": "Reactions",
+      "description": "The NPC's special reactions in combat, if any",
+      "type": "paragraph"
+    },
+    {
+      "name": "Equipment",
+      "description": "The NPC's inventory of gear, gems, jewelry, magic items, and other objects of value (e.g. rope)",
+      "type": "paragraph"
+    }
+  ]
+}

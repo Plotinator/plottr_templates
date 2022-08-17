@@ -1,0 +1,46 @@
+{
+  "id": "ch20",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Numerology",
+  "description": "Identify your character's five core numbers and what they suggest about their personality",
+  "link": "https://www.numerology.com/articles/your-numerology-chart/core-numbers-numerology/",
+  "attributes": [
+    {
+      "name": "Life Path Number",
+      "description": "Add up the numbers in their date of birth (e.g. 1/1/2000 = 4) for insights into the path they are on in life",
+      "link": "https://www.numerology.com/articles/your-numerology-chart/life-path-number-meanings/",
+      "type": "text"
+    },
+    {
+      "name": "Destiny / Expression Number",
+      "description": "Convert their full birth name into numbers using the Pythagorean chart for insights into their goals, abilities, and desires",
+      "link": "https://mattbeech.com/numerology/destiny-number/",
+      "type": "text"
+    },
+    {
+      "name": "Personality Number",
+      "description": "Convert the consonants in their full birth name into numbers using the Pythagorean chart for insights into how others perceive them",
+      "link": "https://mattbeech.com/numerology/personality-number/",
+      "type": "text"
+    },
+    {
+      "name": "Heart's Desire / Soul Urge Number",
+      "description": "Convert the vowels in their full birth name into numbers using the Pythagorean chart for insights into their inner self",
+      "link": "https://mattbeech.com/numerology/soul-urge-number/",
+      "type": "text"
+    },
+    {
+      "name": "Birthday Number",
+      "description": "Add up the numbers in their day of birth (e.g. 1/1/2000 = 1) for insight into their unique talents and purpose in life",
+      "link": "https://www.numerology.com/articles/your-numerology-chart/birth-day-number/",
+      "type": "text"
+    },
+    {
+      "name": "Interpretation",
+      "description": "What insight do the five core numbers provide into their personality, potential, and life's true purpose?",
+      "link": "https://mattbeech.com/numerology/#How_to_interpret_your_Core_Numerology_Numbers",
+      "type": "paragraph"
+    }
+  ]
+}

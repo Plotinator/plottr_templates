@@ -1,0 +1,330 @@
+{
+  "id": "ch13",
+  "version": "2022.8.15",
+  "type": "characters",
+  "name": "D&D Character Sheet",
+  "description": "Develop your character based on the Dungeons & Dragons tabletop role-playing game",
+  "link": "https://dnd.wizards.com/resources/character-sheets",
+  "attributes": [
+    {
+      "name": "Class & Level",
+      "description": "The character's calling and way of being (e.g. Cleric or Fighter), alongside their experience level (e.g. Level 1)",
+      "type": "text"
+    },
+    {
+      "name": "Background",
+      "description": "A representation of how the character lived before the adventure began (e.g. Noble, Sage, Urchin)",
+      "type": "text"
+    },
+    {
+      "name": "Race",
+      "description": "The character's species, which influences their appearance and traits (e.g. Human, Dwarf, Elf)",
+      "type": "text"
+    },
+    {
+      "name": "Alignment",
+      "description": "A representation of the character's ethical and moral values (e.g. lawful good, neutral, chaotic evil)",
+      "type": "text"
+    },
+    {
+      "name": "Experience Points",
+      "description": "A numerical indicator of the character's experience as an adventurer, which increases by completing challenges",
+      "type": "text"
+    },
+    {
+      "name": "Strength",
+      "description": "On a scale of 1-30, a score representing skill in physical combat, carrying objects, and breaking physical barriers",
+      "type": "text"
+    },
+    {
+      "name": "Dexterity",
+      "description": "On a scale of 1-30, a score representing skill in dodging attacks, avoiding traps, and hiding from enemies",
+      "type": "text"
+    },
+    {
+      "name": "Constitution",
+      "description": "On a scale of 1-30, a score representing health, endurance, and general survival ability",
+      "type": "text"
+    },
+    {
+      "name": "Intelligence",
+      "description": "On a scale of 1-30, a score representing knowledge, cleverness, and logical reasoning skills",
+      "type": "text"
+    },
+    {
+      "name": "Wisdom",
+      "description": "On a scale of 1-30, a score representing awareness, intuition, and ability to spot hidden traps and foes",
+      "type": "text"
+    },
+    {
+      "name": "Charisma",
+      "description": "On a scale of 1-30, a score representing skill in social situations, likability, and general persuasiveness",
+      "type": "text"
+    },
+    {
+      "name": "Inspiration",
+      "description": "A reward for behaving heroically or true to character or in a noteworthy manner that grants a one-time advantage",
+      "type": "text"
+    },
+    {
+      "name": "Proficiency Bonus",
+      "description": "A number used to modify the effectiveness of certain dice rolls, checks, and saves",
+      "type": "text"
+    },
+    {
+      "name": "Saving Throws",
+      "description": "A score representing the character's ability to resist or prevent a threat",
+      "type": "text"
+    },
+    {
+      "name": "Skills",
+      "description": "The ability score of each character skill (e.g. acrobatics, arcana, medicine, religion, survival)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Passive Insight",
+      "description": "A score representing the character's ability to passively discern the motivations and deceptions of others",
+      "type": "text"
+    },
+    {
+      "name": "Passive Perception",
+      "description": "A score representing the character's ability to passively scan the environment for hidden objects, threats, and other details",
+      "type": "text"
+    },
+    {
+      "name": "Tool Proficiencies & Custom Skills",
+      "description": "Tools the character is adept at using and the ability scores associated with their custom skills",
+      "type": "paragraph"
+    },
+    {
+      "name": "Other Proficiencies & Languages",
+      "description": "Weapons and armor the character is adept at using, as well as languages they speak",
+      "type": "paragraph"
+    },
+    {
+      "name": "Armor Class",
+      "description": "A score representing how difficult the character is to successfully attack",
+      "type": "text"
+    },
+    {
+      "name": "Initiative",
+      "description": "A score representing the character's reaction time, which is equal to their Dexterity modifier",
+      "type": "text"
+    },
+    {
+      "name": "Speed",
+      "description": "A score representing the character's raw speed, which is influenced by their Race",
+      "type": "text"
+    },
+    {
+      "name": "Hit Point Maximum",
+      "description": "A score representing the character's greatest possible health",
+      "type": "text"
+    },
+    {
+      "name": "Current Hit Points",
+      "description": "A score representing the character's current health",
+      "type": "text"
+    },
+    {
+      "name": "Temporary Hit Points",
+      "description": "A score representing the character's current temporary health bonus, if any",
+      "type": "text"
+    },
+    {
+      "name": "Total (Hit Dice)",
+      "description": "A term representing the number of hit dice the character has available to roll (based on Level)",
+      "type": "text"
+    },
+    {
+      "name": "Hit Dice",
+      "description": "A term representing the dice the character rolls to determine their hit points (based on Class)",
+      "type": "text"
+    },
+    {
+      "name": "Death Saves",
+      "description": "The location where you track how many successes and failures the character has on death saving throws",
+      "type": "text"
+    },
+    {
+      "name": "Attacks & Spellcasting",
+      "description": "A list of the character's favorite melee and ranged weapons (or spells) and describe their attacks",
+      "type": "paragraph"
+    },
+    {
+      "name": "Equipment",
+      "description": "The character's inventory of gems, jewelry, magic items, and other loot acquired during the adventure",
+      "type": "paragraph"
+    },
+    {
+      "name": "Currency",
+      "description": "The character's copper (cp), silver (sp), electrum (ep), gold (gp), platinum (pp) and other forms of money",
+      "type": "paragraph"
+    },
+    {
+      "name": "Total Weight",
+      "description": "The amount of weight the character is currently carrying",
+      "type": "text"
+    },
+    {
+      "name": "Carrying Capacity",
+      "description": "The amount of weight the character can carry (equal to the Strength score multiplied by 15)",
+      "type": "text"
+    },
+    {
+      "name": "Personality Traits",
+      "description": "Two personality traits that identify the character (choose from the Player's Handbook or create your own)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Ideals",
+      "description": "At least 1 ideal, or fundamental belief, that drives the character (choose from the Player's Handbook or create your own)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Bonds",
+      "description": "One bond that ties the character's background to the adventure and drives their behavior (e.g. family, traditions, heirlooms)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Flaws",
+      "description": "One flaw that could stop the character from achieving their goals (e.g. vices, fears, weaknesses)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Features & Traits",
+      "description": "The character's major features (gained via their Class) and traits (gained via their Race)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Age",
+      "description": "How old is the character?",
+      "type": "text"
+    },
+    {
+      "name": "Size",
+      "description": "What size is the character? (e.g. Tiny, Medium, Huge)",
+      "type": "text"
+    },
+    {
+      "name": "Height",
+      "description": "How tall is the character?",
+      "type": "text"
+    },
+    {
+      "name": "Weight",
+      "description": "How much does the character weigh?",
+      "type": "text"
+    },
+    {
+      "name": "Eyes",
+      "description": "What is the character's eye color?",
+      "type": "text"
+    },
+    {
+      "name": "Skin",
+      "description": "What is the character's skin color?",
+      "type": "text"
+    },
+    {
+      "name": "Hair",
+      "description": "What is the character's hair color and style?",
+      "type": "text"
+    },
+    {
+      "name": "Character Appearance",
+      "description": "Your character's appearance in detail, including images or sources of inspiration",
+      "type": "paragraph"
+    },
+    {
+      "name": "Character Backstory",
+      "description": "A summary of the character’s background prior to the adventure (e.g. origin, goals, conflicts, unique qualities)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Allies & Organizations",
+      "description": "Friendly non-player characters (NPCs) and factions in which the character is a member (e.g. The Zhentarim)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Additional Features & Traits",
+      "description": "The character's minor features (gained via their Class) and traits (gained via their Race)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Treasure",
+      "description": "The character's inventory of loot and items of value which cannot be equipped, consumed, or modified (e.g. maps)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spellcasting Class (Modifier)",
+      "description": "The ability the character uses to cast spells, based on their Class (e.g. Charisma, Intelligence, Wisdom)",
+      "type": "text"
+    },
+    {
+      "name": "Spellcasting Ability",
+      "description": "The number used to determine the effectiveness of a character's spells",
+      "type": "text"
+    },
+    {
+      "name": "Spell Save DC (Difficulty Class)",
+      "description": "The number that targets must roll to resist the full impact of a spell (influenced by the Spellcasting Ability score)",
+      "type": "text"
+    },
+    {
+      "name": "Spell Attack Bonus",
+      "description": "The number added to the d20 attack roll to determine if the spell hits the target (influenced by the Spellcasting Ability score)",
+      "type": "text"
+    },
+    {
+      "name": "Cantrips",
+      "description": "The lesser spells the character can cast at will, which do not require spell slots (e.g. Mage Hand)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 1",
+      "description": "1st-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 2",
+      "description": "2nd-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 3",
+      "description": "3rd-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 4",
+      "description": "4th-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 5",
+      "description": "5th-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 6",
+      "description": "6th-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 7",
+      "description": "7th-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 8",
+      "description": "8th-level spells the character can cast",
+      "type": "paragraph"
+    },
+    {
+      "name": "Spells - Level 9",
+      "description": "9th-level spells the character can cast",
+      "type": "paragraph"
+    }
+  ]
+}

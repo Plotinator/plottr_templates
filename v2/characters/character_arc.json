@@ -1,0 +1,40 @@
+{
+  "id": "ch11",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Character Arc",
+  "description": "Use this framework to evaluate how your character changes throughout the narrative",
+  "link": "https://en.wikipedia.org/wiki/Character_arc",
+  "attributes": [
+    {
+      "name": "First Impression",
+      "description": "What is the character they like as the story begins? How do they typically think, behave, and interact with the world?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Goal",
+      "description": "What is the character's goal? What do they want to win, gain, obtain, or achieve?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Flaw",
+      "description": "What undesirable qualities or weaknesses are holding the character back from achieving their goal?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Aha! Moment",
+      "description": "When does the character recognize their flaw and how it negatively affects them? What is that moment like?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Action",
+      "description": "How does the character react to their Aha! Moment? What actions do they take to avoid their flaw or transform it into a strength?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Transformation",
+      "description": "What is the character like at the end of the story? How do they change after recognizing their flaw and taking action?",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ch18",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Marcel Proust Questionnaire",
+  "description": "Interview your character with these famous 35 questions thought to reveal a person's true nature",
+  "link": "https://www.vanityfair.com/magazine/2000/01/proust-questionnaire",
+  "attributes": [
+    {
+      "name": "What is your idea of perfect happiness?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is the trait you most deplore in yourself?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your motto?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Which living person do you most admire?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you most dislike about your appearance?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your favorite occupation?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How would you like to die?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What are your favorite names?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your greatest fear?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your most marked characteristic?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you consider the most overrated virtue?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your greatest regret?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What or who is the greatest love of your life?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your most treasured possession?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Which words or phrases do you most overuse?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Which talent would you most like to have?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Who is your fictional hero?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is it that you most dislike?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your current state of mind?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is the trait you most deplore in others?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Where would you most like to live?",
+      "type": "paragraph"
+    },
+    {
+      "name": "If you could change one thing about yourself, what would it be?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you most value in your friends?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Which living person do you most despise?",
+      "type": "paragraph"
+    },
+    {
+      "name": "When and where were you happiest?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is the quality you most like in a man?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you regard as the lowest depth of misery?",
+      "type": "paragraph"
+    },
+    {
+      "name": "On what occasion do you lie?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Who are your heroes in real life?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What do you consider your greatest achievement?",
+      "type": "paragraph"
+    },
+    {
+      "name": "If you were to die and come back as a person or a thing, what would it be?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is the quality you most like in a woman?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Which historical figure do you most identify with?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What is your greatest extravagance?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Who are your favorite writers?",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ch19",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "Maslow's Hierarchy of Needs",
+  "description": "Identify how your character's needs are met using psychologist Abraham Maslow's personality framework",
+  "link": "https://www.simplypsychology.org/maslow.html",
+  "attributes": [
+    {
+      "name": "Physiological Needs",
+      "description": "Level 1: How are the character's biological needs for survival  being met? (e.g. food, shelter, clothing, sex)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Safety Needs",
+      "description": "Level 2: How is the character's need for safety and security being met? (e.g. financially, emotionally, socially)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Love and Belongingness Needs",
+      "description": "Level 3: How is the character's need for belonging being met? (e.g. friendship, trust, acceptance, love)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Esteem Needs",
+      "description": "Level 4: How is the character's need for self-esteem and respect from others being met? (e.g. status, prestige)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Self-Actualization Needs",
+      "description": "Level 5: How is the character's need for self-fulfillment being met? (e.g. achieving their full potential)",
+      "type": "paragraph"
+    }
+  ]
+}

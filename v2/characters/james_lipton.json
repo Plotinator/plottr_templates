@@ -1,0 +1,49 @@
+{
+  "id": "ch17",
+  "version": "2022.8.11",
+  "type": "characters",
+  "name": "James Lipton Questionnaire",
+  "description": "Interview your character using the ten questions from this questionnaire inspired by Marcel Proust",
+  "attributes": [
+    {
+      "name": "What is your favorite word?",
+      "type": "text"
+    },
+    {
+      "name": "What turns you on creatively, spiritually, or emotionally?",
+      "type": "text"
+    },
+    {
+      "name": "What profession other than your own would you like to attempt?",
+      "type": "text"
+    },
+    {
+      "name": "What sound or noise do you love?",
+      "type": "text"
+    },
+    {
+      "name": "What is your favorite curse word?",
+      "type": "text"
+    },
+    {
+      "name": "What is your least favorite word?",
+      "type": "text"
+    },
+    {
+      "name": "If Heaven exists, what would you like to hear God say when you arrive at the Pearly Gates?",
+      "type": "text"
+    },
+    {
+      "name": "What sound or noise do you hate?",
+      "type": "text"
+    },
+    {
+      "name": "What profession would you not like to do?",
+      "type": "text"
+    },
+    {
+      "name": "What turns you off?",
+      "type": "text"
+    }
+  ]
+}
