@@ -1,10 +1,10 @@
 {
   "id": "sc7",
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "type": "scenes",
   "name": "Maslow's Hierarchy of Needs",
-  "description": "",
-  "link": "",
+  "description": "Identify how your character's needs are met in this scene using psychologist Abraham Maslow's personality framework",
+  "link": "https://www.simplypsychology.org/maslow.html",
   "attributes": [
     {
       "name": "Physiological Needs",
