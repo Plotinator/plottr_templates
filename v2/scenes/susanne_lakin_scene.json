@@ -1,10 +1,10 @@
 {
   "id": "sc9",
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "type": "scenes",
   "name": "Susanne Lakin Scene",
-  "description": "",
-  "link": "",
+  "description": "Craft your perfect scene with this template by author and writing coach Susanne (C.S.) Lakin",
+  "link": "https://www.livewritethrive.com/2016/02/01/using-a-scene-template-to-craft-perfect-scenes/",
   "attributes": [
     {
       "name": "Locale",

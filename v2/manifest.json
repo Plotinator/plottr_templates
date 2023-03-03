@@ -333,17 +333,17 @@
     },
     {
       "id": "sc7",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/scenes/maslows_hierarchy.json"
     },
     {
       "id": "sc8",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/scenes/sarra_cannons_scene_roadmap.json"
     },
     {
       "id": "sc9",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/scenes/susanne_lakin_scene.json"
     }
   ]
