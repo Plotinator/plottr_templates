@@ -1,5 +1,5 @@
 {
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "templates": [
     {
       "id": "proj1",
@@ -283,17 +283,17 @@
     },
     {
       "id": "pl33",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/plotlines/limerick.json"
     },
     {
       "id": "pl34",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/plotlines/haiku.json"
     },
     {
       "id": "pl35",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/plotlines/sonnet.json"
     },
     {

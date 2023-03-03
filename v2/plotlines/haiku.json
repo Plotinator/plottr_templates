@@ -1,11 +1,13 @@
 {
   "id": "pl34",
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "type": "plotlines",
   "name": "Haiku",
   "description": "A template for writing traditional Japanese short form poetry in three lines and 17 syllables.",
   "link": "",
-  "categories": [],
+  "categories": [
+    "poetry"
+  ],
   "initialVersion": "2023.3.3",
   "appliedMigrations": [],
   "templateData": {
