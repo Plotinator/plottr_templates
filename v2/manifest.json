@@ -1,5 +1,5 @@
 {
-  "version": "2022.8.15",
+  "version": "2023.3.2",
   "templates": [
     {
       "id": "proj1",
@@ -120,6 +120,16 @@
       "id": "ch23",
       "version": "2022.8.11",
       "url": "/v2/characters/syd_field.json"
+    },
+    {
+      "id": "ch24",
+      "version": "2023.3.2",
+      "url": "/v2/characters/four_temperaments.json"
+    },
+    {
+      "id": "ch25",
+      "version": "2023.3.2",
+      "url": "/v2/characters/freudian_personality_theory.json"
     },
     {
       "id": "pl1",
@@ -272,6 +282,21 @@
       "url": "/v2/plotlines/story_engines.json"
     },
     {
+      "id": "pl33",
+      "version": "2023.3.2",
+      "url": "/v2/plotlines/limerick.json"
+    },
+    {
+      "id": "pl34",
+      "version": "2023.3.2",
+      "url": "/v2/plotlines/haiku.json"
+    },
+    {
+      "id": "pl35",
+      "version": "2023.3.2",
+      "url": "/v2/plotlines/sonnet.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
@@ -300,6 +325,21 @@
       "id": "sc6",
       "version": "2022.7.20",
       "url": "/v2/scenes/three_story.json"
+    },
+    {
+      "id": "sc7",
+      "version": "2023.3.2",
+      "url": "/v2/scenes/maslows_hierarchy.json"
+    },
+    {
+      "id": "sc8",
+      "version": "2023.3.2",
+      "url": "/v2/scenes/sarra_cannons_scene_roadmap.json"
+    },
+    {
+      "id": "sc9",
+      "version": "2023.3.2",
+      "url": "/v2/scenes/susanne_lakin_scene.json"
     }
   ]
 }

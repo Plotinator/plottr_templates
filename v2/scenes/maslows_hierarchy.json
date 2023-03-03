@@ -1,0 +1,35 @@
+{
+  "id": "sc7",
+  "version": "2023.3.2",
+  "type": "scenes",
+  "name": "Maslow's Hierarchy of Needs",
+  "description": "",
+  "link": "",
+  "attributes": [
+    {
+      "name": "Physiological Needs",
+      "description": "Level 1: How are the character's biological needs for survival being met in this scene? (e.g. food, shelter, clothing, sex)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Safety Needs",
+      "description": "Level 2: How is the character's need for safety and security being met in this scene? (e.g. financially, emotionally, socially)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Love and Belongingness Needs",
+      "description": "Level 3: How is the character's need for belonging being met in this scene? (e.g. friendship, trust, acceptance, love)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Esteem Needs",
+      "description": "Level 4: How is the character's need for self-esteem and respect from others being met in this scene? (e.g. status, prestige)",
+      "type": "paragraph"
+    },
+    {
+      "name": "Self-Actualization Needs",
+      "description": "Level 5: How is the character's need for self-fulfillment being met in this scene? (e.g. achieving one's full potential)",
+      "type": "paragraph"
+    }
+  ]
+}
