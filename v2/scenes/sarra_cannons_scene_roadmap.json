@@ -1,0 +1,46 @@
+{
+  "id": "sc8",
+  "version": "2023.3.3",
+  "type": "scenes",
+  "name": "Sarra Cannon's Scene Roadmap",
+  "description": "Create a roadmap for you scene with this template by author and self-publishing expert Sarra Cannon",
+  "link": "https://heartbreathings.com/",
+  "attributes": [
+    {
+      "name": "Who is the point-of-view character in this scene?",
+      "type": "text"
+    },
+    {
+      "name": "What is my character's desire or goal in this scene?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Why is this desire or goal important to my character?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What will happen if they fail? What's at stake?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What obstacle or conflict will they face in this scene?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What will we learn about my character in this scene?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How will this scene change them or their path forward?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How does this scene fit into my character's overall arc?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How does this scene fit into the overall story arc or plot?",
+      "type": "paragraph"
+    }
+  ]
+}

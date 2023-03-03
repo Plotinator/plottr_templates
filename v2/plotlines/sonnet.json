@@ -1,0 +1,641 @@
+{
+  "id": "pl35",
+  "version": "2023.3.3",
+  "type": "plotlines",
+  "name": "Sonnet (Shakespearean)",
+  "description": "A template for writing poetry featuring four quatrains and a rhyming couplet.",
+  "link": "",
+  "categories": [
+    "poetry"
+  ],
+  "initialVersion": "2023.3.3",
+  "appliedMigrations": [],
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "8": [],
+          "null": [
+            8
+          ]
+        },
+        "heap": {
+          "8": null
+        },
+        "index": {
+          "8": {
+            "position": 0,
+            "id": 8,
+            "title": "Sonnet 1",
+            "templates": [],
+            "fromTemplateId": "ple6687f",
+            "expanded": true,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "time": 0
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 22,
+        "position": 0,
+        "color": "#6cace4",
+        "bookId": 1,
+        "title": "Instructions",
+        "expanded": true,
+        "fromTemplateId": "ple6687f"
+      },
+      {
+        "color": "#e5554f",
+        "title": "Quatrain 1",
+        "id": 19,
+        "bookId": 1,
+        "position": 1,
+        "fromTemplateId": "ple6687f",
+        "expanded": null
+      },
+      {
+        "id": 20,
+        "bookId": 1,
+        "fromTemplateId": "ple6687f",
+        "title": "Quatrains 2 + 3",
+        "color": "#ff7f32",
+        "position": 2,
+        "expanded": null
+      },
+      {
+        "bookId": 1,
+        "title": "Couplet",
+        "fromTemplateId": "ple6687f",
+        "color": "#ffc72c",
+        "expanded": null,
+        "id": 21,
+        "position": 3
+      },
+      {
+        "position": 4,
+        "expanded": null,
+        "title": "Final Poem",
+        "color": "#78be20",
+        "fromTemplateId": "ple6687f",
+        "bookId": 1,
+        "id": 17,
+        "characterId": null
+      },
+      {
+        "color": "Indigo",
+        "fromTemplateId": "ple6687f",
+        "expanded": null,
+        "bookId": 1,
+        "id": 23,
+        "position": 5,
+        "title": "Theme"
+      }
+    ],
+    "cards": [
+      {
+        "positionInBeat": 0,
+        "places": [],
+        "lineId": 22,
+        "id": 19,
+        "characters": [],
+        "color": null,
+        "tags": [],
+        "imageId": null,
+        "title": "Start Here",
+        "positionWithinLine": 0,
+        "templates": [],
+        "fromTemplateId": "ple6687f",
+        "beatId": 8,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Shakespearean sonnet, also known as an English sonnet, was made famous by William Shakespeare. It comprises 14 lines, written in iambic pentameter, divided into three quatrains (four lines) followed by a couplet (two rhyming lines)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The quatrains present a problem, question, or argument, leaving the couplet to provide a conclusion, resolution, or commentary. The typical rhyme scheme found in a Shakespearean sonnet is ABAB CDCD EFEF GG."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Often exploring themes of love, beauty, and mortality, Shakespearean Sonnets are notable for their focus on the speaker’s personal feelings and experiences. They are also known for their use of literary devices, including metaphor and simile."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Some of the most famous examples of this form of sonnets are Shakespeare’s own, having had a lasting impact on poetry and literary culture. The Shakespearean sonnet form remains an important part of the poetry tradition and continues to be used by many poets to this day."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Fill in each part of this template to successfully complete your sonnet."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example: "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sonnet 18 by William Shakespeare"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "    Shall I compare thee to a summer’s day?\n    Thou art more lovely and more temperate.\n    Rough winds do shake the darling buds of May,\n    And summer’s lease hath all too short a date.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "\n    Sometime too hot the eye of heaven shines,\n    And often is his gold complexion dimmed;\n    And every fair from fair sometime declines,\n    By chance or nature’s changing course untrimmed.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "\n    But thy eternal summer shall not fade,\n    Nor lose possession of that fair thou ow’st,\n    Nor shall Death brag thou wand’rest in his shade,\n    When in eternal lines to time thou grow’st."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "\n    So long as men can breathe or eyes can see,\n    So long lives this, and this gives life to thee."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "templates": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "An important part of the Shakespearean sonnet, the first quatrain (four lines) provides the reader with a starting point from which to understand the rest of the poem. Each pair of lines rhyme with each other using an ABAB rhyming scheme and establishes the tone and mood, while introducing the speaker’s perspective. It presents the problem, question, or argument to be addressed by the sonnet."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Use this quatrain to set the scene or introduce the main subject, while providing context for the rest of the poem."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sonnet 18 by William Shakespeare"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "    Shall I compare thee to a summer’s day?\n    Thou art more lovely and more temperate.\n    Rough winds do shake the darling buds of May,\n    And summer’s lease hath all too short a date.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write the first quatrain of your sonnet below:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "imageId": null,
+        "lineId": 19,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "tags": [],
+        "characters": [],
+        "fromTemplateId": "ple6687f",
+        "id": 16,
+        "places": [],
+        "title": "Beginning",
+        "positionInBeat": 0,
+        "beatId": 8,
+        "color": null
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Known as the developing quatrains, the second and third quatrains build on the themes and ideas introduced in the first quatrain and continue to develop the tone and mood. Like the first quatrain, they use rhyming couplets, with each pair of lines rhyming with each other (CDCD and EFEF, respectively)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Crucial in shaping the overall meaning of the sonnet and in leading the reader towards the conclusion presented in the final couplet, the second and third quatrains contain the bulk of the poem’s argument or observation. They provide additional details, imagery, or arguments related to the main subject of the sonnet and expand on the speaker’s perspective, offering a deeper understanding."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Use these quatrains to continue to develop the tone and mood of the sonnet, while providing the reader with a deeper understanding of the speaker’s perspective."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sonnet 18 by William Shakespeare"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "    Sometime too hot the eye of heaven shines,\n    And often is his gold complexion dimmed;\n    And every fair from fair sometime declines,\n    By chance or nature’s changing course untrimmed.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "\n    But thy eternal summer shall not fade,\n    Nor lose possession of that fair thou ow’st,\n    Nor shall Death brag thou wand’rest in his shade,\n    When in eternal lines to time thou grow’st.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Write the second and third quatrain of your sonnet below:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "places": [],
+        "bookId": null,
+        "characters": [],
+        "imageId": null,
+        "fromTemplateId": "ple6687f",
+        "positionInBeat": 0,
+        "lineId": 20,
+        "color": null,
+        "tags": [],
+        "title": "Middle",
+        "beatId": 8,
+        "templates": [],
+        "id": 17
+      },
+      {
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "places": [],
+        "templates": [],
+        "bookId": null,
+        "title": "End",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The final two lines of a Shakespearean sonnet, the couplet provides a conclusion, resolution, or commentary on the situation presented in the first three quatrains. The couplet is written in rhyming pairs, with the two lines rhyming with each other (GG)."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Often seen as the most important part of the Shakespearean sonnet, it couplet provides the reader with the final resolution or insight into the main subject of the poem. It may also provide a punchline, a surprising turn of events, or a resolution to the question or argument presented in the quatrains, while leaving the reader with a memorable conclusion that stays with them long after reading the poem."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Use this couplet to provide a resolution and a memorable conclusion to your poem."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "    So long as men can breathe or eyes can see,    "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "    So long lives this, and this gives life to thee.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write the couplet of your sonnet below:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "characters": [],
+        "id": 18,
+        "beatId": 8,
+        "tags": [],
+        "lineId": 21,
+        "color": null,
+        "fromTemplateId": "ple6687f",
+        "imageId": null
+      },
+      {
+        "tags": [],
+        "bookId": null,
+        "fromTemplateId": "ple6687f",
+        "places": [],
+        "id": 15,
+        "templates": [],
+        "beatId": 8,
+        "lineId": 17,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write your final poem below:"
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "imageId": null,
+        "title": "Poem Title",
+        "positionWithinLine": 0,
+        "color": null,
+        "positionInBeat": 0
+      },
+      {
+        "beatId": 8,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "places": [],
+        "lineId": 23,
+        "imageId": null,
+        "title": "Message",
+        "tags": [],
+        "characters": [],
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What is the message your sonnet is trying to convey? Is it successful? Why or why not? "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Note down your thoughts below:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": "ple6687f",
+        "id": 20,
+        "templates": [],
+        "color": null
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "level": 0,
+        "borderColor": "#6cace4",
+        "light": {
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4"
+        },
+        "autoNumber": true,
+        "backgroundColor": "none",
+        "name": "Haiku",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "textColor": "#0b1117"
+      }
+    }
+  }
+}

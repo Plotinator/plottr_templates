@@ -1,0 +1,35 @@
+{
+  "id": "ch26",
+  "version": "2023.3.4",
+  "type": "characters",
+  "name": "Five Stages of Grief",
+  "description": "Identify how your character experiences grief using this popular model introduced by psychiatrist Elisabeth Kübler-Ross",
+  "link": "https://en.wikipedia.org/wiki/Five_stages_of_grief",
+  "attributes": [
+    {
+      "name": "Denial",
+      "description": "How does your character express denial, the first stage of grief? Denial is a normal initial defense mechanism in the face of overwhelming grief (e.g. avoidance, confusion, numbness, shock).",
+      "type": "paragraph"
+    },
+    {
+      "name": "Anger",
+      "description": "How does your character express anger, the second stage of grief? Typically this anger stems from frustration that denial does not stop the grief. This stage may involve questioning who is to blame and why/how it could happen.",
+      "type": "paragraph"
+    },
+    {
+      "name": "Bargaining",
+      "description": "How does your character express bargaining, the third stage of grief? This is an attempt to find a compromise to escape the grief (e.g. \"If you stop X, I will never do Y again.\")",
+      "type": "paragraph"
+    },
+    {
+      "name": "Depression",
+      "description": "How does your character express depression, the fourth stage of grief? This stage is characterized often by sadness, overwhelm, silence, isolation, and moving away from loved ones.",
+      "type": "paragraph"
+    },
+    {
+      "name": "Acceptance",
+      "description": "How does your character express acceptance, the fifth stage of grief? Once the fog of depression has lifted, a state of calm settles in allowing them to accept their grief, make peace with it, and plan for the future.",
+      "type": "paragraph"
+    }
+  ]
+}

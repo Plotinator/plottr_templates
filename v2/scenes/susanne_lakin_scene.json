@@ -1,0 +1,58 @@
+{
+  "id": "sc9",
+  "version": "2023.3.3",
+  "type": "scenes",
+  "name": "Susanne Lakin Scene",
+  "description": "Craft your perfect scene with this template by author and writing coach Susanne (C.S.) Lakin",
+  "link": "https://www.livewritethrive.com/2016/02/01/using-a-scene-template-to-craft-perfect-scenes/",
+  "attributes": [
+    {
+      "name": "Locale",
+      "type": "text"
+    },
+    {
+      "name": "Time of Day",
+      "type": "text"
+    },
+    {
+      "name": "Time of Year",
+      "type": "text"
+    },
+    {
+      "name": "Weather",
+      "type": "text"
+    },
+    {
+      "name": "How much time passed since previous scene with this character",
+      "type": "text"
+    },
+    {
+      "name": "POV character for the scene",
+      "type": "text"
+    },
+    {
+      "name": "What main way is the story advanced? What new plot points are revealed?",
+      "type": "paragraph"
+    },
+    {
+      "name": "What conflicts/obstacles are presented in the scene?",
+      "type": "paragraph"
+    },
+    {
+      "name": "How does the POV character change or grow by the end of the scene?",
+      "type": "paragraph"
+    },
+    {
+      "name": "The high moment or key info revealed in scene",
+      "type": "paragraph"
+    },
+    {
+      "name": "Important backstory bits revealed in scene",
+      "type": "paragraph"
+    },
+    {
+      "name": "World-building or specific setting/locale details brought out",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "id": "pl34",
+  "version": "2023.3.3",
+  "type": "plotlines",
+  "name": "Haiku",
+  "description": "A template for writing traditional Japanese short form poetry in three lines and 17 syllables.",
+  "link": "",
+  "categories": [
+    "poetry"
+  ],
+  "initialVersion": "2023.3.3",
+  "appliedMigrations": [],
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "null": [
+            2
+          ]
+        },
+        "heap": {
+          "2": null
+        },
+        "index": {
+          "2": {
+            "time": 0,
+            "position": 0,
+            "fromTemplateId": null,
+            "templates": [],
+            "id": 2,
+            "bookId": 1,
+            "expanded": true,
+            "title": "auto",
+            "autoOutlineSort": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "color": "#6cace4",
+        "id": 6,
+        "fromTemplateId": null,
+        "title": "Instructions",
+        "position": 0,
+        "expanded": null,
+        "bookId": 1
+      },
+      {
+        "title": "5 Syllables",
+        "position": 1,
+        "color": "#e5554f",
+        "bookId": 1,
+        "fromTemplateId": null,
+        "expanded": null,
+        "id": 3
+      },
+      {
+        "bookId": 1,
+        "expanded": null,
+        "id": 4,
+        "fromTemplateId": null,
+        "title": "7 Syllables",
+        "position": 2,
+        "color": "#ff7f32"
+      },
+      {
+        "expanded": null,
+        "position": 3,
+        "color": "#ffc72c",
+        "title": "5 Syllables",
+        "id": 5,
+        "fromTemplateId": null,
+        "bookId": 1
+      },
+      {
+        "fromTemplateId": null,
+        "bookId": 1,
+        "color": "#78be20",
+        "expanded": null,
+        "id": 1,
+        "position": 4,
+        "title": "Final Poem",
+        "characterId": null
+      },
+      {
+        "fromTemplateId": null,
+        "bookId": 1,
+        "title": "Theme",
+        "expanded": null,
+        "position": 5,
+        "id": 7,
+        "color": "Indigo"
+      }
+    ],
+    "cards": [
+      {
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A traditional form of Japanese poetry that originated in the 17th century, the Haiku is characterized by its strict syllable count of 17 syllables. Divided into three lines of 5-7-5 syllables, it is known for its focus on nature and the changing seasons, and features a \"cutting word\" (kireji) that separates or contrasts different parts of the poem."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Typically composed of three lines, a Haiku does not rhyme. The first line, containing 5 syllables, sets the scene or introduces the main subject of the poem. The second line, containing 7 syllables, provides additional details or imagery related to the first line. While the third line contains 5 syllables and concludes the poem, often with a twist or a moment of insight."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "A Haiku is a short form of poetry and provides economy of language by providing a lot with few words. Striving to use the fewest words possible to convey the most meaning, Haiku poets often rely on imagery and metaphor to create a sense of depth and complexity."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Fill in each part of this template to successfully complete your haiku."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "Blank page under pen,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Words refusing to flow free,",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sudden spark ink flows.",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "imageId": null,
+        "templates": [],
+        "title": "Start Here",
+        "positionInBeat": 0,
+        "lineId": 6,
+        "color": null,
+        "tags": [],
+        "fromTemplateId": null,
+        "id": 5
+      },
+      {
+        "characters": [],
+        "fromTemplateId": null,
+        "bookId": null,
+        "beatId": 2,
+        "templates": [],
+        "id": 2,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The first line of a Haiku contains 5 syllables. Use this line to set the scene or introduce the main subject of the poem, establish the context, and provide a sense of the overall tone and atmosphere."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "Blank page before me"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Write the first line of your haiku below:"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "imageId": null,
+        "lineId": 3,
+        "places": [],
+        "title": "Beginning",
+        "color": null,
+        "positionWithinLine": 0,
+        "tags": []
+      },
+      {
+        "tags": [],
+        "color": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "templates": [],
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The second line of a Haiku contains 7 syllables. Use this line to provide additional details or imagery related to the first line, expand upon the main subject, and provide a more detailed description of the scene or moment being described."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Words refusing to flow free,",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write the second line of your haiku below:"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "places": [],
+        "lineId": 4,
+        "id": 3,
+        "characters": [],
+        "title": "Middle",
+        "beatId": 2,
+        "bookId": null
+      },
+      {
+        "templates": [],
+        "id": 4,
+        "characters": [],
+        "positionInBeat": 0,
+        "color": null,
+        "title": "End",
+        "lineId": 5,
+        "fromTemplateId": null,
+        "places": [],
+        "bookId": null,
+        "beatId": 2,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The third line of a Haiku contains 5 syllables and concludes the poem. Often with a twist or a moment of insight, this line provides a sense of resolution to the poem, while offering a sense of closure. Use this line to convey a deeper meaning or to provide a moment of reflection for the reader."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sudden spark ink flows.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Write the third line of your haiku below:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionWithinLine": 0,
+        "tags": [],
+        "imageId": null
+      },
+      {
+        "id": 1,
+        "fromTemplateId": null,
+        "tags": [],
+        "lineId": 1,
+        "positionInBeat": 0,
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Write your final poem below:"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "color": null,
+        "places": [],
+        "bookId": null,
+        "imageId": null,
+        "beatId": 2,
+        "positionWithinLine": 0,
+        "characters": [],
+        "title": "Poem Title"
+      },
+      {
+        "fromTemplateId": null,
+        "characters": [],
+        "bookId": null,
+        "imageId": null,
+        "id": 6,
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What is the message your haiku is trying to convey? Is it being successful? Why or why not? "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Note your thoughts below:"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "title": "Message",
+        "positionInBeat": 0,
+        "tags": [],
+        "beatId": 2,
+        "templates": [],
+        "color": null,
+        "places": [],
+        "lineId": 7
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "level": 0,
+        "borderColor": "#6cace4",
+        "light": {
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4"
+        },
+        "autoNumber": true,
+        "backgroundColor": "none",
+        "name": "Haiku",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "textColor": "#0b1117"
+      }
+    }
+  }
+}

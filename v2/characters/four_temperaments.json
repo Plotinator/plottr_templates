@@ -1,0 +1,30 @@
+{
+  "id": "ch24",
+  "version": "2023.3.3",
+  "type": "characters",
+  "name": "Four Temperaments",
+  "description": "Identify which classic temperaments best align with your character, using this personality theory developed by Hippocrates in ancient Greece",
+  "link": "https://fourtemperaments.com/4-primary-temperaments/",
+  "attributes": [
+    {
+      "name": "Sanguine",
+      "description": "The degree to which they have an outgoing, cheerful, and optimistic personality. How is this represented?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Choleric",
+      "description": "The degree to which they have a results-oriented, independent, decisive personality. How is this represented?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Melancholic",
+      "description": "The degree to which they have a loyal, kind, and sensitive personality. How is this represented?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Phlegmatic",
+      "description": "The degree to which they have a service-oriented, introverted, and passive/agreeable personality. How is this represented?",
+      "type": "paragraph"
+    }
+  ]
+}
