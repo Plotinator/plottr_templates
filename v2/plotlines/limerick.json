@@ -1,0 +1,569 @@
+{
+  "id": "pl33",
+  "version": "2023.3.2",
+  "type": "plotlines",
+  "name": "Limerick",
+  "description": "A template for writing humorous short form poetry in five lines with a strict rhyme scheme.",
+  "link": "",
+  "categories": [],
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "5": [],
+          "null": [
+            5
+          ]
+        },
+        "heap": {
+          "5": null
+        },
+        "index": {
+          "5": {
+            "expanded": true,
+            "autoOutlineSort": true,
+            "fromTemplateId": "ple6687f",
+            "templates": [],
+            "time": 0,
+            "bookId": 1,
+            "title": "Limerick 1",
+            "position": 0,
+            "id": 5
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "fromTemplateId": "ple6687f",
+        "expanded": null,
+        "color": "#6cace4",
+        "id": 14,
+        "title": "Instructions",
+        "bookId": 1,
+        "position": 0
+      },
+      {
+        "title": "Lines 1 - 2",
+        "position": 1,
+        "id": 11,
+        "bookId": 1,
+        "fromTemplateId": "ple6687f",
+        "expanded": null,
+        "color": "#e5554f"
+      },
+      {
+        "fromTemplateId": "ple6687f",
+        "expanded": null,
+        "position": 2,
+        "color": "#ff7f32",
+        "title": "Lines 2 - 4",
+        "id": 12,
+        "bookId": 1
+      },
+      {
+        "title": "Line 5",
+        "position": 3,
+        "id": 13,
+        "fromTemplateId": "ple6687f",
+        "bookId": 1,
+        "expanded": null,
+        "color": "#ffc72c"
+      },
+      {
+        "title": "Final Poem",
+        "bookId": 1,
+        "fromTemplateId": "ple6687f",
+        "expanded": null,
+        "color": "#78be20",
+        "characterId": null,
+        "position": 4,
+        "id": 9
+      },
+      {
+        "fromTemplateId": "ple6687f",
+        "bookId": 1,
+        "position": 5,
+        "expanded": null,
+        "title": "Theme",
+        "color": "Indigo",
+        "id": 15
+      }
+    ],
+    "cards": [
+      {
+        "beatId": 5,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "A Limerick is a lighthearted and often silly type of poem, created to make people laugh or smile. Characterized by a five-line structure and an AABBA rhyming scheme. The first, second, and fifth lines typically have 8–9 syllables and rhyme with each other, and the third and fourth lines have 5–6 syllables and also rhyme with each other. Limericks are a fun, playful, and often humorous form of poetry that people of all ages have enjoyed for centuries."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Fill in each part of this template to successfully complete your limerick."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "To write a poem is not a feat,"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "So said the woman on the street.",
+                "italic": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "I wanted to agree,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "But she had a degree,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "And was writing for people she'd meet."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "fromTemplateId": "ple6687f",
+        "places": [],
+        "title": "Start Here",
+        "characters": [],
+        "color": null,
+        "positionInBeat": 0,
+        "id": 12,
+        "positionWithinLine": 0,
+        "lineId": 14,
+        "imageId": null,
+        "templates": [],
+        "tags": [],
+        "bookId": null
+      },
+      {
+        "tags": [],
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "title": "Beginning",
+        "characters": [],
+        "color": null,
+        "lineId": 11,
+        "imageId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Use the first line of a Limerick to set the scene or introduce the main subject of the poem. This line sets the stage for the stage for the rest of the poem, while providing the reader with a sense of the overall tone and atmosphere."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Use the second line of a Limerick to expand upon the main subject of the poem and provide a more detailed description of the scene or moment. This line provides additional details or imagery related to the first line while establishing the rhyme scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Each line should have 8–9 syllables."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "To write a poem is not a feat,",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "So said the woman on the street.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write lines 1 and 2 of your limerick below:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": "ple6687f",
+        "templates": [],
+        "places": [],
+        "beatId": 5,
+        "id": 9,
+        "bookId": null
+      },
+      {
+        "positionWithinLine": 0,
+        "imageId": null,
+        "fromTemplateId": "ple6687f",
+        "beatId": 5,
+        "tags": [],
+        "templates": [],
+        "id": 10,
+        "color": null,
+        "lineId": 12,
+        "bookId": null,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The third and fourth lines of a Limerick often introduce a new character or event, and provide a twist or unexpected turn in the story. Usually the humor and wordplay of the Limerick come into play, and these lines are often the most memorable parts of the poem."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Each line should have 5–6 syllables. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "I wanted to agree,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "But she had a degree,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Write lines 3 and 4 of your limerick below:"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "title": "Middle",
+        "places": [],
+        "positionInBeat": 0
+      },
+      {
+        "positionInBeat": 0,
+        "imageId": null,
+        "positionWithinLine": 0,
+        "color": null,
+        "beatId": 5,
+        "places": [],
+        "fromTemplateId": "ple6687f",
+        "title": "End",
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Use the fifth line of the Limerick to conclude the poem. This line often brings the story full circle, resolves any conflicts or surprises introduced in the previous lines, and provides a sense of closure to the poem while completing the rhyme scheme."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This line should have 8–9 syllables."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": "And was writing for people she'd meet."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write line 5 of your limerick below:"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "id": 11,
+        "bookId": null,
+        "templates": [],
+        "lineId": 13
+      },
+      {
+        "color": null,
+        "lineId": 9,
+        "title": "Poem Title",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Write your final poem below:"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "characters": [],
+        "beatId": 5,
+        "templates": [],
+        "imageId": null,
+        "positionWithinLine": 0,
+        "fromTemplateId": "ple6687f",
+        "bookId": null,
+        "positionInBeat": 0,
+        "id": 8,
+        "tags": [],
+        "places": []
+      },
+      {
+        "id": 13,
+        "positionInBeat": 0,
+        "imageId": null,
+        "title": "Message",
+        "lineId": 15,
+        "tags": [],
+        "bookId": null,
+        "fromTemplateId": "ple6687f",
+        "templates": [],
+        "color": null,
+        "places": [],
+        "positionWithinLine": 0,
+        "beatId": 5,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "What is the message or humor your limerick is trying to convey? Is it successful? Why or why not? "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Note your thoughts below:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "characters": []
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "level": 0,
+        "borderColor": "#6cace4",
+        "light": {
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4"
+        },
+        "autoNumber": true,
+        "backgroundColor": "none",
+        "name": "Haiku",
+        "dark": {
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
+        },
+        "textColor": "#0b1117"
+      }
+    }
+  },
+  "initialVersion": "2023.3.3",
+  "appliedMigrations": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch25",
+  "version": "2023.3.2",
+  "type": "characters",
+  "name": "Freudian Personality Theory",
+  "description": "",
+  "link": "",
+  "attributes": [
+    {
+      "name": "Id",
+      "description": "The unconscious drivers of basic urges and desires, including sexuality and aggression, the Id seeks pleasure and avoids pain. How is this aspect of the character's psyche represented?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Ego",
+      "description": "The practical mediator of personality, the Ego uses reason to negotiate the demands of the Id and Superego and avoid negative societal consequences. How is this aspect of the character's psyche represented?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Superego",
+      "description": "The moral conscience of personality, the Superego aims to control the impulses of the Id; it is the internalized voice and values of society (or family) encouraging perfection and punishing failure. How is this aspect of the character's psyche represented?",
+      "type": "paragraph"
+    }
+  ]
+}
