@@ -1,10 +1,10 @@
 {
   "id": "ch25",
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "type": "characters",
   "name": "Freudian Personality Theory",
-  "description": "",
-  "link": "",
+  "description": "Identify how your character expresses the three aspects of Sigmund Freud's classic psychoanalytic theory.",
+  "link": "https://www.simplypsychology.org/psyche.html",
   "attributes": [
     {
       "name": "Id",

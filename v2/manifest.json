@@ -123,13 +123,18 @@
     },
     {
       "id": "ch24",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/characters/four_temperaments.json"
     },
     {
       "id": "ch25",
-      "version": "2023.3.2",
+      "version": "2023.3.3",
       "url": "/v2/characters/freudian_personality_theory.json"
+    },
+    {
+      "id": "ch26",
+      "version": "2023.3.3",
+      "url": "/v2/characters/stages_grief.json"
     },
     {
       "id": "pl1",
