@@ -1,10 +1,10 @@
 {
   "id": "ch24",
-  "version": "2023.3.2",
+  "version": "2023.3.3",
   "type": "characters",
   "name": "Four Temperaments",
-  "description": "",
-  "link": "",
+  "description": "Identify which classic temperaments best align with your character, using this personality theory developed by Hippocrates in ancient Greece",
+  "link": "https://fourtemperaments.com/4-primary-temperaments/",
   "attributes": [
     {
       "name": "Sanguine",
