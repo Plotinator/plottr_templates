@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "An outline formula for writing an action and adventure story",
-  "version": "2021.10.15",
+  "version": "2023.11.1",
   "link": "http://shangchimokf.blogspot.com/2017/04/the-quintessential-action-adventure.html",
   "categories": [
     "action"
@@ -1574,7 +1574,7 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Battle the Villian",
+        "title": "Battle the Villain",
         "positionWithinLine": 0,
         "positionInChapter": null,
         "fromTemplateId": null
