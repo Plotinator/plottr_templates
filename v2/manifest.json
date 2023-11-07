@@ -1,5 +1,5 @@
 {
-  "version": "2023.3.4",
+  "version": "2023.11.1",
   "templates": [
     {
       "id": "proj1",
@@ -153,7 +153,7 @@
     },
     {
       "id": "pl4",
-      "version": "2021.10.15",
+      "version": "2023.11.1",
       "url": "/v2/plotlines/action_adventure_plot.json"
     },
     {
