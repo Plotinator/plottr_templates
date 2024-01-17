@@ -1,0 +1,915 @@
+{
+  "id": "pl38",
+  "type": "plotlines",
+  "name": "Character in a Situation Short Story",
+  "description": "The classic Seven Point plot structure, adapted for short stories",
+  "version": "2024.1.17",
+  "categories": [
+    "shortstory"
+  ],
+  "link": "",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0,
+            "templates": [],
+            "position": 0
+          },
+          "3": {
+            "fromTemplateId": null,
+            "expanded": true,
+            "title": "auto",
+            "id": 3,
+            "time": 0,
+            "position": 1,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "4": {
+            "position": 2,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "time": 0,
+            "title": "auto",
+            "id": 4,
+            "bookId": 1,
+            "expanded": true
+          },
+          "5": {
+            "title": "auto",
+            "bookId": 1,
+            "id": 5,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 3
+          },
+          "6": {
+            "expanded": true,
+            "time": 0,
+            "id": 6,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "position": 4,
+            "fromTemplateId": null
+          },
+          "7": {
+            "expanded": true,
+            "autoOutlineSort": true,
+            "time": 0,
+            "bookId": 1,
+            "position": 5,
+            "title": "auto",
+            "fromTemplateId": null,
+            "id": 7
+          },
+          "8": {
+            "id": 8,
+            "fromTemplateId": null,
+            "expanded": true,
+            "position": 6,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1,
+            "autoOutlineSort": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "expanded": null,
+        "characterId": null,
+        "position": 0,
+        "bookId": 1,
+        "color": "#6cace4",
+        "isPinned": false,
+        "id": 1,
+        "title": "Main Plot",
+        "fromTemplateId": null
+      }
+    ],
+    "cards": [
+      {
+        "lineId": 1,
+        "positionWithinLine": 0,
+        "tags": [],
+        "fromTemplateId": null,
+        "imageId": null,
+        "id": 1,
+        "templates": [],
+        "places": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 1:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section introduces the reader to a character and their everyday life–and hints at something that will disrupt that normalcy. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This is the hook and the moment the reader becomes invested in the character and the storyline."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce a character with flaws, desires, problems, and a unique personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at some issue or problem in their world that makes them unhappy or impacts them in some way."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the short story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introducing the character should take approximately 10-15% of the story, 500-750 words in a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "bookId": null,
+        "beatId": 2,
+        "characters": [],
+        "color": null,
+        "title": "A Character",
+        "positionInBeat": 0
+      },
+      {
+        "beatId": 3,
+        "title": "In a Situation",
+        "positionInBeat": 0,
+        "color": null,
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle to the end of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Describe the situation the character finds themselves in, and why it is disrupting their life or ordinary world. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce the situation and how it impacts the character. This must be an issue that cannot be resolved on its own."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the character's discomfort with their new situation and how it guides their actions."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ensure that the situation is interesting and continues to hook the reader into the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A situation happens from the 15-25% mark in the story, from 750-1,250 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": 2,
+        "templates": [],
+        "bookId": null,
+        "tags": [],
+        "places": [],
+        "positionWithinLine": 0,
+        "lineId": 1,
+        "fromTemplateId": null,
+        "characters": []
+      },
+      {
+        "imageId": null,
+        "tags": [],
+        "positionWithinLine": 0,
+        "title": "With a Problem",
+        "templates": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Situation creates a problem for the character that they must solve. This sends their life in a new direction. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the problem in detail and show how it arises out of the situation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the depth of the problem, and how it impacts both the character and their situation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Illustrate why the hero must solve the problem themselves, and that it will not resolve itself and cannot be solved by others."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25%-75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "With a Problem happens around the 25-35% mark of the story from 1,250-1,750 in a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "characters": [],
+        "lineId": 1,
+        "fromTemplateId": null,
+        "id": 3,
+        "color": null,
+        "positionInBeat": 0,
+        "bookId": null,
+        "beatId": 4
+      },
+      {
+        "fromTemplateId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "-- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "In this section of the story, the hero will try to solve their problem in a variety of ways, seeking to correct their situation and return to the ordinary world."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the hero trying a number of approaches and tactics to try to solve their problem."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reveal any allies who try to help them and any adversaries who try to stop them from solving the problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Keep in mind the length of the story to determine how many attempts the character makes."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Who Tries Repeatedly to Solve the Problem occurs around the 35-50% mark in the story, from 3,750-2,500 words in a 5,000-word short story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "lineId": 1,
+        "places": [],
+        "beatId": 5,
+        "positionWithinLine": 0,
+        "id": 4,
+        "title": "Who Tries Repeatedly to Solve the Problem",
+        "characters": [],
+        "color": null,
+        "imageId": null,
+        "bookId": null,
+        "positionInBeat": 0,
+        "templates": []
+      },
+      {
+        "positionInBeat": 0,
+        "imageId": null,
+        "id": 5,
+        "beatId": 6,
+        "places": [],
+        "positionWithinLine": 0,
+        "tags": [],
+        "fromTemplateId": null,
+        "templates": [],
+        "bookId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Show the character failing. Each time they fail, show the problem becoming worse than it was before."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show each time the character tries and fails, and increase the tension and the stakes along the way."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the darkest moment, when it feels like the problem is at its worst, leaving the reader wondering how or if it can be resolved."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Highlight the emotional, mental, and/or physical impact the problem has on the character and just how bad their situation has become."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint that the character may have discovered a solution to the problem. This may come from themselves or with the help of an ally or mentor."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Ordeal occurs around the 50-75% mark, or 2,500-3,750 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "color": null,
+        "title": "But Fails, Making the Problem Worse",
+        "lineId": 1,
+        "characters": []
+      },
+      {
+        "places": [],
+        "beatId": 7,
+        "fromTemplateId": null,
+        "imageId": null,
+        "tags": [],
+        "positionInBeat": 0,
+        "bookId": null,
+        "title": "The Final Attempt to Solve the Problem",
+        "characters": [],
+        "lineId": 1,
+        "color": null,
+        "positionWithinLine": 0,
+        "id": 6,
+        "templates": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "-- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Using what they have learned along the way, the character makes one last attempt to solve the problem, which can either succeed or fail. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the consequences the character faces whether they solve the problem or not."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reconfirm what is at stake for the character and their situation, and increase the tension right before the climax."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the outcome of the character's final attempt, either good or bad, and how that has impacted their situation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Final Attempt to Solve the Problem occurs around the 75-95% mark, from 3,750-4,750 words in a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "positionInBeat": 0,
+        "imageId": null,
+        "characters": [],
+        "lineId": 1,
+        "id": 7,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the character's return to their situation in the ordinary world. Demonstrate whether the situation is changed and made better as a result of their actions, made worse, or if the situation remains unchanged. However, be sure to show the resolution of the problem, whether or not the character was successful."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Redefine the situation and show how things are different or have stayed the same."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the resolution of the problem or the failure of the character and how the problem persists."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Define how the character has or has not grown, and how that has changed their feelings about their situation and the problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Wrap up the story in a way that is satisfying to the reader."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Result of the Final Attempt occurs around the 95% mark, or 4,750 words in a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "tags": [],
+        "beatId": 8,
+        "fromTemplateId": null,
+        "templates": [],
+        "title": "The Result of the Final Attempt",
+        "color": null,
+        "places": [],
+        "bookId": null,
+        "positionWithinLine": 0
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "borderStyle": "NONE",
+          "level": 0,
+          "dark": {
+            "borderColor": "#ccc",
+            "textColor": "#ccc"
+          },
+          "borderColor": "#6cace4",
+          "autoNumber": true,
+          "textSize": 24,
+          "backgroundColor": "none",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "name": "Beat",
+          "textColor": "#0b1117"
+        }
+      }
+    }
+  },
+  "mergeBias": "top",
+  "initialVersion": "2023.7.21",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}
