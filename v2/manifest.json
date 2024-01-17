@@ -1,5 +1,5 @@
 {
-  "version": "2023.11.1",
+  "version": "2024.1.17",
   "templates": [
     {
       "id": "proj1",
@@ -300,6 +300,21 @@
       "id": "pl35",
       "version": "2023.3.3",
       "url": "/v2/plotlines/sonnet.json"
+    },
+    {
+      "id": "pl36",
+      "version": "2024.1.17",
+      "url": "/v2/plotlines/hero_journey_short.json"
+    },
+    {
+      "id": "pl37",
+      "version": "2024.1.17",
+      "url": "/v2/plotlines/larry_brooks_short.json"
+    },
+    {
+      "id": "pl38",
+      "version": "2024.1.17",
+      "url": "/v2/plotlines/character_in_situation.json"
     },
     {
       "id": "sc1",

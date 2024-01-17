@@ -1,0 +1,926 @@
+{
+  "id": "pl37",
+  "type": "plotlines",
+  "name": "Larry Brooks Short Story",
+  "description": "Based on ideas by Larry Brooks, adapted for short stories",
+  "version": "2024.1.17",
+  "categories": [
+    "shortstory"
+  ],
+  "link": "https://storyfix.com/",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null
+        },
+        "index": {
+          "2": {
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "templates": [],
+            "title": "auto",
+            "position": 0,
+            "id": 2,
+            "fromTemplateId": null,
+            "time": 0
+          },
+          "3": {
+            "expanded": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "position": 4,
+            "id": 3
+          },
+          "4": {
+            "position": 3,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "time": 0,
+            "title": "auto",
+            "id": 4,
+            "autoOutlineSort": true
+          },
+          "5": {
+            "time": 0,
+            "id": 5,
+            "title": "auto",
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "position": 2
+          },
+          "6": {
+            "bookId": 1,
+            "title": "auto",
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 1,
+            "id": 6,
+            "autoOutlineSort": true
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "title": "auto",
+            "id": 7,
+            "time": 0,
+            "position": 6,
+            "fromTemplateId": null
+          },
+          "8": {
+            "bookId": 1,
+            "id": 8,
+            "position": 5,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "fromTemplateId": null,
+            "time": 0
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "title": "Main Plot",
+        "id": 1,
+        "expanded": null,
+        "color": "#6cace4",
+        "bookId": 1,
+        "characterId": null,
+        "position": 0,
+        "fromTemplateId": null,
+        "isPinned": false
+      }
+    ],
+    "cards": [
+      {
+        "fromTemplateId": null,
+        "lineId": 1,
+        "imageId": null,
+        "color": null,
+        "id": 1,
+        "beatId": 2,
+        "templates": [],
+        "positionWithinLine": 0,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Setup:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This section sets up the short story by introducing the main character, their world, the situation they are in, and/or the problem they face."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce readers to the main character and an interesting world."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce a problem that disrupts their ordinary world, which the main character must solve."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Give the main character a clear goal that will allow them to solve the problem and a clear motive that drives them toward that solution."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The setup should take approximately 15% of the story, or 750 words, into a 5,000-word story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "Setup",
+        "bookId": null,
+        "positionInBeat": 0,
+        "places": [],
+        "tags": []
+      },
+      {
+        "beatId": 6,
+        "positionInBeat": 0,
+        "characters": [],
+        "imageId": null,
+        "templates": [],
+        "id": 2,
+        "title": "Shift",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Shift:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section reveals how the problem and the goal related to it cause a shift in the main character's world. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the character's emotional shift and reaction to the problem."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal how the problem has made them uncomfortable and why they are the ones to solve it."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the main character preparing to take action to pursue their goal and solve the problem."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The first shift occurs around the 15-25% mark, from 750-1,250 words in a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "lineId": 1,
+        "places": [],
+        "positionWithinLine": 0,
+        "color": null,
+        "fromTemplateId": null,
+        "bookId": null,
+        "tags": []
+      },
+      {
+        "templates": [],
+        "beatId": 5,
+        "id": 3,
+        "tags": [],
+        "fromTemplateId": null,
+        "lineId": 1,
+        "imageId": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "characters": [],
+        "title": "Response",
+        "color": null,
+        "places": [],
+        "bookId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Response:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This beat is where the hero takes action. We've seen their goals and motivation, and now we see the character moving toward the conflict."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the character physically taking action and responding directly to the problem they face."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the character moving out of their comfort zone and into a new world or situation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the conflict, tension, and stakes increase as a result of the character's response."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Use this section to further develop the character and reveal their strengths and weaknesses."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up the first 50% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Response occurs around the 25-35% mark, from 1,250-1,750 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "positionWithinLine": 0,
+        "color": null,
+        "beatId": 4,
+        "title": "Shift (Midpoint)",
+        "fromTemplateId": null,
+        "imageId": null,
+        "lineId": 1,
+        "tags": [],
+        "id": 4,
+        "bookId": null,
+        "characters": [],
+        "positionInBeat": 0,
+        "places": [],
+        "templates": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The midpoint is the second shift or plot point. If things have been going well for the main character, here they take a turn for the worse. If they have been going poorly, the main character may experience a false victory here."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the shift for better or worse for the main character and reveal how it changes their perspective."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow your main character to learn a lesson from their response in the previous beat and this shift."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reveal the character's new approach to their goal and the solution to the problem. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Restate the character's motive and show how it has changed from the initial shift to this one."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story, from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Shift (Midpoint) occurs around the 45-55% mark, from 2,250 to 2,750 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "positionInBeat": 0,
+        "tags": [],
+        "places": [],
+        "positionWithinLine": 0,
+        "templates": [],
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Attack:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The hero now turns to attack the problem with their new knowledge and a fresh approach."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the main character renew their attack on the problem and show them facing it in a new way."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Raise the stakes and the danger. This is the most difficult challenge the main character has faced thus far."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the main character fail in their attack and reach the darkest moment of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the main character in despair, but leave them a glimmer of hope as they move toward the climax of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story, from 25%-75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Attack takes up around the 55-75% mark, from 2,750-3,750 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "beatId": 3,
+        "lineId": 1,
+        "characters": [],
+        "id": 5,
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "title": "Attack"
+      },
+      {
+        "id": 6,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Third Shift:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the darkest moment, there is one final shift for the main character, and now they move toward victory, or at least the final resolution."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show how the main character solves their problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the final change in the main character's perspective."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show any sacrifice the main character has to make to achieve their goal and solve the problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the main character preparing to return to a new normal, whatever that looks like."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Third Shift occurs around the 75-95% mark, from 3,750 to 4,750 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positionInBeat": 0,
+        "color": null,
+        "places": [],
+        "bookId": null,
+        "tags": [],
+        "beatId": 8,
+        "title": "Third Shift",
+        "templates": [],
+        "lineId": 1,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "characters": [],
+        "imageId": null
+      },
+      {
+        "imageId": null,
+        "title": "Resolution",
+        "fromTemplateId": null,
+        "beatId": 7,
+        "bookId": null,
+        "color": null,
+        "lineId": 1,
+        "positionInBeat": 0,
+        "tags": [],
+        "id": 7,
+        "characters": [],
+        "templates": [],
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Resolution:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show the main character's return to normal, whatever that might look like, depending on the type of story you are trying to tell. The ending can be happy if the main character and their circumstances have changed for the better, or tragic if things have changed for the worse."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the changes the character has experienced and show how the outcome of the story has affected them. "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the resolution of the conflict one way or another."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Wrap up all the elements of the story and resolve any loose ends."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Resolution occurs around the 95% mark, or 4,750 words in a 5,000-word short story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionWithinLine": 0
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "borderStyle": "NONE",
+          "name": "Beat",
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4",
+          "backgroundColor": "none",
+          "autoNumber": true,
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "level": 0,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "textSize": 24
+        }
+      }
+    }
+  },
+  "mergeBias": "top",
+  "initialVersion": "2023.7.21",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}

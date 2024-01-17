@@ -1,0 +1,1291 @@
+{
+  "id": "pl36",
+  "type": "plotlines",
+  "name": "Hero's Journey Short Story",
+  "description": "The classic Hero's Journey plot structure, adapted for short stories",
+  "version": "2024.1.17",
+  "categories": [
+    "shortstory"
+  ],
+  "link": "",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "templates": [],
+            "title": "auto",
+            "time": 0,
+            "expanded": true,
+            "position": 0
+          },
+          "3": {
+            "id": 3,
+            "title": "auto",
+            "position": 1,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "time": 0,
+            "bookId": 1,
+            "expanded": true
+          },
+          "4": {
+            "title": "auto",
+            "position": 2,
+            "id": 4,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "fromTemplateId": null,
+            "time": 0
+          },
+          "5": {
+            "position": 3,
+            "expanded": true,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "id": 5,
+            "title": "auto"
+          },
+          "6": {
+            "expanded": true,
+            "title": "auto",
+            "position": 4,
+            "id": 6,
+            "time": 0,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null
+          },
+          "7": {
+            "id": 7,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "position": 5,
+            "expanded": true,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "title": "auto",
+            "position": 6,
+            "bookId": 1,
+            "id": 8,
+            "time": 0
+          },
+          "9": {
+            "fromTemplateId": null,
+            "expanded": true,
+            "id": 9,
+            "time": 0,
+            "bookId": 1,
+            "title": "auto",
+            "position": 7,
+            "autoOutlineSort": true
+          },
+          "10": {
+            "position": 8,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "bookId": 1,
+            "title": "auto",
+            "id": 10,
+            "time": 0,
+            "fromTemplateId": null
+          },
+          "11": {
+            "time": 0,
+            "position": 9,
+            "id": 11,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "title": "auto"
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "12": [],
+          "null": [
+            12
+          ]
+        },
+        "heap": {
+          "12": null
+        },
+        "index": {
+          "12": {
+            "id": 12,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "expanded": null,
+        "position": 0,
+        "isPinned": false,
+        "id": 1,
+        "fromTemplateId": null,
+        "color": "#6cace4",
+        "characterId": null,
+        "title": "Main Plot",
+        "bookId": 1
+      }
+    ],
+    "cards": [
+      {
+        "characters": [],
+        "positionInBeat": 0,
+        "templates": [],
+        "title": "The Ordinary World",
+        "bookId": null,
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 1:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Introduce the Hero and their ordinary world. The Hero has a well-defined need or want, but there is something specific preventing them from acquiring it."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce readers to the Hero, their world, and what they need or want."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish the character's flaws and strengths and show their unique personality."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at a problem or disruption to their ordinary world that the Hero faces and must solve."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Ordinary World should take approximately 12% of the story, the first 600 words of a 5,000-word story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "positionWithinLine": 0,
+        "tags": [],
+        "beatId": 2,
+        "fromTemplateId": null,
+        "lineId": 1,
+        "color": null,
+        "id": 1
+      },
+      {
+        "characters": [],
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 1:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Something (perhaps something shocking) happens to break the status quo, revealing the obstacles the Hero must face."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce a significant disruption to the Hero's everyday life that only they can solve."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the disruption this event causes in the Hero's world and life."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hook the reader into the story and show the overall conflict quickly. This is where the central question/theme of the story is established."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The inciting incident occurs around the 10-20% mark, between 500-1,000 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "color": null,
+        "title": "Inciting Incident",
+        "bookId": null,
+        "beatId": 3,
+        "tags": [],
+        "lineId": 1,
+        "templates": [],
+        "id": 2,
+        "places": []
+      },
+      {
+        "positionInBeat": 0,
+        "bookId": null,
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Beginning of Act 3:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The one thing that absolutely can't fail for the plan to work does fail. All hope is lost. It appears the Hero will never be able to solve the problem or defeat their enemy. But wait, all hope is not lost. It's an incredible long shot, but there is a potential way the Hero's plan could work. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Allow the Hero to fail and sit in the moment when all is lost before they glimpse the way forward."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow the reader and the Hero to believe there is no way to solve the problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Re-confirm the danger and urgency of the mission–this is where the stakes and tension are at their highest."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create an unexpected turn or twist in the story and surprise the reader."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make clear how these events lead toward the climax and final confrontation."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "All is Lost occurs around the 75% mark, or around 3,750 words in a 5,000-word short story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": 20,
+        "lineId": 1,
+        "imageId": null,
+        "characters": [],
+        "places": [],
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "tags": [],
+        "title": "All is Lost",
+        "color": null,
+        "beatId": 9
+      },
+      {
+        "tags": [],
+        "fromTemplateId": null,
+        "places": [],
+        "beatId": 10,
+        "color": null,
+        "positionInBeat": 0,
+        "id": 21,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Middle of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It is essential that the Hero act immediately. It is now much harder for the Hero to succeed than it was at the mid-point, and the stakes are much higher. Something spectacularly improbable yet plausible happens, and the Hero must execute their plan. Here, they will either triumph over whatever was keeping them from attaining their goal or suffer a final defeat. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Dramatize the final battle. Show how the Hero is victorious or defeated using what they have learned along the way."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how the final battle changes the Hero and reveals their strengths and weaknesses and how they have changed."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reveal any sacrifices the Hero will have to make to achieve their goal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ready the Hero to return to the ordinary world."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Final Attack occurs around the 80-85% mark, 4,000-4,250 words in a 5,000-word short story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "imageId": null,
+        "lineId": 1,
+        "positionWithinLine": 0,
+        "characters": [],
+        "bookId": null,
+        "title": "Final Attack"
+      },
+      {
+        "characters": [],
+        "positionWithinLine": 0,
+        "templates": [],
+        "id": 22,
+        "fromTemplateId": null,
+        "bookId": null,
+        "tags": [],
+        "color": null,
+        "beatId": 11,
+        "imageId": null,
+        "positionInBeat": 0,
+        "places": [],
+        "lineId": 1,
+        "title": "Wrap Up ",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Have the Hero say goodbye to their allies and return to the ordinary world. Show how the ordinary world has been transformed because of their journey and how the Hero has also changed. The Hero can be successful or not, and they may not willingly return to the ordinary world. If not, provide a good motive for them to reluctantly return, such as being chased back or to care for someone they were forced to leave behind. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Hero's return home and reveal how they are different."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Highlight the Hero's growth, the reasons for the journey, and their new hope (if the story ends well for them)."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how they have achieved their goal or met their needs and how that has changed the world."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve any story threads and wrap up any loose ends."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Wrap Up occurs around the 95% mark, or 4,750-5,000 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lineId": 1,
+        "characters": [],
+        "bookId": null,
+        "templates": [],
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "beatId": 4,
+        "id": 3,
+        "tags": [],
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 1:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Hero might vacillate for a short time while they weigh what accepting the call to adventure will mean for them, but ultimately, the Hero accepts the call and enters a new, strange, and intensely unfamiliar situation/world. The Hero may also be willing but face an obstacle that must be overcome to accept the call to adventure."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Hero hesitate or try to refuse the Call."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Raise the stakes so the Hero cannot refuse."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include the Hero's emotional response–are they feeling guilty, angry, or annoyed? "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Refusal of the Call occurs around the 25% mark, around 1,250 words into a 5,000-word story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "title": "Hero's Response",
+        "color": null,
+        "places": []
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Beginning of Act 2:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero enters the new world and tries to attain their goal, to meet the need revealed at the beginning of the story. They fail, perhaps spectacularly or humorously. Even though the Hero failed, they succeed in either gaining an ally or learning new information. This is a place to show that your character will not give up no matter what and continues to grow. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Create doubt in the Hero regarding their ability to succeed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Have the Hero go through at least one try/fail cycle."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the Hero is learning and growing in the face of failures."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story, from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Trial and error occurs around the 25-40% mark, from 1,250-2.000 words mark in a 5,000-word short story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "\n"
+              }
+            ]
+          }
+        ],
+        "positionInBeat": 0,
+        "bookId": null,
+        "places": [],
+        "imageId": null,
+        "lineId": 1,
+        "color": null,
+        "templates": [],
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "beatId": 5,
+        "title": "Trial and Error",
+        "id": 4,
+        "characters": [],
+        "tags": []
+      },
+      {
+        "places": [],
+        "templates": [],
+        "characters": [],
+        "lineId": 1,
+        "color": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "id": 5,
+        "title": "Midpoint/Point of No Return",
+        "imageId": null,
+        "beatId": 6,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Hero tries to defeat the obstacle that is preventing them from getting what they need."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If the Hero succeeds, then there has to be a twist. The person/thing they thought was the Big Bad or the problem they thought they were facing isn't the real issue. Reveal the true Big Bad or problem."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If the Hero fails, raise the stakes. Perhaps they lose an ally, become injured in battle, or lose an important item/artifact. Reveal the weakness that caused the Hero to lose this battle."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the real need or want of the Hero and show how the current conflict sets those things against each other."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story, from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Midpoint/point of no return occurs around the 40-50% mark, around 2,000-2,500 words in a 5,000-word story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionInBeat": 0,
+        "tags": [],
+        "fromTemplateId": null
+      },
+      {
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Our Hero has failed. They try to go back to the status quo but realize that's not possible. This is a good time for reflection or perhaps the Hero reaches rock bottom and is energized to fight their way out of it."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero facing their most difficult setback so far and reaching the darkest moment of the story, the dark night of the soul."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Dramatize this moment of change and the Hero's shift in perspective due to this setback."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hint at how the Hero's perception of the future and the rest of the story is altered by this setback and what will enable them to move forward."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story, from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Setback occurs around the 50-70% mark, 2,500-3,500 words in a 5,000-word story. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "lineId": 1,
+        "id": 6,
+        "bookId": null,
+        "places": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "beatId": 7,
+        "positionInBeat": 0,
+        "title": "Setback",
+        "tags": [],
+        "color": null
+      },
+      {
+        "color": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "End of Act 2:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Hero accepts their fate and trains or otherwise works on removing what is keeping them from reaching their goal. Their weakness is usually internal, but they are getting it under control. Make sure the readers know how the Hero plans to defeat what is preventing them from reaching their goal and solving their problem."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Hero accepting their failure and acquiring what they need to move forward – this can be an object, knowledge, new abilities, or reconciliation."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Indicate how this acceptance and acquisition of new knowledge and training will play a key role in the Hero's plan."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow a moment for the Hero to celebrate and perhaps reflect back on all they have been through to get to this point."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Acceptance occurs around the 70% mark, around 3,500 words into a 5,000-word short story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "title": "Acceptance",
+        "positionInBeat": 0,
+        "bookId": null,
+        "beatId": 8,
+        "lineId": 1,
+        "id": 7,
+        "imageId": null,
+        "characters": [],
+        "tags": [],
+        "places": [],
+        "fromTemplateId": null,
+        "templates": []
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "autoNumber": true,
+          "borderColor": "#6cace4",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "textColor": "#0b1117",
+          "textSize": 24,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "name": "Beat",
+          "borderStyle": "NONE",
+          "level": 0,
+          "backgroundColor": "none"
+        }
+      }
+    }
+  },
+  "initialVersion": "2023.7.21",
+  "mergeBias": "top",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}
