@@ -1,0 +1,1171 @@
+{
+  "id": "proj2",
+  "type": "project",
+  "name": "Write Your First Nonfiction Book",
+  "description": "Based on the book with step-by-step instructions by Honorée Corder.",
+  "version": "2024.1.30",
+  "link": "https://honoreecorder.com/",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "null": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        "heap": {
+          "22": null,
+          "23": null,
+          "24": null,
+          "25": null,
+          "26": null,
+          "27": null,
+          "28": null,
+          "29": null,
+          "30": null
+        },
+        "index": {
+          "22": {
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "expanded": true,
+            "position": 1,
+            "id": 22
+          },
+          "23": {
+            "id": 23,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "position": 8
+          },
+          "24": {
+            "id": 24,
+            "position": 7,
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "title": "auto"
+          },
+          "25": {
+            "fromTemplateId": null,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "position": 6,
+            "time": 0,
+            "id": 25
+          },
+          "26": {
+            "autoOutlineSort": true,
+            "id": 26,
+            "position": 5,
+            "time": 0,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "title": "auto"
+          },
+          "27": {
+            "fromTemplateId": null,
+            "position": 4,
+            "id": 27,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "title": "auto",
+            "expanded": true,
+            "time": 0
+          },
+          "28": {
+            "id": 28,
+            "position": 3,
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "time": 0
+          },
+          "29": {
+            "title": "auto",
+            "id": 29,
+            "position": 2,
+            "time": 0,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "fromTemplateId": null
+          },
+          "30": {
+            "position": 0,
+            "bookId": 1,
+            "id": 30,
+            "autoOutlineSort": true,
+            "title": "Prologue",
+            "expanded": true,
+            "time": 0,
+            "fromTemplateId": null
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "title": "auto",
+            "time": 0,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "position": 0,
+            "templates": [],
+            "fromTemplateId": null,
+            "bookId": "series",
+            "id": 1
+          }
+        }
+      }
+    },
+    "cards": [
+      {
+        "title": "Encouragement",
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "You want your reader to feel like they absolutely can create their desired results. They picked up your book because they want what you have as easily and quickly as possible, without pain and suffering. Chapter One is designed to give them the confidence to keep striving for their goal."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "bookId": null,
+        "color": null,
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "tags": [],
+        "id": 36,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "positionInBeat": 0,
+        "places": [],
+        "characters": [],
+        "beatId": 22,
+        "lineId": 15,
+        "templates": [],
+        "isCloudFile": true,
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "positionInBeat": 0,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "color": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "bookId": null,
+        "title": "Stories & Examples",
+        "lineId": 15,
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Because we find ourselves in others, sharing the success stories of others is helpful. It’s likely that Chapter One didn’t do the job entirely because you are the expert, so your readers will think you’re a magical unicorn, and they can’t possibly get the same results as mere mortals. This chapter can help them get a better sense that they, too, can be successful."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "fromTemplateId": null,
+        "imageId": null,
+        "id": 37,
+        "characters": [],
+        "beatId": 29,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "isCloudFile": true,
+        "tags": []
+      },
+      {
+        "imageId": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "color": null,
+        "fromTemplateId": null,
+        "places": [],
+        "id": 38,
+        "characters": [],
+        "isCloudFile": true,
+        "beatId": 28,
+        "tags": [],
+        "title": "Overview",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "You’ve figured something out, and this is what you are sharing in your book. This is the instructional part of your book, the meat, and its purpose is to provide what your reader can do, step-by-step, to duplicate your results."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "lineId": 15,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "bookId": null,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "templates": []
+      },
+      {
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "positionWithinLine": 0,
+        "places": [],
+        "isCloudFile": true,
+        "title": "Short Formula",
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "color": null,
+        "positionInBeat": 0,
+        "templates": [],
+        "id": 39,
+        "lineId": 15,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "fromTemplateId": null,
+        "beatId": 27,
+        "characters": [],
+        "tags": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your readers will get the best results if they have a simple formula they can read, remember, do, and share. Take your process and make it a “no-brainer” for your reader."
+              }
+            ]
+          }
+        ],
+        "bookId": null,
+        "imageId": null
+      },
+      {
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "How can they put what they’ve learned from you into practice? Give them more information so not only will they achieve success, but they can also avoid failure."
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "title": "Formula in Action",
+        "beatId": 26,
+        "color": null,
+        "places": [],
+        "templates": [],
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "isCloudFile": true,
+        "bookId": null,
+        "lineId": 15,
+        "imageId": null,
+        "positionInBeat": 0,
+        "characters": [],
+        "tags": [],
+        "positionWithinLine": 0,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "id": 40
+      },
+      {
+        "positionInBeat": 0,
+        "id": 41,
+        "color": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On your journey, you’ve probably also figured out or discovered a few additional pieces of information they will find invaluable. Include these distinctions and goodies in this chapter."
+              }
+            ]
+          }
+        ],
+        "bookId": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "title": "Tips, tools, resources, ideas",
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "lineId": 15,
+        "templates": [],
+        "characters": [],
+        "isCloudFile": true,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "tags": [],
+        "beatId": 25,
+        "imageId": null,
+        "fromTemplateId": null
+      },
+      {
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "beatId": 24,
+        "tags": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "bookId": null,
+        "color": null,
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "lineId": 15,
+        "positionInBeat": 0,
+        "places": [],
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Do you have some additional secret sauce? Pointers for avoiding mistakes or accelerating results? Put them in this chapter, a little of both if you’re feeling generous."
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "characters": [],
+        "templates": [],
+        "isCloudFile": true,
+        "id": 42,
+        "title": "Get Better Results",
+        "fromTemplateId": null
+      },
+      {
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "templates": [],
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "title": "Call to Action",
+        "places": [],
+        "fromTemplateId": null,
+        "lineId": 15,
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "You got ’em fired up in Chapter One, send them off to do great deeds, and, as my friend Jay Papasan says, Eat tacos. Okay, not really about the tacos, but you do want them to feel empowered, inspired, and well equipped to take immediate action. (This can, and may, include eating tacos. Who’s to say?)"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "bookId": null,
+        "positionWithinLine": 0,
+        "imageId": null,
+        "isCloudFile": true,
+        "color": null,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "beatId": 23,
+        "id": 43,
+        "tags": [],
+        "positionInBeat": 0
+      },
+      {
+        "fromTemplateId": null,
+        "description": [
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What’s your subject matter?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What aspect of your subject matter are you talking about, and what point of view are you taking"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is your reader going to read and learn, and their potential takeaways."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Amp up the excitement! End your Introduction in such a way your reader is excited and ready to turn the page and dive into the book."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "beatId": 30,
+        "bookId": null,
+        "id": 65,
+        "imageId": null,
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "isCloudFile": true,
+        "positionWithinLine": 0,
+        "tags": [],
+        "characters": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "lineId": 15,
+        "title": "Introduction",
+        "positionInBeat": 0,
+        "places": [],
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "templates": [],
+        "color": null
+      }
+    ],
+    "categories": {
+      "characters": [
+        {
+          "position": 0,
+          "id": 1,
+          "name": "Main",
+          "type": "text"
+        },
+        {
+          "name": "Supporting",
+          "id": 2,
+          "position": 1,
+          "type": "text"
+        },
+        {
+          "position": 2,
+          "name": "Other",
+          "id": 3,
+          "type": "text"
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "Main",
+          "position": 0
+        }
+      ],
+      "notes": [
+        {
+          "position": 0,
+          "name": "Main",
+          "type": "text",
+          "id": 1
+        },
+        {
+          "id": 3,
+          "position": 1,
+          "name": "First Nonfiction Book",
+          "type": "text"
+        }
+      ],
+      "places": []
+    },
+    "lines": [
+      {
+        "position": 5,
+        "id": 20,
+        "title": "Idea 4",
+        "expanded": null,
+        "fromTemplateId": null,
+        "bookId": 1,
+        "color": "LightGreen"
+      },
+      {
+        "position": 4,
+        "expanded": null,
+        "fromTemplateId": null,
+        "title": "Idea 3",
+        "color": "#ffc72c",
+        "id": 19,
+        "bookId": 1
+      },
+      {
+        "color": "#ff7f32",
+        "fromTemplateId": null,
+        "id": 18,
+        "position": 3,
+        "bookId": 1,
+        "expanded": null,
+        "title": "Idea 2"
+      },
+      {
+        "position": 2,
+        "expanded": null,
+        "color": "#6cace4",
+        "fromTemplateId": null,
+        "bookId": 1,
+        "id": 17,
+        "title": "Idea 1"
+      },
+      {
+        "bookId": 1,
+        "title": "Main Point",
+        "color": "#e5554f",
+        "position": 1,
+        "expanded": null,
+        "fromTemplateId": null,
+        "id": 16
+      },
+      {
+        "characterId": null,
+        "position": 0,
+        "fromTemplateId": null,
+        "expanded": null,
+        "isPinned": false,
+        "color": "#78be20",
+        "bookId": 1,
+        "id": 15,
+        "title": "Outline"
+      },
+      {
+        "id": 2,
+        "position": 0,
+        "characterId": null,
+        "color": "#6cace4",
+        "bookId": "series",
+        "title": "Main Plot",
+        "fromTemplateId": null,
+        "expanded": null
+      }
+    ],
+    "notes": [
+      {
+        "tags": [],
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Back Matter",
+                "bold": true
+              },
+              {
+                "text": "\n\nA book’s back (or end) matter provides an opportunity for the relationship started in the front matter and the main content of the book to continue outside of the book. I call this maximization or monetization.\nThe back matter of a book can include any or all of the following (or just simply provide an author’s bio, including their website):\n"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Author Notes"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Acknowledgments ",
+                    "bold": true
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Special Invitation"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Glossary",
+                    "bold": true
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Bibliography",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Index",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Call to Action"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "categoryId": "3",
+        "isCloudFile": true,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "imageId": null,
+        "bookIds": [
+          3
+        ],
+        "templates": [],
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "lastEdited": 1701707913025,
+        "title": "Back Matter",
+        "places": [],
+        "id": 10,
+        "characters": []
+      },
+      {
+        "isCloudFile": true,
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "title": "Bestselling Book Formula",
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "places": [],
+        "characters": [],
+        "lastEdited": 1701708496907,
+        "content": [
+          {
+            "children": [
+              {
+                "text": "The Bestselling Book Formula ",
+                "bold": true
+              },
+              {
+                "text": "consists of four elements or keys, and they are read, remember, do, and share. What that means is that the book’s title, premise, and the formula contained within it are easy to\n"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "1. Read. Is the book easy to read?\n2. Remember. Is the book’s title or formula easy to remember?\n3. Do. Is what the book teaches easy to do?\n4. Share. Is the book’s title or formula easy to share?"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "templates": [],
+        "imageId": null,
+        "categoryId": "3",
+        "id": 11,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "tags": [],
+        "bookIds": [
+          3
+        ]
+      },
+      {
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "imageId": null,
+        "categoryId": "3",
+        "lastEdited": 1701959692585,
+        "bookIds": [
+          3
+        ],
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "characters": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "isCloudFile": true,
+        "title": "Introduction",
+        "tags": [],
+        "id": 12,
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Let’s get the bones of your Introduction down:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What’s your subject matter?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What aspect of your subject matter are you talking about, and what point of view are you taking"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What is your reader going to read and learn, and their potential takeaways."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Amp up the excitement! End your Introduction in such a way your reader is excited and ready to turn the page and dive into the book."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "templates": [],
+        "places": []
+      },
+      {
+        "tags": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "title": "Todo List",
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Publishing Your Book"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Write the book!"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Editor"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proofreader"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Interior Designer"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cover Designer"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Upload to stores!"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "templates": [],
+        "categoryId": "3",
+        "imageId": null,
+        "isCloudFile": true,
+        "bookIds": [],
+        "lastEdited": 1701893867815,
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "places": [],
+        "id": 13
+      },
+      {
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "id": 7,
+        "categoryId": "3",
+        "content": [
+          {
+            "children": [
+              {
+                "text": "What's the \"Big Idea\" of the book?"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "I help (target population) to do (thing of value), [pick one or both] with or without (differentiating quality).",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "tags": [],
+        "imageId": null,
+        "templates": [],
+        "lastEdited": 1701707693843,
+        "bookIds": [
+          3
+        ],
+        "places": [],
+        "isCloudFile": true,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "title": "Big Idea"
+      },
+      {
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "templates": [],
+        "id": 8,
+        "title": "8 Chapters",
+        "bookIds": [
+          3
+        ],
+        "places": [],
+        "characters": [],
+        "isCloudFile": true,
+        "imageId": null,
+        "lastEdited": 1701707836562,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "tags": [],
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "categoryId": "3",
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter One: Encouragement. "
+              },
+              {
+                "text": "You want your reader to feel like they absolutely can create their desired results. They picked up your book because they want what you have as easily and quickly as possible, without pain and suffering. Chapter One is designed to give them the confidence to keep striving for their goal.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Two: Stories and examples."
+              },
+              {
+                "text": " Because we find ourselves in others, sharing the success stories of others is helpful. It’s likely that Chapter One didn’t do the job entirely because you are the expert, so your readers will think you’re a magical unicorn, and they can’t possibly get the same results as mere mortals. This chapter can help them get a better sense that they, too, can be successful.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Three: An overview of the process. "
+              },
+              {
+                "text": "You’ve figured something out, and this is what you are sharing in your book. This is the instructional part of your book, the meat, and its purpose is to provide what your reader can do, step-by-step, to duplicate your results.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Four: Short formula in the form of an acronym, process, or alliteration. "
+              },
+              {
+                "text": "Your readers will get the best results if they have a simple formula they can read, remember, do, and share. Take your process and make it a “no-brainer” for your reader.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Five: The Formula in action. "
+              },
+              {
+                "text": "How can they put what they’ve learned from you into practice? Give them more information so not only will they achieve success, but they can also avoid failure.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Six: Other tips, tools, resources, and ideas. "
+              },
+              {
+                "text": "On your journey, you’ve probably also figured out or discovered a few additional pieces of information they will find invaluable. Include these distinctions and goodies in this chapter.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Seven: How to get results in the best possible way. "
+              },
+              {
+                "text": "Do you have some additional secret sauce? Pointers for avoiding mistakes or accelerating results? Put them in this chapter, a little of both if you’re feeling generous.\n"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Chapter Eight: Call to action."
+              },
+              {
+                "text": " You got ’em fired up in Chapter One, send them off to do great deeds, and, as my friend Jay Papasan says, Eat tacos. Okay, not really about the tacos, but you do want them to feel empowered, inspired, and well equipped to take immediate action. (This can, and may, include eating tacos. Who’s to say?)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "bookIds": [
+          3
+        ],
+        "tags": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Front Matter: The front matter of a book can include any or all of the following:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A black-and-white mirror image of the book’s front cover"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A second title page"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Copyright page"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Dedication"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Acknowledgments (These can also go in the back matter.)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Special Invitation (This is where you can invite your readers to get to know you better by offering something of value in exchange for their email.)"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Table of Contents"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Foreword"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduction"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
+        "characters": [],
+        "categoryId": "3",
+        "lastEdited": 1706564967072,
+        "fileId": "3bl80sxZOLwCOb242EkQ",
+        "templates": [],
+        "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
+        "places": [],
+        "id": 9,
+        "imageId": null,
+        "isCloudFile": true,
+        "title": "Front Matter"
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "textSize": 24,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "name": "Chapter",
+          "backgroundColor": "none",
+          "borderStyle": "NONE",
+          "textColor": "#0b1117",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "borderColor": "#6cace4",
+          "level": 0,
+          "autoNumber": true
+        }
+      },
+      "series": {
+        "0": {
+          "name": "Chapter",
+          "backgroundColor": "none",
+          "autoNumber": true,
+          "borderStyle": "NONE",
+          "dark": {
+            "textColor": "#c9e6ff",
+            "borderColor": "#c9e6ff"
+          },
+          "textSize": 24,
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4",
+          "level": 0,
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          }
+        }
+      }
+    }
+  },
+  "initialVersion": "2022.12.21",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}

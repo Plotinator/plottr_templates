@@ -1,10 +1,15 @@
 {
-  "version": "2024.1.17",
+  "version": "2024.1.30",
   "templates": [
     {
       "id": "proj1",
       "version": "2021.10.15",
       "url": "/v2/project/snowflake.json"
+    },
+    {
+      "id": "proj2",
+      "version": "2024.1.30",
+      "url": "/v2/project/honoree.json"
     },
     {
       "id": "ch1",
