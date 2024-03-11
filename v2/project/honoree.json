@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Write Your First Nonfiction Book",
   "description": "Based on the book with step-by-step instructions by Honorée Corder.",
-  "version": "2024.1.30",
+  "version": "2024.3.11",
   "link": "https://honoreecorder.com/",
   "templateData": {
     "beats": {
@@ -1118,49 +1118,7 @@
         "isCloudFile": true,
         "title": "Front Matter"
       }
-    ],
-    "hierarchyLevels": {
-      "1": {
-        "0": {
-          "textSize": 24,
-          "dark": {
-            "textColor": "#ccc",
-            "borderColor": "#ccc"
-          },
-          "name": "Chapter",
-          "backgroundColor": "none",
-          "borderStyle": "NONE",
-          "textColor": "#0b1117",
-          "light": {
-            "textColor": "#0b1117",
-            "borderColor": "#6cace4"
-          },
-          "borderColor": "#6cace4",
-          "level": 0,
-          "autoNumber": true
-        }
-      },
-      "series": {
-        "0": {
-          "name": "Chapter",
-          "backgroundColor": "none",
-          "autoNumber": true,
-          "borderStyle": "NONE",
-          "dark": {
-            "textColor": "#c9e6ff",
-            "borderColor": "#c9e6ff"
-          },
-          "textSize": 24,
-          "textColor": "#0b1117",
-          "borderColor": "#6cace4",
-          "level": 0,
-          "light": {
-            "textColor": "#0b1117",
-            "borderColor": "#6cace4"
-          }
-        }
-      }
-    }
+    ]
   },
   "initialVersion": "2022.12.21",
   "appliedMigrations": [
