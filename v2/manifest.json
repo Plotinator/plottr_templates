@@ -1,5 +1,5 @@
 {
-  "version": "2024.3.11",
+  "version": "2024.3.12",
   "templates": [
     {
       "id": "proj1",
@@ -188,7 +188,7 @@
     },
     {
       "id": "pl11",
-      "version": "2021.10.15",
+      "version": "2024.3.12",
       "url": "/v2/plotlines/six_stage.json"
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "id": "pl16",
-      "version": "2021.10.15",
+      "version": "2024.3.12",
       "url": "/v2/plotlines/three_story_method.json"
     },
     {
