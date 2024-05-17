@@ -142,6 +142,11 @@
       "url": "/v2/characters/stages_grief.json"
     },
     {
+      "id": "ch27",
+      "version": "2023.5.17",
+      "url": "/v2/characters/story_genius.json"
+    },
+    {
       "id": "pl1",
       "version": "2021.10.15",
       "url": "/v2/plotlines/7_point_plot_structure.json"

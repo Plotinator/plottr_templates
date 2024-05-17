@@ -1,0 +1,40 @@
+{
+  "id": "ch27",
+  "version": "",
+  "type": "characters",
+  "name": "Story Genius",
+  "description": "",
+  "link": "",
+  "attributes": [
+    {
+      "type": "paragraph",
+      "name": "What is Your Character Like Before the Story Starts?",
+      "description": "Who is this person on the inside? What do they believe? What do they want? What are they in life before the story starts?"
+    },
+    {
+      "type": "paragraph",
+      "name": "What does your character already want?",
+      "description": "Write a short paragraph about what your character enters the novel wanting. Be as specific as possible even if the character doesn’t think they have a chance of getting it, still list it."
+    },
+    {
+      "type": "paragraph",
+      "name": "Why does your character want it?",
+      "description": "Why does your character want it (desire), and what will it mean for your character to get it? What does she think it will say about her?"
+    },
+    {
+      "type": "paragraph",
+      "name": "What Is Your Character's Misbelief?",
+      "description": "What is the misbelief your character has that is preventing them from getting what they want? What’s the fear fueling this misbelief? Given the misbelief, what is the very worst thing that could happen according to your character?"
+    },
+    {
+      "type": "paragraph",
+      "name": "Where did that misbelief come from?",
+      "description": "Write a paragraph or two about the moment your character’s misbelief took root. This is a defining moment that will constantly be at war with the character’s desire or what they want in the book."
+    },
+    {
+      "type": "paragraph",
+      "name": "How is their misbelief holding them back from getting their desire?",
+      "description": "Determine how their misbelief is holding them back from getting their desire. Be specific."
+    }
+  ]
+}
