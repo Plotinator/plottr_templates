@@ -1,0 +1,2040 @@
+{
+  "id": "pl40",
+  "version": "2024.5.17",
+  "type": "plotlines",
+  "name": "Heroine's Journey",
+  "description": "",
+  "link": "",
+  "mergeBias": "top",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "53": [],
+          "54": [],
+          "57": [],
+          "59": [],
+          "69": [],
+          "70": [],
+          "71": [],
+          "75": [],
+          "76": [],
+          "77": [],
+          "78": [],
+          "79": [],
+          "80": [],
+          "81": [],
+          "94": [],
+          "95": [],
+          "98": [],
+          "99": [],
+          "100": [],
+          "101": [],
+          "null": [
+            69,
+            53,
+            59,
+            57,
+            54,
+            70,
+            71,
+            76,
+            75,
+            77,
+            78,
+            79,
+            81,
+            80,
+            100,
+            94,
+            95,
+            98,
+            101,
+            99
+          ]
+        },
+        "heap": {
+          "53": null,
+          "54": null,
+          "57": null,
+          "59": null,
+          "69": null,
+          "70": null,
+          "71": null,
+          "75": null,
+          "76": null,
+          "77": null,
+          "78": null,
+          "79": null,
+          "80": null,
+          "81": null,
+          "94": null,
+          "95": null,
+          "98": null,
+          "99": null,
+          "100": null,
+          "101": null
+        },
+        "index": {
+          "53": {
+            "fromTemplateId": null,
+            "position": 1,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "expanded": true,
+            "id": 53,
+            "templates": [],
+            "time": 0,
+            "bookId": 1
+          },
+          "54": {
+            "time": 0,
+            "id": 54,
+            "bookId": 1,
+            "title": "auto",
+            "position": 4,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "57": {
+            "position": 3,
+            "fromTemplateId": null,
+            "title": "auto",
+            "time": 0,
+            "id": 57,
+            "bookId": 1,
+            "autoOutlineSort": true
+          },
+          "59": {
+            "time": 0,
+            "title": "Beat 5",
+            "position": 2,
+            "id": 59,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "69": {
+            "bookId": 1,
+            "title": "auto",
+            "id": 69,
+            "templates": [],
+            "time": 0,
+            "autoOutlineSort": true,
+            "position": 0,
+            "expanded": true,
+            "fromTemplateId": null
+          },
+          "70": {
+            "autoOutlineSort": true,
+            "expanded": true,
+            "position": 5,
+            "id": 70,
+            "title": "auto",
+            "bookId": 1,
+            "fromTemplateId": null,
+            "time": 0
+          },
+          "71": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 1,
+            "position": 6,
+            "expanded": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "id": 71
+          },
+          "75": {
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "time": 0,
+            "id": 75,
+            "position": 8
+          },
+          "76": {
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "position": 7,
+            "id": 76
+          },
+          "77": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "position": 9,
+            "id": 77,
+            "time": 0,
+            "bookId": 1
+          },
+          "78": {
+            "autoOutlineSort": true,
+            "expanded": true,
+            "bookId": 1,
+            "time": 0,
+            "fromTemplateId": null,
+            "title": "auto",
+            "id": 78,
+            "position": 10
+          },
+          "79": {
+            "expanded": true,
+            "fromTemplateId": null,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 79,
+            "bookId": 1,
+            "position": 11
+          },
+          "80": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "position": 13,
+            "id": 80,
+            "expanded": true,
+            "time": 0,
+            "bookId": 1
+          },
+          "81": {
+            "time": 0,
+            "autoOutlineSort": true,
+            "position": 12,
+            "bookId": 1,
+            "id": 81,
+            "title": "auto",
+            "fromTemplateId": null
+          },
+          "94": {
+            "fromTemplateId": null,
+            "position": 15,
+            "expanded": true,
+            "bookId": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 94,
+            "time": 0
+          },
+          "95": {
+            "position": 16,
+            "fromTemplateId": null,
+            "expanded": true,
+            "id": 95,
+            "autoOutlineSort": true,
+            "time": 0,
+            "bookId": 1,
+            "title": "auto"
+          },
+          "98": {
+            "position": 17,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "time": 0,
+            "title": "auto",
+            "fromTemplateId": null,
+            "id": 98,
+            "bookId": 1
+          },
+          "99": {
+            "title": "auto",
+            "fromTemplateId": null,
+            "position": 19,
+            "id": 99,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "time": 0
+          },
+          "100": {
+            "title": "auto",
+            "time": 0,
+            "position": 14,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "id": 100
+          },
+          "101": {
+            "autoOutlineSort": true,
+            "title": "auto",
+            "time": 0,
+            "id": 101,
+            "position": 18,
+            "fromTemplateId": null,
+            "bookId": 1
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "9": [],
+          "null": [
+            9
+          ]
+        },
+        "heap": {
+          "9": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "characterId": null,
+        "color": "#6cace4",
+        "isPinned": false,
+        "id": 4,
+        "fromTemplateId": null,
+        "bookId": 1,
+        "title": "The Heroine's Journey",
+        "position": 0,
+        "expanded": null
+      }
+    ],
+    "cards": [
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "The Beginning of Act 1: "
+              },
+              {
+                "bold": true,
+                "text": "(Special note: The Heroine's journey can be for both male and female leads. For the sake of ease, we will refer to the protagonist as she/her, but keep in mind that biological gender is completely irrelevant when writing a Heroine's Journey. All references to the masculine and the feminine are also not gender specific as masculine and feminine traits are found in both genders.)",
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This section introduces the heroine and shows us she believes she exists in a perfect world"
+              },
+              {
+                "type": "link",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "url": "mailto:troylambertwrites@live.com"
+              },
+              {
+                "text": ". The heroine employs feminine coping strategies like the belief that nothing bad will happen to them, they will be protected by a group, and they can fit in and excel in a masculine role or group. "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the heroine feeling comfortable with societal norms or... "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Feeling she will be able to break out of them easily to create her own path or \"journey\" while maintaining her current sense of identity."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal your heroine's character and what she believes the world to be or what it could be. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Define your heroine's goals (what she wants), and her motives to achieve those goals."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at the conflict that will drive the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "templates": [],
+        "title": "The Illusion of the Perfect World/Heroine's Circumstance",
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "places": [],
+        "bookId": null,
+        "positionWithinLine": 0,
+        "lineId": 4,
+        "positionInBeat": 0,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true,
+        "fromTemplateId": null,
+        "id": 33,
+        "characters": [],
+        "color": null,
+        "beatId": 53,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "imageId": null
+      },
+      {
+        "lineId": 4,
+        "id": 34,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "beatId": 59,
+        "color": null,
+        "title": "Betrayal/Disillusionment",
+        "characters": [],
+        "positionInBeat": 0,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "imageId": null,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "places": [],
+        "fromTemplateId": null,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "templates": [],
+        "isCloudFile": true,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "The Middle of Act 1:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Heroine's network and familial ties are disrupted by either betrayal, disillusionment, or the realization that the world is not what she assumed it to be. Whatever the cause of the disruption, it sets the Heroine on her journey. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What disrupts your Heroine?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does this affect her and her current worldview?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown: "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 takes up 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "characters": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": " Act 1 Continued:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The heroine may initially become hopeless in this beat, but a Heroine is all about connection and networking. Rather than go it alone, your Heroine will naturally gravitate toward help and assistance. However, what she will soon discover is her immediate network and seat of power is not the solution. The disruption event forces decisions upon the Heroine that she would otherwise not willingly take upon herself. The choice to leave her familial ties and close network is an "
+              },
+              {
+                "text": "involuntary",
+                "italic": true
+              },
+              {
+                "text": " choice forced upon her by circumstance and the necessity to solve the problem, save a family member, or pursue a quest for the greater good."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How or who does she turn to for aid, and in what way (can also be metaphorical)?"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the heroine a solid motive to embark on the journey, however unwillingly, driven by something greater than herself."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 takes up the first 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "lineId": 4,
+        "positionWithinLine": 0,
+        "color": null,
+        "isCloudFile": true,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "id": 35,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "templates": [],
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "tags": [],
+        "title": "Pleas for Assistance",
+        "beatId": 57,
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "bookId": null,
+        "places": []
+      },
+      {
+        "positionWithinLine": 0,
+        "title": "The Actual Descent",
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "The End of Act 1: "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "To move forward, the Heroine must not only give up control, but she must re-evaluate and, in some cases, abandon all of the tools, defenses, and “weapons” (coping mechanisms) she used before. In this beat, she descends into the new world, and it's a world that is often driven by patriarchy and masculine ideals. The descent is thrust upon the Heroine involuntarily, and it moves her away from her seat of power into a world of risk and isolation. This can also be seen as a loss of identity."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show that the Heroine's connections with the \"perfect world\" have been severed, and reveal her feelings of abandonment."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how your Heroine has experienced a loss of identity."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show your Heroine experiencing a fear of what is new."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 1 makes up 25% of the story."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "templates": [],
+        "imageId": null,
+        "isCloudFile": true,
+        "places": [],
+        "positionInBeat": 0,
+        "id": 36,
+        "tags": [],
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "color": null,
+        "characters": [],
+        "beatId": 54,
+        "fromTemplateId": null,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "lineId": 4,
+        "bookId": null
+      },
+      {
+        "imageId": null,
+        "isCloudFile": true,
+        "title": "Isolation & Risk",
+        "positionInBeat": 0,
+        "tags": [],
+        "templates": [],
+        "id": 37,
+        "characters": [],
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "beatId": 71,
+        "fromTemplateId": null,
+        "lineId": 4,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Beginning of Act 2:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Heroine faces isolation and risk as she begins her newfound journey, but most of this is very reactive. A loss of her world means a loss of control and adjusting to new circumstances while trying to achieve her quest. The same rules no longer apply. Social norms, beliefs, and even cultural ideas and values are challenged. Her original sense of self, whether right or wrong, is also challenged and left for her to reconcile and either come to terms with or evolve and grow from. This is a series of events with repeated progress and retreat (try/fail cycle)."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Those around the Heroine do not want to be led by a woman/minority for very long, no matter how hard she tries to fit in."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show masculine forces who may be jealous of her success working to undermine her efforts."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Heroine floundering in her environment. Reveal how she feels lost, isolated, and without any allies, and as a result, she is unsure of what to do next. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This isolation creates moments of despair, and we see the loss of strength and confidence when her network is taken from her."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 25-50% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "places": [],
+        "color": null,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "positionWithinLine": 0,
+        "bookId": null
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Act 3 Continued:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "There is a moment in your Heroine's journey where it seems forces and events will be too much to overcome. The odds are stacked against the Heroine and the family created. In this beat, despite her best efforts, she fails and is forced to accept defeat. While the Heroine has conquered one crisis, she comes to the realization that she cannot maintain the status quo as is. Perhaps things were not actually right or good as they had been before. Perhaps more is required to achieve the ultimate goal."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have your Heroine realize that she has achieved what she set out to achieve, but this new \"accomplishment\" is not what she needed nor what she expected. It does not allow her to be true to who she is or assist others as she had thought."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does this once again isolate her?"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 50-75% of the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "tags": [],
+        "fromTemplateId": null,
+        "lineId": 4,
+        "imageId": null,
+        "places": [],
+        "id": 38,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "positionInBeat": 0,
+        "title": "Dark Night/All is Lost",
+        "color": null,
+        "characters": [],
+        "beatId": 81,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "templates": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true
+      },
+      {
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "bookId": null,
+        "tags": [],
+        "color": null,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "positionInBeat": 0,
+        "isCloudFile": true,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Middle of Act 2:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "In this beat, the Heroine shows a desire to return to the world as it was before, but she doesn't see a clear path for doing so. Then she meets someone (who may also be a spirit/goddess/muse within rather than an actual \"person\") who offers support. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show your heroine getting back in touch with, and embracing, the “feminine” aspect of who she is. "
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Reveal her acceptance of the following: "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "She is not completely self-sufficient."
+                      }
+                    ],
+                    "type": "list-item"
+                  },
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "She actually needs help. "
+                      }
+                    ]
+                  }
+                ],
+                "type": "bulleted-list"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Heroine reclaiming the best of her initial values, skills, or attributes but seeing these traits differently, not as weaknesses but as positives."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give the Heroine a moment of reflection, peace, and an opportunity to reset."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 25-50% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "templates": [],
+        "beatId": 77,
+        "title": "Support: The Goddess",
+        "id": 39,
+        "places": [],
+        "imageId": null,
+        "positionWithinLine": 0,
+        "lineId": 4
+      },
+      {
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "color": null,
+        "characters": [],
+        "id": 40,
+        "title": "Moment of Truth",
+        "positionWithinLine": 0,
+        "imageId": null,
+        "fromTemplateId": null,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true,
+        "templates": [],
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "lineId": 4,
+        "beatId": 98,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 4: ",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "This is a moment of reconciliation after the major crisis and conflict have finally been overcome. This is often a return to reconnection and the Heroine is able to assist others in coming to terms with themselves and the world around them as she has."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Heroine making peace with the “masculine” approach to the world and gaining a better understanding of how it applies to her and what need is filled inside her. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ensure that your Heroine recognizes that while the masculine was not her true goal, it was an important part of her journey. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 4 makes up 75-100% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "positionInBeat": 0,
+        "bookId": null,
+        "places": [],
+        "tags": []
+      },
+      {
+        "tags": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "beatId": 99,
+        "isCloudFile": true,
+        "bookId": null,
+        "imageId": null,
+        "fromTemplateId": null,
+        "places": [],
+        "color": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The End of Act 4:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In this beat, the Heroine returns to the original world, but changed. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Heroine returning to the original world, understanding it is not perfect but that she can make it better by sharing her journey with others."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Reveal the Heroine's spiritual and internal reward. Show how the Heroine now sees the world for what it is, and the new strategies for living that have come from that understanding. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 4 makes up 75-100% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "templates": [],
+        "lineId": 4,
+        "id": 41,
+        "title": "Seeing the World Through New Eyes",
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "fileId": "RC5e03lwXVYhmkRzAfW2"
+      },
+      {
+        "fromTemplateId": null,
+        "title": "The Need to Connect",
+        "id": 46,
+        "positionWithinLine": 0,
+        "bookId": null,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "characters": [],
+        "places": [],
+        "beatId": 76,
+        "isCloudFile": true,
+        "positionInBeat": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 2 Continued:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your Heroine will begin to form connections throughout her journey. We see a pattern as to when she is most vulnerable and weak (isolation) and when she is most strong and powerful (forming new connections and networking). It doesn't mean she has all the answers, but her journey is about saving others which also saves herself. It stands to reason that as a Heroine, she can't go it alone, and finds herself powerless if she does so. Our Heroine isn't out of the woods yet, though. Her flawed belief system can be a hindrance when attempting to achieve goals."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How do her attempts at solving her problems fail? Showcase that when she is alone she is not nearly so powerful as when she forms connections."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "We're still operating under some flawed beliefs. Highlight those and watch all attempts at resolution crumble."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 2 makes up 25-50% of the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "imageId": null,
+        "templates": [],
+        "color": null,
+        "lineId": 4,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827"
+      },
+      {
+        "beatId": 75,
+        "places": [],
+        "positionInBeat": 0,
+        "color": null,
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "id": 49,
+        "lineId": 4,
+        "isCloudFile": true,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "positionWithinLine": 0,
+        "fromTemplateId": null,
+        "templates": [],
+        "title": "Withdrawal: A Visit to the Underworld",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Act 2 Continued:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "A main theme for the Heroine's journey is that of withdrawal and consequences that follow. Your Heroine's descent into a different world is similar to a metaphorical descent into the underworld. It can be one of the ways our Heroine may withdraw after a particularly nasty fail at achieving her goal. Remember that isolation and separation from familial connections and networks only weaken your Heroine. Her withdrawal and desire to simply have things the way they once were is a painful yet necessary step, as is her desire to continually attempt to rebuild networks and community."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does your Heroine withdraw after failing to achieve her goal? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "How does she attempt to rebuild community and reconnect with loved ones?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 25-50% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "tags": [],
+        "imageId": null,
+        "bookId": null,
+        "characters": []
+      },
+      {
+        "templates": [],
+        "positionWithinLine": 0,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true,
+        "bookId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Beginning of Act 3:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The Heroine begins her ascent toward reconnection and achieving her goals by pursuing a second family and a constant network of people to assist her. Demonstrate her as a civilizing force throughout this beat and the rest of the beats in your story. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show your Heroine getting back in touch with, and embracing, connection."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "How does your Heroine negotiate for reunification and compromise to achieve the results necessary?"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "",
+                "color": "rgb(108, 172, 228)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 50-75% of the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "beatId": 79,
+        "title": "The Actual Ascent",
+        "characters": [],
+        "places": [],
+        "imageId": null,
+        "lineId": 4,
+        "id": 52,
+        "positionInBeat": 0,
+        "color": null,
+        "fromTemplateId": null
+      },
+      {
+        "title": "Reconnection and Renewal of Community and Family",
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "places": [],
+        "templates": [],
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "positionWithinLine": 0,
+        "beatId": 80,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Act 3 Continued:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Your Heroine still has a network to rely on and mentors from the past to assist as well. As we near the end this section, it is time for our Heroine to rally with the support of friends, family, and with those she has been able to build community."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the Heroine realizing that her original coping strategies will not work in this new role."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Allow her to realize that what worked before won't work now.  It's time to rely on her network and approach the solution in a different way."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have the Heroine's family and network begin to function as a team to change the status quo and achieve what everyone needs regardless of what was originally wanted."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 3 makes up 50-75% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "positionInBeat": 0,
+        "characters": [],
+        "color": null,
+        "isCloudFile": true,
+        "fromTemplateId": null,
+        "bookId": null,
+        "id": 55,
+        "lineId": 4
+      },
+      {
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "tags": [],
+        "title": "Ascent to Power or Something More?",
+        "id": 58,
+        "beatId": 101,
+        "characters": [],
+        "color": null,
+        "lineId": 4,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Act 4:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is a defining moment for the Heroine as to how she will move forward. Does she ascend to her previous position wiser and more prepared? Does she change her own role or seat of power for a different seat of power? Where does this resolution leave our Heroine?"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show the heroine making peace with herself, her circumstances, and the world and gaining a better understanding of how it applies to her and what need is filled inside her. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Where does she go from here?"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 4 makes up 75-100% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "imageId": null,
+        "isCloudFile": true,
+        "bookId": null,
+        "positionInBeat": 0,
+        "templates": [],
+        "places": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "fromTemplateId": null,
+        "positionWithinLine": 0
+      },
+      {
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "places": [],
+        "tags": [],
+        "isCloudFile": true,
+        "title": "The Power of Connection in Action",
+        "bookId": null,
+        "lineId": 4,
+        "characters": [],
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "End of Act 3:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show how this network assists the Heroine to achieve the story goal. How do they begin to work together to battle this last and greatest obstacle facing them?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Have the Heroine's family and network begin to function as a team to change the status quo and achieve the true goal."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "",
+                "color": "rgb(108, 172, 228)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Act 3 makes up 50-75% of the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "templates": [],
+        "id": 60,
+        "positionInBeat": 0,
+        "beatId": 100,
+        "imageId": null,
+        "color": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0
+      },
+      {
+        "positionWithinLine": 0,
+        "title": "The Final Battle",
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "positionInBeat": 0,
+        "templates": [],
+        "isCloudFile": true,
+        "color": null,
+        "imageId": null,
+        "tags": [],
+        "id": 63,
+        "places": [],
+        "bookId": null,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "beatId": 95,
+        "fromTemplateId": null,
+        "characters": [],
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Beginning of Act 4:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Heroine and her team are now unified and will thwart their enemy. This is a time of strategy and togetherness as well as eventual resolution and compromise. The Heroine has to give a little to get a little to achieve the main goal. How is the main conflict resolved?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show how the Heroine and her team stand together in this final battle and eventually achieve their goal."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show how certain compromises must be made to solve the main conflict and achieve the main goal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "color": "#6cace4"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 4 makes up 75-100% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "lineId": 4
+      },
+      {
+        "beatId": 69,
+        "color": "#78be20",
+        "bookId": null,
+        "templates": [],
+        "imageId": null,
+        "id": 64,
+        "lineId": 4,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "characters": [],
+        "places": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true,
+        "tags": [],
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "title": "Act 1: The Descent",
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827"
+      },
+      {
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "fromTemplateId": null,
+        "tags": [],
+        "bookId": null,
+        "title": "Act 2: The Search",
+        "positionInBeat": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "positionWithinLine": 0,
+        "places": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "id": 65,
+        "isCloudFile": true,
+        "color": "#78be20",
+        "beatId": 70,
+        "lineId": 4,
+        "templates": [],
+        "imageId": null,
+        "characters": []
+      },
+      {
+        "bookId": null,
+        "tags": [],
+        "lineId": 4,
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "positionInBeat": 0,
+        "color": "#78be20",
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "isCloudFile": true,
+        "id": 66,
+        "templates": [],
+        "title": "Act 3: The Search",
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "beatId": 78,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "characters": [],
+        "imageId": null,
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "fromTemplateId": null,
+        "lineId": 4,
+        "imageId": null,
+        "color": "#78be20",
+        "positionInBeat": 0,
+        "characters": [],
+        "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
+        "beatId": 94,
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "positionWithinLine": 0,
+        "title": "Act 4: The Ascent",
+        "id": 67,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "tags": [],
+        "isCloudFile": true,
+        "templates": [],
+        "places": []
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "borderStyle": "NONE",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "borderColor": "#6cace4",
+          "textSize": 24,
+          "textColor": "#0b1117",
+          "autoNumber": true,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "backgroundColor": "none",
+          "level": 0,
+          "name": "Beat"
+        }
+      }
+    }
+  },
+  "initialVersion": "2024.5.2",
+  "appliedMigrations": []
+}

@@ -301,6 +301,30 @@
             "id": 20
           }
         }
+      },
+      "series": {
+        "children": {
+          "21": [],
+          "null": [
+            21
+          ]
+        },
+        "heap": {
+          "21": null
+        },
+        "index": {
+          "21": {
+            "id": 21,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
       }
     },
     "lines": [

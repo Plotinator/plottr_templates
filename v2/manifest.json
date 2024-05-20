@@ -337,6 +337,11 @@
       "url": "/v2/plotlines/bromance.json"
     },
     {
+      "id": "pl40",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/heroine_journey.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
