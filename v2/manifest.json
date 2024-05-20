@@ -380,6 +380,11 @@
       "id": "sc9",
       "version": "2023.3.3",
       "url": "/v2/scenes/susanne_lakin_scene.json"
+    },
+    {
+      "id": "sc10",
+      "version": "2024.5.17",
+      "url": "/v2/scenes/story_genius.json"
     }
   ]
 }
