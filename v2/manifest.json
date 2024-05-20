@@ -12,6 +12,11 @@
       "url": "/v2/project/honoree.json"
     },
     {
+      "id": "proj3",
+      "version": "2024.5.17",
+      "url": "/v2/project/idea_folder.json"
+    },
+    {
       "id": "ch1",
       "version": "2022.7.20",
       "url": "/v2/characters/gmc.json"
