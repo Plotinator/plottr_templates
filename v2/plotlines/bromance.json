@@ -1,0 +1,2873 @@
+{
+  "id": "pl39",
+  "type": "plotlines",
+  "name": "Bromancing the Beat",
+  "description": "Much like romance, bromance is the basis for stories from buddy cops to partner comedies. This template follows romancing the beat, but more geared toward same gender companion stories.",
+  "version": "",
+  "categories": [
+    "romance",
+    "action"
+  ],
+  "link": "",
+  "mergeBias": "top",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "null": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        "heap": {
+          "1": null,
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null,
+          "20": null
+        },
+        "index": {
+          "1": {
+            "fromTemplateId": null,
+            "id": 1,
+            "position": 0,
+            "title": "auto",
+            "templates": [],
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "time": 0,
+            "expanded": true
+          },
+          "2": {
+            "bookId": 1,
+            "title": "auto",
+            "fromTemplateId": null,
+            "templates": [],
+            "position": 1,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 2
+          },
+          "3": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "expanded": true,
+            "fromTemplateId": null,
+            "title": "auto",
+            "id": 3,
+            "templates": [],
+            "position": 2,
+            "bookId": 1
+          },
+          "4": {
+            "title": "auto",
+            "fromTemplateId": null,
+            "bookId": 1,
+            "templates": [],
+            "time": 0,
+            "expanded": true,
+            "position": 3,
+            "id": 4,
+            "autoOutlineSort": true
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "expanded": true,
+            "time": 0,
+            "bookId": 1,
+            "position": 4,
+            "fromTemplateId": null,
+            "id": 5,
+            "templates": [],
+            "title": "auto"
+          },
+          "6": {
+            "expanded": true,
+            "templates": [],
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 6,
+            "time": 0,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "position": 5
+          },
+          "7": {
+            "bookId": 1,
+            "templates": [],
+            "autoOutlineSort": true,
+            "title": "auto",
+            "id": 7,
+            "time": 0,
+            "position": 6,
+            "expanded": true,
+            "fromTemplateId": null
+          },
+          "8": {
+            "position": 7,
+            "bookId": 1,
+            "id": 8,
+            "time": 0,
+            "fromTemplateId": null,
+            "templates": [],
+            "autoOutlineSort": true,
+            "expanded": true,
+            "title": "auto"
+          },
+          "9": {
+            "time": 0,
+            "position": 8,
+            "id": 9,
+            "fromTemplateId": null,
+            "templates": [],
+            "title": "auto",
+            "expanded": true,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "10": {
+            "templates": [],
+            "bookId": 1,
+            "fromTemplateId": null,
+            "title": "auto",
+            "id": 10,
+            "position": 9,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "time": 0
+          },
+          "11": {
+            "bookId": 1,
+            "position": 10,
+            "templates": [],
+            "title": "auto",
+            "fromTemplateId": null,
+            "time": 0,
+            "id": 11,
+            "expanded": true,
+            "autoOutlineSort": true
+          },
+          "12": {
+            "time": 0,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "position": 11,
+            "id": 12,
+            "title": "auto",
+            "bookId": 1,
+            "fromTemplateId": null,
+            "templates": []
+          },
+          "13": {
+            "id": 13,
+            "fromTemplateId": null,
+            "title": "auto",
+            "templates": [],
+            "position": 12,
+            "time": 0,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "bookId": 1
+          },
+          "14": {
+            "bookId": 1,
+            "expanded": true,
+            "time": 0,
+            "templates": [],
+            "id": 14,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "position": 13,
+            "title": "auto"
+          },
+          "15": {
+            "title": "auto",
+            "bookId": 1,
+            "time": 0,
+            "position": 14,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "id": 15,
+            "templates": []
+          },
+          "16": {
+            "time": 0,
+            "bookId": 1,
+            "templates": [],
+            "expanded": true,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "position": 15,
+            "fromTemplateId": null,
+            "id": 16
+          },
+          "17": {
+            "templates": [],
+            "time": 0,
+            "expanded": true,
+            "position": 16,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "id": 17,
+            "title": "auto"
+          },
+          "18": {
+            "bookId": 1,
+            "position": 17,
+            "fromTemplateId": null,
+            "expanded": true,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 18,
+            "templates": []
+          },
+          "19": {
+            "position": 18,
+            "id": 19,
+            "templates": [],
+            "autoOutlineSort": true,
+            "time": 0,
+            "expanded": true,
+            "title": "auto",
+            "fromTemplateId": null,
+            "bookId": 1
+          },
+          "20": {
+            "position": 19,
+            "title": "auto",
+            "bookId": 1,
+            "expanded": true,
+            "time": 0,
+            "templates": [],
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "id": 20
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "characterId": null,
+        "id": 2,
+        "bookId": 1,
+        "title": "Bromancing the Beat",
+        "position": 1,
+        "expanded": null,
+        "color": "#6cace4",
+        "fromTemplateId": null
+      }
+    ],
+    "cards": [
+      {
+        "places": [],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "imageId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "title": "Introduce H1",
+        "bookId": null,
+        "seriesLineId": null,
+        "characters": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "isCloudFile": true,
+        "id": 21,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 1: Set Up "
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Hook the reader's attention and draw them into the story by introducing the first Hero/Heroine while showing them in their everyday life. Offer a glimpse of their life and the internal struggle that is holding them back from love."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce H1 in a way that makes that character compelling (e.g. desires, flaws, success, a unique personality)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Show your character’s slice of life but throw a hitch in it. "
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give or introduce your character’s external goal – for example, a promotion, vacation, or to attain an object."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce or hint at what your character needs – for example, courage, patience, or the ability to work as a team."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce H1 should be about the first 4-5% of the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Roger Murtaugh is turning 50, and just wants to quietly work his case for the police department alone. He doesn't want a partner again, ever."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "beatId": 1,
+        "lineId": 2,
+        "positionInChapter": null,
+        "tags": [],
+        "templates": [],
+        "position": 0
+      },
+      {
+        "positionInChapter": null,
+        "bookId": null,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "positionWithinLine": 0,
+        "fromTemplateId": null,
+        "beatId": 10,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "id": 22,
+        "seriesLineId": null,
+        "places": [],
+        "position": 0,
+        "templates": [],
+        "lineId": 2,
+        "characters": [],
+        "title": "Turning Point",
+        "tags": [],
+        "isCloudFile": true,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 2: We Gotta Make This Work"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the false high. It appears as though the Protagonists have a solution or at least the start of one. But that hope is dashed"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonists getting along and accomplishing a goal "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Showcase H1 and H2 displaying at least one skill they will need to make the resolution possible but only hint at how valuable it might be."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Give the reader the impression that all will end well with the Protagonists together, and the main story problem solved."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Turning Point occurs around the 50% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs and Murtaugh go to the firing range and discuss a potential suspect. But when they arrive at her home, it explodes. They get a description for another suspect though, the one they think blew up the house. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "imageId": null
+      },
+      {
+        "positionInChapter": null,
+        "positionWithinLine": 0,
+        "id": 23,
+        "places": [],
+        "seriesLineId": null,
+        "title": "New Information",
+        "isCloudFile": true,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Go Get the Bad Guys",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Everything seems to be headed in the right direction until the protagonists learn something or an event happens that derails the current path of the investigation but also reveals a new clue or new information."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Take away some of the confidence the two have felt in the solution to the problem (e.g. a suspect dies, trust is betrayed, or new information reveals errors in their thinking)."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes and threaten the relationship between H1 and H2 due to new conflict and tension."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "New Information occurs around the 55% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Muirtaugh confronts Michael Hunsacker while Riggs waits outside. Hunsacker is killed, and now the bad guys know who Riggs is. His life is now threatened."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "lineId": 2,
+        "templates": [],
+        "characters": [],
+        "imageId": null,
+        "position": 0,
+        "bookId": null,
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "beatId": 11,
+        "fromTemplateId": null
+      },
+      {
+        "positionInChapter": null,
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "isCloudFile": true,
+        "position": 0,
+        "id": 24,
+        "templates": [],
+        "title": "Danger Zone",
+        "positionWithinLine": 0,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Phase 3: Go Get the Bad Guys",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The relationship of the partners is threatened, usually by external events that trigger the internal fears of both H1 and H2. The peace of the previous beat is now disrupted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the threat to the growing relationship and partnership."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Allow the threat to trigger fear and threaten the desires of H1 and H2."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raise the stakes for the partnership forcing them to either trust each other and work together or split up to find solutions on their own. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Danger Zone occurs around the 60% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Riggs is nearly killed and Roger's family is in danger. In fact, his daughter has been kidnapped, raising the stakes, and the pair must now find and rescue her."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "seriesLineId": null,
+        "fromTemplateId": null,
+        "lineId": 2,
+        "beatId": 12,
+        "characters": [],
+        "places": [],
+        "imageId": null
+      },
+      {
+        "places": [],
+        "characters": [],
+        "imageId": null,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "isCloudFile": true,
+        "beatId": 13,
+        "templates": [],
+        "positionInChapter": null,
+        "position": 0,
+        "tags": [],
+        "id": 25,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "fromTemplateId": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "bookId": null,
+        "positionWithinLine": 0,
+        "lineId": 2,
+        "title": "Trust Me",
+        "seriesLineId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Go Get the Bad Guys",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Trust Me is where H2 actually says to H1, \"You have to trust me\" or \"You have to do things my way this time.\" H1 is left with no choice and must follow their partner's lead. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What is the event that forces H1 to trust and rely on H2? "
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show H1 move from distrust to trust of H2, but not always without questions. Show the fear of both protagonists and clearly outline the stakes if they fail."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Trust Me occurs around the 65-70% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs tells Murtaugh he has to trust him. Murtaugh asks if he is as good as he says he is, and Riggs reassures him. They embark on a brave plan to save Murtaugh's daughter. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "title": "Failure",
+        "positionInChapter": null,
+        "tags": [],
+        "positionWithinLine": 0,
+        "isCloudFile": true,
+        "templates": [],
+        "beatId": 14,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "id": 26,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "bookId": null,
+        "places": [],
+        "characters": [],
+        "lineId": 2,
+        "fromTemplateId": null,
+        "imageId": null,
+        "seriesLineId": null,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "position": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Go Get the Bad Guys",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The worst-case scenario. The fears and false beliefs of H1 seem to have come true, and the partner's carefully laid plans fail. They are not back where they started in this scenario - the situation is now much worse."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "H1's worst fears actually come true, and they find themselves in the worst possible position"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Failure means the bad guys get away with the evil they are doing, and the good guys suffer as a result"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "\r\rIn the Failure beat, H2 says, \"I should have known things would never turn out well for me. What was I thinking trying to help/save/work with H1?\" Both protagonists now feel ultimate despair.\r"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Failure occurs around the 70-75% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The plan fails and Riggs and Murtaugh are captured. His daughter also fails to escape. Both men are tortured, and neither will give up any information. "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "seriesLineId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 3: Go Get the Bad Guys",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The darkest moment. H1 and H2 have failed. They no longer believe they can rely on each other, and the bad guys appear to have achieved victory."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Always tie the black moment to the internal conflicts of the protagonists and the external events that have led to this moment."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show how the old way of doing things did not work, and how H1 and H2 now have no hope."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The larger the event, the further the protagonists are separated (whether that is physical or emotional distance), the greater the stakes for both them and the reader. Make this moment completely devoid of hope and as dark as possible. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 3 makes up 25% of the story from 50% - 75%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Dark Night occurs around the 75% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example: "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs is tortured. He tells the men he knows nothing, and they promise to kill him at that point. He appears to be on the verge of death."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "The Dark Night",
+        "lineId": 2,
+        "fromTemplateId": null,
+        "isCloudFile": true,
+        "id": 27,
+        "tags": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "characters": [],
+        "beatId": 15,
+        "imageId": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "position": 0,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "templates": [],
+        "positionInChapter": null,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4"
+      },
+      {
+        "id": 28,
+        "isCloudFile": true,
+        "fromTemplateId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 4: Finish Them"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Dark Night is the worst moment for H1. They are under threat of death or something even worse, and there seems to be no hope for escape. The bad guys have not only won but appear to be able to crush H1 entirely."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show the protagonist at the lowest possible point so that what appeared to be the worst thing ever is now even worse."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint that there may be some hope, but show that it is unlikely or will be really difficult to make this happen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What Have I Done? occurs around the 80% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Murtaugh is tortured and resists until his daughter is brought in and threatened. He seems on the verge of breaking. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "tags": [],
+        "characters": [],
+        "bookId": null,
+        "position": 0,
+        "positionInChapter": null,
+        "beatId": 16,
+        "imageId": null,
+        "title": "What Have I Done?",
+        "lineId": 2,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "seriesLineId": null,
+        "templates": [],
+        "places": [],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "positionWithinLine": 0
+      },
+      {
+        "imageId": null,
+        "position": 0,
+        "bookId": null,
+        "title": "Send them Running",
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 4: Finish Them",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The glimmer of hope from the last beat has now become a flame. One or both of our protagonists have escaped and the bad guys are now on the run. There is finally hope and victory seems to be possible, even if it is not yet likely. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What is the triggering event that allows our protagonists to escape or rise up from defeat?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decide which challenges or sacrifices must be made to achieve the victory the protagonists so desperately want."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Build tension as the heroes now pursue the bad guys, and raise the stakes for both."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Send them Running occurs around the 85% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs escapes, rescues Roger and his daughter, and the three of them run toward freedom, taking out bad guys along the way. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "templates": [],
+        "places": [],
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "seriesLineId": null,
+        "isCloudFile": true,
+        "positionWithinLine": 0,
+        "characters": [],
+        "beatId": 17,
+        "lineId": 2,
+        "fromTemplateId": null,
+        "id": 29,
+        "positionInChapter": null
+      },
+      {
+        "characters": [],
+        "templates": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "places": [],
+        "position": 0,
+        "imageId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 4: Finish Them"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It’s life or death now. The Protagonist must be willing to put it all on the line now or risk losing the one thing they need to survie this ordeal with the least amount of damage possible. The Life-or-Death Moment, the great sacrifice, is here, but will it be enough?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create a Life-or-death scenario that nearly solves the problem"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Don't let them off the hook too easily - the life-or-death scenario only solves part of the problem. There is usually at least one more problem standing in the way."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Portray the celebration of victory, but throw a hitch in it. Something else is wrong. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Life or Death occurs around the 90% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Riggs goes after Mr. Joshua who escapes by stealing a car. Murtaugh goes after and kills General McAllister. As they celebrate, Murtaugh realizes that Mr. Joshua knows where he lives and will go after his family. "
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "positionInChapter": null,
+        "title": "Life or Death",
+        "bookId": null,
+        "positionWithinLine": 0,
+        "beatId": 18,
+        "seriesLineId": null,
+        "lineId": 2,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "isCloudFile": true,
+        "id": 30,
+        "fromTemplateId": null
+      },
+      {
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "positionWithinLine": 0,
+        "places": [],
+        "fromTemplateId": null,
+        "beatId": 19,
+        "positionInChapter": null,
+        "templates": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "characters": [],
+        "isCloudFile": true,
+        "id": 31,
+        "position": 0,
+        "seriesLineId": null,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 4: Finish Them"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "In the last beat, a false victory occurred, but show the reader that things are not quite over. You’ve put them through the wringer, but there is one more challenge they must solve together."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Close the character arcs of the two Protagonists and show how they have changed and now trust each other"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve the internal and external conflicts."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the Protagonists now are and how that enables the resolution of the final problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ensure you are fulfilling reader expectations – the harder the challenges and difficulties before, the greater the final victory must be. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Final Solution occurs around the 95% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Riggs and Murtaugh head to Murtaugh's home to catch the final bad guy (Mr. Joshua). They capture him and Riggs subdues him on Roger's lawn. Mr. Joshua makes one last escape attempt, and Murtaugh and Riggs shoot him at the same time. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "bookId": null,
+        "title": "The Final Solution",
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "imageId": null,
+        "lineId": 2
+      },
+      {
+        "places": [],
+        "id": 32,
+        "seriesLineId": null,
+        "positionWithinLine": 0,
+        "tags": [],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "title": "Introduce H2",
+        "templates": [],
+        "imageId": null,
+        "positionInChapter": null,
+        "fromTemplateId": null,
+        "lineId": 2,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "beatId": 2,
+        "isCloudFile": true,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Continue to hook the reader's attention and draw them into the story by introducing the second Hero/Heroine while showing them in their everyday life. Offer a glimpse of their life and the internal struggle that is holding them back from achieving what they want, including fulfilling their need for friendship."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Introduce H2 in a way that makes that character compelling (e.g. desires, flaws, success, a unique personality)."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show your character’s slice of life but throw a hitch in it."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Give or introduce your character’s external goal – for example, a promotion, vacation, or to attain an object."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce or hint at what your character needs – for example, courage, patience, or healing and closure."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Introduce H2 occurs around the 5-8% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Martin Riggs has lost his wife in an auto accident. He's suicidal and depressed, but the only thing that keeps him going is the job - his work with the police department. No one wants to be his partner because they either thing he is a psycho or is faking it. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "position": 0,
+        "bookId": null,
+        "characters": []
+      },
+      {
+        "fromTemplateId": null,
+        "position": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Phase 4: Finish Them",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "It’s up to you, a master at your craft, to manage a scene with little conflict that is still intriguing. This is the return to the ordinary world; each Protagonist has changed and fits in their world a little differently and with a new perspective."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Show how each Protagonist fits back in the ordinary world and how they have transformed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have a moment of celebration – the Protagonists have been through a lot, so let them unwind a party a bit."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "How do those around them react to their new partnership and cooperation and their new selves?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "If part of a series, consider planting a hook or foreshadowing a future difficulty."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 4 makes up the final 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Epilogue occurs around the 98-100% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs shares Christmas dinner with Murtaugh's family at their damaged but soon-to-be restored home. We see the two of them have formed a new bond and a new partnership. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "seriesLineId": null,
+        "beatId": 20,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "positionInChapter": null,
+        "isCloudFile": true,
+        "imageId": null,
+        "templates": [],
+        "places": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "positionWithinLine": 0,
+        "bookId": null,
+        "characters": [],
+        "lineId": 2,
+        "title": "Epilogue",
+        "tags": [],
+        "id": 33
+      },
+      {
+        "isCloudFile": true,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "templates": [],
+        "seriesLineId": null,
+        "places": [],
+        "imageId": null,
+        "lineId": 2,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "bookId": null,
+        "tags": [],
+        "title": "Meet Cute",
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The two Protagonists meet for the first time on the page, brought together by external forces, chance, or a life event. There is usually an instant dislike with one or both of the Heroes feeling a reservation about their new partner, but some respect can also show through."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Decide the Inciting Incident that leads to the Meet Cute."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make it memorable—this is the story they will share with their grandchildren one day."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hint at how well the Protagonists might work together, but hint at the fact that the timing or some other factor is off."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the immediate development of conflict between the Protagonists."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Meet Cute occurs around the 10-12% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Roger Murtaugh sees a man with a gun in police headquarters. He runs to subdue the suspect, who throws him to the ground with a judo move and then is introduced as his new partner, Martin Riggs. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "positionInChapter": null,
+        "position": 0,
+        "characters": [],
+        "fromTemplateId": null,
+        "id": 34,
+        "beatId": 3,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f"
+      },
+      {
+        "beatId": 4,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "seriesLineId": null,
+        "lineId": 2,
+        "title": "I Don't Think So",
+        "characters": [],
+        "positionInChapter": null,
+        "imageId": null,
+        "templates": [],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the argument H1 voices against cooperation with H2. This sets up the relationship arc for the reader - the two clearly must work together to achieve a common goal, but the character basically says, (usually out loud but could be through internal dialogue) the reason this will not work, not now, not ever, but especially not with H2."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What is the reason H1 thinks that a partnership or cooperation will never work?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Depict the argument H1 has either vocally or internally, and make it compelling."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 1 makes up the first 25% of the story."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "I Don't Think So occurs around the 18-20% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Neither Roger Murtaugh nor Martin Riggs wants to work together, but the department has compelled them to do so, so they are stuck. Murtaugh thinks Riggs is crazy, and Riggs thinks Murtaugh is an old man. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "positionWithinLine": 0,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "tags": [],
+        "bookId": null,
+        "id": 35,
+        "isCloudFile": true,
+        "position": 0,
+        "fromTemplateId": null,
+        "places": []
+      },
+      {
+        "seriesLineId": null,
+        "imageId": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase 1: Set Up ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "This beat is the plot thrust that brings the story into the second act. "
+              },
+              {
+                "url": "https://www.youtube.com/watch?v=DtCRElYLTkA",
+                "type": "link",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": "An event or situation forces the two Protagonists together to achieve a goal or solve a problem; this event not only raises the stakes but also clearly defines each Protagonist's goal. While still at odds with each other, they begin to respect and understand each other. The two Protagonists cannot walk away from each other now—not until they see this conundrum through."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Make sure your glue is sticky here – the event that forces them together must be one that cannot be resolved on its own, nor by only one Protagonist; they must be stuck together to succeed."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Consider what event forces them together and what actions or choices create mutual respect, even if it is reluctant."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 1 makes up the first 25% of the story."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Stuck Together occurs around the 20% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs and Murtaugh are called out to a jumper situation. Riggs volunteers to talk the man down, but instead handcuffs himself to the suicidal man, and they jump together into the fire department's airbag. Riggs is hailed a hero, but Murtaugh is not so sure. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "lineId": 2,
+        "beatId": 5,
+        "fromTemplateId": null,
+        "id": 36,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "positionInChapter": null,
+        "templates": [],
+        "bookId": null,
+        "position": 0,
+        "positionWithinLine": 0,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "isCloudFile": true,
+        "places": [],
+        "title": "Stuck Together"
+      },
+      {
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "tags": [],
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "imageId": null,
+        "places": [],
+        "isCloudFile": true,
+        "bookId": null,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "fromTemplateId": null,
+        "position": 0,
+        "positionInChapter": null,
+        "id": 37,
+        "lineId": 2,
+        "templates": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 2: We Gotta Make This Work"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "We see that H1 is sticking to their old ways and is not yet ready to accept the way that H2 does things, especially after either a stunt they pulled or something they said. They do not want this partner or any partner for that reason. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Restate the argument against the need for a partner at all."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Establish how the external goals of H1 conflict with their internal needs."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Absolutely No Way occurs around the 25% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Murtaugh discovers that Riggs truly is suicidal and a little bit crazy. Riggs states that the job is the only reason he does not take his own life. Murtaugh learns more from the police psychologist and decides he really needs to watch his back around Riggs. "
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "title": "Absolutely No Way",
+        "seriesLineId": null,
+        "beatId": 6,
+        "positionWithinLine": 0,
+        "characters": []
+      },
+      {
+        "position": 0,
+        "tags": [],
+        "positionInChapter": null,
+        "templates": [],
+        "beatId": 7,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- "
+              },
+              {
+                "bold": true,
+                "text": "Phase 2: We Gotta Make This Work"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "H1's false beliefs and arguments begin to be challenged as H2 becomes a vital part of their success. They need this new partner whether they like it or not, and despite their issues, they also have some good qualities. "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Begin attacking your character’s false belief about what he or she stated in either No Way Beat 1 or No Way Beat 2."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Include little moments between the two Protagonists that show the false beliefs being challenged and H1's changing respect and admiration for H2."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Maybe You're Not So Bad occurs around the 30% mark."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Riggs and Murtaugh share laughs as they head to the home of a suspect in Beverly Hills. Riggs offers to buy Murtaugh a birthday present. "
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "lineId": 2,
+        "characters": [],
+        "title": "Maybe You're Not So Bad",
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "id": 38,
+        "positionWithinLine": 0,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "imageId": null,
+        "seriesLineId": null,
+        "places": [],
+        "fromTemplateId": null,
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "isCloudFile": true,
+        "bookId": null
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Phase 2: We Gotta Make This Work"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "The protagonists are starting to work together as a team. In fact, things are pretty good. H2 does something that really makes H1 think about their reluctance when it comes to accepting H2"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What external and internal actions force H1 to reconsider their first impression of H2?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show examples of how the false beliefs discussed earlier are either unfounded or irrelevant considering the situation they find themselves in."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Phase 2 makes up 25% of the story from 25% - 50%"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In Fact, You're Pretty Good occurs around the 40% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Riggs and Murtaugh head to a suspect's home in Beverly Hills. Murtaugh subdues the suspect, but the suspect attempts to kill him. Riggs saves his life, and Murtaugh expresses his thanks begrudgingly. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "positionWithinLine": 0,
+        "title": "In Fact, You're Pretty Good",
+        "imageId": null,
+        "seriesLineId": null,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "beatId": 8,
+        "position": 0,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "places": [],
+        "id": 39,
+        "tags": [],
+        "isCloudFile": true,
+        "characters": [],
+        "lineId": 2,
+        "fromTemplateId": null,
+        "positionInChapter": null,
+        "templates": [],
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "bookId": null
+      },
+      {
+        "seriesLineId": null,
+        "bookId": null,
+        "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
+        "beatId": 9,
+        "positionInChapter": null,
+        "templates": [],
+        "places": [],
+        "positionWithinLine": 0,
+        "imageId": null,
+        "lineId": 2,
+        "isCloudFile": true,
+        "title": "We Can Solve This Together",
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "position": 0,
+        "fromTemplateId": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "--- Add Your Details Above this Line ---"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "Phase 2: We Gotta Make This Work",
+                "bold": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Protagonists begin to question their first opinions of each other and their previous No Way arguments. Each Protagonist is still working toward their own goals, but working together is helping them in this process. H1 and H2 begin to see a path forward toward a solution to their current problem."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "What actions or events cause them to begin questioning their opinions of each other and their previous No Way statements?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Grant a glimpse at the opposition between the Protagonist's inner and outer conflict."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Depict the two Protagonists relationship improving as they move forward."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Act 2 makes up 50% of the story from 25% - 75%."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "We Can Solve This Together occurs around the 45% mark."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Example: (Lethal Weapon)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Murtaugh takes Riggs home to meet his family. The two discuss the case and share some beers. The partnership seems to be working out for the better. "
+              }
+            ]
+          }
+        ],
+        "id": 40,
+        "tags": [],
+        "characters": []
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "textSize": 24,
+          "dark": {
+            "textColor": "#c9e6ff",
+            "borderColor": "#c9e6ff"
+          },
+          "name": "Beat",
+          "backgroundColor": "none",
+          "level": 0,
+          "autoNumber": true,
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117",
+          "borderStyle": "NONE",
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          }
+        }
+      }
+    }
+  },
+  "initialVersion": "2024.5.2",
+  "appliedMigrations": []
+}

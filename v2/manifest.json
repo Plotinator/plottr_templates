@@ -1,5 +1,5 @@
 {
-  "version": "2024.3.12",
+  "version": "2024.5.17",
   "templates": [
     {
       "id": "proj1",
@@ -325,6 +325,11 @@
       "id": "pl38",
       "version": "2024.1.17",
       "url": "/v2/plotlines/character_in_situation.json"
+    },
+    {
+      "id": "pl39",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/bromance.json"
     },
     {
       "id": "sc1",
