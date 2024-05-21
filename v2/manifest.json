@@ -395,6 +395,11 @@
       "id": "sc10",
       "version": "2024.5.17",
       "url": "/v2/scenes/story_genius.json"
+    },
+    {
+      "id": "sc11",
+      "version": "2024.5.17",
+      "url": "/v2/scenes/plot_problem.json"
     }
   ]
 }
