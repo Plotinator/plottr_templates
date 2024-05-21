@@ -342,6 +342,11 @@
       "url": "/v2/plotlines/heroine_journey.json"
     },
     {
+      "id": "pl41",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/story_genius.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
