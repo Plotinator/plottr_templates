@@ -1,0 +1,35 @@
+{
+  "id": "sc10",
+  "type": "scenes",
+  "name": "Story Genius",
+  "description": "Part of the Story Genius Method, this scene template helps you craft scenes that are meaningful to both your plot and your characters by knowing the alpha point, sub plot, plod, third rail, and what happens next in the story.",
+  "link": "",
+  "version": "2024.5.17",
+  "attributes": [
+    {
+      "name": "The Alpha Point",
+      "type": "paragraph",
+      "description": "The key role the scene will play in your novel's cause-and-effect trajectory. The alpha point must tell you why this scene is necessary and relevant to the story."
+    },
+    {
+      "name": "Subplot",
+      "type": "paragraph",
+      "description": "Fill this when you name the subplots you encounter based on which character's subplot it is. Ex: Lucy's subplot. If you have a plotline for that subplot, move this scene card there."
+    },
+    {
+      "name": "Plot",
+      "type": "paragraph",
+      "description": "What happens in the first part of the scene? (Cause) What is the external consequence of what happens in the scene? (Effect)"
+    },
+    {
+      "name": "The Third Rail (desire + misbelief)",
+      "type": "paragraph",
+      "description": "Why does what is happening matter to your protagonist? What realization does this event trigger within the protagonist to impact their desire and misbelief? This realization must lead to action."
+    },
+    {
+      "name": "And so?",
+      "type": "paragraph",
+      "description": "What must happen next as a result of what occurred in this scene? Needs to be a concrete action-based event like the alpha point."
+    }
+  ]
+}

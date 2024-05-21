@@ -1,0 +1,2150 @@
+{
+  "id": "proj3",
+  "type": "project",
+  "name": "Story Genius Plot Guide",
+  "description": "This plot guide is a companion piece to the Story Genius method, and provides you with information on each step you'll take through the process, and where each element you'll create belongs in Plottr.",
+  "version": "2024.5.17",
+  "link": "",
+  "templateData": {
+    "books": {
+      "2": {
+        "premise": "",
+        "templates": [],
+        "timelineTemplates": [],
+        "imageId": null,
+        "theme": "",
+        "title": "Story Genius Plot Guide",
+        "genre": "",
+        "id": 2
+      },
+      "allIds": [
+        2
+      ]
+    },
+    "beats": {
+      "2": {
+        "children": {
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "null": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27
+          ]
+        },
+        "heap": {
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "21": null,
+          "22": null,
+          "23": null,
+          "25": null,
+          "26": null,
+          "27": null
+        },
+        "index": {
+          "13": {
+            "bookId": 2,
+            "time": 0,
+            "position": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "expanded": true,
+            "fromTemplateId": null,
+            "id": 13
+          },
+          "14": {
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 14,
+            "fromTemplateId": null,
+            "position": 4,
+            "bookId": 2,
+            "expanded": true,
+            "time": 0
+          },
+          "15": {
+            "bookId": 2,
+            "time": 0,
+            "id": 15,
+            "position": 3,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "fromTemplateId": null
+          },
+          "16": {
+            "autoOutlineSort": true,
+            "id": 16,
+            "fromTemplateId": null,
+            "position": 2,
+            "bookId": 2,
+            "title": "auto",
+            "time": 0
+          },
+          "17": {
+            "id": 17,
+            "position": 1,
+            "bookId": 2,
+            "time": 0,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "title": "auto"
+          },
+          "18": {
+            "bookId": 2,
+            "expanded": true,
+            "id": 18,
+            "autoOutlineSort": true,
+            "time": 0,
+            "title": "auto",
+            "fromTemplateId": null,
+            "position": 6
+          },
+          "21": {
+            "time": 0,
+            "expanded": true,
+            "id": 21,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "bookId": 2,
+            "fromTemplateId": null,
+            "position": 7
+          },
+          "22": {
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "id": 22,
+            "position": 8,
+            "bookId": 2,
+            "expanded": true
+          },
+          "23": {
+            "time": 0,
+            "id": 23,
+            "bookId": 2,
+            "title": "auto",
+            "fromTemplateId": null,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "position": 9
+          },
+          "25": {
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "time": 0,
+            "title": "auto",
+            "position": 11,
+            "id": 25,
+            "bookId": 2
+          },
+          "26": {
+            "autoOutlineSort": true,
+            "id": 26,
+            "position": 10,
+            "time": 0,
+            "title": "auto",
+            "bookId": 2,
+            "fromTemplateId": null
+          },
+          "27": {
+            "position": 5,
+            "time": 0,
+            "bookId": 2,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "title": "auto",
+            "id": 27
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "index": {
+          "1": {
+            "expanded": true,
+            "id": 1,
+            "templates": [],
+            "bookId": "series",
+            "time": 0,
+            "autoOutlineSort": true,
+            "position": 0,
+            "fromTemplateId": null,
+            "title": "auto"
+          }
+        },
+        "heap": {
+          "1": null
+        }
+      }
+    },
+    "cards": [
+      {
+        "positionWithinLine": 0,
+        "bookId": null,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "isCloudFile": true,
+        "description": [
+          {
+            "type": "paragraph",
+            "bold": true,
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Throughout your character’s life, they have made several turning-point decisions that have been guided by the misbelief you established in the previous scene. Sketch them out. To nail down three truly crucial moments for your character, consider that these moments need to have the following:"
+              }
+            ]
+          },
+          {
+            "bold": true,
+            "type": "bulleted-list",
+            "children": [
+              {
+                "fontSize": 11,
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "External events that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                        "fontSize": 16
+                      }
+                    ]
+                  }
+                ],
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)"
+              },
+              {
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                        "fontSize": 16
+                      }
+                    ]
+                  }
+                ],
+                "color": "rgb(0, 0, 0)",
+                "fontSize": 11,
+                "type": "list-item"
+              },
+              {
+                "color": "rgb(0, 0, 0)",
+                "fontSize": 11,
+                "type": "list-item",
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Must yield the most story-specific info",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "fontSize": 11,
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Sketch them in chronological order.",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "color": "rgb(0, 0, 0)",
+                "type": "list-item"
+              }
+            ],
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "text": "Once you have sketched them out in the scene cards in the Story Genius Plot Guide, write the scenes fully, either here in these scene cards, or in the character template provided. The goal is to have all of this backstory in one platform for you to keep track of. Make sure to write them in chronological order.",
+                "fontSize": 16
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph",
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "lineId": 3,
+        "beatId": 17,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "title": "Create 3 Crossroads Scenes that Reinforce the Misbelief",
+        "positionInBeat": 0,
+        "fromTemplateId": null,
+        "places": [],
+        "characters": [],
+        "tags": [],
+        "color": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "imageId": null,
+        "templates": [],
+        "id": 11
+      },
+      {
+        "lineId": 3,
+        "positionInBeat": 0,
+        "characters": [],
+        "color": null,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "isCloudFile": true,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "positionWithinLine": null,
+        "beatId": 13,
+        "tags": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "places": [],
+        "id": 12,
+        "imageId": null,
+        "templates": [],
+        "fromTemplateId": null,
+        "title": "Write the Misbelief Triggering Scene",
+        "description": [
+          {
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Answer the following questions, and write a scene to \"show' them to yourself.",
+                "fontSize": 16
+              }
+            ],
+            "bold": true
+          },
+          {
+            "bold": true,
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "NOTE: This scene is part of pre-writing and may or may not appear in your book, or the information found in it can help reveal more about your character's backstory woven through the book. This scene is more for you as the author than for the reader. "
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "Write the scene in first person"
+                  }
+                ],
+                "bold": true
+              },
+              {
+                "bold": true,
+                "children": [
+                  {
+                    "text": "Answer each question below, and use your answers to write the scene",
+                    "fontSize": 16
+                  }
+                ],
+                "color": "rgb(0, 0, 0)",
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "When Did Your Character’s Misbelief Take Root? (Triggering Event)",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "type": "list-item",
+                    "fontSize": 11,
+                    "children": [
+                      {
+                        "bold": true,
+                        "fontSize": 16,
+                        "text": "Write a paragraph or two (a scene) about the moment your character’s misbelief took root. This is a defining moment that will constantly be at war with the character’s desire or what they want in the book."
+                      }
+                    ]
+                  }
+                ],
+                "type": "bulleted-list"
+              },
+              {
+                "color": "rgb(0, 0, 0)",
+                "type": "list-item",
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "What Did My Character Originally Go into the Scene Believing?"
+                  }
+                ]
+              },
+              {
+                "type": "bulleted-list",
+                "children": [
+                  {
+                    "fontSize": 11,
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "What existing, healthy belief does the misbelief topple? Ex: Initial belief: Love is safety vs. Misbelief: Love Destroys."
+                      }
+                    ],
+                    "type": "list-item"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "text": "Why Does the Character Have That Initial Belief?",
+                    "fontSize": 16
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "fontSize": 11,
+                    "children": [
+                      {
+                        "text": "What experience originally taught the character that old belief such as the belief that love equals safety?",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "list-item"
+                  }
+                ],
+                "type": "bulleted-list"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What is My Character’s Initial Goal in the Scene?",
+                    "fontSize": 16
+                  }
+                ],
+                "color": "rgb(0, 0, 0)",
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "type": "list-item",
+                    "fontSize": 11,
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "What does your character initially want to achieve in this scene? Be specific."
+                      }
+                    ]
+                  }
+                ],
+                "type": "bulleted-list"
+              },
+              {
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "What Does My Character Expect Will Happen in the Scene?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "bulleted-list",
+                "children": [
+                  {
+                    "fontSize": 11,
+                    "children": [
+                      {
+                        "text": "This is different from the initial goal. Your character expects a certain outcome based on the goal. What is that exactly? The character must struggle between what they expected to happen and what is actually happening. ",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "list-item"
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Breakdown: Pre-Writing"
+              }
+            ],
+            "fontSize": 11,
+            "type": "paragraph"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "fontSize": 11,
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "This scene happens before your story begins"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "Writing these and other backstory scenes helps you construct your plot based on your characters and who they are as they enter the story."
+                  }
+                ],
+                "fontSize": 11,
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "bold": true,
+            "children": [
+              {
+                "text": "",
+                "fontSize": 16
+              }
+            ],
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "bookId": null
+      },
+      {
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "fromTemplateId": null,
+        "characters": [],
+        "positionInBeat": 0,
+        "id": 15,
+        "title": "Crossroads Scene 1",
+        "places": [],
+        "templates": [],
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "lineId": 3,
+        "color": null,
+        "bookId": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "imageId": null,
+        "isCloudFile": true,
+        "positionWithinLine": 0,
+        "description": [
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Nail down one truly crucial moment for your character, including the following:"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen."
+                      }
+                    ]
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "This scene must yield story-specific information about your character",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Write the scenes fully in your favorite writing software or here in these scene cards. If you write in an external document, be sure to provide yourself a link to that document here. The goal is to have all of this backstory in one platform so that you can easily keep track of it as you develop your novel and/or your series. "
+              }
+            ]
+          },
+          {
+            "type": "heading-two",
+            "children": [
+              {
+                "bold": true,
+                "fontSize": 16,
+                "text": "Breakdown: Pre-Writing"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "fontSize": 16,
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "This scene happens before your story begins"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "fontSize": 16,
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "Writing these and other backstory scenes helps you construct your plot based on your characters and who they are as they enter the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "beatId": 16
+      },
+      {
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "characters": [],
+        "id": 16,
+        "lineId": 3,
+        "positionInBeat": 0,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "isCloudFile": true,
+        "title": "Crossroads Scene 2",
+        "beatId": 15,
+        "tags": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "color": null,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "places": [],
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "description": [
+          {
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Nail down one truly crucial moment for your character, including the following:"
+              }
+            ],
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                        "fontSize": 16
+                      }
+                    ]
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "This scene must yield story-specific information about your character",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "Write the scenes fully in your favorite writing software or here in these scene cards. If you write in an external document, be sure to provide yourself a link to that document here. The goal is to have all of this backstory in one platform so that you can easily keep track of it as you develop your novel and/or your series. ",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "fontSize": 16,
+                "text": "Breakdown: Pre-Writing"
+              }
+            ],
+            "type": "heading-two",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "This scene happens before your story begins",
+                    "fontSize": 16
+                  }
+                ],
+                "type": "list-item",
+                "fontSize": 16
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "Writing these and other backstory scenes helps you construct your plot based on your characters and who they are as they enter the story."
+                  }
+                ],
+                "fontSize": 16
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "bulleted-list"
+          }
+        ]
+      },
+      {
+        "isCloudFile": true,
+        "title": "Crossroads Scene 3",
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "lineId": 3,
+        "templates": [],
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "places": [],
+        "imageId": null,
+        "tags": [],
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "bookId": null,
+        "characters": [],
+        "id": 17,
+        "color": null,
+        "fromTemplateId": null,
+        "beatId": 14,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "description": [
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "Nail down one truly crucial moment for your character, including the following:",
+                "fontSize": 16
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                        "fontSize": 16
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "This scene must yield story-specific information about your character"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "fontSize": 16,
+                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph",
+            "children": [
+              {
+                "fontSize": 16,
+                "text": "Write the scenes fully in your favorite writing software or here in these scene cards. If you write in an external document, be sure to provide yourself a link to that document here. The goal is to have all of this backstory in one platform so that you can easily keep track of it as you develop your novel and/or your series. "
+              }
+            ]
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown: Pre-Writing",
+                "fontSize": 16
+              }
+            ],
+            "type": "heading-two"
+          },
+          {
+            "children": [
+              {
+                "fontSize": 16,
+                "children": [
+                  {
+                    "text": "This scene happens before your story begins",
+                    "fontSize": 16
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "fontSize": 16,
+                "children": [
+                  {
+                    "text": "Writing these and other backstory scenes helps you construct your plot based on your characters and who they are as they enter the story.",
+                    "fontSize": 16
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)"
+          }
+        ]
+      },
+      {
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Explore the external plot problem that will encompass your story and cause your main character to face their misbelief in order to get to their core desires. If you have done all the work so far, this external plot problem will likely be obvious."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make sure this problem is the overall big problem, and one it will take an entire novel to solve."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make sure this problem solidly hits the \"third rail\" of your character's misbelief and desires"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Make sure this external plot problem will take plenty of work to solve and will cause your character both internal and external conflict"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If you have several ideas, freewrite a scene card about each, labeling it OEPP (to set it apart from other plot problems you will add to this idea timeline) and evaluate it based on the above criteria"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Trust your instincts and choose the problem that you want to write and that will make your character and therefore your reader consider their misbeliefs and cause them to face them head on"
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "Breakdown: Pre-Writing",
+                "bold": true,
+                "fontSize": 16
+              }
+            ],
+            "type": "heading-two"
+          },
+          {
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "children": [
+                  {
+                    "fontSize": 16,
+                    "text": "This problem helps define the theme and dirction of your story"
+                  }
+                ],
+                "fontSize": 16,
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "fontSize": 16,
+                "children": [
+                  {
+                    "text": "Defining this External Plot Problem will guide the rest of your Plotting process. ",
+                    "fontSize": 16
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "positionInBeat": 0,
+        "title": "What is the Obvious External Plot Problem?",
+        "templates": [],
+        "fromTemplateId": null,
+        "id": 20,
+        "isCloudFile": true,
+        "places": [],
+        "color": null,
+        "tags": [],
+        "lineId": 5,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "bookId": null,
+        "positionWithinLine": 0,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "beatId": 13,
+        "imageId": null
+      },
+      {
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "title": "When Does Your Novel Begin?",
+        "lineId": 5,
+        "positionWithinLine": 0,
+        "characters": [],
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "bookId": null,
+        "fromTemplateId": null,
+        "isCloudFile": true,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "places": [],
+        "color": null,
+        "positionInBeat": 0,
+        "imageId": null,
+        "beatId": 17,
+        "description": [
+          {
+            "children": [
+              {
+                "fontSize": 14,
+                "text": "Sketch out ideas of possible scenes or story ticks that will build to the opening scene of your book. Opening scene and hook. You need to figure out what event or hook puts your character on a path of no return so to speak. The hook is not to be confused with the inciting incident, although those two moments can happen fairly close together. Consider the hook the invitation to action and the inciting incident is when the character, willingly or unwillingly, finally accepts that call to action."
+              }
+            ],
+            "bold": true,
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "bold": true,
+            "children": [
+              {
+                "text": "So what ticks or scenes occur before the book starts that lead to the big tick or hook wherein we invite the character to take action or accept the call?",
+                "fontSize": 14
+              }
+            ]
+          },
+          {
+            "bold": true,
+            "children": [
+              {
+                "text": "You can have as many ticks or scenes as you want that lead to the beginning scene of your book. We have a few scene cards (ticks) in the template, but feel free to add more scene cards based on how many ticks you have before your novel begins.",
+                "fontSize": 14
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "templates": [],
+        "id": 22
+      },
+      {
+        "description": [
+          {
+            "children": [
+              {
+                "text": "These are ideas that are too fuzzy for you to conceptualize. You have a vague notion of what will happen but no real specifics. Remember, generalizations kill your story and cause writer's block. Be as specific as possible with your ideas, but don't be afraid to add vague ones here and try to flesh them out.",
+                "fontSize": 14
+              }
+            ],
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "characters": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "color": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "beatId": 13,
+        "id": 24,
+        "fromTemplateId": null,
+        "isCloudFile": true,
+        "title": "Idea List Timeline",
+        "tags": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "bookId": null,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "lineId": 6
+      },
+      {
+        "tags": [],
+        "beatId": 13,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Any scene that you can envision but doesn’t seem to have a connection to your character’s internal struggle. These are romping around ideas.",
+                "fontSize": 14
+              }
+            ]
+          }
+        ],
+        "fromTemplateId": null,
+        "isCloudFile": true,
+        "title": "Random Scene Cards",
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "positionInBeat": 0,
+        "characters": [],
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "positionWithinLine": 0,
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "id": 25,
+        "color": null,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "lineId": 7,
+        "bookId": null
+      },
+      {
+        "lineId": 8,
+        "places": [],
+        "imageId": null,
+        "bookId": null,
+        "description": [
+          {
+            "bold": true,
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Cards that you’ve determined are story specific and eligible for a place in your novel’s cause-and-effect trajectory. Give these cards a scene number to help you put your ideas in chronological order.",
+                "fontSize": 14
+              }
+            ],
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "beatId": 13,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "title": "Scene Cards in Development",
+        "characters": [],
+        "positionInBeat": 0,
+        "isCloudFile": true,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "fromTemplateId": null,
+        "tags": [],
+        "positionWithinLine": 0,
+        "color": null,
+        "templates": [],
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "id": 26
+      },
+      {
+        "characters": [],
+        "templates": [],
+        "beatId": 21,
+        "lineId": 4,
+        "tags": [],
+        "bookId": null,
+        "id": 27,
+        "description": [
+          {
+            "children": [
+              {
+                "text": "The first point of conflict and the moment that propels the Protagonist into the story. This event begins the Central Conflict of the story and must be one that cannot be resolved on its own."
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Tie the Inciting Incident to the basic conflict within the story, revealed in the Unavoidable Problem."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Create a strong Inciting Incident that ultimately forces the Protagonist's hand to take action."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Ensure the Incident and the Protagonist's reaction impact the third rail and hook the reader deeper into the story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown:"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The Inciting Incident occurs around the 10-15% mark in the story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "isCloudFile": true,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "color": null,
+        "positionInBeat": 0,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "places": [],
+        "fromTemplateId": null,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "positionWithinLine": 0,
+        "title": "The Inciting Incident (The Story Starts)"
+      },
+      {
+        "positionInBeat": 0,
+        "places": [],
+        "positionWithinLine": 0,
+        "templates": [],
+        "imageId": null,
+        "bookId": null,
+        "tags": [],
+        "fromTemplateId": null,
+        "id": 28,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "isCloudFile": true,
+        "lineId": 4,
+        "title": "The Midpoint (Something Changes)",
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "description": [
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "The crux of the story and the height of suspense and tension. This is the turning point for the story and Protagonist. This is where everything starts to fall apart, and the attitude of your protagonist toward their misbeliefs and desires changes. Now they must take action based on this change, and determine how to move forward. "
+              }
+            ]
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consider how their actions at this juncture will transform the story and impact their character arc and the third rail."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Restate the Unavoidable Problem, and show you character contemplating the potential solution to it."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Show the reader how your main character could either succeed or fail here, depending on what decisions they make."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Breakdown: "
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Midpoint (something changes) occurs around the 50% mark."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "beatId": 22,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "characters": [],
+        "color": null
+      },
+      {
+        "description": [
+          {
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "Believing their desires are now unattainable, the main character is forced to examiine their misbelief more closely. Was it true in the first place, or is it entirely false? If it is false, what is the truth? For them, this is the Dark Night, the worst it can get. They underestimated the power of the external events or antagonist that has led them to this point, and because of this they may also feel guilt and responsibility for the outcome."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "How did they underestimate the Antagonist?"
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Display the Protagonist's mental state and their relationship with their misbelief and desires– are they angry, depressed, forlorn, or wracked with guilt?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Further increase the stakes and create the impression that victory is impossible."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The Dark Night generally occurs between the 70-80% mark of your story. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "bulleted-list"
+          }
+        ],
+        "id": 29,
+        "tags": [],
+        "positionInBeat": 0,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "color": null,
+        "places": [],
+        "fromTemplateId": null,
+        "imageId": null,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "beatId": 23,
+        "positionWithinLine": 0,
+        "characters": [],
+        "lineId": 4,
+        "title": "The Dark Night (The Worst It Can Get)",
+        "bookId": null,
+        "templates": [],
+        "isCloudFile": true
+      },
+      {
+        "imageId": null,
+        "positionInBeat": 0,
+        "positionWithinLine": 0,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "id": 30,
+        "color": null,
+        "characters": [],
+        "lineId": 4,
+        "isCloudFile": true,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "tags": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Create the “aha!” moment (usually happens right before, during, or right after the final conflict of your story) when your protagonist realizes what they have been taught. When does your protagonist’s struggle end and the misbelief debunked? What allows the character to resolve the external problem or make peace with it? When you create the “aha!” moment answer the following questions.",
+                "fontSize": 14
+              }
+            ],
+            "bold": true,
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 14,
+                    "text": "Will your character achieve the external goal at the end?"
+                  }
+                ],
+                "bold": true,
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What will change for your character internally?",
+                    "fontSize": 14
+                  }
+                ],
+                "color": "rgb(0, 0, 0)",
+                "bold": true,
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "bold": true,
+                "children": [
+                  {
+                    "fontSize": 14,
+                    "text": "What will happen externally in the scene that forces your protagonist to confront and hopefully overcome the misbelief?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "fontSize": 14,
+                "text": "Breakdown:"
+              }
+            ],
+            "bold": true,
+            "color": "rgb(0, 0, 0)",
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 14,
+                    "text": "The \"Aha\" moment can occur right before, during, or right after the final conflict of your story."
+                  }
+                ]
+              }
+            ],
+            "type": "bulleted-list"
+          }
+        ],
+        "beatId": 26,
+        "fromTemplateId": null,
+        "places": [],
+        "templates": [],
+        "title": "The \"Aha\" Moment (Your Character's Realization)"
+      },
+      {
+        "templates": [],
+        "isCloudFile": true,
+        "bookId": null,
+        "description": [
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "The story's Unavoidable Problem is resolved, and the Protagonist has either succeeded and transformed or failed and remained stagnant. They challenged their misbelief and changed their thinking, resulting in both an internal and external victory. While they may or may not have attained their initial desires, they have gotten what they needed."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Tie up any remaining loose ends in your story.."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Conclude the character arcs for all characters and their relationship with their misbeliefs."
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "This is the final payoff for the reader – make it dramatic and memorable."
+                  }
+                ]
+              }
+            ],
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "bold": true
+              }
+            ],
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The Resolution generall occurs around the 80-90% mark of your story."
+                  }
+                ],
+                "type": "list-item"
+              }
+            ],
+            "color": "rgb(0, 0, 0)",
+            "type": "bulleted-list"
+          }
+        ],
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "characters": [],
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "positionInBeat": 0,
+        "id": 32,
+        "lineId": 4,
+        "positionWithinLine": 0,
+        "places": [],
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "title": "The Resolution",
+        "imageId": null,
+        "color": null,
+        "tags": [],
+        "fromTemplateId": null,
+        "beatId": 25
+      },
+      {
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "bookId": null,
+        "imageId": null,
+        "characters": [],
+        "lineId": 4,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "fromTemplateId": null,
+        "tags": [],
+        "templates": [],
+        "beatId": 13,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "isCloudFile": true,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "places": [],
+        "description": [
+          {
+            "children": [
+              {
+                "text": "Lisa Cron, the author of Story Genius, is not big on story structure or story structure books. Not any of them. So we have added here some of the common major plot points and some of the one's Lisa mentions in her book to provide a loose roadmap to help you construct your story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Most often, the Story Genius Plot Guide will work best combined with another story structure based on your genre, personal preferences, and how \"structured\" you like your outline to be."
+              }
+            ]
+          }
+        ],
+        "title": "NOTE: Story Structure and Lisa Cron",
+        "id": 33,
+        "color": null
+      },
+      {
+        "id": 34,
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "fromTemplateId": null,
+        "beatId": 27,
+        "imageId": null,
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "tags": [],
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "characters": [],
+        "isCloudFile": true,
+        "color": null,
+        "bookId": null,
+        "places": [],
+        "title": "Floating in the Ocean (The Ordinary World)",
+        "templates": [],
+        "lineId": 4,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "description": [
+          {
+            "children": [
+              {
+                "fontSize": 20,
+                "text": "This is your character's ordinary world, where they are simply floating in the ocean of life. Things might not be great, but they are okay. Give us a glimpse of who they are and what matters to them."
+              }
+            ],
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)",
+                "children": [
+                  {
+                    "fontSize": 20,
+                    "text": "Create an ordinary world where your character is either content with life or ignorant of oncoming disaster."
+                  }
+                ]
+              },
+              {
+                "color": "rgb(0, 0, 0)",
+                "type": "list-item",
+                "children": [
+                  {
+                    "fontSize": 20,
+                    "text": "Throw a hitch in their ordinary life hinting at the trouble to come"
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "Don't allow your ordinary world to be boring. Show a daily routine that portrays who your character is. ",
+                    "fontSize": 20
+                  }
+                ],
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)"
+              }
+            ],
+            "type": "bulleted-list"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "fontSize": 20,
+                "text": "This is the start of your story. Be sure your character is interesting and empathetic right away. "
+              }
+            ],
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "children": [
+              {
+                "text": "Breakdown: ",
+                "fontSize": 20
+              }
+            ],
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Floating in the ocean generally makes up the first 5% of your story. ",
+                    "fontSize": 20
+                  }
+                ],
+                "type": "list-item",
+                "color": "rgb(0, 0, 0)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "color": "rgb(0, 0, 0)",
+            "children": [
+              {
+                "text": "",
+                "fontSize": 14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "color": null,
+        "templates": [],
+        "id": 35,
+        "imageId": null,
+        "places": [],
+        "positionWithinLine": 0,
+        "tags": [],
+        "title": "The Unavoidable Problem",
+        "positionInBeat": 0,
+        "isCloudFile": true,
+        "fromTemplateId": null,
+        "lineId": 4,
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A problem arises that your character must face. It cannot be solved on its own, but it requires your character to intervene in some way. This problem must impact your character's misbelief and threaten their desires.",
+                "fontSize": 20
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Introduce the primary problem of the story.",
+                    "fontSize": 20
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "fontSize": 20,
+                    "text": "Show that this is the overall problem your character must resolve by the end of the story, even if they don't realize how large of a problem it is at this moment."
+                  }
+                ]
+              },
+              {
+                "children": [
+                  {
+                    "text": "State the theme of your story here, either through a character verbalizing it, or showing it clearly to your reader. ",
+                    "fontSize": 20
+                  }
+                ],
+                "type": "list-item"
+              },
+              {
+                "children": [
+                  {
+                    "fontSize": 20,
+                    "text": "Be sure this problem drives your character toward the inciting incident and the start of the story. "
+                  }
+                ],
+                "type": "list-item"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "fontSize": 20,
+                "text": "Remember to use the Story Genius Scene template to ensure that this scene impacts the third rail (misbelief and desire) and pulls the reader immediately into the story."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Breakdown:",
+                "fontSize": 20,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "fontSize": 20,
+                    "text": "The unavoidable problem usually arrives somewhere between 5-10% of the way into your story. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "fontSize": 14
+              }
+            ]
+          }
+        ],
+        "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
+        "beatId": 18,
+        "characters": [],
+        "bookId": null,
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f"
+      }
+    ],
+    "lines": [
+      {
+        "characterId": null,
+        "fromTemplateId": null,
+        "expanded": null,
+        "color": "#6cace4",
+        "position": 0,
+        "id": 2,
+        "title": "Main Plot",
+        "bookId": "series"
+      },
+      {
+        "position": 1,
+        "bookId": 2,
+        "isPinned": false,
+        "id": 3,
+        "expanded": null,
+        "color": "#6cace4",
+        "characterId": null,
+        "fromTemplateId": null,
+        "title": "Pre Writing"
+      },
+      {
+        "id": 5,
+        "bookId": 2,
+        "position": 2,
+        "title": "Potential Plot Problems",
+        "fromTemplateId": null,
+        "color": "#e5554f",
+        "expanded": null
+      },
+      {
+        "bookId": 2,
+        "fromTemplateId": null,
+        "color": "#78be20",
+        "expanded": null,
+        "id": 4,
+        "title": "Scenes",
+        "position": 3
+      },
+      {
+        "title": "Ideas List",
+        "expanded": null,
+        "position": 4,
+        "color": "#ff7f32",
+        "id": 6,
+        "fromTemplateId": null,
+        "bookId": 2
+      },
+      {
+        "color": "#ffc72c",
+        "bookId": 2,
+        "id": 7,
+        "title": "Romping Around Ideas",
+        "expanded": null,
+        "fromTemplateId": null,
+        "position": 5
+      },
+      {
+        "id": 8,
+        "position": 6,
+        "fromTemplateId": null,
+        "expanded": null,
+        "color": "Magenta",
+        "title": "Developing Scenes",
+        "bookId": 2
+      }
+    ],
+    "hierarchyLevels": {
+      "2": {
+        "0": {
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          },
+          "backgroundColor": "none",
+          "textSize": 24,
+          "autoNumber": true,
+          "borderColor": "#6cace4",
+          "borderStyle": "NONE",
+          "textColor": "#0b1117",
+          "level": 0,
+          "name": "Tick",
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          }
+        }
+      },
+      "series": {
+        "0": {
+          "backgroundColor": "none",
+          "autoNumber": true,
+          "borderStyle": "NONE",
+          "borderColor": "#6cace4",
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          },
+          "textColor": "#0b1117",
+          "dark": {
+            "borderColor": "#ccc",
+            "textColor": "#ccc"
+          },
+          "name": "Chapter",
+          "textSize": 24,
+          "level": 0
+        }
+      }
+    }
+  },
+  "initialVersion": "2024.3.13",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}

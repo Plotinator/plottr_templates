@@ -1,0 +1,22 @@
+{
+  "id": "sc11",
+  "type": "scenes",
+  "name": "Plot Problem Evaluation",
+  "description": "Part of the Story Genius Method, this scene template is designed to help you evaluate whether or not a plot idea you have is right for your story.",
+  "link": "",
+  "version": "2024.5.17",
+  "attributes": [
+    {
+      "name": "Is the problem capable of forcing my character to make the inner change that my novel is actually about?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Will the problem force my character to struggle with their misbelief?",
+      "type": "paragraph"
+    },
+    {
+      "name": "Will the approaching consequence cost my character something big emotionally speaking even if he/she doesn't achieve their goal?",
+      "type": "paragraph"
+    }
+  ]
+}

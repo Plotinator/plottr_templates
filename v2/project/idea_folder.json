@@ -1,0 +1,538 @@
+{
+  "id": "proj3",
+  "type": "project",
+  "name": "Idea Folder",
+  "description": "Troy Lambert's genius idea to keep your writing goals and your whole writing process organized within Plottr",
+  "version": "2024.5.17",
+  "link": "",
+  "templateData": {
+    "series": {
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "name": "Idea Folder",
+      "templates": []
+    },
+    "books": {
+      "1": {
+        "timelineTemplates": [],
+        "templates": [],
+        "premise": "",
+        "theme": "",
+        "genre": "",
+        "imageId": null,
+        "title": "All Ideas",
+        "id": 1
+      },
+      "2": {
+        "theme": "",
+        "imageId": null,
+        "genre": "",
+        "templates": [],
+        "id": 2,
+        "premise": "",
+        "timelineTemplates": [],
+        "title": "Priority List"
+      },
+      "3": {
+        "premise": "",
+        "templates": [],
+        "genre": "",
+        "imageId": null,
+        "timelineTemplates": [],
+        "theme": "",
+        "id": 3,
+        "title": "2024 Writing"
+      },
+      "allIds": [
+        1,
+        2,
+        3
+      ]
+    },
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null
+        },
+        "index": {
+          "2": {
+            "title": "auto",
+            "templates": [],
+            "fromTemplateId": null,
+            "bookId": 1,
+            "autoOutlineSort": true,
+            "time": 0,
+            "id": 2,
+            "position": 0,
+            "expanded": true
+          },
+          "3": {
+            "position": 1,
+            "title": "auto",
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "bookId": 1,
+            "id": 3
+          },
+          "4": {
+            "position": 2,
+            "id": 4,
+            "title": "auto",
+            "time": 0,
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "bookId": 1
+          },
+          "5": {
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 3,
+            "bookId": 1,
+            "title": "auto",
+            "id": 5,
+            "autoOutlineSort": true
+          },
+          "6": {
+            "id": 6,
+            "title": "auto",
+            "bookId": 1,
+            "time": 0,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "position": 4
+          }
+        }
+      },
+      "2": {
+        "children": {
+          "8": [],
+          "21": [],
+          "22": [],
+          "77": [],
+          "78": [],
+          "null": [
+            8,
+            21,
+            22,
+            77,
+            78
+          ]
+        },
+        "heap": {
+          "8": null,
+          "21": null,
+          "22": null,
+          "77": null,
+          "78": null
+        },
+        "index": {
+          "8": {
+            "title": "auto",
+            "time": 0,
+            "fromTemplateId": null,
+            "autoOutlineSort": true,
+            "expanded": true,
+            "id": 8,
+            "bookId": 2,
+            "position": 0
+          },
+          "21": {
+            "bookId": 2,
+            "time": 0,
+            "fromTemplateId": null,
+            "position": 1,
+            "autoOutlineSort": true,
+            "id": 21,
+            "title": "auto"
+          },
+          "22": {
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "title": "auto",
+            "position": 2,
+            "id": 22,
+            "bookId": 2
+          },
+          "77": {
+            "autoOutlineSort": true,
+            "bookId": 2,
+            "fromTemplateId": null,
+            "id": 77,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "78": {
+            "autoOutlineSort": true,
+            "bookId": 2,
+            "fromTemplateId": null,
+            "id": 78,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          }
+        }
+      },
+      "3": {
+        "children": {
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "null": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        "heap": {
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null,
+          "20": null
+        },
+        "index": {
+          "9": {
+            "id": 9,
+            "title": "January",
+            "autoOutlineSort": true,
+            "bookId": 3,
+            "fromTemplateId": null,
+            "time": 0,
+            "expanded": true,
+            "position": 0
+          },
+          "10": {
+            "time": 0,
+            "id": 10,
+            "autoOutlineSort": true,
+            "bookId": 3,
+            "fromTemplateId": null,
+            "position": 1,
+            "title": "February"
+          },
+          "11": {
+            "title": "March",
+            "position": 2,
+            "id": 11,
+            "autoOutlineSort": true,
+            "time": 0,
+            "fromTemplateId": null,
+            "bookId": 3
+          },
+          "12": {
+            "title": "April",
+            "id": 12,
+            "autoOutlineSort": true,
+            "position": 3,
+            "fromTemplateId": null,
+            "time": 0,
+            "bookId": 3
+          },
+          "13": {
+            "autoOutlineSort": true,
+            "title": "May",
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 4,
+            "bookId": 3,
+            "id": 13
+          },
+          "14": {
+            "id": 14,
+            "fromTemplateId": null,
+            "bookId": 3,
+            "title": "June",
+            "autoOutlineSort": true,
+            "time": 0,
+            "position": 5
+          },
+          "15": {
+            "id": 15,
+            "fromTemplateId": null,
+            "bookId": 3,
+            "autoOutlineSort": true,
+            "title": "July",
+            "position": 6,
+            "time": 0
+          },
+          "16": {
+            "time": 0,
+            "title": "December",
+            "fromTemplateId": null,
+            "position": 11,
+            "autoOutlineSort": true,
+            "id": 16,
+            "bookId": 3
+          },
+          "17": {
+            "bookId": 3,
+            "fromTemplateId": null,
+            "title": "October",
+            "autoOutlineSort": true,
+            "id": 17,
+            "position": 9,
+            "time": 0
+          },
+          "18": {
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "bookId": 3,
+            "id": 18,
+            "title": "September",
+            "position": 8,
+            "time": 0
+          },
+          "19": {
+            "position": 7,
+            "bookId": 3,
+            "fromTemplateId": null,
+            "title": "August",
+            "id": 19,
+            "time": 0,
+            "autoOutlineSort": true
+          },
+          "20": {
+            "title": "November",
+            "autoOutlineSort": true,
+            "bookId": 3,
+            "fromTemplateId": null,
+            "time": 0,
+            "id": 20,
+            "position": 10
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "expanded": true,
+            "autoOutlineSort": true,
+            "bookId": "series",
+            "fromTemplateId": null,
+            "time": 0,
+            "position": 0,
+            "title": "auto",
+            "templates": []
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 42,
+        "bookId": 3,
+        "title": "Marketing Tasks",
+        "color": "DarkTurquoise",
+        "position": 5,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 41,
+        "bookId": 1,
+        "title": "Genre 2",
+        "color": "Brown",
+        "position": 5,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 40,
+        "bookId": 1,
+        "title": "Genre 1",
+        "color": "#ffc72c",
+        "position": 4,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 21,
+        "bookId": 2,
+        "title": "Genre 2",
+        "color": "#e5554f",
+        "position": 2,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 20,
+        "bookId": 2,
+        "title": "Pen Name 2",
+        "color": "#78be20",
+        "position": 1,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "title": "Publishing",
+        "expanded": null,
+        "position": 4,
+        "color": "#6cace4",
+        "fromTemplateId": null,
+        "id": 11,
+        "bookId": 3
+      },
+      {
+        "color": "#e5554f",
+        "id": 10,
+        "position": 3,
+        "title": "Cover/Other",
+        "bookId": 3,
+        "fromTemplateId": null,
+        "expanded": null
+      },
+      {
+        "id": 9,
+        "color": "#78be20",
+        "expanded": null,
+        "title": "Editing Tasks",
+        "position": 2,
+        "fromTemplateId": null,
+        "bookId": 3
+      },
+      {
+        "fromTemplateId": null,
+        "position": 1,
+        "id": 8,
+        "bookId": 3,
+        "color": "#ff7f32",
+        "title": "Writing",
+        "expanded": null
+      },
+      {
+        "id": 7,
+        "position": 0,
+        "characterId": null,
+        "bookId": 3,
+        "color": "#ffc72c",
+        "title": "Word Count Goals",
+        "fromTemplateId": null,
+        "expanded": null
+      },
+      {
+        "id": 6,
+        "characterId": null,
+        "bookId": 2,
+        "color": "#6cace4",
+        "position": 0,
+        "title": "Main Pen Name/Genre",
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "characterId": null,
+        "title": "Main Plot",
+        "position": 0,
+        "bookId": "series",
+        "color": "#6cace4",
+        "id": 2,
+        "expanded": null,
+        "fromTemplateId": null
+      },
+      {
+        "id": 1,
+        "expanded": null,
+        "bookId": 1,
+        "position": 0,
+        "title": "Series 1",
+        "characterId": null,
+        "color": "#ff7f32",
+        "fromTemplateId": null
+      },
+      {
+        "bookId": 1,
+        "fromTemplateId": null,
+        "color": "#78be20",
+        "position": 1,
+        "expanded": null,
+        "title": "Series 2",
+        "id": 3
+      },
+      {
+        "position": 2,
+        "expanded": null,
+        "title": "Pen Name 1",
+        "color": "#6cace4",
+        "bookId": 1,
+        "fromTemplateId": null,
+        "id": 5
+      },
+      {
+        "bookId": 1,
+        "expanded": null,
+        "id": 4,
+        "fromTemplateId": null,
+        "position": 3,
+        "title": "Pen Name 2",
+        "color": "#e5554f"
+      }
+    ]
+  },
+  "initialVersion": "2021.12.28",
+  "appliedMigrations": [
+    "m2022_5_17_1",
+    "m2022_5_17",
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15"
+  ]
+}
