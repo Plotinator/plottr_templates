@@ -1,5 +1,5 @@
 {
-  "version": "2024.3.12",
+  "version": "2024.5.17",
   "templates": [
     {
       "id": "proj1",
@@ -10,6 +10,16 @@
       "id": "proj2",
       "version": "2024.3.11",
       "url": "/v2/project/honoree.json"
+    },
+    {
+      "id": "proj3",
+      "version": "2024.5.17",
+      "url": "/v2/project/idea_folder.json"
+    },
+    {
+      "id": "proj4",
+      "version": "2024.5.17",
+      "url": "/v2/project/sg_plot_guide.json"
     },
     {
       "id": "ch1",
@@ -140,6 +150,11 @@
       "id": "ch26",
       "version": "2023.3.4",
       "url": "/v2/characters/stages_grief.json"
+    },
+    {
+      "id": "ch27",
+      "version": "2023.5.17",
+      "url": "/v2/characters/story_genius.json"
     },
     {
       "id": "pl1",
@@ -322,6 +337,21 @@
       "url": "/v2/plotlines/character_in_situation.json"
     },
     {
+      "id": "pl39",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/bromance.json"
+    },
+    {
+      "id": "pl40",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/heroine_journey.json"
+    },
+    {
+      "id": "pl41",
+      "version": "2024.5.17",
+      "url": "/v2/plotlines/story_genius.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
@@ -365,6 +395,16 @@
       "id": "sc9",
       "version": "2023.3.3",
       "url": "/v2/scenes/susanne_lakin_scene.json"
+    },
+    {
+      "id": "sc10",
+      "version": "2024.5.17",
+      "url": "/v2/scenes/story_genius.json"
+    },
+    {
+      "id": "sc11",
+      "version": "2024.5.17",
+      "url": "/v2/scenes/plot_problem.json"
     }
   ]
 }
