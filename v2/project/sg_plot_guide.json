@@ -3,9 +3,24 @@
   "type": "project",
   "name": "Story Genius Plot Guide",
   "description": "This plot guide is a companion piece to the Story Genius method, and provides you with information on each step you'll take through the process, and where each element you'll create belongs in Plottr.",
-  "version": "2024.5.30",
+  "version": "2024.5.31",
   "link": "",
   "templateData": {
+    "books": {
+      "2": {
+        "premise": "",
+        "templates": [],
+        "timelineTemplates": [],
+        "imageId": null,
+        "theme": "",
+        "title": "Story Genius Plot Guide",
+        "genre": "",
+        "id": 2
+      },
+      "allIds": [
+        2
+      ]
+    },
     "beats": {
       "2": {
         "children": {
