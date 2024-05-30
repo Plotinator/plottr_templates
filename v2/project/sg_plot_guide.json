@@ -7,7 +7,7 @@
   "link": "",
   "templateData": {
     "books": {
-      "2": {
+      "1": {
         "premise": "",
         "templates": [],
         "timelineTemplates": [],
@@ -15,14 +15,14 @@
         "theme": "",
         "title": "Story Genius Plot Guide",
         "genre": "",
-        "id": 2
+        "id": 1
       },
       "allIds": [
-        2
+        1
       ]
     },
     "beats": {
-      "2": {
+      "1": {
         "children": {
           "13": [],
           "14": [],
@@ -67,7 +67,7 @@
         },
         "index": {
           "13": {
-            "bookId": 2,
+            "bookid": 1,
             "time": 0,
             "position": 0,
             "title": "auto",
@@ -82,12 +82,12 @@
             "id": 14,
             "fromTemplateId": null,
             "position": 4,
-            "bookId": 2,
+            "bookid": 1,
             "expanded": true,
             "time": 0
           },
           "15": {
-            "bookId": 2,
+            "bookid": 1,
             "time": 0,
             "id": 15,
             "position": 3,
@@ -100,21 +100,21 @@
             "id": 16,
             "fromTemplateId": null,
             "position": 2,
-            "bookId": 2,
+            "bookid": 1,
             "title": "auto",
             "time": 0
           },
           "17": {
             "id": 17,
             "position": 1,
-            "bookId": 2,
+            "bookid": 1,
             "time": 0,
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "title": "auto"
           },
           "18": {
-            "bookId": 2,
+            "bookid": 1,
             "expanded": true,
             "id": 18,
             "autoOutlineSort": true,
@@ -129,7 +129,7 @@
             "id": 21,
             "autoOutlineSort": true,
             "title": "auto",
-            "bookId": 2,
+            "bookid": 1,
             "fromTemplateId": null,
             "position": 7
           },
@@ -140,13 +140,13 @@
             "autoOutlineSort": true,
             "id": 22,
             "position": 8,
-            "bookId": 2,
+            "bookid": 1,
             "expanded": true
           },
           "23": {
             "time": 0,
             "id": 23,
-            "bookId": 2,
+            "bookid": 1,
             "title": "auto",
             "fromTemplateId": null,
             "expanded": true,
@@ -160,7 +160,7 @@
             "title": "auto",
             "position": 11,
             "id": 25,
-            "bookId": 2
+            "bookid": 1
           },
           "26": {
             "autoOutlineSort": true,
@@ -168,13 +168,13 @@
             "position": 10,
             "time": 0,
             "title": "auto",
-            "bookId": 2,
+            "bookid": 1,
             "fromTemplateId": null
           },
           "27": {
             "position": 5,
             "time": 0,
-            "bookId": 2,
+            "bookid": 1,
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "title": "auto",
@@ -2043,7 +2043,7 @@
       },
       {
         "position": 1,
-        "bookId": 2,
+        "bookid": 1,
         "isPinned": false,
         "id": 3,
         "expanded": null,
@@ -2054,7 +2054,7 @@
       },
       {
         "id": 5,
-        "bookId": 2,
+        "bookid": 1,
         "position": 2,
         "title": "Potential Plot Problems",
         "fromTemplateId": null,
@@ -2062,7 +2062,7 @@
         "expanded": null
       },
       {
-        "bookId": 2,
+        "bookid": 1,
         "fromTemplateId": null,
         "color": "#78be20",
         "expanded": null,
@@ -2077,11 +2077,11 @@
         "color": "#ff7f32",
         "id": 6,
         "fromTemplateId": null,
-        "bookId": 2
+        "bookid": 1
       },
       {
         "color": "#ffc72c",
-        "bookId": 2,
+        "bookid": 1,
         "id": 7,
         "title": "Romping Around Ideas",
         "expanded": null,
@@ -2095,7 +2095,7 @@
         "expanded": null,
         "color": "Magenta",
         "title": "Developing Scenes",
-        "bookId": 2
+        "bookid": 1
       }
     ],
     "hierarchyLevels": {
