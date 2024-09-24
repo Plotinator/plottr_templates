@@ -1,5 +1,5 @@
 {
-  "version": "2024.9.17",
+  "version": "2024.9.24",
   "templates": [
     {
       "id": "proj1",
@@ -168,7 +168,7 @@
     },
     {
       "id": "pl3",
-      "version": "2021.10.15",
+      "version": "2024.9.24",
       "url": "/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
