@@ -1635,7 +1635,7 @@
         "textSize": 24,
         "borderColor": "#78be20",
         "borderStyle": "NONE",
-        "backgroundColor": "#f1f5f8",
+        "backgroundColor": "none",
         "dark": {
           "borderColor": "#c9e6ff",
           "textColor": "#c9e6ff"
