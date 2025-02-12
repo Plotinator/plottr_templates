@@ -352,6 +352,11 @@
       "url": "/v2/plotlines/story_genius.json"
     },
     {
+      "id": "pl42",
+      "version": "2025.2.12",
+      "url": "/v2/plotlines/12_levels_intimacy.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"
