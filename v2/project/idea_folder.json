@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Idea Folder",
   "description": "Troy Lambert's genius idea to keep your writing goals and your whole writing process organized within Plottr",
-  "version": "2024.5.17",
+  "version": "2025.4.22",
   "link": "",
   "templateData": {
     "series": {
@@ -42,7 +42,7 @@
         "timelineTemplates": [],
         "theme": "",
         "id": 3,
-        "title": "2024 Writing"
+        "title": "2025 Writing"
       },
       "allIds": [
         1,
