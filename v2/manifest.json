@@ -1,5 +1,5 @@
 {
-  "version": "2025.2.12",
+  "version": "2025.7.15",
   "templates": [
     {
       "id": "proj1",
@@ -13,7 +13,7 @@
     },
     {
       "id": "proj3",
-      "version": "2024.5.17",
+      "version": "2025.4.22",
       "url": "/v2/project/idea_folder.json"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "id": "ch8",
-      "version": "2022.7.20",
+      "version": "2025.7.15",
       "url": "/v2/characters/magic_blueprint.json"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "id": "pl3",
-      "version": "2021.10.15",
+      "version": "2024.9.24",
       "url": "/v2/plotlines/12_chapter_mystery_formula.json"
     },
     {
