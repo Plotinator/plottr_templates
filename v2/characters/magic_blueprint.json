@@ -1,10 +1,10 @@
 {
   "id": "ch8",
-  "version": "2022.7.20",
+  "version": "2025.7.15",
   "type": "characters",
   "name": "Magic Blueprint",
   "description": "Based on the book Magic System Blueprint by C.R. Rowenson",
-  "link": "https://crrowenson.com/books/the-magic-system-blueprint/",
+  "link": "https://crrowenson.com",
   "attributes": [
     {
       "name": "Name",

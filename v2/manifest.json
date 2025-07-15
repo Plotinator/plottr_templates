@@ -1,5 +1,5 @@
 {
-  "version": "2025.4.22",
+  "version": "2025.7.15",
   "templates": [
     {
       "id": "proj1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "ch8",
-      "version": "2022.7.20",
+      "version": "2025.7.15",
       "url": "/v2/characters/magic_blueprint.json"
     },
     {
