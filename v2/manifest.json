@@ -1,5 +1,5 @@
 {
-  "version": "2025.7.15",
+  "version": "2025.9.29",
   "templates": [
     {
       "id": "proj1",
@@ -13,7 +13,7 @@
     },
     {
       "id": "proj3",
-      "version": "2025.4.22",
+      "version": "2025.9.29",
       "url": "/v2/project/idea_folder.json"
     },
     {
