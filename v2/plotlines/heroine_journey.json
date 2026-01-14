@@ -1,10 +1,11 @@
 {
   "id": "pl40",
-  "version": "2026.1.14",
+  "version": "2026.1.15",
   "type": "plotlines",
   "name": "Heroine's Journey",
   "description": "Gail Carriger's Heroine's Journey focuses on the way in which a male or female protagonist uses networking and connection to achieve goals and overcome conflict. For best use of this template, consider Gail Carriger's The Heroine's Journey book as a companion guide for navigating this template.",
   "link": "https://www.amazon.com/dp/B08D5ZSNRB",
+  "categories": [],
   "mergeBias": "top",
   "templateData": {
     "beats": {
