@@ -1,5 +1,5 @@
 {
-  "version": "2025.9.29",
+  "version": "2026.1.15",
   "templates": [
     {
       "id": "proj1",
@@ -343,7 +343,7 @@
     },
     {
       "id": "pl40",
-      "version": "2026.1.14",
+      "version": "2026.1.15",
       "url": "/v2/plotlines/heroine_journey.json"
     },
     {
