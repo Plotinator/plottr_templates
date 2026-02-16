@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Larry Brooks Short Story",
   "description": "Based on ideas by Larry Brooks, adapted for short stories",
-  "version": "2024.1.17",
+  "version": "2026.1.14",
   "categories": [
     "shortstory"
   ],
@@ -894,25 +894,23 @@
       }
     ],
     "hierarchyLevels": {
-      "1": {
-        "0": {
-          "borderStyle": "NONE",
-          "name": "Beat",
+      "0": {
+        "borderStyle": "NONE",
+        "name": "Beat",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "backgroundColor": "none",
+        "autoNumber": true,
+        "light": {
           "textColor": "#0b1117",
-          "borderColor": "#6cace4",
-          "backgroundColor": "none",
-          "autoNumber": true,
-          "light": {
-            "textColor": "#0b1117",
-            "borderColor": "#6cace4"
-          },
-          "level": 0,
-          "dark": {
-            "textColor": "#ccc",
-            "borderColor": "#ccc"
-          },
-          "textSize": 24
-        }
+          "borderColor": "#6cace4"
+        },
+        "level": 0,
+        "dark": {
+          "textColor": "#ccc",
+          "borderColor": "#ccc"
+        },
+        "textSize": 24
       }
     }
   },

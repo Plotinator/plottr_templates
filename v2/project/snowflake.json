@@ -439,22 +439,24 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "name": "Beat",
-        "level": 0,
-        "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#0b1117",
-        "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#c9e6ff",
-          "textColor": "#c9e6ff"
-        },
-        "light": {
+      "1": {
+        "0": {
+          "name": "Beat",
+          "level": 0,
+          "autoNumber": true,
+          "textSize": 24,
+          "borderStyle": "NONE",
+          "backgroundColor": "none",
+          "textColor": "#0b1117",
           "borderColor": "#6cace4",
-          "textColor": "#0b1117"
+          "dark": {
+            "borderColor": "#c9e6ff",
+            "textColor": "#c9e6ff"
+          },
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          }
         }
       }
     },
