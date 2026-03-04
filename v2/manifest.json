@@ -1,9 +1,9 @@
 {
-  "version": "2026.2.16",
+  "version": "2026.3.4",
   "templates": [
     {
       "id": "proj1",
-      "version": "2026.1.14",
+      "version": "2026.3.4",
       "url": "/v2/project/snowflake.json"
     },
     {
