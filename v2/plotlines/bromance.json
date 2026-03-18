@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Bromancing the Beat",
   "description": "Much like romance, bromance is the basis for stories from buddy cops to partner comedies. This template follows romancing the beat, but more geared toward same gender companion stories.",
-  "version": "2026.3.18",
+  "version": "2026.3.19",
   "categories": [
     "romance",
     "action"
@@ -2870,22 +2870,24 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "textSize": 24,
-        "dark": {
-          "textColor": "#c9e6ff",
-          "borderColor": "#c9e6ff"
-        },
-        "name": "Beat",
-        "backgroundColor": "none",
-        "level": 0,
-        "autoNumber": true,
-        "borderColor": "#6cace4",
-        "textColor": "#0b1117",
-        "borderStyle": "NONE",
-        "light": {
+      "1": {
+        "0": {
+          "textSize": 24,
+          "dark": {
+            "textColor": "#c9e6ff",
+            "borderColor": "#c9e6ff"
+          },
+          "name": "Beat",
+          "backgroundColor": "none",
+          "level": 0,
+          "autoNumber": true,
           "borderColor": "#6cace4",
-          "textColor": "#0b1117"
+          "textColor": "#0b1117",
+          "borderStyle": "NONE",
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          }
         }
       }
     }

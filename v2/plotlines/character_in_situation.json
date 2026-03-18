@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Character in a Situation Short Story",
   "description": "The classic Seven Point plot structure, adapted for short stories",
-  "version": "2026.3.18",
+  "version": "2026.3.19",
   "categories": [
     "shortstory"
   ],
@@ -883,23 +883,25 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "borderStyle": "NONE",
-        "level": 0,
-        "dark": {
-          "borderColor": "#ccc",
-          "textColor": "#ccc"
-        },
-        "borderColor": "#6cace4",
-        "autoNumber": true,
-        "textSize": 24,
-        "backgroundColor": "none",
-        "light": {
-          "textColor": "#0b1117",
-          "borderColor": "#6cace4"
-        },
-        "name": "Beat",
-        "textColor": "#0b1117"
+      "1": {
+        "0": {
+          "borderStyle": "NONE",
+          "level": 0,
+          "dark": {
+            "borderColor": "#ccc",
+            "textColor": "#ccc"
+          },
+          "borderColor": "#6cace4",
+          "autoNumber": true,
+          "textSize": 24,
+          "backgroundColor": "none",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "name": "Beat",
+          "textColor": "#0b1117"
+        }
       }
     }
   },

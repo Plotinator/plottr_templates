@@ -1,5 +1,5 @@
 {
-  "version": "2026.3.18",
+  "version": "2026.3.19",
   "templates": [
     {
       "id": "proj1",
@@ -323,37 +323,37 @@
     },
     {
       "id": "pl36",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/hero_journey_short.json"
     },
     {
       "id": "pl37",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/larry_brooks_short.json"
     },
     {
       "id": "pl38",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/character_in_situation.json"
     },
     {
       "id": "pl39",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/bromance.json"
     },
     {
       "id": "pl40",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/heroine_journey.json"
     },
     {
       "id": "pl41",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/story_genius.json"
     },
     {
       "id": "pl42",
-      "version": "2026.3.18",
+      "version": "2026.3.19",
       "url": "/v2/plotlines/12_levels_intimacy.json"
     },
     {
