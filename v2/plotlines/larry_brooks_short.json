@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Larry Brooks Short Story",
   "description": "Based on ideas by Larry Brooks, adapted for short stories",
-  "version": "2026.1.14",
+  "version": "2026.3.18",
   "categories": [
     "shortstory"
   ],
@@ -915,6 +915,7 @@
     }
   },
   "mergeBias": "top",
+  "templateDataVersion": "2023.8.15",
   "initialVersion": "2023.7.21",
   "appliedMigrations": [
     "*m2023_1_7",

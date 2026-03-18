@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "W Plot",
   "description": "A five point story structure for novelists and screenwriters",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general",
     "screenplay"
@@ -661,6 +661,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.1",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

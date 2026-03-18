@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Horror Beat Sheet",
   "description": "A beat sheet for horror novels and films by T.L. Bodine",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "horror"
   ],
@@ -2037,6 +2037,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.1",
   "initialVersion": "2021.6.4",
   "appliedMigrations": [
     "m2021_6_9",

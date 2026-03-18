@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Villain's Journey",
   "description": "An outline formula for writing villains based on the classic Hero's Journey",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general"
   ],
@@ -1049,6 +1049,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.16",
   "initialVersion": "2021.8.16",
   "appliedMigrations": []
 }

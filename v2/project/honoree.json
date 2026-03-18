@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Write Your First Nonfiction Book",
   "description": "Based on the book with step-by-step instructions by Honorée Corder.",
-  "version": "2024.3.11",
+  "version": "2026.3.18",
   "link": "https://honoreecorder.com/",
   "templateData": {
     "beats": {
@@ -1120,6 +1120,7 @@
       }
     ]
   },
+  "templateDataVersion": "2023.8.15",
   "initialVersion": "2022.12.21",
   "appliedMigrations": [
     "*m2023_1_7",

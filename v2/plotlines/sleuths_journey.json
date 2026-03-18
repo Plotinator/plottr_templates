@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Sleuth's Journey",
   "description": "A mystery novel formula by Troy Lambert, based on the classic Hero's Journey",
-  "version": "2022.2.8",
+  "version": "2026.3.18",
   "link": "https://plottr.com/sleuths-journey-plot-template/",
   "categories": [
     "mystery"
@@ -3742,6 +3742,7 @@
       }
     }
   },
+  "templateDataVersion": "2022.2.8",
   "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }

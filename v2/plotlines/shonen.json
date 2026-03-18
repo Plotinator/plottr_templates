@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Shonen Battle Manga Formula",
   "description": "A story structure for Shonen Manga",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "manga"
   ],
@@ -598,6 +598,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.6.9",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

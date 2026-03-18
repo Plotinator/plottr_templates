@@ -1,6 +1,6 @@
 {
     "id": "pl42",
-    "version": "2026.1.14",
+    "version": "2026.3.18",
     "type": "plotlines",
     "name": "12 Levels of Intimacy",
     "description": "",
@@ -518,6 +518,7 @@
         }
       }
     },
+    "templateDataVersion": "2024.10.11",
     "initialVersion": "2024.10.11",
     "appliedMigrations": []
   }

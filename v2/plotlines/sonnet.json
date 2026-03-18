@@ -1,6 +1,6 @@
 {
   "id": "pl35",
-  "version": "2023.3.3",
+  "version": "2026.3.18",
   "type": "plotlines",
   "name": "Sonnet (Shakespearean)",
   "description": "A template for writing poetry featuring four quatrains and a rhyming couplet.",
@@ -8,6 +8,7 @@
   "categories": [
     "poetry"
   ],
+  "templateDataVersion": "2023.3.3",
   "initialVersion": "2023.3.3",
   "appliedMigrations": [],
   "templateData": {
