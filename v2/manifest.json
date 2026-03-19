@@ -357,6 +357,11 @@
       "url": "/v2/plotlines/12_levels_intimacy.json"
     },
     {
+      "id": "pl43",
+      "version": "2026.3.19",
+      "url": "/v2/plotlines/reverse_mystery_formula_by_la_sartor.json"
+    },
+    {
       "id": "sc1",
       "version": "2022.7.20",
       "url": "/v2/scenes/proactive.json"

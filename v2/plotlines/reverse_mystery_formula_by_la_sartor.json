@@ -1,0 +1,2405 @@
+{
+  "name": "Reverse Mystery Formula by LA Sartor",
+  "version": "2026.3.19",
+  "id": "pl43",
+  "type": "plotlines",
+  "link": "",
+  "description": "",
+  "categories": [
+    "mystery"
+  ],
+  "appliedMigrations": [
+    "m2021_6_9",
+    "m2021_8_1",
+    "m2022_5_17_1",
+    "m2022_5_17",
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15",
+    "*m2025_2_19",
+    "m2025_11_27"
+  ],
+  "templateDataVersion": "2025.12.4",
+  "initialVersion": "2021.5.19",
+  "templateData": {
+    "cards": [
+      {
+        "id": 53,
+        "lineId": 7,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Chapter ETC",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 52,
+        "lineId": 5,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Chapter",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 51,
+        "lineId": 4,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Day 2? Or ?",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 50,
+        "lineId": 18,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Double check Subplots",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "One more check on subplots. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Have your characters interacted and created problems, good vibes, added questions to your series. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Make notes of all these to finish up or add to your next book"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 49,
+        "lineId": 18,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Double check Subplots",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Stop and see if you've developed subplots."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If so, are you continuing to build on them? "
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 48,
+        "lineId": 18,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": " Set Up Various Subplots ",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "There can be an awareness of another character which will build over the series in a romance. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Could be the authority figure"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Old Relationships between characters can be revealed "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "What happens now?"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Have circumstances changed the sleuth for good or bad according to this character?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Health Issue that runs through the series"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Growing worse?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Unresolved event in character's past "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Resolve it or let it continue?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 47,
+        "lineId": 9,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Adding in suspects",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Throughout this act, ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Complications arise such as:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Roadblocks"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your sleuth's antagonist who could also be their \"inside person\" will play a big role here. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Stakes grow higher"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What is at stake, what changes with the murder?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Clock ticks "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "how, what is the ticking clock for your sleuth?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 46,
+        "lineId": 16,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 45,
+        "lineId": 16,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At this point...",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This generally would be the murder at this point."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now the sleuth has a reason to spring into action as the story abruptly changes"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Is your sleuth in danger here? By design or accident?"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 44,
+        "lineId": 16,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 43,
+        "lineId": 16,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At this point",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is a spot for this or...."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 42,
+        "lineId": 16,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is very important at this particular point in the story."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 41,
+        "lineId": 16,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "TRD's",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Start thinking about:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Twists:",
+                "bold": true
+              },
+              {
+                "text": " A plot twist that takes the reader in a new direction"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reversal:",
+                "bold": true
+              },
+              {
+                "text": " Takes the story in the opposite direction a reader expects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Danger:",
+                "bold": true
+              },
+              {
+                "text": " Moments of heightened danger which can by "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "physical (some one brandishes a knife or a bat)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "emotional "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [
+          {
+            "id": "sc2",
+            "type": "scenes",
+            "version": "2020.2.19",
+            "name": "Reactive Scene",
+            "description": "Inspired by Scene & Sequel and the Snowflake Method",
+            "link": "",
+            "attributes": [
+              {
+                "name": "Reaction",
+                "type": "paragraph"
+              },
+              {
+                "name": "Dilemma",
+                "type": "paragraph"
+              },
+              {
+                "name": "Decision",
+                "type": "paragraph"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 40,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Investigation is a new direction?",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A major plot twist appears. This keeps the story from just being on the same old, same old track. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This twist can put your character back to square one, rethink everything, even question her ability. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is hard on your character and the reader, after all they're enjoying your book trying to figure who dunnit, and now your sleuth is really struggling. But you as the author must keep the story moving, the character must continue on despite the bad odds of getting whatever their goal is for the story to come to fruition. Justice, Vengeance,  Settling The Score, Acquittal, Trust etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This leads us to the Black Moment. "
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [
+          {
+            "id": "sc119e87",
+            "version": "2021.3.9",
+            "type": "scenes",
+            "name": "My Mystery Scene Template",
+            "description": "",
+            "link": "",
+            "attributes": [
+              {
+                "name": "Real Clue",
+                "type": "paragraph"
+              },
+              {
+                "name": "Red Herring",
+                "type": "paragraph"
+              },
+              {
+                "name": "Alibis",
+                "type": "paragraph"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 39,
+        "lineId": 7,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Chapter Two",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scene One"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scene Two"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scene Three"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [
+          {
+            "id": "sc119e87",
+            "version": "2021.3.9",
+            "type": "scenes",
+            "name": "My Mystery Scene Template",
+            "description": "",
+            "link": "",
+            "attributes": [
+              {
+                "name": "Real Clue",
+                "type": "paragraph"
+              },
+              {
+                "name": "Red Herring",
+                "type": "paragraph"
+              },
+              {
+                "name": "Alibis",
+                "type": "paragraph"
+              }
+            ]
+          }
+        ],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClip": null
+      },
+      {
+        "id": 38,
+        "lineId": 1,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The Climax and Reveal",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Now that the sleuth has rebounded from the Black Moment and creates the climax, hoping it will work..."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What kind of reveal do you want?"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "A room full of suspects that will act as the denouement? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Or a confrontation with the killer.  "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "To know which is best, be sure you know your sleuth well enough to know they work better one way or the other. Or think they can which could then add complications."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 37,
+        "lineId": 17,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Chapter Four",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 36,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The Meat of the story",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Reveal more about your sleuth, history, conflicts, problems. (Make sure your GMC is built)."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember your sleuth will move forward, then have to retrace their steps as their ideas DON'T pan out. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This long middle will also:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A. Reveal facts about suspects, through interrogations and the discovery of clues."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Bring more of your town in, repeating characters you're building for future books that perhaps been accused mistakenly and trust will need to be built again.  Or the opposite"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "B. Flight, or disappearance of one or more suspect."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "C. Develop a sense of urgency. Raise the stakes or make it evident that if the mystery is not solved soon, there will be terrible consequences."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "All of this leads to the midpoint. "
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 35,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The sleuth takes on the case",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "By the end of ACT 1, the sleuth has to decide to take action. She/he cannot be still. "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "WHY, what's at stake for them if they do nothing? "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "And why does this person think they can do anything the police can't?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 34,
+        "lineId": 1,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Set Up & The Death",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Set the scene, this is important in a cozy to ground the reader into the story. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Introduce Main Characters"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Sleuth "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The Formal Investigative Connection ie. Police"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Sidekick of sleuth"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The victim and why his/her death matters, how they were important to the town, good or bad."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "various suspects or at least people who were in the prior introductions and chapters"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Introduce the town,"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Make a map"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Find some interesting businesses that can move your story ahead, "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Create characters for those businesses that are pro/con toward your sleuth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Introduce the season "
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Remember to use that season in the book to add to the danger, the beauty, the sense of the town"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "The nuisance factor of the season"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Layer in the attributes (see tab) for the characters introduced so far. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Usually by the END OF ACT ONE, you'll need your INCITING SCENE. ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Usually the murder"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 33,
+        "lineId": 1,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Black moment",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Black Moment",
+                "bold": true
+              },
+              {
+                "text": " is often considered the false ending. It's the darkest moment in the book is when the protagonist (our sleuth) loses all hope."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Crisis: The worst has happened. Everything the characters have tried to avoid has come to fruition. "
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Usually revealed in a single scene, ending with things worse off than anyone realized."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "But the story must continue, so the protagonist pulls themselves up,  and then the stakes are raised again as the book moves to its finale, the climax.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Climax:",
+                "bold": true
+              },
+              {
+                "text": " The battle is being fought in an all-or-nothing struggle with the ending in still in doubt."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "audioClip": null
+      },
+      {
+        "id": 32,
+        "lineId": 9,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Clues",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Start now layering in some clues (Look At Attributes)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Setting up some of the McGuffins if there are any. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "Real Clue": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A series of molatav cocktails are being heard late at night through out the valley"
+              }
+            ]
+          }
+        ],
+        "Red Herring": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Perhaps a set of mason jars is found outside of the place where Emilio hangs out. "
+              }
+            ]
+          }
+        ],
+        "Alibis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "CZ moving into her condo early, b/c she wants to spend Christmas there. Christmas is important to her."
+              }
+            ]
+          }
+        ],
+        "audioClip": null
+      },
+      {
+        "id": 31,
+        "lineId": 9,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Plotting Backwards from the Crime",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "From the End",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Develop the crime and the perpetrator "
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Motive "
+              },
+              {
+                "text": "and",
+                "bold": true
+              },
+              {
+                "text": " Trigger"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Opportunity "
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Means"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Know the history of the killer"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "create a backstory in detail using GMC for this character. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Make sure they can do the crime!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once this is established you can go forward to chapter one. But you can't write the book unless this is last part is created in detail."
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Knowing the motive and the trigger is key to the story working well from page one and will keep you from rewriting numerous times."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Five Ps for Murder",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Passion (Unplanned)"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Jealousy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Profit"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Greed"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Psychosis"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Hate crime, hates women, "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Protection (Themselves or others)"
+              }
+            ]
+          },
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Blackmail"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Panic (Unplanned)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Then develop the emotional reason behind the "
+              },
+              {
+                "text": "P",
+                "bold": true
+              },
+              {
+                "text": " you've chosen"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "Red Herring": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "audioClip": null
+      },
+      {
+        "id": 24,
+        "lineId": 10,
+        "beatId": 10,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionInChapter": null,
+        "title": "Chapter Three",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "audioClip": null
+      },
+      {
+        "id": 21,
+        "lineId": 5,
+        "beatId": 10,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionInChapter": null,
+        "title": "Chapter One",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Day One Dec 23rd"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scene One, "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scene Two"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "Real Clue": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "CZ entering the back door with her key, a buzzer noise. She needs to enter later quietly for the fire, HOW."
+              }
+            ]
+          }
+        ],
+        "Alibis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "CZ moving into her condo early, b/c she wants to spend Christmas there. Christmas is important to her."
+              }
+            ]
+          }
+        ],
+        "Red Herring": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Carl talks to Roz quietly about seeing Emilio out back smoking a joint.  "
+              }
+            ]
+          }
+        ],
+        "audioClip": null
+      },
+      {
+        "id": 20,
+        "lineId": 4,
+        "beatId": 10,
+        "seriesLineId": null,
+        "bookId": null,
+        "positionInChapter": null,
+        "title": "Day 1 Dec 23 & 24",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Mid afternoon. "
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "positionWithinLine": 0,
+        "audioClip": null
+      }
+    ],
+    "beats": {
+      "1": {
+        "children": {
+          "3": [],
+          "4": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "10": [],
+          "null": [
+            8,
+            7,
+            6,
+            4,
+            3,
+            10
+          ]
+        },
+        "heap": {
+          "3": null,
+          "4": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "10": null
+        },
+        "index": {
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 4,
+            "title": "End Of Act One",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "id": 4,
+            "bookId": 1,
+            "position": 3,
+            "title": "Act Two",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "6": {
+            "id": 6,
+            "bookId": 1,
+            "position": 2,
+            "title": "Midpoint",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "7": {
+            "id": 7,
+            "bookId": 1,
+            "position": 1,
+            "title": "Act Two Break",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "8": {
+            "id": 8,
+            "bookId": 1,
+            "position": 0,
+            "title": "Act Three",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "10": {
+            "id": 10,
+            "bookId": 1,
+            "position": 5,
+            "title": "Act One",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": {
+          "1": [],
+          "null": [
+            1
+          ]
+        },
+        "heap": {
+          "1": null
+        },
+        "index": {
+          "1": {
+            "id": 1,
+            "position": 0,
+            "title": "Beat 1",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "bookId": "series",
+            "expanded": true
+          }
+        }
+      }
+    },
+    "lines": [
+      {
+        "id": 15,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "bookId": 1,
+        "characterId": null,
+        "color": "#6cace4",
+        "id": 1,
+        "position": 0,
+        "title": "Main Plotting Points",
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 9,
+        "bookId": 1,
+        "title": "Mystery Elements",
+        "color": "#0b1117",
+        "position": 2,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 16,
+        "bookId": 1,
+        "color": "#0b1117",
+        "title": "TRD's, Twists, Reversals, Danger",
+        "position": 3,
+        "characterId": null,
+        "expanded": false,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 18,
+        "bookId": 1,
+        "color": "#0b1117",
+        "title": "Subplots",
+        "position": 4,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 4,
+        "bookId": 1,
+        "title": "Timeline",
+        "color": "#ff7f32",
+        "position": 5,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 5,
+        "bookId": 1,
+        "title": "Chapters",
+        "color": "#ffc72c",
+        "position": 6,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 7,
+        "bookId": 1,
+        "title": "Chapters",
+        "color": "Magenta",
+        "position": 7,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 10,
+        "bookId": 1,
+        "title": "Chapters",
+        "color": "LimeGreen",
+        "position": 8,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      },
+      {
+        "id": 17,
+        "bookId": 1,
+        "color": "DarkOrchid",
+        "title": "Chapters",
+        "position": 9,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "name": "Chapter",
+          "level": 0,
+          "autoNumber": true,
+          "textColor": "#0b1117",
+          "textSize": 24,
+          "borderColor": "#6cace4",
+          "borderStyle": "NONE",
+          "backgroundColor": "none",
+          "dark": {
+            "borderColor": "#c9e6ff",
+            "textColor": "#c9e6ff"
+          },
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          }
+        }
+      },
+      "series": {
+        "0": {
+          "name": "Chapter",
+          "level": 0,
+          "autoNumber": true,
+          "textColor": "#0b1117",
+          "textSize": 24,
+          "borderColor": "#6cace4",
+          "borderStyle": "NONE",
+          "backgroundColor": "none",
+          "dark": {
+            "borderColor": "#c9e6ff",
+            "textColor": "#c9e6ff"
+          },
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          }
+        }
+      }
+    }
+  }
+}
