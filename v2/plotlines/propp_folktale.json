@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Propp Folktale Structure",
   "description": "A story structure for folktales  based on the teachings of Vladimir Propp",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general"
   ],
@@ -3465,6 +3465,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.16",
   "initialVersion": "2021.8.16",
   "appliedMigrations": []
 }

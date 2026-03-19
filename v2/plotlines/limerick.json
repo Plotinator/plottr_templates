@@ -1,6 +1,6 @@
 {
   "id": "pl33",
-  "version": "2023.3.3",
+  "version": "2026.3.18",
   "type": "plotlines",
   "name": "Limerick",
   "description": "A template for writing humorous short form poetry in five lines with a strict rhyme scheme.",
@@ -566,6 +566,7 @@
       }
     }
   },
+  "templateDataVersion": "2023.3.3",
   "initialVersion": "2023.3.3",
   "appliedMigrations": []
 }

@@ -1,6 +1,6 @@
 {
   "id": "pl41",
-  "version": "2026.1.19",
+  "version": "2026.3.19",
   "type": "plotlines",
   "name": "Story Genius",
   "description": "Part of the Story Genius method, the Story Genius Timeline includes crucial scenes and plot points designed to help you create a coherent story after you know your characters, and their backstory, and have established their misbeliefs and desires.",
@@ -1614,26 +1614,29 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "backgroundColor": "none",
-        "borderColor": "#6cace4",
-        "autoNumber": true,
-        "name": "Step",
-        "light": {
+      "1": {
+        "0": {
+          "backgroundColor": "none",
           "borderColor": "#6cace4",
-          "textColor": "#0b1117"
-        },
-        "textColor": "#0b1117",
-        "textSize": 24,
-        "dark": {
-          "textColor": "#ccc",
-          "borderColor": "#ccc"
-        },
-        "level": 0,
-        "borderStyle": "NONE"
+          "autoNumber": true,
+          "name": "Step",
+          "light": {
+            "borderColor": "#6cace4",
+            "textColor": "#0b1117"
+          },
+          "textColor": "#0b1117",
+          "textSize": 24,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "level": 0,
+          "borderStyle": "NONE"
+        }
       }
     }
   },
+  "templateDataVersion": "2024.5.2",
   "initialVersion": "2024.5.2",
   "appliedMigrations": []
 }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Take Off Your Pants",
   "description": "An outline formula for faster, better writing based on the book by Libbie Hawker",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general"
   ],
@@ -1737,6 +1737,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.1",
   "initialVersion": "2021.2.23",
   "appliedMigrations": [
     "m2021_4_13",

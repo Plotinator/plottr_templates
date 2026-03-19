@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Hero's Journey Short Story",
   "description": "The classic Hero's Journey plot structure, adapted for short stories",
-  "version": "2026.1.14",
+  "version": "2026.3.19",
   "categories": [
     "shortstory"
   ],
@@ -1259,26 +1259,29 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "autoNumber": true,
-        "borderColor": "#6cace4",
-        "light": {
+      "1": {
+        "0": {
+          "autoNumber": true,
+          "borderColor": "#6cace4",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
           "textColor": "#0b1117",
-          "borderColor": "#6cace4"
-        },
-        "textColor": "#0b1117",
-        "textSize": 24,
-        "dark": {
-          "textColor": "#ccc",
-          "borderColor": "#ccc"
-        },
-        "name": "Beat",
-        "borderStyle": "NONE",
-        "level": 0,
-        "backgroundColor": "none"
+          "textSize": 24,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "name": "Beat",
+          "borderStyle": "NONE",
+          "level": 0,
+          "backgroundColor": "none"
+        }
       }
     }
   },
+  "templateDataVersion": "2023.8.15",
   "initialVersion": "2023.7.21",
   "mergeBias": "top",
   "appliedMigrations": [

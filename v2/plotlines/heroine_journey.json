@@ -1,6 +1,6 @@
 {
   "id": "pl40",
-  "version": "2026.2.16",
+  "version": "2026.3.19",
   "type": "plotlines",
   "name": "Heroine's Journey",
   "description": "Gail Carriger's Heroine's Journey focuses on the way in which a male or female protagonist uses networking and connection to achieve goals and overcome conflict. For best use of this template, consider Gail Carriger's The Heroine's Journey book as a companion guide for navigating this template.",
@@ -2017,26 +2017,29 @@
       }
     ],
     "hierarchyLevels": {
-      "0": {
-        "borderStyle": "NONE",
-        "light": {
+      "1": {
+        "0": {
+          "borderStyle": "NONE",
+          "light": {
+            "textColor": "#0b1117",
+            "borderColor": "#6cace4"
+          },
+          "borderColor": "#6cace4",
+          "textSize": 24,
           "textColor": "#0b1117",
-          "borderColor": "#6cace4"
-        },
-        "borderColor": "#6cace4",
-        "textSize": 24,
-        "textColor": "#0b1117",
-        "autoNumber": true,
-        "dark": {
-          "textColor": "#ccc",
-          "borderColor": "#ccc"
-        },
-        "backgroundColor": "none",
-        "level": 0,
-        "name": "Beat"
+          "autoNumber": true,
+          "dark": {
+            "textColor": "#ccc",
+            "borderColor": "#ccc"
+          },
+          "backgroundColor": "none",
+          "level": 0,
+          "name": "Beat"
+        }
       }
     }
   },
+  "templateDataVersion": "2024.5.2",
   "initialVersion": "2024.5.2",
   "appliedMigrations": []
 }

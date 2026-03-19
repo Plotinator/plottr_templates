@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "An outline formula for writing an action and adventure story",
-  "version": "2023.11.1",
+  "version": "2026.3.18",
   "link": "http://shangchimokf.blogspot.com/2017/04/the-quintessential-action-adventure.html",
   "categories": [
     "action"
@@ -2218,6 +2218,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.1",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

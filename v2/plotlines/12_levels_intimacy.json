@@ -1,6 +1,6 @@
 {
     "id": "pl42",
-    "version": "2026.1.14",
+    "version": "2026.3.19",
     "type": "plotlines",
     "name": "12 Levels of Intimacy",
     "description": "",
@@ -498,26 +498,29 @@
         }
       ],
       "hierarchyLevels": {
-        "0": {
-          "name": "Level",
-          "level": 0,
-          "autoNumber": true,
-          "textSize": 24,
-          "borderStyle": "NONE",
-          "backgroundColor": "Pink",
-          "textColor": "Maroon",
-          "borderColor": "#6cace4",
-          "dark": {
+        "1": {
+          "0": {
+            "name": "Level",
+            "level": 0,
+            "autoNumber": true,
+            "textSize": 24,
+            "borderStyle": "NONE",
+            "backgroundColor": "Pink",
             "textColor": "Maroon",
-            "borderColor": "#6cace4"
-          },
-          "light": {
             "borderColor": "#6cace4",
-            "textColor": "#0b1117"
+            "dark": {
+              "textColor": "Maroon",
+              "borderColor": "#6cace4"
+            },
+            "light": {
+              "borderColor": "#6cace4",
+              "textColor": "#0b1117"
+            }
           }
         }
       }
     },
+    "templateDataVersion": "2024.10.11",
     "initialVersion": "2024.10.11",
     "appliedMigrations": []
   }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "In Media Res",
   "description": "A classic plot structure that begins in the middle of the story",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general"
   ],
@@ -854,6 +854,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.11",
   "initialVersion": "2021.8.11",
   "appliedMigrations": []
 }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Story Circle",
   "description": "A circular story structure popularized by Dan Harmon",
-  "version": "2021.10.15",
+  "version": "2026.3.18",
   "categories": [
     "general"
   ],
@@ -1095,6 +1095,7 @@
       }
     }
   },
+  "templateDataVersion": "2021.8.1",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
