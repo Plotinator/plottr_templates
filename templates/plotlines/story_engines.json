@@ -3,12 +3,12 @@
   "type": "plotlines",
   "name": "Story Engines Blueprint",
   "description": "A four act structure for commercial fiction by NY Times bestselling author Joseph Nassise",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
   "link": "https://www.yourfirst10kreaders.com/storyengines",
-  "templateDataVersion": "2022.6.29",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2022.6.29",
   "appliedMigrations": [],
   "templateData": {
@@ -159,7 +159,9 @@
             "time": 0,
             "id": 11,
             "autoOutlineSort": true,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "12": {
             "fromTemplateId": null,
@@ -168,7 +170,9 @@
             "time": 0,
             "id": 12,
             "bookId": 1,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "13": {
             "title": "auto",
@@ -177,7 +181,9 @@
             "bookId": 1,
             "time": 0,
             "id": 13,
-            "position": 35
+            "position": 35,
+            "templates": [],
+            "expanded": true
           },
           "14": {
             "time": 0,
@@ -186,7 +192,9 @@
             "bookId": 1,
             "position": 34,
             "fromTemplateId": null,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "15": {
             "position": 33,
@@ -195,7 +203,9 @@
             "time": 0,
             "id": 15,
             "autoOutlineSort": true,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "16": {
             "id": 16,
@@ -204,7 +214,9 @@
             "fromTemplateId": null,
             "time": 0,
             "title": "auto",
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "17": {
             "title": "auto",
@@ -213,7 +225,9 @@
             "position": 31,
             "fromTemplateId": null,
             "bookId": 1,
-            "id": 17
+            "id": 17,
+            "templates": [],
+            "expanded": true
           },
           "18": {
             "title": "auto",
@@ -222,7 +236,9 @@
             "position": 30,
             "bookId": 1,
             "id": 18,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "19": {
             "position": 29,
@@ -231,7 +247,9 @@
             "fromTemplateId": null,
             "title": "auto",
             "bookId": 1,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "20": {
             "fromTemplateId": null,
@@ -240,7 +258,9 @@
             "bookId": 1,
             "position": 28,
             "title": "auto",
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "21": {
             "position": 27,
@@ -249,7 +269,9 @@
             "fromTemplateId": null,
             "title": "auto",
             "time": 0,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "22": {
             "fromTemplateId": null,
@@ -258,7 +280,9 @@
             "id": 22,
             "bookId": 1,
             "autoOutlineSort": true,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "23": {
             "bookId": 1,
@@ -267,7 +291,9 @@
             "position": 25,
             "title": "auto",
             "id": 23,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "24": {
             "fromTemplateId": null,
@@ -276,7 +302,9 @@
             "autoOutlineSort": true,
             "title": "auto",
             "bookId": 1,
-            "id": 24
+            "id": 24,
+            "templates": [],
+            "expanded": true
           },
           "25": {
             "title": "auto",
@@ -285,7 +313,9 @@
             "time": 0,
             "id": 25,
             "fromTemplateId": null,
-            "position": 23
+            "position": 23,
+            "templates": [],
+            "expanded": true
           },
           "26": {
             "autoOutlineSort": true,
@@ -294,7 +324,9 @@
             "bookId": 1,
             "position": 22,
             "title": "auto",
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "27": {
             "id": 27,
@@ -303,7 +335,9 @@
             "fromTemplateId": null,
             "bookId": 1,
             "position": 21,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "28": {
             "id": 28,
@@ -312,7 +346,9 @@
             "autoOutlineSort": true,
             "bookId": 1,
             "position": 20,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "29": {
             "title": "auto",
@@ -321,7 +357,9 @@
             "position": 19,
             "time": 0,
             "bookId": 1,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "30": {
             "autoOutlineSort": true,
@@ -330,7 +368,9 @@
             "bookId": 1,
             "position": 18,
             "id": 30,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "31": {
             "position": 17,
@@ -339,7 +379,9 @@
             "bookId": 1,
             "fromTemplateId": null,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "32": {
             "id": 32,
@@ -348,7 +390,9 @@
             "time": 0,
             "position": 16,
             "autoOutlineSort": true,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "33": {
             "fromTemplateId": null,
@@ -357,7 +401,9 @@
             "bookId": 1,
             "time": 0,
             "autoOutlineSort": true,
-            "position": 15
+            "position": 15,
+            "templates": [],
+            "expanded": true
           },
           "34": {
             "time": 0,
@@ -366,7 +412,9 @@
             "id": 34,
             "bookId": 1,
             "position": 14,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "35": {
             "autoOutlineSort": true,
@@ -375,7 +423,9 @@
             "fromTemplateId": null,
             "bookId": 1,
             "id": 35,
-            "position": 13
+            "position": 13,
+            "templates": [],
+            "expanded": true
           },
           "36": {
             "autoOutlineSort": true,
@@ -384,7 +434,9 @@
             "bookId": 1,
             "position": 12,
             "time": 0,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "37": {
             "position": 11,
@@ -393,7 +445,9 @@
             "id": 37,
             "title": "auto",
             "autoOutlineSort": true,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "38": {
             "autoOutlineSort": true,
@@ -402,7 +456,9 @@
             "position": 10,
             "bookId": 1,
             "id": 38,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "39": {
             "id": 39,
@@ -411,7 +467,9 @@
             "fromTemplateId": null,
             "time": 0,
             "title": "auto",
-            "position": 9
+            "position": 9,
+            "templates": [],
+            "expanded": true
           },
           "40": {
             "autoOutlineSort": true,
@@ -420,7 +478,9 @@
             "time": 0,
             "position": 8,
             "title": "auto",
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "41": {
             "id": 41,
@@ -429,7 +489,9 @@
             "title": "auto",
             "autoOutlineSort": true,
             "position": 7,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "42": {
             "id": 42,
@@ -438,7 +500,9 @@
             "bookId": 1,
             "autoOutlineSort": true,
             "time": 0,
-            "position": 6
+            "position": 6,
+            "templates": [],
+            "expanded": true
           },
           "43": {
             "title": "auto",
@@ -447,7 +511,9 @@
             "position": 5,
             "time": 0,
             "autoOutlineSort": true,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "44": {
             "bookId": 1,
@@ -456,7 +522,9 @@
             "autoOutlineSort": true,
             "time": 0,
             "id": 44,
-            "position": 4
+            "position": 4,
+            "templates": [],
+            "expanded": true
           },
           "45": {
             "id": 45,
@@ -465,7 +533,9 @@
             "bookId": 1,
             "time": 0,
             "position": 3,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "46": {
             "id": 46,
@@ -474,7 +544,9 @@
             "time": 0,
             "position": 2,
             "fromTemplateId": null,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "47": {
             "fromTemplateId": null,
@@ -483,7 +555,9 @@
             "position": 1,
             "title": "auto",
             "bookId": 1,
-            "id": 47
+            "id": 47,
+            "templates": [],
+            "expanded": true
           },
           "48": {
             "autoOutlineSort": true,
@@ -492,7 +566,9 @@
             "title": "auto",
             "bookId": 1,
             "position": 38,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "49": {
             "id": 49,
@@ -501,7 +577,9 @@
             "position": 39,
             "bookId": 1,
             "title": "auto",
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -538,7 +616,10 @@
         "title": "Conclusion Phase",
         "bookId": 1,
         "id": 14,
-        "position": 6
+        "position": 6,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 12,
@@ -547,7 +628,10 @@
         "bookId": 1,
         "expanded": null,
         "color": "#ff7f32",
-        "title": "Proactive Phase"
+        "title": "Proactive Phase",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -556,7 +640,10 @@
         "color": "#78be20",
         "title": "Reactive Phase",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": null,
@@ -566,7 +653,9 @@
         "bookId": 1,
         "color": "#ff7f32",
         "title": "Preparation Phase",
-        "position": 0
+        "position": 0,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -628,7 +717,9 @@
         "characters": [],
         "bookId": null,
         "title": "Conclusion Phase - Scene Forty",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -688,7 +779,9 @@
         "id": 43,
         "color": null,
         "title": "Conclusion Phase - Scene Thirty-Nine",
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -748,7 +841,9 @@
         "lineId": 14,
         "title": "Conclusion Phase - Scene Thirty-Eight",
         "beatId": 11,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -808,7 +903,9 @@
         "beatId": 12,
         "characters": [],
         "templates": [],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -868,7 +965,9 @@
           }
         ],
         "tags": [],
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 39,
@@ -928,7 +1027,9 @@
         "lineId": 14,
         "positionInBeat": 0,
         "places": [],
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -988,7 +1089,9 @@
         "tags": [],
         "beatId": 15,
         "color": null,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -1072,7 +1175,9 @@
         "positionInBeat": 0,
         "imageId": null,
         "positionWithinLine": 0,
-        "lineId": 14
+        "lineId": 14,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1132,7 +1237,9 @@
         "id": 48,
         "lineId": 12,
         "positionWithinLine": 0,
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -1216,7 +1323,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 34,
@@ -1276,7 +1385,9 @@
           }
         ],
         "positionWithinLine": 0,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1336,7 +1447,9 @@
         "lineId": 12,
         "positionWithinLine": 0,
         "id": 33,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -1396,7 +1509,9 @@
         "id": 32,
         "beatId": 21,
         "lineId": 12,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -1456,7 +1571,9 @@
         "lineId": 12,
         "templates": [],
         "beatId": 22,
-        "id": 31
+        "id": 31,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1516,7 +1633,9 @@
         "positionInBeat": 0,
         "color": null,
         "title": "Proactive Phase - Scene Twenty-Six",
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -1576,7 +1695,9 @@
           }
         ],
         "places": [],
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -1636,7 +1757,9 @@
           }
         ],
         "id": 28,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -1696,7 +1819,9 @@
         "tags": [],
         "id": 27,
         "templates": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 12,
@@ -1756,7 +1881,9 @@
             "type": "paragraph"
           }
         ],
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1840,7 +1967,9 @@
         "color": null,
         "lineId": 12,
         "bookId": null,
-        "title": "Proactive Phase - Scene Twenty-One"
+        "title": "Proactive Phase - Scene Twenty-One",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 30,
@@ -1900,7 +2029,9 @@
         "positionWithinLine": 0,
         "templates": [],
         "color": null,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -1976,7 +2107,9 @@
         ],
         "beatId": 29,
         "tags": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -2036,7 +2169,9 @@
         "characters": [],
         "tags": [],
         "positionInBeat": 0,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -2096,7 +2231,9 @@
         ],
         "templates": [],
         "id": 22,
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 10,
@@ -2156,7 +2293,9 @@
         ],
         "templates": [],
         "fromTemplateId": null,
-        "title": "Reactive Phase - Scene Sixteen"
+        "title": "Reactive Phase - Scene Sixteen",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 20,
@@ -2216,7 +2355,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 19,
@@ -2276,7 +2417,9 @@
         "tags": [],
         "positionInBeat": 0,
         "fromTemplateId": null,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -2336,7 +2479,9 @@
           }
         ],
         "tags": [],
-        "id": 18
+        "id": 18,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -2396,7 +2541,9 @@
         "color": null,
         "title": "Reactive Phase - Scene Twelve",
         "id": 17,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -2456,7 +2603,9 @@
         "imageId": null,
         "id": 16,
         "places": [],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -2516,7 +2665,9 @@
         "characters": [],
         "id": 15,
         "positionInBeat": 0,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -2592,7 +2743,9 @@
         "templates": [],
         "tags": [],
         "id": 14,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -2684,7 +2837,9 @@
         "id": 50,
         "templates": [],
         "characters": [],
-        "title": "Game Changing Moment #1"
+        "title": "Game Changing Moment #1",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "title": "Prep Phase - Scene Seven",
@@ -2752,7 +2907,9 @@
         "tags": [],
         "id": 49,
         "bookId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -2820,7 +2977,9 @@
         "color": null,
         "positionInBeat": 0,
         "places": [],
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -2888,7 +3047,9 @@
         "tags": [],
         "lineId": 7,
         "positionInBeat": 0,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -2956,7 +3117,9 @@
         "characters": [],
         "lineId": 7,
         "positionWithinLine": 0,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -3024,7 +3187,9 @@
         "fromTemplateId": null,
         "characters": [],
         "places": [],
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -3092,7 +3257,9 @@
             ]
           }
         ],
-        "lineId": 7
+        "lineId": 7,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -3201,7 +3368,9 @@
           }
         ],
         "title": "Prep Phase - Scene One",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {

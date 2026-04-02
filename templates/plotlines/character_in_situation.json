@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Character in a Situation Short Story",
   "description": "The classic Seven Point plot structure, adapted for short stories",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "categories": [
     "shortstory"
   ],
@@ -58,7 +58,8 @@
             "time": 0,
             "position": 1,
             "autoOutlineSort": true,
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "4": {
             "position": 2,
@@ -68,7 +69,8 @@
             "title": "auto",
             "id": 4,
             "bookId": 1,
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "5": {
             "title": "auto",
@@ -78,7 +80,8 @@
             "expanded": true,
             "fromTemplateId": null,
             "time": 0,
-            "position": 3
+            "position": 3,
+            "templates": []
           },
           "6": {
             "expanded": true,
@@ -88,7 +91,8 @@
             "autoOutlineSort": true,
             "title": "auto",
             "position": 4,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": []
           },
           "7": {
             "expanded": true,
@@ -98,7 +102,8 @@
             "position": 5,
             "title": "auto",
             "fromTemplateId": null,
-            "id": 7
+            "id": 7,
+            "templates": []
           },
           "8": {
             "id": 8,
@@ -108,7 +113,8 @@
             "time": 0,
             "title": "auto",
             "bookId": 1,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": []
           }
         }
       },
@@ -147,7 +153,8 @@
         "isPinned": false,
         "id": 1,
         "title": "Main Plot",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -251,7 +258,9 @@
         "characters": [],
         "color": null,
         "title": "A Character",
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -353,7 +362,9 @@
         "positionWithinLine": 0,
         "lineId": 1,
         "fromTemplateId": null,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -455,7 +466,9 @@
         "color": null,
         "positionInBeat": 0,
         "bookId": null,
-        "beatId": 4
+        "beatId": 4,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -557,7 +570,9 @@
         "imageId": null,
         "bookId": null,
         "positionInBeat": 0,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -667,7 +682,9 @@
         "color": null,
         "title": "But Fails, Making the Problem Worse",
         "lineId": 1,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -769,7 +786,9 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -879,7 +898,9 @@
         "color": null,
         "places": [],
         "bookId": null,
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -901,12 +922,28 @@
           },
           "name": "Beat",
           "textColor": "#0b1117"
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
   "mergeBias": "top",
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2023.7.21",
   "appliedMigrations": [
     "*m2023_1_7",

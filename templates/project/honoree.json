@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Write Your First Nonfiction Book",
   "description": "Based on the book with step-by-step instructions by Honorée Corder.",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "https://honoreecorder.com/",
   "templateData": {
     "beats": {
@@ -50,7 +50,8 @@
             "fromTemplateId": null,
             "expanded": true,
             "position": 1,
-            "id": 22
+            "id": 22,
+            "templates": []
           },
           "23": {
             "id": 23,
@@ -59,7 +60,9 @@
             "title": "auto",
             "autoOutlineSort": true,
             "bookId": 1,
-            "position": 8
+            "position": 8,
+            "templates": [],
+            "expanded": true
           },
           "24": {
             "id": 24,
@@ -68,7 +71,9 @@
             "time": 0,
             "fromTemplateId": null,
             "bookId": 1,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "25": {
             "fromTemplateId": null,
@@ -77,7 +82,9 @@
             "bookId": 1,
             "position": 6,
             "time": 0,
-            "id": 25
+            "id": 25,
+            "templates": [],
+            "expanded": true
           },
           "26": {
             "autoOutlineSort": true,
@@ -86,7 +93,9 @@
             "time": 0,
             "bookId": 1,
             "fromTemplateId": null,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "27": {
             "fromTemplateId": null,
@@ -96,7 +105,8 @@
             "bookId": 1,
             "title": "auto",
             "expanded": true,
-            "time": 0
+            "time": 0,
+            "templates": []
           },
           "28": {
             "id": 28,
@@ -105,7 +115,9 @@
             "title": "auto",
             "autoOutlineSort": true,
             "fromTemplateId": null,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "29": {
             "title": "auto",
@@ -114,7 +126,9 @@
             "time": 0,
             "bookId": 1,
             "autoOutlineSort": true,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "30": {
             "position": 0,
@@ -124,7 +138,8 @@
             "title": "Prologue",
             "expanded": true,
             "time": 0,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": []
           }
         }
       },
@@ -182,7 +197,9 @@
         "templates": [],
         "isCloudFile": true,
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -212,7 +229,9 @@
         "beatId": 29,
         "fileId": "3bl80sxZOLwCOb242EkQ",
         "isCloudFile": true,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -242,7 +261,9 @@
         "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
         "bookId": null,
         "fileId": "3bl80sxZOLwCOb242EkQ",
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
@@ -272,7 +293,9 @@
           }
         ],
         "bookId": null,
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
@@ -302,7 +325,9 @@
         "tags": [],
         "positionWithinLine": 0,
         "fileId": "3bl80sxZOLwCOb242EkQ",
-        "id": 40
+        "id": 40,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -332,7 +357,9 @@
         "tags": [],
         "beatId": 25,
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileId": "3bl80sxZOLwCOb242EkQ",
@@ -362,7 +389,9 @@
         "isCloudFile": true,
         "id": 42,
         "title": "Get Better Results",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
@@ -392,7 +421,9 @@
         "beatId": 23,
         "id": 43,
         "tags": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -451,7 +482,9 @@
         "places": [],
         "fileId": "3bl80sxZOLwCOb242EkQ",
         "templates": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "categories": {
@@ -506,7 +539,10 @@
         "expanded": null,
         "fromTemplateId": null,
         "bookId": 1,
-        "color": "LightGreen"
+        "color": "LightGreen",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "position": 4,
@@ -515,7 +551,10 @@
         "title": "Idea 3",
         "color": "#ffc72c",
         "id": 19,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "color": "#ff7f32",
@@ -524,7 +563,10 @@
         "position": 3,
         "bookId": 1,
         "expanded": null,
-        "title": "Idea 2"
+        "title": "Idea 2",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "position": 2,
@@ -533,7 +575,10 @@
         "fromTemplateId": null,
         "bookId": 1,
         "id": 17,
-        "title": "Idea 1"
+        "title": "Idea 1",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -542,7 +587,10 @@
         "position": 1,
         "expanded": null,
         "fromTemplateId": null,
-        "id": 16
+        "id": 16,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "characterId": null,
@@ -553,7 +601,8 @@
         "color": "#78be20",
         "bookId": 1,
         "id": 15,
-        "title": "Outline"
+        "title": "Outline",
+        "pinnedPosition": null
       },
       {
         "id": 2,
@@ -563,7 +612,9 @@
         "bookId": "series",
         "title": "Main Plot",
         "fromTemplateId": null,
-        "expanded": null
+        "expanded": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "notes": [
@@ -665,7 +716,9 @@
         "title": "Back Matter",
         "places": [],
         "id": 10,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "position": 0
       },
       {
         "isCloudFile": true,
@@ -705,7 +758,9 @@
         "tags": [],
         "bookIds": [
           3
-        ]
+        ],
+        "audioClipId": null,
+        "position": 0
       },
       {
         "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
@@ -770,7 +825,9 @@
           }
         ],
         "templates": [],
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "position": 0
       },
       {
         "tags": [],
@@ -849,7 +906,9 @@
         "lastEdited": 1701893867815,
         "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
         "places": [],
-        "id": 13
+        "id": 13,
+        "audioClipId": null,
+        "position": 0
       },
       {
         "fileURL": "plottr://3bl80sxZOLwCOb242EkQ",
@@ -895,7 +954,9 @@
         "places": [],
         "isCloudFile": true,
         "fileId": "3bl80sxZOLwCOb242EkQ",
-        "title": "Big Idea"
+        "title": "Big Idea",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "clientId": "2ad7df51-a0c6-4811-b55d-46b4111ab30b",
@@ -1011,7 +1072,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "position": 0
       },
       {
         "bookIds": [
@@ -1116,11 +1179,13 @@
         "id": 9,
         "imageId": null,
         "isCloudFile": true,
-        "title": "Front Matter"
+        "title": "Front Matter",
+        "audioClipId": null,
+        "position": 0
       }
     ]
   },
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2022.12.21",
   "appliedMigrations": [
     "*m2023_1_7",

@@ -1,6 +1,6 @@
 {
   "id": "pl34",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "type": "plotlines",
   "name": "Haiku",
   "description": "A template for writing traditional Japanese short form poetry in three lines and 17 syllables.",
@@ -8,7 +8,7 @@
   "categories": [
     "poetry"
   ],
-  "templateDataVersion": "2023.3.3",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2023.3.3",
   "appliedMigrations": [],
   "templateData": {
@@ -70,7 +70,10 @@
         "title": "Instructions",
         "position": 0,
         "expanded": null,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "5 Syllables",
@@ -79,7 +82,10 @@
         "bookId": 1,
         "fromTemplateId": null,
         "expanded": null,
-        "id": 3
+        "id": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -88,7 +94,10 @@
         "fromTemplateId": null,
         "title": "7 Syllables",
         "position": 2,
-        "color": "#ff7f32"
+        "color": "#ff7f32",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "expanded": null,
@@ -97,7 +106,10 @@
         "title": "5 Syllables",
         "id": 5,
         "fromTemplateId": null,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": null,
@@ -107,7 +119,9 @@
         "id": 1,
         "position": 4,
         "title": "Final Poem",
-        "characterId": null
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": null,
@@ -116,7 +130,10 @@
         "expanded": null,
         "position": 5,
         "id": 7,
-        "color": "Indigo"
+        "color": "Indigo",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -212,7 +229,9 @@
         "color": null,
         "tags": [],
         "fromTemplateId": null,
-        "id": 5
+        "id": 5,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -280,7 +299,9 @@
         "title": "Beginning",
         "color": null,
         "positionWithinLine": 0,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -349,7 +370,9 @@
         "characters": [],
         "title": "Middle",
         "beatId": 2,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -434,7 +457,9 @@
         ],
         "positionWithinLine": 0,
         "tags": [],
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -460,7 +485,9 @@
         "beatId": 2,
         "positionWithinLine": 0,
         "characters": [],
-        "title": "Poem Title"
+        "title": "Poem Title",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -502,7 +529,9 @@
         "templates": [],
         "color": null,
         "places": [],
-        "lineId": 7
+        "lineId": 7,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {

@@ -1,11 +1,13 @@
 {
   "id": "pl41",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "type": "plotlines",
   "name": "Story Genius",
   "description": "Part of the Story Genius method, the Story Genius Timeline includes crucial scenes and plot points designed to help you create a coherent story after you know your characters, and their backstory, and have established their misbeliefs and desires.",
   "link": "",
-  "categories": ["general"],
+  "categories": [
+    "general"
+  ],
   "mergeBias": "top",
   "templateData": {
     "beats": {
@@ -87,7 +89,8 @@
             "bookId": 1,
             "position": 1,
             "id": 3,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": []
           },
           "4": {
             "expanded": true,
@@ -97,7 +100,8 @@
             "title": "auto",
             "time": 0,
             "position": 2,
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "5": {
             "bookId": 1,
@@ -107,7 +111,8 @@
             "expanded": true,
             "id": 5,
             "fromTemplateId": null,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": []
           },
           "6": {
             "autoOutlineSort": true,
@@ -117,7 +122,8 @@
             "fromTemplateId": null,
             "bookId": 1,
             "id": 6,
-            "title": "auto"
+            "title": "auto",
+            "templates": []
           },
           "7": {
             "position": 5,
@@ -127,7 +133,8 @@
             "title": "auto",
             "bookId": 1,
             "expanded": true,
-            "id": 7
+            "id": 7,
+            "templates": []
           },
           "8": {
             "expanded": true,
@@ -137,7 +144,8 @@
             "autoOutlineSort": true,
             "id": 8,
             "title": "auto",
-            "position": 6
+            "position": 6,
+            "templates": []
           },
           "9": {
             "expanded": true,
@@ -147,7 +155,8 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "position": 7,
-            "id": 9
+            "id": 9,
+            "templates": []
           },
           "10": {
             "fromTemplateId": null,
@@ -156,7 +165,9 @@
             "time": 0,
             "bookId": 1,
             "autoOutlineSort": true,
-            "position": 8
+            "position": 8,
+            "templates": [],
+            "expanded": true
           },
           "11": {
             "expanded": true,
@@ -166,7 +177,8 @@
             "autoOutlineSort": true,
             "time": 0,
             "fromTemplateId": null,
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "12": {
             "time": 0,
@@ -175,7 +187,9 @@
             "fromTemplateId": null,
             "bookId": 1,
             "id": 12,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "19": {
             "position": 11,
@@ -185,7 +199,8 @@
             "autoOutlineSort": true,
             "bookId": 1,
             "time": 0,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": []
           },
           "20": {
             "bookId": 1,
@@ -195,7 +210,8 @@
             "expanded": true,
             "autoOutlineSort": true,
             "title": "auto",
-            "id": 20
+            "id": 20,
+            "templates": []
           },
           "28": {
             "expanded": true,
@@ -205,7 +221,8 @@
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "time": 0,
-            "id": 28
+            "id": 28,
+            "templates": []
           },
           "29": {
             "time": 0,
@@ -215,7 +232,8 @@
             "position": 15,
             "expanded": true,
             "fromTemplateId": null,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": []
           },
           "30": {
             "title": "auto",
@@ -224,7 +242,9 @@
             "autoOutlineSort": true,
             "bookId": 1,
             "fromTemplateId": null,
-            "id": 30
+            "id": 30,
+            "templates": [],
+            "expanded": true
           },
           "31": {
             "position": 16,
@@ -233,7 +253,9 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "time": 0,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -272,7 +294,8 @@
         "id": 1,
         "expanded": null,
         "title": "Pre Writing",
-        "color": "#6cace4"
+        "color": "#6cace4",
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -367,7 +390,9 @@
         "tags": [],
         "fromTemplateId": null,
         "The Alpha Point": "",
-        "And so?": ""
+        "And so?": "",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -408,7 +433,9 @@
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
         "color": null,
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -540,7 +567,9 @@
             "type": "paragraph"
           }
         ],
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 19,
@@ -688,7 +717,9 @@
         "positionWithinLine": 0,
         "color": null,
         "imageId": null,
-        "isCloudFile": true
+        "isCloudFile": true,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -745,7 +776,9 @@
         "characters": [],
         "positionInBeat": 0,
         "tags": [],
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
@@ -838,7 +871,9 @@
             ],
             "type": "paragraph"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -888,7 +923,9 @@
         "isCloudFile": true,
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
         "templates": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1041,7 +1078,9 @@
         "characters": [],
         "positionWithinLine": 0,
         "templates": [],
-        "title": "Potentially Challenging Plot Points"
+        "title": "Potentially Challenging Plot Points",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -1074,7 +1113,9 @@
           }
         ],
         "id": 37,
-        "fileId": "8nC5RvJgvaTbUCpnJAyX"
+        "fileId": "8nC5RvJgvaTbUCpnJAyX",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 38,
@@ -1173,7 +1214,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 31,
@@ -1248,7 +1291,9 @@
         "lineId": 1,
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
-        "id": 39
+        "id": 39,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -1292,7 +1337,9 @@
         ],
         "tags": [],
         "templates": [],
-        "isCloudFile": true
+        "isCloudFile": true,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -1342,7 +1389,9 @@
         "fromTemplateId": null,
         "characters": [],
         "bookId": null,
-        "id": 5
+        "id": 5,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
@@ -1374,7 +1423,9 @@
         "fromTemplateId": null,
         "places": [],
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 1,
@@ -1406,7 +1457,9 @@
         ],
         "title": "Why Does Your Character Want It? (Desire)",
         "id": 7,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -1438,7 +1491,9 @@
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
         "beatId": 9,
         "places": [],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1610,7 +1665,9 @@
         "positionInBeat": 0,
         "isCloudFile": true,
         "positionWithinLine": 0,
-        "beatId": 10
+        "beatId": 10,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -1632,11 +1689,27 @@
           },
           "level": 0,
           "borderStyle": "NONE"
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
-  "templateDataVersion": "2024.5.2",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2024.5.2",
   "appliedMigrations": []
 }

@@ -1,526 +1,571 @@
 {
-    "id": "pl42",
-    "version": "2026.3.19",
-    "type": "plotlines",
-    "name": "12 Levels of Intimacy",
-    "description": "",
-    "link": "",
-    "categories": [
-      "romance",
-      "general",
-      "foundational"
-    ],
-    "mergeBias": "top",
-    "templateData": {
-      "beats": {
-        "1": {
-          "children": {
-            "2": [],
-            "3": [],
-            "4": [],
-            "5": [],
-            "6": [],
-            "7": [],
-            "8": [],
-            "9": [],
-            "10": [],
-            "11": [],
-            "12": [],
-            "13": [],
-            "null": [
-              2,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9,
-              10,
-              11,
-              12,
-              13
-            ]
+  "id": "pl42",
+  "version": "2026.4.2",
+  "type": "plotlines",
+  "name": "12 Levels of Intimacy",
+  "description": "",
+  "link": "",
+  "categories": [
+    "romance",
+    "general",
+    "foundational"
+  ],
+  "mergeBias": "top",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "null": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        "heap": {
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null,
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
           },
-          "heap": {
-            "2": null,
-            "3": null,
-            "4": null,
-            "5": null,
-            "6": null,
-            "7": null,
-            "8": null,
-            "9": null,
-            "10": null,
-            "11": null,
-            "12": null,
-            "13": null
+          "3": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 3,
+            "position": 11,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
-          "index": {
-            "2": {
-              "id": 2,
-              "bookId": 1,
-              "position": 0,
-              "title": "auto",
-              "time": 0,
-              "templates": [],
-              "autoOutlineSort": true,
-              "fromTemplateId": null,
-              "expanded": true
-            },
-            "3": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 3,
-              "position": 11,
-              "time": 0,
-              "title": "auto"
-            },
-            "4": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 4,
-              "position": 10,
-              "time": 0,
-              "title": "auto"
-            },
-            "5": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 5,
-              "position": 9,
-              "time": 0,
-              "title": "auto"
-            },
-            "6": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 6,
-              "position": 8,
-              "time": 0,
-              "title": "auto"
-            },
-            "7": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 7,
-              "position": 7,
-              "time": 0,
-              "title": "auto"
-            },
-            "8": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 8,
-              "position": 6,
-              "time": 0,
-              "title": "auto"
-            },
-            "9": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 9,
-              "position": 5,
-              "time": 0,
-              "title": "auto"
-            },
-            "10": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 10,
-              "position": 4,
-              "time": 0,
-              "title": "auto"
-            },
-            "11": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 11,
-              "position": 3,
-              "time": 0,
-              "title": "auto"
-            },
-            "12": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 12,
-              "position": 2,
-              "time": 0,
-              "title": "auto"
-            },
-            "13": {
-              "autoOutlineSort": true,
-              "bookId": 1,
-              "fromTemplateId": null,
-              "id": 13,
-              "position": 1,
-              "time": 0,
-              "title": "auto"
-            }
-          }
-        }
-      },
-      "lines": [
-        {
-          "id": 1,
-          "bookId": 1,
-          "color": "MediumVioletRed",
-          "title": "Intimacy",
-          "position": 0,
-          "characterId": null,
-          "expanded": null,
-          "fromTemplateId": null,
-          "isPinned": false
-        }
-      ],
-      "cards": [
-        {
-          "id": 12,
-          "lineId": 1,
-          "beatId": 3,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Genitals to Genitals",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The deepest level of intimate closeness that can be reached is when two people touch genitals to genitals. However, note that there are many ways to touch genitals without intercourse, which starts a whole other level of intimacy."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 11,
-          "lineId": 1,
-          "beatId": 4,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Hand to Genitals",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "With permission from the lips (mouth), the mind (head), and the soul (heart), it paves the route to touch another person's intimate areas."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 10,
-          "lineId": 1,
-          "beatId": 5,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Mouth to Breast",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Laying your lips against the chest or breast of someone is a way to get close to their heart. It could be seen as more than just a physical gesture, but an intimate connection to the core of their feelings."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 9,
-          "lineId": 1,
-          "beatId": 6,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Hand to Body",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "As soon as consent is given for a kiss or to hold someone's head, things can quickly escalate. Putting a hand on someone else's body is arriving at \"second base.\" Note that it has taken nine steps to get this far on these levels of intimacy. We are getting closer and closer to the full extent of physical intimacy."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 8,
-          "lineId": 1,
-          "beatId": 7,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Hand to Head",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "When we feel threatened or vulnerable, we protect our face. Allowing someone else to touch our face with their hands is a sign of a trusting relationship and closeness. For instance; You gently run your fingers through their locks. They tenderly cup your face in their hands. You softly brush the side of their face."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 7,
-          "lineId": 1,
-          "beatId": 8,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Mouth to Mouth",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The first kiss of physically bonding is an extension of the emotional bond the lovers have taken time to establish. Notice focus their attention back on the face before proceeding lower; because consent and respect are essential in any relationship. This is why it's important to fall in love with somebody based on who they are, not just their body or physicality. But really it's because consent is sexy. "
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 6,
-          "lineId": 1,
-          "beatId": 9,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Arm to Waist",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The lovers put their arms around each other’s waist. This move is beyond possession. It's now about connection. The intensity between them has grown stronger as they close in on the final act of intimate passion."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 5,
-          "lineId": 1,
-          "beatId": 10,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Arm to Shoulder",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "One partner wraps their arm around the other's shoulders. Think of when a guy yawns and stretches, putting his arm around his date in the movie theater - this is an affirmation of ownership. It serves to announce the status of the relationship."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 4,
-          "lineId": 1,
-          "beatId": 11,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Hand to Hand",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The practice of joining hands together between two people falling in love is a lost art in reality. When it's on the page, it speaks volumes without the need for words. In romance, when lovers first touch palms, authors often describe electric sensations that can be felt between them, intensifying their bond even more when they finally clasp hands."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 3,
-          "lineId": 1,
-          "beatId": 12,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Verbal Contact",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "When the two lovers engage in dialogue, this initiates the emotional connection between them as they become more familiar with one another. This could be verbal, written or even telepathic in a paranormal romance setting."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 2,
-          "lineId": 1,
-          "beatId": 13,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Eye to Eye",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Interest can be expressed in the first glance when two potential lovers' eyes meet. That single look can express a connection without any words being exchanged"
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        },
-        {
-          "id": 1,
-          "lineId": 1,
-          "beatId": 2,
-          "bookId": null,
-          "positionWithinLine": 0,
-          "positionInBeat": 0,
-          "title": "Awareness of Presence",
-          "description": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The moment two people meet, they become aware of one another's presence. They check out the other person's physical characteristics to see if they fit their sexual preference; gender, height, color of hair, eyes, skin because some may like pale complexions, sun-kissed tans or a deep brown hue."
-                }
-              ]
-            }
-          ],
-          "tags": [],
-          "characters": [],
-          "places": [],
-          "templates": [],
-          "imageId": null,
-          "fromTemplateId": null,
-          "color": null
-        }
-      ],
-      "hierarchyLevels": {
-        "1": {
-          "0": {
-            "name": "Level",
-            "level": 0,
-            "autoNumber": true,
-            "textSize": 24,
-            "borderStyle": "NONE",
-            "backgroundColor": "Pink",
-            "textColor": "Maroon",
-            "borderColor": "#6cace4",
-            "dark": {
-              "textColor": "Maroon",
-              "borderColor": "#6cace4"
-            },
-            "light": {
-              "borderColor": "#6cace4",
-              "textColor": "#0b1117"
-            }
+          "4": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 4,
+            "position": 10,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 9,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "6": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 6,
+            "position": 8,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 7,
+            "position": 7,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 8,
+            "position": 6,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "9": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 9,
+            "position": 5,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "10": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 10,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "11": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 11,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "12": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 12,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
+          },
+          "13": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 13,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           }
         }
       }
     },
-    "templateDataVersion": "2024.10.11",
-    "initialVersion": "2024.10.11",
-    "appliedMigrations": []
-  }
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "MediumVioletRed",
+        "title": "Intimacy",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
+      }
+    ],
+    "cards": [
+      {
+        "id": 12,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Genitals to Genitals",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The deepest level of intimate closeness that can be reached is when two people touch genitals to genitals. However, note that there are many ways to touch genitals without intercourse, which starts a whole other level of intimacy."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 11,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Hand to Genitals",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "With permission from the lips (mouth), the mind (head), and the soul (heart), it paves the route to touch another person's intimate areas."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 10,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Mouth to Breast",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Laying your lips against the chest or breast of someone is a way to get close to their heart. It could be seen as more than just a physical gesture, but an intimate connection to the core of their feelings."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 9,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Hand to Body",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As soon as consent is given for a kiss or to hold someone's head, things can quickly escalate. Putting a hand on someone else's body is arriving at \"second base.\" Note that it has taken nine steps to get this far on these levels of intimacy. We are getting closer and closer to the full extent of physical intimacy."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 8,
+        "lineId": 1,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Hand to Head",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When we feel threatened or vulnerable, we protect our face. Allowing someone else to touch our face with their hands is a sign of a trusting relationship and closeness. For instance; You gently run your fingers through their locks. They tenderly cup your face in their hands. You softly brush the side of their face."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Mouth to Mouth",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The first kiss of physically bonding is an extension of the emotional bond the lovers have taken time to establish. Notice focus their attention back on the face before proceeding lower; because consent and respect are essential in any relationship. This is why it's important to fall in love with somebody based on who they are, not just their body or physicality. But really it's because consent is sexy. "
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "beatId": 9,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Arm to Waist",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The lovers put their arms around each other’s waist. This move is beyond possession. It's now about connection. The intensity between them has grown stronger as they close in on the final act of intimate passion."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Arm to Shoulder",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "One partner wraps their arm around the other's shoulders. Think of when a guy yawns and stretches, putting his arm around his date in the movie theater - this is an affirmation of ownership. It serves to announce the status of the relationship."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "beatId": 11,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Hand to Hand",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The practice of joining hands together between two people falling in love is a lost art in reality. When it's on the page, it speaks volumes without the need for words. In romance, when lovers first touch palms, authors often describe electric sensations that can be felt between them, intensifying their bond even more when they finally clasp hands."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "beatId": 12,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Verbal Contact",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When the two lovers engage in dialogue, this initiates the emotional connection between them as they become more familiar with one another. This could be verbal, written or even telepathic in a paranormal romance setting."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "beatId": 13,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Eye to Eye",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Interest can be expressed in the first glance when two potential lovers' eyes meet. That single look can express a connection without any words being exchanged"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Awareness of Presence",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The moment two people meet, they become aware of one another's presence. They check out the other person's physical characteristics to see if they fit their sexual preference; gender, height, color of hair, eyes, skin because some may like pale complexions, sun-kissed tans or a deep brown hue."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "audioClipId": null,
+        "notes": []
+      }
+    ],
+    "hierarchyLevels": {
+      "0": {
+        "name": "Level",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "Pink",
+        "textColor": "Maroon",
+        "borderColor": "#6cace4",
+        "dark": {
+          "textColor": "Maroon",
+          "borderColor": "#6cace4"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
+        }
+      }
+    }
+  },
+  "templateDataVersion": "2026.4.2",
+  "initialVersion": "2024.10.11",
+  "appliedMigrations": []
+}

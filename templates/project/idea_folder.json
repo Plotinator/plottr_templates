@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Idea Folder",
   "description": "Troy Lambert's genius idea to keep your writing goals and your whole writing process organized within Plottr",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "",
   "templateData": {
     "series": {
@@ -92,7 +92,9 @@
             "time": 0,
             "fromTemplateId": null,
             "bookId": 1,
-            "id": 3
+            "id": 3,
+            "templates": [],
+            "expanded": true
           },
           "4": {
             "position": 2,
@@ -101,7 +103,9 @@
             "time": 0,
             "autoOutlineSort": true,
             "fromTemplateId": null,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "time": 0,
@@ -110,7 +114,9 @@
             "bookId": 1,
             "title": "auto",
             "id": 5,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "id": 6,
@@ -119,7 +125,9 @@
             "time": 0,
             "fromTemplateId": null,
             "autoOutlineSort": true,
-            "position": 4
+            "position": 4,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -154,7 +162,8 @@
             "expanded": true,
             "id": 8,
             "bookId": 2,
-            "position": 0
+            "position": 0,
+            "templates": []
           },
           "21": {
             "bookId": 2,
@@ -163,7 +172,9 @@
             "position": 1,
             "autoOutlineSort": true,
             "id": 21,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "22": {
             "autoOutlineSort": true,
@@ -172,7 +183,9 @@
             "title": "auto",
             "position": 2,
             "id": 22,
-            "bookId": 2
+            "bookId": 2,
+            "templates": [],
+            "expanded": true
           },
           "77": {
             "autoOutlineSort": true,
@@ -182,7 +195,8 @@
             "position": 3,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "78": {
             "autoOutlineSort": true,
@@ -192,7 +206,8 @@
             "position": 4,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           }
         }
       },
@@ -248,7 +263,8 @@
             "fromTemplateId": null,
             "time": 0,
             "expanded": true,
-            "position": 0
+            "position": 0,
+            "templates": []
           },
           "10": {
             "time": 0,
@@ -257,7 +273,9 @@
             "bookId": 3,
             "fromTemplateId": null,
             "position": 1,
-            "title": "February"
+            "title": "February",
+            "templates": [],
+            "expanded": true
           },
           "11": {
             "title": "March",
@@ -266,7 +284,9 @@
             "autoOutlineSort": true,
             "time": 0,
             "fromTemplateId": null,
-            "bookId": 3
+            "bookId": 3,
+            "templates": [],
+            "expanded": true
           },
           "12": {
             "title": "April",
@@ -275,7 +295,9 @@
             "position": 3,
             "fromTemplateId": null,
             "time": 0,
-            "bookId": 3
+            "bookId": 3,
+            "templates": [],
+            "expanded": true
           },
           "13": {
             "autoOutlineSort": true,
@@ -284,7 +306,9 @@
             "time": 0,
             "position": 4,
             "bookId": 3,
-            "id": 13
+            "id": 13,
+            "templates": [],
+            "expanded": true
           },
           "14": {
             "id": 14,
@@ -293,7 +317,9 @@
             "title": "June",
             "autoOutlineSort": true,
             "time": 0,
-            "position": 5
+            "position": 5,
+            "templates": [],
+            "expanded": true
           },
           "15": {
             "id": 15,
@@ -302,7 +328,9 @@
             "autoOutlineSort": true,
             "title": "July",
             "position": 6,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "16": {
             "time": 0,
@@ -311,7 +339,9 @@
             "position": 11,
             "autoOutlineSort": true,
             "id": 16,
-            "bookId": 3
+            "bookId": 3,
+            "templates": [],
+            "expanded": true
           },
           "17": {
             "bookId": 3,
@@ -320,7 +350,9 @@
             "autoOutlineSort": true,
             "id": 17,
             "position": 9,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "18": {
             "autoOutlineSort": true,
@@ -329,7 +361,9 @@
             "id": 18,
             "title": "September",
             "position": 8,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "19": {
             "position": 7,
@@ -338,7 +372,9 @@
             "title": "August",
             "id": 19,
             "time": 0,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "20": {
             "title": "November",
@@ -347,7 +383,9 @@
             "fromTemplateId": null,
             "time": 0,
             "id": 20,
-            "position": 10
+            "position": 10,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -385,7 +423,10 @@
         "color": "DarkTurquoise",
         "position": 5,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 41,
@@ -394,7 +435,10 @@
         "color": "Brown",
         "position": 5,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 40,
@@ -403,7 +447,10 @@
         "color": "#ffc72c",
         "position": 4,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 21,
@@ -412,7 +459,10 @@
         "color": "#e5554f",
         "position": 2,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 20,
@@ -421,7 +471,10 @@
         "color": "#78be20",
         "position": 1,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "Publishing",
@@ -430,7 +483,10 @@
         "color": "#6cace4",
         "fromTemplateId": null,
         "id": 11,
-        "bookId": 3
+        "bookId": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "color": "#e5554f",
@@ -439,7 +495,10 @@
         "title": "Cover/Other",
         "bookId": 3,
         "fromTemplateId": null,
-        "expanded": null
+        "expanded": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 9,
@@ -448,7 +507,10 @@
         "title": "Editing Tasks",
         "position": 2,
         "fromTemplateId": null,
-        "bookId": 3
+        "bookId": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": null,
@@ -457,7 +519,10 @@
         "bookId": 3,
         "color": "#ff7f32",
         "title": "Writing",
-        "expanded": null
+        "expanded": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 7,
@@ -467,7 +532,9 @@
         "color": "#ffc72c",
         "title": "Word Count Goals",
         "fromTemplateId": null,
-        "expanded": null
+        "expanded": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 6,
@@ -477,7 +544,9 @@
         "position": 0,
         "title": "Main Pen Name/Genre",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "characterId": null,
@@ -487,7 +556,9 @@
         "color": "#6cace4",
         "id": 2,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 1,
@@ -497,7 +568,9 @@
         "title": "Series 1",
         "characterId": null,
         "color": "#ff7f32",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -506,7 +579,10 @@
         "position": 1,
         "expanded": null,
         "title": "Series 2",
-        "id": 3
+        "id": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "position": 2,
@@ -515,7 +591,10 @@
         "color": "#6cace4",
         "bookId": 1,
         "fromTemplateId": null,
-        "id": 5
+        "id": 5,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -524,12 +603,15 @@
         "fromTemplateId": null,
         "position": 3,
         "title": "Pen Name 2",
-        "color": "#e5554f"
+        "color": "#e5554f",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ]
   },
   "initialVersion": "2021.12.28",
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "appliedMigrations": [
     "m2022_5_17_1",
     "m2022_5_17",

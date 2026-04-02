@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Action Adventure Plot",
   "description": "An outline formula for writing an action and adventure story",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "http://shangchimokf.blogspot.com/2017/04/the-quintessential-action-adventure.html",
   "categories": [
     "action"
@@ -127,7 +127,11 @@
         "title": "Hero's Circumstance",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 17,
@@ -230,7 +234,11 @@
         "title": "Receives a Mission",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 16,
@@ -341,7 +349,11 @@
         "title": "Begins Toward Goal",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 15,
@@ -444,7 +456,11 @@
         "title": "Travels to Exotic Location",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 14,
@@ -563,7 +579,11 @@
         "title": "Encounter the Damsel",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 13,
@@ -666,7 +686,11 @@
         "title": "Encounters Henchman",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 12,
@@ -769,7 +793,11 @@
         "title": "Chase",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 11,
@@ -880,7 +908,11 @@
         "title": "Major Complications",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -983,7 +1015,11 @@
         "title": "Assistance",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -1086,7 +1122,11 @@
         "title": "Infiltrate the Fortress",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 8,
@@ -1181,7 +1221,11 @@
         "title": "Captured",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -1284,7 +1328,11 @@
         "title": "Narrow Escape",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -1379,7 +1427,11 @@
         "title": "Attain the Goal",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -1474,7 +1526,11 @@
         "title": "Battle the Henchman",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -1577,7 +1633,11 @@
         "title": "Battle the Villain",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -1680,7 +1740,11 @@
         "title": "Plot Twist",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -1783,7 +1847,11 @@
         "title": "Resolution",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 1,
@@ -1894,7 +1962,11 @@
         "title": "Conclusion",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -2194,7 +2266,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -2218,7 +2292,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

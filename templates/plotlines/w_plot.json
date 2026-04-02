@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "W Plot",
   "description": "A five point story structure for novelists and screenwriters",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general",
     "screenplay"
@@ -135,7 +135,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 4,
@@ -229,7 +231,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 3,
@@ -323,7 +327,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -417,7 +423,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -527,7 +535,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -572,7 +582,9 @@
             "id": 3,
             "position": 1,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "4": {
             "autoOutlineSort": true,
@@ -581,7 +593,9 @@
             "id": 4,
             "position": 2,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "autoOutlineSort": true,
@@ -590,7 +604,9 @@
             "id": 5,
             "position": 3,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "autoOutlineSort": true,
@@ -599,7 +615,9 @@
             "id": 6,
             "position": 4,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -637,7 +655,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -661,7 +681,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

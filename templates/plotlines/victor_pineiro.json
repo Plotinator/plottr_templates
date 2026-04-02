@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Piñeiro Screenplay Method",
   "description": "A formula for writing films based on ideas by Victor Piñeiro",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "screenplay"
   ],
@@ -119,7 +119,11 @@
         "title": "A Day In the Life",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 13,
@@ -222,7 +226,11 @@
         "title": "The Spark",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 12,
@@ -317,7 +325,11 @@
         "title": "Do I Stay or Do I Go?",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -412,7 +424,11 @@
         "title": "Into the New World",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -515,7 +531,11 @@
         "title": "What is Love?",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 8,
@@ -618,7 +638,11 @@
         "title": "Melt Their Faces Off",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -713,7 +737,11 @@
         "title": "Crossing the Rubicon",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -816,7 +844,11 @@
         "title": "False Victory",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -919,7 +951,11 @@
         "title": "Long Journey Into Night",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -1014,7 +1050,11 @@
         "title": "Rock Bottom",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -1117,7 +1157,11 @@
         "title": "From the Ashes",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 1,
@@ -1244,7 +1288,11 @@
         "title": "Time to Kick Ass",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1460,7 +1508,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1484,7 +1534,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

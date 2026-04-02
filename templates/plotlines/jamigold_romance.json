@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Romance Beat Sheet",
   "description": "A beat sheet for romance novels developed by Jami Gold",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "romance"
   ],
@@ -110,7 +110,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 13,
@@ -212,7 +214,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 12,
@@ -306,7 +310,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -406,7 +412,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Climax"
+        "title": "Climax",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -498,7 +510,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Pinch Point 2"
+        "title": "Pinch Point 2",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -590,7 +608,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Midpoint"
+        "title": "Midpoint",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -682,7 +706,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Pinch Point 1"
+        "title": "Pinch Point 1",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -782,7 +812,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Inciting Incident"
+        "title": "Inciting Incident",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 11,
@@ -882,7 +918,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Opening Image / Hook"
+        "title": "Opening Image / Hook",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1056,7 +1098,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1080,7 +1124,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Take Off Your Pants",
   "description": "An outline formula for faster, better writing based on the book by Libbie Hawker",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
@@ -156,7 +156,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 13,
@@ -258,7 +260,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 12,
@@ -360,7 +364,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 11,
@@ -462,7 +468,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 10,
@@ -556,7 +564,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 9,
@@ -658,7 +668,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 8,
@@ -768,7 +780,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 7,
@@ -870,7 +884,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 6,
@@ -964,7 +980,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 5,
@@ -1058,7 +1076,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 4,
@@ -1152,7 +1172,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 3,
@@ -1262,7 +1284,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -1364,7 +1388,11 @@
         "tags": [],
         "templates": [],
         "title": "Ally Assistance",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -1469,7 +1497,11 @@
         "tags": [],
         "templates": [],
         "title": "Repeat the Cycle",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1713,7 +1745,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1737,7 +1771,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.23",
   "appliedMigrations": [
     "m2021_4_13",

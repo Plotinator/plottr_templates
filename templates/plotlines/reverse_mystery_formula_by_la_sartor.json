@@ -1,6 +1,6 @@
 {
   "name": "Reverse Mystery Formula by LA Sartor",
-  "version": "2026.3.20",
+  "version": "2026.4.2",
   "id": "pl43",
   "type": "plotlines",
   "link": "",
@@ -19,7 +19,7 @@
     "*m2025_2_19",
     "m2025_11_27"
   ],
-  "templateDataVersion": "2025.12.4",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.5.19",
   "templateData": {
     "cards": [
@@ -48,7 +48,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 52,
@@ -75,7 +77,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 51,
@@ -102,7 +106,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 50,
@@ -145,7 +151,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 49,
@@ -180,7 +188,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 48,
@@ -299,7 +309,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 47,
@@ -388,7 +400,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 46,
@@ -464,7 +478,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 45,
@@ -573,7 +589,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 44,
@@ -649,7 +667,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 43,
@@ -742,7 +762,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 42,
@@ -826,7 +848,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 41,
@@ -934,7 +958,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 40,
@@ -1016,7 +1042,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 39,
@@ -1122,7 +1150,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 38,
@@ -1198,7 +1228,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 37,
@@ -1224,7 +1257,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 36,
@@ -1324,7 +1360,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 35,
@@ -1379,7 +1418,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 34,
@@ -1578,7 +1620,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 33,
@@ -1673,7 +1718,10 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 32,
@@ -1745,7 +1793,10 @@
             ]
           }
         ],
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 31,
@@ -1995,7 +2046,10 @@
             ]
           }
         ],
-        "audioClip": null
+        "audioClip": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 24,
@@ -2022,7 +2076,11 @@
         "imageId": null,
         "fromTemplateId": null,
         "positionWithinLine": 0,
-        "audioClip": null
+        "audioClip": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 21,
@@ -2103,7 +2161,11 @@
             ]
           }
         ],
-        "audioClip": null
+        "audioClip": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 20,
@@ -2130,7 +2192,11 @@
         "imageId": null,
         "fromTemplateId": null,
         "positionWithinLine": 0,
-        "audioClip": null
+        "audioClip": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -2247,7 +2313,8 @@
             "templates": [],
             "autoOutlineSort": true,
             "bookId": "series",
-            "expanded": true
+            "expanded": true,
+            "fromTemplateId": null
           }
         }
       }
@@ -2262,7 +2329,8 @@
         "characterId": null,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -2273,7 +2341,8 @@
         "title": "Main Plotting Points",
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 9,
@@ -2283,7 +2352,9 @@
         "position": 2,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "characterId": null,
+        "pinnedPosition": null
       },
       {
         "id": 16,
@@ -2294,7 +2365,8 @@
         "characterId": null,
         "expanded": false,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 18,
@@ -2305,7 +2377,8 @@
         "characterId": null,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 4,
@@ -2315,7 +2388,9 @@
         "position": 5,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "characterId": null,
+        "pinnedPosition": null
       },
       {
         "id": 5,
@@ -2325,7 +2400,9 @@
         "position": 6,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "characterId": null,
+        "pinnedPosition": null
       },
       {
         "id": 7,
@@ -2335,7 +2412,9 @@
         "position": 7,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "characterId": null,
+        "pinnedPosition": null
       },
       {
         "id": 10,
@@ -2345,7 +2424,9 @@
         "position": 8,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "characterId": null,
+        "pinnedPosition": null
       },
       {
         "id": 17,
@@ -2356,7 +2437,8 @@
         "characterId": null,
         "expanded": null,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -2378,6 +2460,22 @@
             "borderColor": "#6cace4",
             "textColor": "#0b1117"
           }
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       },
       "series": {
@@ -2398,6 +2496,22 @@
             "borderColor": "#6cace4",
             "textColor": "#0b1117"
           }
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }

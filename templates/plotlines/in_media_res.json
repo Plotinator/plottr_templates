@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "In Media Res",
   "description": "A classic plot structure that begins in the middle of the story",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
@@ -125,7 +125,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 5,
@@ -251,7 +253,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 4,
@@ -353,7 +357,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 3,
@@ -463,7 +469,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -581,7 +589,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -708,7 +718,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -756,7 +768,9 @@
             "id": 3,
             "position": 1,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "4": {
             "autoOutlineSort": true,
@@ -765,7 +779,9 @@
             "id": 4,
             "position": 2,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "autoOutlineSort": true,
@@ -774,7 +790,9 @@
             "id": 5,
             "position": 3,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "autoOutlineSort": true,
@@ -783,7 +801,9 @@
             "id": 6,
             "position": 4,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "7": {
             "autoOutlineSort": true,
@@ -792,7 +812,9 @@
             "id": 7,
             "position": 5,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -830,7 +852,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -854,7 +878,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.11",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.8.11",
   "appliedMigrations": []
 }

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Cozy Mystery Beat Sheet",
   "description": "A beat sheet for cozy mysteries by Sara Rosett",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "mystery"
   ],
@@ -117,7 +117,9 @@
         "templates": [],
         "imageId": null,
         "fromTemplateId": null,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 20,
@@ -242,7 +244,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 19,
@@ -385,7 +390,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 18,
@@ -486,7 +494,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 17,
@@ -571,7 +582,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 16,
@@ -656,7 +670,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 15,
@@ -757,7 +774,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 14,
@@ -842,7 +862,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 13,
@@ -951,7 +974,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 12,
@@ -1052,7 +1078,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 11,
@@ -1169,7 +1198,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 10,
@@ -1262,7 +1294,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 9,
@@ -1384,7 +1419,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 8,
@@ -1469,7 +1507,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 7,
@@ -1608,7 +1649,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 6,
@@ -1693,7 +1737,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 5,
@@ -1802,7 +1849,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 4,
@@ -1924,7 +1974,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 3,
@@ -2093,7 +2146,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -2259,7 +2315,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -2414,7 +2473,10 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -2494,7 +2556,8 @@
             "position": 0,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "3": {
             "autoOutlineSort": true,
@@ -2504,7 +2567,8 @@
             "position": 1,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "4": {
             "autoOutlineSort": true,
@@ -2514,7 +2578,8 @@
             "position": 2,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "5": {
             "autoOutlineSort": true,
@@ -2524,7 +2589,8 @@
             "position": 3,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "6": {
             "autoOutlineSort": true,
@@ -2534,7 +2600,8 @@
             "position": 4,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "7": {
             "autoOutlineSort": true,
@@ -2544,7 +2611,8 @@
             "position": 5,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "8": {
             "autoOutlineSort": true,
@@ -2554,7 +2622,8 @@
             "position": 6,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "9": {
             "autoOutlineSort": true,
@@ -2564,7 +2633,8 @@
             "position": 7,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "10": {
             "autoOutlineSort": true,
@@ -2574,7 +2644,8 @@
             "position": 8,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "11": {
             "autoOutlineSort": true,
@@ -2584,7 +2655,8 @@
             "position": 9,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "12": {
             "autoOutlineSort": true,
@@ -2594,7 +2666,8 @@
             "position": 10,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "13": {
             "autoOutlineSort": true,
@@ -2604,7 +2677,8 @@
             "position": 11,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "14": {
             "autoOutlineSort": true,
@@ -2614,7 +2688,8 @@
             "position": 12,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "15": {
             "autoOutlineSort": true,
@@ -2624,7 +2699,8 @@
             "position": 13,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "16": {
             "autoOutlineSort": true,
@@ -2634,7 +2710,8 @@
             "position": 14,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "17": {
             "autoOutlineSort": true,
@@ -2644,7 +2721,8 @@
             "position": 15,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "18": {
             "autoOutlineSort": true,
@@ -2654,7 +2732,8 @@
             "position": 16,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "19": {
             "autoOutlineSort": true,
@@ -2664,7 +2743,8 @@
             "position": 17,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "20": {
             "autoOutlineSort": true,
@@ -2674,7 +2754,8 @@
             "position": 18,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "21": {
             "autoOutlineSort": true,
@@ -2684,7 +2765,8 @@
             "position": 19,
             "time": 0,
             "title": "auto",
-            "expanded": true
+            "expanded": true,
+            "templates": []
           }
         }
       },
@@ -2721,7 +2803,10 @@
         "color": "#ff7f32",
         "position": 3,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 4,
@@ -2730,7 +2815,10 @@
         "color": "#e5554f",
         "position": 2,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 3,
@@ -2739,7 +2827,10 @@
         "color": "#78be20",
         "position": 1,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 1,
@@ -2749,7 +2840,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -2773,7 +2866,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.23",
   "appliedMigrations": [
     "m2021_4_13",

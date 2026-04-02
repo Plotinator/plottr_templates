@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Story Spine",
   "description": "A simple but powerful outlining technique that starts with \"Once upon a time...\"",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general",
     "screenwriting"
@@ -136,7 +136,9 @@
         "title": "And Ever Since Then...",
         "tags": [],
         "color": null,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 8,
@@ -264,7 +266,9 @@
         "fromTemplateId": null,
         "bookId": null,
         "characters": [],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -392,7 +396,9 @@
             ]
           }
         ],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -520,7 +526,9 @@
         "templates": [],
         "bookId": null,
         "fromTemplateId": null,
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -640,7 +648,9 @@
         "tags": [],
         "characters": [],
         "lineId": 3,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -760,7 +770,9 @@
         "title": "But One Day...",
         "templates": [],
         "characters": [],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 1,
@@ -880,7 +892,9 @@
         "fromTemplateId": null,
         "positionWithinLine": 0,
         "characters": [],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -1000,7 +1014,9 @@
         "characters": [],
         "positionInBeat": 0,
         "beatId": 2,
-        "title": "Once Upon a Time..."
+        "title": "Once Upon a Time...",
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1024,7 +1040,9 @@
             "id": 3,
             "position": 1,
             "fromTemplateId": null,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "4": {
             "bookId": 1,
@@ -1033,7 +1051,9 @@
             "time": 0,
             "title": "auto",
             "id": 4,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "fromTemplateId": null,
@@ -1042,7 +1062,9 @@
             "id": 5,
             "position": 3,
             "autoOutlineSort": true,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "title": "auto",
@@ -1051,7 +1073,9 @@
             "time": 0,
             "fromTemplateId": null,
             "position": 4,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "7": {
             "fromTemplateId": null,
@@ -1060,7 +1084,9 @@
             "bookId": 1,
             "position": 5,
             "title": "auto",
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "8": {
             "time": 0,
@@ -1069,7 +1095,9 @@
             "title": "auto",
             "bookId": 1,
             "position": 6,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "9": {
             "autoOutlineSort": true,
@@ -1078,7 +1106,9 @@
             "id": 9,
             "fromTemplateId": null,
             "time": 0,
-            "position": 7
+            "position": 7,
+            "templates": [],
+            "expanded": true
           }
         },
         "heap": {
@@ -1145,7 +1175,10 @@
         "id": 4,
         "color": "#e5554f",
         "fromTemplateId": null,
-        "title": "End"
+        "title": "End",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "color": "#78be20",
@@ -1154,7 +1187,10 @@
         "id": 3,
         "title": "Middle",
         "fromTemplateId": null,
-        "expanded": null
+        "expanded": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "color": "#6cace4",
@@ -1164,7 +1200,9 @@
         "characterId": null,
         "id": 1,
         "bookId": 1,
-        "position": 0
+        "position": 0,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1188,7 +1226,7 @@
       }
     }
   },
-  "templateDataVersion": "2022.2.8",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }

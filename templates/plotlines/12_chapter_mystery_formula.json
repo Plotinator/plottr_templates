@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "12 Step Mystery Formula",
   "description": "An outline formula for writing a traditional mystery",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "mystery"
   ],
@@ -186,7 +186,11 @@
         "title": "Disclose the Mystery",
         "positionWithinLine": 1,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -297,7 +301,11 @@
         "title": "Subplot",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -408,7 +416,11 @@
         "title": "Set the Sleuth on the Path",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 12,
@@ -519,7 +531,11 @@
         "title": "Facts About Suspects",
         "positionWithinLine": 1,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 13,
@@ -622,7 +638,11 @@
         "title": "Broaden the Investigation",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 14,
@@ -725,7 +745,11 @@
         "title": "Sleuth's Background",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 16,
@@ -828,7 +852,11 @@
         "title": "Reveal Hidden Motives",
         "positionWithinLine": 1,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -955,7 +983,11 @@
         "title": "Reveal Results",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -1066,7 +1098,11 @@
         "title": "Review the Case",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -1169,7 +1205,11 @@
         "title": "Weigh the Evidence",
         "positionWithinLine": 1,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -1264,7 +1304,11 @@
         "title": "Subplot Resolution",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 1,
@@ -1397,7 +1441,11 @@
         "title": "Climax",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1613,7 +1661,9 @@
         "position": 1,
         "title": "12 Step Mystery Formula Subplot",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -1623,7 +1673,9 @@
         "position": 0,
         "title": "12 Step Mystery Formula",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1648,7 +1700,7 @@
     }
   },
   "initialVersion": "2021.2.19",
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "appliedMigrations": [
     "m2021_4_13",
     "m2021_6_9",

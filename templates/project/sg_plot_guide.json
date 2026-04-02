@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Story Genius Plot Guide",
   "description": "This plot guide is a companion piece to the Story Genius method, and provides you with information on each step you'll take through the process, and where each element you'll create belongs in Plottr.",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "",
   "templateData": {
     "books": {
@@ -74,7 +74,8 @@
             "autoOutlineSort": true,
             "expanded": true,
             "fromTemplateId": null,
-            "id": 13
+            "id": 13,
+            "templates": []
           },
           "14": {
             "title": "auto",
@@ -84,7 +85,8 @@
             "position": 4,
             "bookId": 1,
             "expanded": true,
-            "time": 0
+            "time": 0,
+            "templates": []
           },
           "15": {
             "bookId": 1,
@@ -93,7 +95,9 @@
             "position": 3,
             "title": "auto",
             "autoOutlineSort": true,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "16": {
             "autoOutlineSort": true,
@@ -102,7 +106,9 @@
             "position": 2,
             "bookId": 1,
             "title": "auto",
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "17": {
             "id": 17,
@@ -111,7 +117,9 @@
             "time": 0,
             "fromTemplateId": null,
             "autoOutlineSort": true,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "18": {
             "bookId": 1,
@@ -121,7 +129,8 @@
             "time": 0,
             "title": "auto",
             "fromTemplateId": null,
-            "position": 6
+            "position": 6,
+            "templates": []
           },
           "21": {
             "time": 0,
@@ -131,7 +140,8 @@
             "title": "auto",
             "bookId": 1,
             "fromTemplateId": null,
-            "position": 7
+            "position": 7,
+            "templates": []
           },
           "22": {
             "fromTemplateId": null,
@@ -141,7 +151,8 @@
             "id": 22,
             "position": 8,
             "bookId": 1,
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "23": {
             "time": 0,
@@ -151,7 +162,8 @@
             "fromTemplateId": null,
             "expanded": true,
             "autoOutlineSort": true,
-            "position": 9
+            "position": 9,
+            "templates": []
           },
           "25": {
             "autoOutlineSort": true,
@@ -160,7 +172,9 @@
             "title": "auto",
             "position": 11,
             "id": 25,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "26": {
             "autoOutlineSort": true,
@@ -169,7 +183,9 @@
             "time": 0,
             "title": "auto",
             "bookId": 1,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "27": {
             "position": 5,
@@ -178,7 +194,9 @@
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "title": "auto",
-            "id": 27
+            "id": 27,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -338,7 +356,9 @@
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
         "imageId": null,
         "templates": [],
-        "id": 11
+        "id": 11,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 3,
@@ -590,7 +610,9 @@
             ]
           }
         ],
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileId": "8nC5RvJgvaTbUCpnJAyX",
@@ -730,7 +752,9 @@
           }
         ],
         "tags": [],
-        "beatId": 16
+        "beatId": 16,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -871,7 +895,9 @@
             "color": "rgb(0, 0, 0)",
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "isCloudFile": true,
@@ -1012,7 +1038,9 @@
             "type": "bulleted-list",
             "color": "rgb(0, 0, 0)"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1124,7 +1152,9 @@
         "positionWithinLine": 0,
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
         "beatId": 13,
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
@@ -1195,7 +1225,9 @@
         ],
         "tags": [],
         "templates": [],
-        "id": 22
+        "id": 22,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1244,7 +1276,9 @@
         "fileId": "8nC5RvJgvaTbUCpnJAyX",
         "bookId": null,
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
-        "lineId": 6
+        "lineId": 6,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1276,7 +1310,9 @@
         "color": null,
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
         "lineId": 7,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 8,
@@ -1325,7 +1361,9 @@
         "color": null,
         "templates": [],
         "fileId": "8nC5RvJgvaTbUCpnJAyX",
-        "id": 26
+        "id": 26,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -1410,7 +1448,9 @@
         "fromTemplateId": null,
         "fileId": "8nC5RvJgvaTbUCpnJAyX",
         "positionWithinLine": 0,
-        "title": "The Inciting Incident (The Story Starts)"
+        "title": "The Inciting Incident (The Story Starts)",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -1495,7 +1535,9 @@
         "beatId": 22,
         "fileURL": "plottr://8nC5RvJgvaTbUCpnJAyX",
         "characters": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -1580,7 +1622,9 @@
         "title": "The Dark Night (The Worst It Can Get)",
         "bookId": null,
         "templates": [],
-        "isCloudFile": true
+        "isCloudFile": true,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -1678,7 +1722,9 @@
         "fromTemplateId": null,
         "places": [],
         "templates": [],
-        "title": "The \"Aha\" Moment (Your Character's Realization)"
+        "title": "The \"Aha\" Moment (Your Character's Realization)",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -1763,7 +1809,9 @@
         "color": null,
         "tags": [],
         "fromTemplateId": null,
-        "beatId": 25
+        "beatId": 25,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -1801,7 +1849,9 @@
         ],
         "title": "NOTE: Story Structure and Lisa Cron",
         "id": 33,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 34,
@@ -1913,7 +1963,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -2027,7 +2079,9 @@
         "characters": [],
         "bookId": null,
         "fileId": "8nC5RvJgvaTbUCpnJAyX",
-        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f"
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "lines": [
@@ -2039,7 +2093,9 @@
         "position": 0,
         "id": 2,
         "title": "Main Plot",
-        "bookId": "series"
+        "bookId": "series",
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "position": 1,
@@ -2050,7 +2106,8 @@
         "color": "#6cace4",
         "characterId": null,
         "fromTemplateId": null,
-        "title": "Pre Writing"
+        "title": "Pre Writing",
+        "pinnedPosition": null
       },
       {
         "id": 5,
@@ -2059,7 +2116,10 @@
         "title": "Potential Plot Problems",
         "fromTemplateId": null,
         "color": "#e5554f",
-        "expanded": null
+        "expanded": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -2068,7 +2128,10 @@
         "expanded": null,
         "id": 4,
         "title": "Scenes",
-        "position": 3
+        "position": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "Ideas List",
@@ -2077,7 +2140,10 @@
         "color": "#ff7f32",
         "id": 6,
         "fromTemplateId": null,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "color": "#ffc72c",
@@ -2086,7 +2152,10 @@
         "title": "Romping Around Ideas",
         "expanded": null,
         "fromTemplateId": null,
-        "position": 5
+        "position": 5,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 8,
@@ -2095,7 +2164,10 @@
         "expanded": null,
         "color": "Magenta",
         "title": "Developing Scenes",
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -2142,7 +2214,7 @@
     }
   },
   "initialVersion": "2024.3.13",
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "appliedMigrations": [
     "*m2023_1_7",
     "*m2023_3_29",

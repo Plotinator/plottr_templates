@@ -1,6 +1,6 @@
 {
   "id": "pl33",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "type": "plotlines",
   "name": "Limerick",
   "description": "A template for writing humorous short form poetry in five lines with a strict rhyme scheme.",
@@ -67,7 +67,10 @@
         "id": 14,
         "title": "Instructions",
         "bookId": 1,
-        "position": 0
+        "position": 0,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "Lines 1 - 2",
@@ -76,7 +79,10 @@
         "bookId": 1,
         "fromTemplateId": "ple6687f",
         "expanded": null,
-        "color": "#e5554f"
+        "color": "#e5554f",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": "ple6687f",
@@ -85,7 +91,10 @@
         "color": "#ff7f32",
         "title": "Lines 2 - 4",
         "id": 12,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "Line 5",
@@ -94,7 +103,10 @@
         "fromTemplateId": "ple6687f",
         "bookId": 1,
         "expanded": null,
-        "color": "#ffc72c"
+        "color": "#ffc72c",
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "title": "Final Poem",
@@ -104,7 +116,9 @@
         "color": "#78be20",
         "characterId": null,
         "position": 4,
-        "id": 9
+        "id": 9,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": "ple6687f",
@@ -113,7 +127,10 @@
         "expanded": null,
         "title": "Theme",
         "color": "Indigo",
-        "id": 15
+        "id": 15,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -211,7 +228,9 @@
         "imageId": null,
         "templates": [],
         "tags": [],
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -312,7 +331,9 @@
         "places": [],
         "beatId": 5,
         "id": 9,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -390,7 +411,9 @@
         ],
         "title": "Middle",
         "places": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -466,7 +489,9 @@
         "id": 11,
         "bookId": null,
         "templates": [],
-        "lineId": 13
+        "lineId": 13,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -492,7 +517,9 @@
         "positionInBeat": 0,
         "id": 8,
         "tags": [],
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 13,
@@ -542,7 +569,9 @@
             "type": "paragraph"
           }
         ],
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -566,7 +595,7 @@
       }
     }
   },
-  "templateDataVersion": "2023.3.3",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2023.3.3",
   "appliedMigrations": []
 }

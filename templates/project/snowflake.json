@@ -3,7 +3,7 @@
   "type": "project",
   "name": "Snowflake Method",
   "description": "Based on the Snowflake Method by Randy Ingermanson",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "https://www.advancedfictionwriting.com/articles/snowflake-method/",
   "templateData": {
     "cards": [
@@ -95,7 +95,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -185,7 +189,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 1,
@@ -275,7 +283,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -435,7 +447,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -528,17 +542,20 @@
       {
         "id": 1,
         "title": "Snowflake Method",
-        "color": null
+        "color": null,
+        "categoryId": 1
       },
       {
         "id": 2,
         "title": "Plot",
-        "color": null
+        "color": null,
+        "categoryId": 1
       },
       {
         "id": 3,
         "title": "Characters",
-        "color": null
+        "color": null,
+        "categoryId": 1
       }
     ],
     "notes": [
@@ -784,7 +801,9 @@
             ]
           }
         ],
-        "categoryId": "11"
+        "categoryId": "11",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 2,
@@ -1438,7 +1457,9 @@
             ]
           }
         ],
-        "categoryId": "11"
+        "categoryId": "11",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 3,
@@ -1665,7 +1686,9 @@
             ]
           }
         ],
-        "categoryId": "1"
+        "categoryId": "1",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 4,
@@ -1790,7 +1813,9 @@
             ]
           }
         ],
-        "categoryId": "1"
+        "categoryId": "1",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 5,
@@ -2023,7 +2048,9 @@
             ]
           }
         ],
-        "categoryId": "2"
+        "categoryId": "2",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 6,
@@ -2108,7 +2135,9 @@
             ]
           }
         ],
-        "categoryId": "2"
+        "categoryId": "2",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 7,
@@ -2369,7 +2398,9 @@
             ]
           }
         ],
-        "categoryId": "3"
+        "categoryId": "3",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 8,
@@ -2570,7 +2601,9 @@
             ]
           }
         ],
-        "categoryId": "3"
+        "categoryId": "3",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 9,
@@ -2781,7 +2814,9 @@
             ]
           }
         ],
-        "categoryId": "4"
+        "categoryId": "4",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 10,
@@ -2866,7 +2901,9 @@
             ]
           }
         ],
-        "categoryId": "4"
+        "categoryId": "4",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 11,
@@ -3005,7 +3042,9 @@
             ]
           }
         ],
-        "categoryId": "5"
+        "categoryId": "5",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 12,
@@ -3182,7 +3221,9 @@
             ]
           }
         ],
-        "categoryId": "5"
+        "categoryId": "5",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 13,
@@ -3321,7 +3362,9 @@
             ]
           }
         ],
-        "categoryId": "6"
+        "categoryId": "6",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 14,
@@ -3406,7 +3449,9 @@
             ]
           }
         ],
-        "categoryId": "6"
+        "categoryId": "6",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 15,
@@ -3545,7 +3590,9 @@
             ]
           }
         ],
-        "categoryId": "7"
+        "categoryId": "7",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 16,
@@ -3746,7 +3793,9 @@
             ]
           }
         ],
-        "categoryId": "7"
+        "categoryId": "7",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 17,
@@ -3909,7 +3958,9 @@
             ]
           }
         ],
-        "categoryId": "8"
+        "categoryId": "8",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 18,
@@ -4120,7 +4171,9 @@
             ]
           }
         ],
-        "categoryId": "8"
+        "categoryId": "8",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 19,
@@ -4447,7 +4500,9 @@
             ]
           }
         ],
-        "categoryId": "9"
+        "categoryId": "9",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 20,
@@ -4586,7 +4641,9 @@
             ]
           }
         ],
-        "categoryId": "9"
+        "categoryId": "9",
+        "audioClipId": null,
+        "position": 0
       },
       {
         "id": 21,
@@ -4724,7 +4781,9 @@
             ]
           }
         ],
-        "categoryId": "10"
+        "categoryId": "10",
+        "audioClipId": null,
+        "position": 0
       }
     ],
     "categories": {
@@ -4856,7 +4915,7 @@
     }
   },
   "initialVersion": "2021.7.8",
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "appliedMigrations": [
     "m2021_8_1"
   ]

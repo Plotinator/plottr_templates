@@ -1,6 +1,6 @@
 {
   "id": "pl40",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "type": "plotlines",
   "name": "Heroine's Journey",
   "description": "Gail Carriger's Heroine's Journey focuses on the way in which a male or female protagonist uses networking and connection to achieve goals and overcome conflict. For best use of this template, consider Gail Carriger's The Heroine's Journey book as a companion guide for navigating this template.",
@@ -99,7 +99,8 @@
             "position": 4,
             "autoOutlineSort": true,
             "fromTemplateId": null,
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "57": {
             "position": 3,
@@ -108,7 +109,9 @@
             "time": 0,
             "id": 57,
             "bookId": 1,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "59": {
             "time": 0,
@@ -117,7 +120,9 @@
             "id": 59,
             "fromTemplateId": null,
             "autoOutlineSort": true,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "69": {
             "bookId": 1,
@@ -138,7 +143,8 @@
             "title": "auto",
             "bookId": 1,
             "fromTemplateId": null,
-            "time": 0
+            "time": 0,
+            "templates": []
           },
           "71": {
             "autoOutlineSort": true,
@@ -148,7 +154,8 @@
             "expanded": true,
             "time": 0,
             "fromTemplateId": null,
-            "id": 71
+            "id": 71,
+            "templates": []
           },
           "75": {
             "bookId": 1,
@@ -157,7 +164,9 @@
             "fromTemplateId": null,
             "time": 0,
             "id": 75,
-            "position": 8
+            "position": 8,
+            "templates": [],
+            "expanded": true
           },
           "76": {
             "fromTemplateId": null,
@@ -166,7 +175,9 @@
             "bookId": 1,
             "autoOutlineSort": true,
             "position": 7,
-            "id": 76
+            "id": 76,
+            "templates": [],
+            "expanded": true
           },
           "77": {
             "title": "auto",
@@ -175,7 +186,9 @@
             "position": 9,
             "id": 77,
             "time": 0,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "78": {
             "autoOutlineSort": true,
@@ -185,7 +198,8 @@
             "fromTemplateId": null,
             "title": "auto",
             "id": 78,
-            "position": 10
+            "position": 10,
+            "templates": []
           },
           "79": {
             "expanded": true,
@@ -195,7 +209,8 @@
             "time": 0,
             "id": 79,
             "bookId": 1,
-            "position": 11
+            "position": 11,
+            "templates": []
           },
           "80": {
             "title": "auto",
@@ -205,7 +220,8 @@
             "id": 80,
             "expanded": true,
             "time": 0,
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "81": {
             "time": 0,
@@ -214,7 +230,9 @@
             "bookId": 1,
             "id": 81,
             "title": "auto",
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "94": {
             "fromTemplateId": null,
@@ -224,7 +242,8 @@
             "title": "auto",
             "autoOutlineSort": true,
             "id": 94,
-            "time": 0
+            "time": 0,
+            "templates": []
           },
           "95": {
             "position": 16,
@@ -234,7 +253,8 @@
             "autoOutlineSort": true,
             "time": 0,
             "bookId": 1,
-            "title": "auto"
+            "title": "auto",
+            "templates": []
           },
           "98": {
             "position": 17,
@@ -244,7 +264,8 @@
             "title": "auto",
             "fromTemplateId": null,
             "id": 98,
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "99": {
             "title": "auto",
@@ -253,7 +274,9 @@
             "id": 99,
             "autoOutlineSort": true,
             "bookId": 1,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "100": {
             "title": "auto",
@@ -262,7 +285,9 @@
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "bookId": 1,
-            "id": 100
+            "id": 100,
+            "templates": [],
+            "expanded": true
           },
           "101": {
             "autoOutlineSort": true,
@@ -271,7 +296,9 @@
             "id": 101,
             "position": 18,
             "fromTemplateId": null,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -310,7 +337,8 @@
         "bookId": 1,
         "title": "The Heroine's Journey",
         "position": 0,
-        "expanded": null
+        "expanded": null,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -443,7 +471,9 @@
         "color": null,
         "beatId": 53,
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 4,
@@ -532,7 +562,9 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -628,7 +660,9 @@
         "positionInBeat": 0,
         "fromTemplateId": null,
         "bookId": null,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -725,7 +759,9 @@
         "fromTemplateId": null,
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
         "lineId": 4,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -830,7 +866,9 @@
         "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
         "positionWithinLine": 0,
-        "bookId": null
+        "bookId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -927,7 +965,9 @@
         "positionWithinLine": 0,
         "templates": [],
         "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
-        "isCloudFile": true
+        "isCloudFile": true,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileId": "RC5e03lwXVYhmkRzAfW2",
@@ -1061,7 +1101,9 @@
         "places": [],
         "imageId": null,
         "positionWithinLine": 0,
-        "lineId": 4
+        "lineId": 4,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
@@ -1150,7 +1192,9 @@
         "positionInBeat": 0,
         "bookId": null,
         "places": [],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1239,7 +1283,9 @@
         "id": 41,
         "title": "Seeing the World Through New Eyes",
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
-        "fileId": "RC5e03lwXVYhmkRzAfW2"
+        "fileId": "RC5e03lwXVYhmkRzAfW2",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -1327,7 +1373,9 @@
         "templates": [],
         "color": null,
         "lineId": 4,
-        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827"
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 75,
@@ -1415,7 +1463,9 @@
         "tags": [],
         "imageId": null,
         "bookId": null,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -1513,7 +1563,9 @@
         "id": 52,
         "positionInBeat": 0,
         "color": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "title": "Reconnection and Renewal of Community and Family",
@@ -1610,7 +1662,9 @@
         "fromTemplateId": null,
         "bookId": null,
         "id": 55,
-        "lineId": 4
+        "lineId": 4,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileId": "RC5e03lwXVYhmkRzAfW2",
@@ -1707,7 +1761,9 @@
         "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
         "fromTemplateId": null,
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fileURL": "plottr://RC5e03lwXVYhmkRzAfW2",
@@ -1796,7 +1852,9 @@
         "imageId": null,
         "color": null,
         "fromTemplateId": null,
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -1893,7 +1951,9 @@
             ]
           }
         ],
-        "lineId": 4
+        "lineId": 4,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 69,
@@ -1923,7 +1983,9 @@
         "positionInBeat": 0,
         "fromTemplateId": null,
         "title": "Act 1: The Descent",
-        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827"
+        "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "clientId": "89d09e4d-6500-4c93-b747-fbd95a869827",
@@ -1953,7 +2015,9 @@
         "lineId": 4,
         "templates": [],
         "imageId": null,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -1983,7 +2047,9 @@
             ],
             "type": "paragraph"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -2013,7 +2079,9 @@
         "tags": [],
         "isCloudFile": true,
         "templates": [],
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -2035,11 +2103,27 @@
           "backgroundColor": "none",
           "level": 0,
           "name": "Beat"
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
-  "templateDataVersion": "2024.5.2",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2024.5.2",
   "appliedMigrations": []
 }

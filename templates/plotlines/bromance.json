@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Bromancing the Beat",
   "description": "Much like romance, bromance is the basis for stories from buddy cops to partner comedies. This template follows romancing the beat, but more geared toward same gender companion stories.",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "categories": [
     "romance",
     "action"
@@ -336,7 +336,9 @@
         "position": 1,
         "expanded": null,
         "color": "#6cace4",
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -474,7 +476,11 @@
         "positionInChapter": null,
         "tags": [],
         "templates": [],
-        "position": 0
+        "position": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionInChapter": null,
@@ -602,7 +608,11 @@
           }
         ],
         "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
-        "imageId": null
+        "imageId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionInChapter": null,
@@ -722,7 +732,11 @@
         "tags": [],
         "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
         "beatId": 11,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionInChapter": null,
@@ -850,7 +864,11 @@
         "beatId": 12,
         "characters": [],
         "places": [],
-        "imageId": null
+        "imageId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "places": [],
@@ -970,7 +988,11 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "title": "Failure",
@@ -1098,7 +1120,11 @@
               }
             ]
           }
-        ]
+        ],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -1226,7 +1252,11 @@
         "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
         "templates": [],
         "positionInChapter": null,
-        "fileId": "ziYGVunYP9kWQ9oyhTq4"
+        "fileId": "ziYGVunYP9kWQ9oyhTq4",
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 28,
@@ -1346,7 +1376,11 @@
         "templates": [],
         "places": [],
         "fileId": "ziYGVunYP9kWQ9oyhTq4",
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -1474,7 +1508,11 @@
         "lineId": 2,
         "fromTemplateId": null,
         "id": 29,
-        "positionInChapter": null
+        "positionInChapter": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -1597,7 +1635,11 @@
         "fileURL": "plottr://ziYGVunYP9kWQ9oyhTq4",
         "isCloudFile": true,
         "id": 30,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1733,7 +1775,11 @@
         "title": "The Final Solution",
         "fileId": "ziYGVunYP9kWQ9oyhTq4",
         "imageId": null,
-        "lineId": 2
+        "lineId": 2,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "places": [],
@@ -1869,7 +1915,11 @@
         ],
         "position": 0,
         "bookId": null,
-        "characters": []
+        "characters": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -2005,7 +2055,11 @@
         "lineId": 2,
         "title": "Epilogue",
         "tags": [],
-        "id": 33
+        "id": 33,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "isCloudFile": true,
@@ -2141,7 +2195,11 @@
         "fromTemplateId": null,
         "id": 34,
         "beatId": 3,
-        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f"
+        "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -2261,7 +2319,11 @@
         "isCloudFile": true,
         "position": 0,
         "fromTemplateId": null,
-        "places": []
+        "places": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -2393,7 +2455,11 @@
         "fileId": "ziYGVunYP9kWQ9oyhTq4",
         "isCloudFile": true,
         "places": [],
-        "title": "Stuck Together"
+        "title": "Stuck Together",
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "clientId": "808749466270e74d89003f0333c96c939bbfdaf0135e2fddce20860a04b5162f",
@@ -2513,7 +2579,11 @@
         "seriesLineId": null,
         "beatId": 6,
         "positionWithinLine": 0,
-        "characters": []
+        "characters": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "position": 0,
@@ -2623,7 +2693,11 @@
         "fromTemplateId": null,
         "fileId": "ziYGVunYP9kWQ9oyhTq4",
         "isCloudFile": true,
-        "bookId": null
+        "bookId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "description": [
@@ -2743,7 +2817,11 @@
         "positionInChapter": null,
         "templates": [],
         "fileId": "ziYGVunYP9kWQ9oyhTq4",
-        "bookId": null
+        "bookId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -2866,7 +2944,11 @@
         ],
         "id": 40,
         "tags": [],
-        "characters": []
+        "characters": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -2888,11 +2970,27 @@
             "borderColor": "#6cace4",
             "textColor": "#0b1117"
           }
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
-  "templateDataVersion": "2024.5.2",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2024.5.2",
   "appliedMigrations": []
 }

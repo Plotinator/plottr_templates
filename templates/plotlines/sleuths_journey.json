@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Sleuth's Journey",
   "description": "A mystery novel formula by Troy Lambert, based on the classic Hero's Journey",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "https://plottr.com/sleuths-journey-plot-template/",
   "categories": [
     "mystery"
@@ -102,7 +102,9 @@
         "tags": [],
         "places": [],
         "id": 220,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "title": "The Sleuth Has Answers",
@@ -196,7 +198,9 @@
         "positionWithinLine": 0,
         "positionInBeat": 0,
         "color": null,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -306,7 +310,9 @@
         "positionWithinLine": 0,
         "imageId": null,
         "tags": [],
-        "lineId": 10
+        "lineId": 10,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInChapter": null,
@@ -433,7 +439,11 @@
         "lineId": 10,
         "id": 10,
         "characters": [],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -552,7 +562,11 @@
         "position": 0,
         "lineId": 10,
         "imageId": null,
-        "bookId": 1
+        "bookId": 1,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -680,7 +694,11 @@
         ],
         "places": [],
         "seriesLineId": null,
-        "position": 0
+        "position": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionInChapter": null,
@@ -799,7 +817,11 @@
         "id": 40,
         "seriesLineId": null,
         "places": [],
-        "position": 0
+        "position": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "lineId": 10,
@@ -948,7 +970,11 @@
         "characters": [],
         "positionInChapter": null,
         "seriesLineId": null,
-        "beatId": 5
+        "beatId": 5,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1067,7 +1093,11 @@
         ],
         "title": "Facts About Suspects",
         "position": 0,
-        "imageId": null
+        "imageId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "title": "Broaden the Investigation",
@@ -1175,7 +1205,11 @@
             ]
           }
         ],
-        "tags": []
+        "tags": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "bookId": 1,
@@ -1278,7 +1312,11 @@
         "positionInChapter": null,
         "fromTemplateId": null,
         "id": 80,
-        "position": 0
+        "position": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 90,
@@ -1389,7 +1427,11 @@
         "positionInChapter": null,
         "places": [],
         "title": "Change of Focus (Try/Fail #2)",
-        "templates": []
+        "templates": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -1505,7 +1547,11 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "lineId": 10,
@@ -1608,7 +1654,11 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -1703,7 +1753,11 @@
             "type": "bulleted-list"
           }
         ],
-        "positionInChapter": null
+        "positionInChapter": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1822,7 +1876,11 @@
         "beatId": 15,
         "characters": [],
         "seriesLineId": null,
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -1947,7 +2005,11 @@
         ],
         "places": [],
         "positionWithinLine": 0,
-        "seriesLineId": null
+        "seriesLineId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "lineId": 6,
@@ -2050,7 +2112,11 @@
         ],
         "positionInChapter": null,
         "title": "The Victim's World Disrupted",
-        "tags": []
+        "tags": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "description": [
@@ -2124,7 +2190,11 @@
         "characters": [],
         "lineId": 6,
         "positionWithinLine": 0,
-        "seriesLineId": null
+        "seriesLineId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -2198,7 +2268,11 @@
         "places": [],
         "position": 0,
         "title": "The Sleuth and the Victim",
-        "lineId": 6
+        "lineId": 6,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "fromTemplateId": "pl24",
@@ -2316,7 +2390,9 @@
         "lineId": 12,
         "positionWithinLine": 0,
         "characters": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -2410,7 +2486,9 @@
         "fromTemplateId": "pl24",
         "positionInBeat": 0,
         "title": "On the Run",
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": "pl24",
@@ -2483,7 +2561,9 @@
         "positionWithinLine": 0,
         "templates": [],
         "id": 215,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 12,
@@ -2585,7 +2665,9 @@
         ],
         "positionWithinLine": 0,
         "tags": [],
-        "title": "The Villain's Word Disrupted"
+        "title": "The Villain's Word Disrupted",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 12,
@@ -2687,7 +2769,9 @@
         "positionWithinLine": 0,
         "templates": [],
         "characters": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -2781,7 +2865,9 @@
         "characters": [],
         "beatId": 1,
         "id": 210,
-        "fromTemplateId": "pl24"
+        "fromTemplateId": "pl24",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -2863,7 +2949,11 @@
         "positionWithinLine": 0,
         "positionInChapter": null,
         "position": 0,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 26,
@@ -2937,7 +3027,11 @@
         "lineId": 9,
         "seriesLineId": null,
         "position": 0,
-        "beatId": 2
+        "beatId": 2,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -3019,7 +3113,11 @@
         "tags": [],
         "title": "End of the Beginning",
         "lineId": 9,
-        "places": []
+        "places": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "title": "Try/Fail #1",
@@ -3093,7 +3191,11 @@
         "bookId": 1,
         "templates": [],
         "id": 78,
-        "position": 0
+        "position": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "description": [
@@ -3183,7 +3285,11 @@
         "beatId": 8,
         "templates": [],
         "lineId": 9,
-        "id": 104
+        "id": 104,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -3257,7 +3363,11 @@
         "position": 0,
         "title": "Crisis",
         "lineId": 9,
-        "tags": []
+        "tags": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 195,
@@ -3331,7 +3441,11 @@
         ],
         "beatId": 15,
         "tags": [],
-        "templates": []
+        "templates": [],
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "seriesLineId": null,
@@ -3405,7 +3519,11 @@
         "places": [],
         "positionWithinLine": 0,
         "beatId": 16,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -3651,7 +3769,9 @@
             "time": 0,
             "bookId": 1,
             "position": 3,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -3689,7 +3809,9 @@
         "characterId": null,
         "id": 10,
         "position": 0,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 6,
@@ -3699,7 +3821,9 @@
         "position": 1,
         "title": "Victim's Journey",
         "fromTemplateId": null,
-        "characterId": null
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "fromTemplateId": "pl24",
@@ -3709,7 +3833,9 @@
         "position": 2,
         "id": 12,
         "bookId": 1,
-        "color": "#ff7f32"
+        "color": "#ff7f32",
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -3718,7 +3844,10 @@
         "id": 9,
         "color": "Hotpink",
         "expanded": null,
-        "position": 3
+        "position": 3,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -3742,7 +3871,7 @@
       }
     }
   },
-  "templateDataVersion": "2022.2.8",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }

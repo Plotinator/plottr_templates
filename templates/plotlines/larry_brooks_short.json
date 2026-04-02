@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Larry Brooks Short Story",
   "description": "Based on ideas by Larry Brooks, adapted for short stories",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "categories": [
     "shortstory"
   ],
@@ -58,7 +58,8 @@
             "autoOutlineSort": true,
             "title": "auto",
             "position": 4,
-            "id": 3
+            "id": 3,
+            "templates": []
           },
           "4": {
             "position": 3,
@@ -67,7 +68,9 @@
             "time": 0,
             "title": "auto",
             "id": 4,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "time": 0,
@@ -76,7 +79,9 @@
             "fromTemplateId": null,
             "autoOutlineSort": true,
             "bookId": 1,
-            "position": 2
+            "position": 2,
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "bookId": 1,
@@ -85,7 +90,9 @@
             "time": 0,
             "position": 1,
             "id": 6,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "7": {
             "autoOutlineSort": true,
@@ -94,7 +101,9 @@
             "id": 7,
             "time": 0,
             "position": 6,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "8": {
             "bookId": 1,
@@ -103,7 +112,9 @@
             "autoOutlineSort": true,
             "title": "auto",
             "fromTemplateId": null,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -142,7 +153,8 @@
         "characterId": null,
         "position": 0,
         "fromTemplateId": null,
-        "isPinned": false
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -246,7 +258,9 @@
         "bookId": null,
         "positionInBeat": 0,
         "places": [],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -348,7 +362,9 @@
         "color": null,
         "fromTemplateId": null,
         "bookId": null,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "templates": [],
@@ -458,7 +474,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 0,
@@ -568,7 +586,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -678,7 +698,9 @@
         "imageId": null,
         "fromTemplateId": null,
         "color": null,
-        "title": "Attack"
+        "title": "Attack",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 6,
@@ -788,7 +810,9 @@
         "fromTemplateId": null,
         "positionWithinLine": 0,
         "characters": [],
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -890,7 +914,9 @@
             "type": "bulleted-list"
           }
         ],
-        "positionWithinLine": 0
+        "positionWithinLine": 0,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -912,12 +938,28 @@
             "borderColor": "#ccc"
           },
           "textSize": 24
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
   "mergeBias": "top",
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2023.7.21",
   "appliedMigrations": [
     "*m2023_1_7",

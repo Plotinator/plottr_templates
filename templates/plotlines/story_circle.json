@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Story Circle",
   "description": "A circular story structure popularized by Dan Harmon",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
@@ -132,7 +132,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Change"
+        "title": "Change",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -241,7 +247,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Return"
+        "title": "Return",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -358,7 +370,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Take"
+        "title": "Take",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -467,7 +485,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Find"
+        "title": "Find",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -584,7 +608,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Search"
+        "title": "Search",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -693,7 +723,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Go"
+        "title": "Go",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -802,7 +838,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Need"
+        "title": "Need",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 8,
@@ -911,7 +953,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "You"
+        "title": "You",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1071,7 +1119,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1095,7 +1145,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

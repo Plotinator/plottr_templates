@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Hero's Journey Short Story",
   "description": "The classic Hero's Journey plot structure, adapted for short stories",
-  "version": "2026.3.19",
+  "version": "2026.4.2",
   "categories": [
     "shortstory"
   ],
@@ -67,7 +67,8 @@
             "autoOutlineSort": true,
             "time": 0,
             "bookId": 1,
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "4": {
             "title": "auto",
@@ -77,7 +78,8 @@
             "autoOutlineSort": true,
             "expanded": true,
             "fromTemplateId": null,
-            "time": 0
+            "time": 0,
+            "templates": []
           },
           "5": {
             "position": 3,
@@ -87,7 +89,8 @@
             "time": 0,
             "fromTemplateId": null,
             "id": 5,
-            "title": "auto"
+            "title": "auto",
+            "templates": []
           },
           "6": {
             "expanded": true,
@@ -97,7 +100,8 @@
             "time": 0,
             "autoOutlineSort": true,
             "bookId": 1,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": []
           },
           "7": {
             "id": 7,
@@ -107,7 +111,8 @@
             "expanded": true,
             "time": 0,
             "title": "auto",
-            "bookId": 1
+            "bookId": 1,
+            "templates": []
           },
           "8": {
             "autoOutlineSort": true,
@@ -116,7 +121,9 @@
             "position": 6,
             "bookId": 1,
             "id": 8,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "9": {
             "fromTemplateId": null,
@@ -126,7 +133,8 @@
             "bookId": 1,
             "title": "auto",
             "position": 7,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": []
           },
           "10": {
             "position": 8,
@@ -136,7 +144,8 @@
             "title": "auto",
             "id": 10,
             "time": 0,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": []
           },
           "11": {
             "time": 0,
@@ -146,7 +155,8 @@
             "autoOutlineSort": true,
             "fromTemplateId": null,
             "bookId": 1,
-            "title": "auto"
+            "title": "auto",
+            "templates": []
           }
         }
       },
@@ -185,7 +195,8 @@
         "color": "#6cace4",
         "characterId": null,
         "title": "Main Plot",
-        "bookId": 1
+        "bookId": 1,
+        "pinnedPosition": null
       }
     ],
     "cards": [
@@ -289,7 +300,9 @@
         "fromTemplateId": null,
         "lineId": 1,
         "color": null,
-        "id": 1
+        "id": 1,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -391,7 +404,9 @@
         "lineId": 1,
         "templates": [],
         "id": 2,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -509,7 +524,9 @@
         "tags": [],
         "title": "All is Lost",
         "color": null,
-        "beatId": 9
+        "beatId": 9,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -619,7 +636,9 @@
         "positionWithinLine": 0,
         "characters": [],
         "bookId": null,
-        "title": "Final Attack"
+        "title": "Final Attack",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -729,7 +748,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 1,
@@ -831,7 +852,9 @@
         ],
         "title": "Hero's Response",
         "color": null,
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -949,7 +972,9 @@
         "title": "Trial and Error",
         "id": 4,
         "characters": [],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -1051,7 +1076,9 @@
         ],
         "positionInBeat": 0,
         "tags": [],
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -1153,7 +1180,9 @@
         "positionInBeat": 0,
         "title": "Setback",
         "tags": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -1255,7 +1284,9 @@
         "tags": [],
         "places": [],
         "fromTemplateId": null,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "hierarchyLevels": {
@@ -1277,11 +1308,27 @@
           "borderStyle": "NONE",
           "level": 0,
           "backgroundColor": "none"
+        },
+        "name": "Chapter",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": {
+          "borderColor": "#ccc",
+          "textColor": "#ccc"
+        },
+        "light": {
+          "borderColor": "#6cace4",
+          "textColor": "#0b1117"
         }
       }
     }
   },
-  "templateDataVersion": "2023.8.15",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2023.7.21",
   "mergeBias": "top",
   "appliedMigrations": [

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "24 Chapter Novel Outline",
   "description": "Based on the book The Plot Dot by Derek Murphy",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "link": "https://www.creativindie.com/plot-outline/",
   "categories": [
     "general"
@@ -88,7 +88,9 @@
         "bookId": null,
         "positionInBeat": 0,
         "templates": [],
-        "title": "Ordinary World Notes"
+        "title": "Ordinary World Notes",
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -168,7 +170,9 @@
         "imageId": null,
         "beatId": 26,
         "characters": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -264,7 +268,9 @@
         "id": 35,
         "beatId": 6,
         "imageId": null,
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -352,7 +358,9 @@
         "lineId": 1,
         "positionWithinLine": 1,
         "id": 34,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -487,7 +495,9 @@
             "type": "bulleted-list"
           }
         ],
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "characters": [],
@@ -598,7 +608,9 @@
         "imageId": null,
         "bookId": null,
         "beatId": 26,
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -725,7 +737,9 @@
         "color": null,
         "beatId": 21,
         "tags": [],
-        "templates": []
+        "templates": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 22,
@@ -852,7 +866,9 @@
             ]
           }
         ],
-        "tags": []
+        "tags": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -903,7 +919,9 @@
             ]
           }
         ],
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -1014,7 +1032,9 @@
         "templates": [],
         "imageId": null,
         "lineId": 5,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -1141,7 +1161,9 @@
         ],
         "color": null,
         "bookId": null,
-        "id": 27
+        "id": 27,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionWithinLine": 1,
@@ -1260,7 +1282,9 @@
         "places": [],
         "color": null,
         "positionInBeat": 0,
-        "imageId": null
+        "imageId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -1365,7 +1389,9 @@
         "fromTemplateId": null,
         "title": "B Story - Internal: Second Plot Point",
         "places": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 4,
@@ -1492,7 +1518,9 @@
         "color": null,
         "beatId": 19,
         "characters": [],
-        "places": []
+        "places": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "color": null,
@@ -1611,7 +1639,9 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -1730,7 +1760,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -1818,7 +1850,9 @@
             "type": "paragraph"
           }
         ],
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -1929,7 +1963,9 @@
         "characters": [],
         "title": "Crucial Role",
         "imageId": null,
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "lineId": 4,
@@ -2048,7 +2084,9 @@
         "tags": [],
         "imageId": null,
         "positionWithinLine": 0,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 15,
@@ -2159,7 +2197,9 @@
         "lineId": 4,
         "positionWithinLine": 1,
         "positionInBeat": 0,
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -2247,7 +2287,9 @@
         ],
         "templates": [],
         "positionInBeat": 0,
-        "positionWithinLine": 1
+        "positionWithinLine": 1,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "beatId": 13,
@@ -2366,7 +2408,9 @@
         "fromTemplateId": null,
         "color": null,
         "tags": [],
-        "characters": []
+        "characters": [],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -2477,7 +2521,9 @@
         "id": 15,
         "fromTemplateId": null,
         "characters": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "positionInBeat": 0,
@@ -2573,7 +2619,9 @@
             ],
             "type": "paragraph"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "bookId": null,
@@ -2700,7 +2748,9 @@
           }
         ],
         "id": 13,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -2811,7 +2861,9 @@
         "title": "Earning Respect",
         "id": 12,
         "characters": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "places": [],
@@ -2930,7 +2982,9 @@
         "positionInBeat": 0,
         "characters": [],
         "lineId": 3,
-        "beatId": 8
+        "beatId": 8,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "id": 10,
@@ -3057,7 +3111,9 @@
               }
             ]
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -3176,7 +3232,9 @@
         "characters": [],
         "title": "Pull Out Rug",
         "tags": [],
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -3287,7 +3345,9 @@
         "places": [],
         "lineId": 1,
         "id": 7,
-        "color": null
+        "color": null,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "tags": [],
@@ -3406,7 +3466,9 @@
         "fromTemplateId": null,
         "beatId": 5,
         "positionInBeat": 0,
-        "lineId": 1
+        "lineId": 1,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "fromTemplateId": null,
@@ -3525,7 +3587,9 @@
             ],
             "type": "bulleted-list"
           }
-        ]
+        ],
+        "audioClipId": null,
+        "notes": []
       },
       {
         "description": [
@@ -3636,7 +3700,9 @@
         "color": null,
         "templates": [],
         "places": [],
-        "positionInBeat": 0
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "notes": []
       },
       {
         "imageId": null,
@@ -3763,7 +3829,9 @@
             "type": "bulleted-list"
           }
         ],
-        "id": 1
+        "id": 1,
+        "audioClipId": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -3868,7 +3936,9 @@
             "autoOutlineSort": true,
             "id": 3,
             "title": "auto",
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "4": {
             "fromTemplateId": null,
@@ -3877,7 +3947,9 @@
             "position": 2,
             "bookId": 1,
             "autoOutlineSort": true,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "5": {
             "title": "auto",
@@ -3886,7 +3958,9 @@
             "time": 0,
             "autoOutlineSort": true,
             "id": 5,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "6": {
             "title": "auto",
@@ -3895,7 +3969,9 @@
             "position": 5,
             "time": 0,
             "bookId": 1,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "7": {
             "autoOutlineSort": true,
@@ -3904,7 +3980,9 @@
             "time": 0,
             "position": 6,
             "bookId": 1,
-            "id": 7
+            "id": 7,
+            "templates": [],
+            "expanded": true
           },
           "8": {
             "fromTemplateId": null,
@@ -3913,7 +3991,9 @@
             "autoOutlineSort": true,
             "title": "auto",
             "position": 7,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "9": {
             "title": "auto",
@@ -3922,7 +4002,9 @@
             "time": 0,
             "bookId": 1,
             "position": 8,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "10": {
             "fromTemplateId": null,
@@ -3931,7 +4013,9 @@
             "position": 4,
             "time": 0,
             "autoOutlineSort": true,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "11": {
             "position": 10,
@@ -3940,7 +4024,9 @@
             "id": 11,
             "autoOutlineSort": true,
             "time": 0,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "12": {
             "autoOutlineSort": true,
@@ -3949,7 +4035,9 @@
             "title": "auto",
             "position": 9,
             "id": 12,
-            "time": 0
+            "time": 0,
+            "templates": [],
+            "expanded": true
           },
           "13": {
             "fromTemplateId": null,
@@ -3958,7 +4046,9 @@
             "autoOutlineSort": true,
             "title": "auto",
             "position": 11,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           },
           "14": {
             "time": 0,
@@ -3967,7 +4057,9 @@
             "fromTemplateId": null,
             "position": 13,
             "bookId": 1,
-            "id": 14
+            "id": 14,
+            "templates": [],
+            "expanded": true
           },
           "15": {
             "title": "auto",
@@ -3976,7 +4068,9 @@
             "id": 15,
             "fromTemplateId": null,
             "autoOutlineSort": true,
-            "position": 12
+            "position": 12,
+            "templates": [],
+            "expanded": true
           },
           "16": {
             "id": 16,
@@ -3985,7 +4079,9 @@
             "position": 14,
             "fromTemplateId": null,
             "time": 0,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "17": {
             "time": 0,
@@ -3994,7 +4090,9 @@
             "bookId": 1,
             "fromTemplateId": null,
             "title": "auto",
-            "id": 17
+            "id": 17,
+            "templates": [],
+            "expanded": true
           },
           "18": {
             "title": "auto",
@@ -4003,7 +4101,9 @@
             "autoOutlineSort": true,
             "time": 0,
             "position": 16,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "19": {
             "title": "auto",
@@ -4012,7 +4112,9 @@
             "fromTemplateId": null,
             "time": 0,
             "position": 17,
-            "id": 19
+            "id": 19,
+            "templates": [],
+            "expanded": true
           },
           "20": {
             "position": 24,
@@ -4022,7 +4124,8 @@
             "bookId": 1,
             "fromTemplateId": null,
             "autoOutlineSort": true,
-            "expanded": true
+            "expanded": true,
+            "templates": []
           },
           "21": {
             "autoOutlineSort": true,
@@ -4031,7 +4134,9 @@
             "fromTemplateId": null,
             "position": 22,
             "bookId": 1,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "22": {
             "bookId": 1,
@@ -4040,7 +4145,9 @@
             "time": 0,
             "id": 22,
             "position": 21,
-            "title": "auto"
+            "title": "auto",
+            "templates": [],
+            "expanded": true
           },
           "23": {
             "bookId": 1,
@@ -4049,7 +4156,9 @@
             "title": "auto",
             "position": 20,
             "autoOutlineSort": true,
-            "fromTemplateId": null
+            "fromTemplateId": null,
+            "templates": [],
+            "expanded": true
           },
           "24": {
             "fromTemplateId": null,
@@ -4058,7 +4167,9 @@
             "bookId": 1,
             "title": "auto",
             "time": 0,
-            "autoOutlineSort": true
+            "autoOutlineSort": true,
+            "templates": [],
+            "expanded": true
           },
           "25": {
             "fromTemplateId": null,
@@ -4067,7 +4178,9 @@
             "position": 18,
             "title": "auto",
             "bookId": 1,
-            "id": 25
+            "id": 25,
+            "templates": [],
+            "expanded": true
           },
           "26": {
             "time": 0,
@@ -4076,7 +4189,9 @@
             "fromTemplateId": null,
             "position": 23,
             "id": 26,
-            "bookId": 1
+            "bookId": 1,
+            "templates": [],
+            "expanded": true
           }
         }
       },
@@ -4114,7 +4229,9 @@
         "expanded": null,
         "characterId": null,
         "title": "Act 1: Hero & Ordinary World",
-        "id": 1
+        "id": 1,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "position": 1,
@@ -4123,7 +4240,10 @@
         "id": 3,
         "color": "#78be20",
         "fromTemplateId": null,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 4,
@@ -4132,7 +4252,10 @@
         "fromTemplateId": null,
         "color": "#e5554f",
         "position": 2,
-        "bookId": 1
+        "bookId": 1,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "id": 5,
@@ -4141,7 +4264,10 @@
         "bookId": 1,
         "color": "#ff7f32",
         "position": 3,
-        "expanded": null
+        "expanded": null,
+        "characterId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -4165,7 +4291,7 @@
       }
     }
   },
-  "templateDataVersion": "2022.2.8",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2022.2.8",
   "appliedMigrations": []
 }

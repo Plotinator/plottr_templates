@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Seven Romantic Comedy Beats",
   "description": "An outline formula for romantic comedy based on ideas by Billy Mernit",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "romance",
     "comedy"
@@ -125,7 +125,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Joyful Defeat (Resolution)"
+        "title": "Joyful Defeat (Resolution)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -225,7 +231,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Dark Moment (Crisis Climax)"
+        "title": "Dark Moment (Crisis Climax)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -317,7 +329,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Swivel (Turning Point 2)"
+        "title": "Swivel (Turning Point 2)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -417,7 +435,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "The Hook (Midpoint)"
+        "title": "The Hook (Midpoint)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -509,7 +533,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "A Sexy Complication (Turning Point 1)"
+        "title": "A Sexy Complication (Turning Point 1)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -609,7 +639,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Meet Cute (The Catalyst)"
+        "title": "Meet Cute (The Catalyst)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -709,7 +745,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "The Chemical Equation (Setup)"
+        "title": "The Chemical Equation (Setup)",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -855,7 +897,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -879,7 +923,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

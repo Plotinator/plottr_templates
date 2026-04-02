@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Seven Point Plot Structure",
   "description": "A plot structure popularized by Dan Wells",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
@@ -109,7 +109,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 2,
@@ -211,7 +215,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 3,
@@ -321,7 +329,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 4,
@@ -431,7 +443,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 5,
@@ -541,7 +557,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 6,
@@ -643,7 +663,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "id": 7,
@@ -786,7 +810,11 @@
         "places": [],
         "templates": [],
         "imageId": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -932,7 +960,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -956,7 +986,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

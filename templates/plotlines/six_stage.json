@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Six Stage Plot Structure",
   "description": "An outline formula based on ideas popularized by Michael Hague",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "general"
   ],
@@ -124,7 +124,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 6: Aftermath"
+        "title": "Stage 6: Aftermath",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -224,7 +230,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning Point 5: Climax"
+        "title": "Turning Point 5: Climax",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 3,
@@ -324,7 +336,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 5: Final Push"
+        "title": "Stage 5: Final Push",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -416,7 +434,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning Point 4: Major Setback"
+        "title": "Turning Point 4: Major Setback",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -516,7 +540,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 4: Complications & Higher Stakes"
+        "title": "Stage 4: Complications & Higher Stakes",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -608,7 +638,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning Point 3: Point of No Return"
+        "title": "Turning Point 3: Point of No Return",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -708,7 +744,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 3: Progress"
+        "title": "Stage 3: Progress",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 8,
@@ -800,7 +842,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning Point 2: Change of Plans"
+        "title": "Turning Point 2: Change of Plans",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -900,7 +948,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 2: New Situation"
+        "title": "Stage 2: New Situation",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 10,
@@ -1000,7 +1054,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Turning Point 1: Opportunity"
+        "title": "Turning Point 1: Opportunity",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 11,
@@ -1100,7 +1160,13 @@
         "seriesLineId": null,
         "tags": [],
         "templates": [],
-        "title": "Stage 1: Setup"
+        "title": "Stage 1: Setup",
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1302,7 +1368,9 @@
         "position": 0,
         "characterId": null,
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1326,7 +1394,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",

@@ -3,7 +3,7 @@
   "type": "plotlines",
   "name": "Eight Sequences Method",
   "description": "An outline formula for a feature script",
-  "version": "2026.3.18",
+  "version": "2026.4.2",
   "categories": [
     "screenplay"
   ],
@@ -135,7 +135,11 @@
         "title": "Status Quo & Inciting Incident",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 9,
@@ -246,7 +250,11 @@
         "title": "Predicament & Lock In",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 7,
@@ -365,7 +373,11 @@
         "title": "First Obstacle & Raising the Stakes",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 6,
@@ -484,7 +496,11 @@
         "title": "First Culmination / Midpoint",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 5,
@@ -587,7 +603,11 @@
         "title": "Subplot & Rising Action",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 4,
@@ -698,7 +718,11 @@
         "title": "Main Culmination / End of Act II",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 2,
@@ -809,7 +833,11 @@
         "title": "New Tension & Twist",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       },
       {
         "beatId": 1,
@@ -944,7 +972,11 @@
         "title": "Resolution",
         "positionWithinLine": 0,
         "positionInChapter": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "positionInBeat": 0,
+        "audioClipId": null,
+        "color": null,
+        "notes": []
       }
     ],
     "beats": {
@@ -1104,7 +1136,9 @@
         "position": 1,
         "title": "Eight Sequences Subplot",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       },
       {
         "bookId": 1,
@@ -1114,7 +1148,9 @@
         "position": 0,
         "title": "Eight Sequences Main Plot",
         "expanded": null,
-        "fromTemplateId": null
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
@@ -1138,7 +1174,7 @@
       }
     }
   },
-  "templateDataVersion": "2021.8.1",
+  "templateDataVersion": "2026.4.2",
   "initialVersion": "2021.2.19",
   "appliedMigrations": [
     "m2021_4_13",
