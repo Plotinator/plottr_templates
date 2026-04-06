@@ -14,11 +14,15 @@
  *
  * PRECONDITIONS:
  *  - This script expects to be run from the root of the repository.
+ *
+ * NOTE(ed): compression code is directly based on Node's
+ * documentation for zlib: https://nodejs.org/api/zlib.html#zlib
  */
 
 const fs = require('fs')
 const path = require('path')
-const AdmZip = require('adm-zip')
+const { createGzip } = require('node:zlib');
+const { pipeline } = require('node:stream');
 
 const TEMPLATE_DIRECTORIES = [
     'templates/characters',
@@ -44,9 +48,19 @@ const main = () => {
     }, {})
 
     fs.writeFileSync(TEMPLATES_FILE, JSON.stringify(allTemplates))
-    const zip = new AdmZip()
-    zip.addLocalFile(TEMPLATES_FILE)
-    zip.writeZip(TEMPLATES_FILE_ZIPPED)
+
+    const gzip = createGzip()
+    const source = fs.createReadStream(TEMPLATES_FILE)
+    const destination = fs.createWriteStream(TEMPLATES_FILE_ZIPPED)
+
+    pipeline(source, gzip, destination, (err) => {
+        if (err) {
+            console.error('An error occurred:', err)
+            process.exitCode = 1
+        }
+    })
+    
+
     console.log('Done!')
 }
 
