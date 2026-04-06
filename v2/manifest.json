@@ -1,5 +1,5 @@
 {
-  "version": "2026.4.6",
+  "version": "2026.4.7",
   "templates": [
     {
       "id": "proj1",
@@ -358,7 +358,7 @@
     },
     {
       "id": "pl43",
-      "version": "2026.4.6",
+      "version": "2026.4.7",
       "url": "/v2/plotlines/plotting_from_the_end_for_a_cozy_mystery.json"
     },
     {
