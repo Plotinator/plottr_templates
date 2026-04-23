@@ -2442,72 +2442,18 @@
       }
     ],
     "hierarchyLevels": {
-      "1": {
-        "0": {
-          "name": "Chapter",
-          "level": 0,
-          "autoNumber": true,
-          "textColor": "#0b1117",
-          "textSize": 24,
-          "borderColor": "#6cace4",
-          "borderStyle": "NONE",
-          "backgroundColor": "none",
-          "dark": {
-            "borderColor": "#c9e6ff",
-            "textColor": "#c9e6ff"
-          },
-          "light": {
-            "borderColor": "#6cace4",
-            "textColor": "#0b1117"
-          }
-        },
+      "0": {
         "name": "Chapter",
         "level": 0,
         "autoNumber": true,
+        "textColor": "#0b1117",
         "textSize": 24,
+        "borderColor": "#6cace4",
         "borderStyle": "NONE",
         "backgroundColor": "none",
-        "textColor": "#0b1117",
-        "borderColor": "#6cace4",
         "dark": {
-          "borderColor": "#ccc",
-          "textColor": "#ccc"
-        },
-        "light": {
-          "borderColor": "#6cace4",
-          "textColor": "#0b1117"
-        }
-      },
-      "series": {
-        "0": {
-          "name": "Chapter",
-          "level": 0,
-          "autoNumber": true,
-          "textColor": "#0b1117",
-          "textSize": 24,
-          "borderColor": "#6cace4",
-          "borderStyle": "NONE",
-          "backgroundColor": "none",
-          "dark": {
-            "borderColor": "#c9e6ff",
-            "textColor": "#c9e6ff"
-          },
-          "light": {
-            "borderColor": "#6cace4",
-            "textColor": "#0b1117"
-          }
-        },
-        "name": "Chapter",
-        "level": 0,
-        "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#0b1117",
-        "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#ccc",
-          "textColor": "#ccc"
+          "borderColor": "#c9e6ff",
+          "textColor": "#c9e6ff"
         },
         "light": {
           "borderColor": "#6cace4",

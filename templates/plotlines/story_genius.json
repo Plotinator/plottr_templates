@@ -1671,41 +1671,23 @@
       }
     ],
     "hierarchyLevels": {
-      "1": {
-        "0": {
-          "backgroundColor": "none",
-          "borderColor": "#6cace4",
-          "autoNumber": true,
-          "name": "Step",
-          "light": {
-            "borderColor": "#6cace4",
-            "textColor": "#0b1117"
-          },
-          "textColor": "#0b1117",
-          "textSize": 24,
-          "dark": {
-            "textColor": "#ccc",
-            "borderColor": "#ccc"
-          },
-          "level": 0,
-          "borderStyle": "NONE"
-        },
-        "name": "Chapter",
-        "level": 0,
-        "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
+      "0": {
         "backgroundColor": "none",
-        "textColor": "#0b1117",
         "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#ccc",
-          "textColor": "#ccc"
-        },
+        "autoNumber": true,
+        "name": "Step",
         "light": {
           "borderColor": "#6cace4",
           "textColor": "#0b1117"
-        }
+        },
+        "textColor": "#0b1117",
+        "textSize": 24,
+        "dark": {
+          "textColor": "#ccc",
+          "borderColor": "#ccc"
+        },
+        "level": 0,
+        "borderStyle": "NONE"
       }
     }
   },

@@ -2952,37 +2952,19 @@
       }
     ],
     "hierarchyLevels": {
-      "1": {
-        "0": {
-          "textSize": 24,
-          "dark": {
-            "textColor": "#c9e6ff",
-            "borderColor": "#c9e6ff"
-          },
-          "name": "Beat",
-          "backgroundColor": "none",
-          "level": 0,
-          "autoNumber": true,
-          "borderColor": "#6cace4",
-          "textColor": "#0b1117",
-          "borderStyle": "NONE",
-          "light": {
-            "borderColor": "#6cace4",
-            "textColor": "#0b1117"
-          }
+      "0": {
+        "textSize": 24,
+        "dark": {
+          "textColor": "#c9e6ff",
+          "borderColor": "#c9e6ff"
         },
-        "name": "Chapter",
+        "name": "Beat",
+        "backgroundColor": "none",
         "level": 0,
         "autoNumber": true,
-        "textSize": 24,
-        "borderStyle": "NONE",
-        "backgroundColor": "none",
-        "textColor": "#0b1117",
         "borderColor": "#6cace4",
-        "dark": {
-          "borderColor": "#ccc",
-          "textColor": "#ccc"
-        },
+        "textColor": "#0b1117",
+        "borderStyle": "NONE",
         "light": {
           "borderColor": "#6cace4",
           "textColor": "#0b1117"
