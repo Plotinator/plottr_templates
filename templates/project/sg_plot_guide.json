@@ -284,13 +284,8 @@
                 "fontSize": 11,
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Sketch them in chronological order.",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Sketch them in chronological order.",
+                    "fontSize": 16
                   }
                 ],
                 "color": "rgb(0, 0, 0)",
@@ -632,13 +627,8 @@
               {
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen."
-                      }
-                    ]
+                    "fontSize": 16,
+                    "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen."
                   }
                 ],
                 "type": "list-item"
@@ -647,13 +637,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                    "fontSize": 16
                   }
                 ]
               },
@@ -661,13 +646,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "This scene must yield story-specific information about your character",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "This scene must yield story-specific information about your character",
+                    "fontSize": 16
                   }
                 ]
               },
