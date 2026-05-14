@@ -46,7 +46,7 @@ const main = () => {
             Object.values(fileJSON.templateData.hierarchyLevels).forEach((hierarchyLevel) => {
                 Object.assign(hierarchyLevel, { ...EXAMPLE_HIERARCHY_LEVEL, ...hierarchyLevel })
             })
-            fs.writeFileSync(filePath, JSON.stringify(fileJSON, null, 2))
+            fs.writeFileSync(filePath, JSON.stringify(fileJSON, null, 2) + '\n')
         }
     })
     console.log('Working on project templates...')
@@ -97,7 +97,7 @@ const main = () => {
                     fileJSON.templateData.hierarchyLevels = { 1: fileJSON.templateData.hierarchyLevels }
                 }
             }
-            fs.writeFileSync(filePath, JSON.stringify(fileJSON, null, 2))
+            fs.writeFileSync(filePath, JSON.stringify(fileJSON, null, 2) + '\n')
         }
     })
 }
