@@ -475,13 +475,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "External events that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen."
-                      }
-                    ],
-                    "type": "paragraph"
+                    "fontSize": 16,
+                    "text": "External events that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen."
                   }
                 ],
                 "type": "list-item",
@@ -494,26 +489,16 @@
                 "color": "rgb(0, 0, 0)",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "Had to make a decision that had escalating ongoing ramifications that further confirm the misbelief."
-                      }
-                    ],
-                    "type": "paragraph"
+                    "fontSize": 16,
+                    "text": "Had to make a decision that had escalating ongoing ramifications that further confirm the misbelief."
                   }
                 ]
               },
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Must yield the most story-specific info",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Must yield the most story-specific info",
+                    "fontSize": 16
                   }
                 ],
                 "fontSize": 11,
@@ -526,13 +511,8 @@
                 "fontSize": 11,
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Sketch them in chronological order.",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Sketch them in chronological order.",
+                    "fontSize": 16
                   }
                 ]
               }
@@ -651,13 +631,8 @@
               {
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "text": "Can your problem sustain the entire novel from the first page to the last?",
-                        "fontSize": 20
-                      }
-                    ]
+                    "text": "Can your problem sustain the entire novel from the first page to the last?",
+                    "fontSize": 20
                   }
                 ],
                 "type": "list-item"
@@ -665,13 +640,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Is there a real-world specific impending consequence that this escalating problem will give my character no choice but to face?",
-                        "fontSize": 20
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Is there a real-world specific impending consequence that this escalating problem will give my character no choice but to face?",
+                    "fontSize": 20
                   }
                 ],
                 "type": "list-item"
@@ -680,13 +650,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Is there a clear-cut deadline, a ticking clock counting down to that consequence?",
-                        "fontSize": 20
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Is there a clear-cut deadline, a ticking clock counting down to that consequence?",
+                    "fontSize": 20
                   }
                 ]
               }
@@ -1174,13 +1139,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "fontSize": 20,
-                        "text": "Is the problem capable of forcing my character to make the inner change that my novel is actually about?"
-                      }
-                    ],
-                    "type": "paragraph"
+                    "fontSize": 20,
+                    "text": "Is the problem capable of forcing my character to make the inner change that my novel is actually about?"
                   }
                 ]
               },
@@ -1188,13 +1148,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "fontSize": 20,
-                        "text": "Will the problem force my character to struggle with their misbelief?"
-                      }
-                    ]
+                    "fontSize": 20,
+                    "text": "Will the problem force my character to struggle with their misbelief?"
                   }
                 ]
               },
@@ -1202,13 +1157,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "fontSize": 20,
-                        "text": "Will the approaching consequence cost my character something big emotionally speaking even if he/she doesn’t achieve their goal?"
-                      }
-                    ]
+                    "fontSize": 20,
+                    "text": "Will the approaching consequence cost my character something big emotionally speaking even if he/she doesn’t achieve their goal?"
                   }
                 ]
               }

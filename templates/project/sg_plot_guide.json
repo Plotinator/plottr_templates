@@ -251,13 +251,8 @@
                 "fontSize": 11,
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "text": "External events that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
-                        "fontSize": 16
-                      }
-                    ]
+                    "text": "External events that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                    "fontSize": 16
                   }
                 ],
                 "type": "list-item",
@@ -266,13 +261,8 @@
               {
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "text": "Had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
-                        "fontSize": 16
-                      }
-                    ]
+                    "text": "Had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                    "fontSize": 16
                   }
                 ],
                 "color": "rgb(0, 0, 0)",
@@ -285,13 +275,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Must yield the most story-specific info",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Must yield the most story-specific info",
+                    "fontSize": 16
                   }
                 ]
               },
@@ -689,13 +674,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene",
+                    "fontSize": 16
                   }
                 ],
                 "type": "list-item"
@@ -791,13 +771,8 @@
               {
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
-                        "fontSize": 16
-                      }
-                    ]
+                    "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                    "fontSize": 16
                   }
                 ],
                 "type": "list-item"
@@ -805,13 +780,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief."
-                      }
-                    ],
-                    "type": "paragraph"
+                    "fontSize": 16,
+                    "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief."
                   }
                 ],
                 "type": "list-item"
@@ -819,13 +789,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "This scene must yield story-specific information about your character",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "This scene must yield story-specific information about your character",
+                    "fontSize": 16
                   }
                 ],
                 "type": "list-item"
@@ -833,13 +798,8 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
-                      }
-                    ],
-                    "type": "paragraph"
+                    "fontSize": 16,
+                    "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
                   }
                 ],
                 "type": "list-item"
@@ -935,13 +895,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "An external event that in some fundamental way—due to intense internal conflict—cause the character’s misbelief to deepen.",
+                    "fontSize": 16
                   }
                 ]
               },
@@ -949,13 +904,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "children": [
-                      {
-                        "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
-                        "fontSize": 16
-                      }
-                    ],
-                    "type": "paragraph"
+                    "text": "A time when your character had to make a decision that had escalating ongoing ramifications that further confirm the misbelief.",
+                    "fontSize": 16
                   }
                 ]
               },
@@ -963,13 +913,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "This scene must yield story-specific information about your character"
-                      }
-                    ]
+                    "fontSize": 16,
+                    "text": "This scene must yield story-specific information about your character"
                   }
                 ]
               },
@@ -977,13 +922,8 @@
                 "type": "list-item",
                 "children": [
                   {
-                    "type": "paragraph",
-                    "children": [
-                      {
-                        "fontSize": 16,
-                        "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
-                      }
-                    ]
+                    "fontSize": 16,
+                    "text": "Write this scene as the first event that impacted your character after the initial misbelief triggering scene"
                   }
                 ]
               }

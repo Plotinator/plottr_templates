@@ -15,9 +15,9 @@ const EXAMPLE_PLACE = file.places[0]
 const EXAMPLE_TAG = file.tags[0]
 
 /**
- * Look at all the custom plotline and project templates data objects
- * (scene cards, notes, places, lines, beats, hierarchy levels, tags,
- * images, categoeries and custom attributes).
+ * Look at all the plotline and project templates data objects (scene
+ * cards, notes, places, lines, beats, hierarchy levels, tags, images,
+ * categoeries and custom attributes).
  *
  * If any of them lack the expected attributes, add missing attributes
  * to them.

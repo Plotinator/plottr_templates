@@ -1825,33 +1825,48 @@
             ]
           },
           {
-            "type": "list-item",
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "Motive "
-              },
-              {
-                "text": "and",
-                "bold": true
-              },
-              {
-                "text": " Trigger"
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Motive "
+                  },
+                  {
+                    "text": "and",
+                    "bold": true
+                  },
+                  {
+                    "text": " Trigger"
+                  }
+                ]
               }
             ]
           },
           {
-            "type": "list-item",
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "Opportunity "
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Opportunity "
+                  }
+                ]
               }
             ]
           },
           {
-            "type": "list-item",
+            "type": "bulleted-list",
             "children": [
               {
-                "text": "Means"
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Means"
+                  }
+                ]
               }
             ]
           },
