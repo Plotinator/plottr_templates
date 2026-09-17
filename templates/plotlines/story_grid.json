@@ -306,23 +306,6 @@
             "expanded": true
           }
         }
-      },
-      "series": {
-        "children": { "1": [], "null": [1] },
-        "heap": { "1": null },
-        "index": {
-          "1": {
-            "id": 1,
-            "bookId": "series",
-            "position": 0,
-            "title": "auto",
-            "time": 0,
-            "templates": [],
-            "autoOutlineSort": true,
-            "fromTemplateId": null,
-            "expanded": true
-          }
-        }
       }
     },
     "cards": [
@@ -1475,72 +1458,36 @@
         "fromTemplateId": null,
         "isPinned": false,
         "pinnedPosition": null
-      },
-      {
-        "id": 2,
-        "bookId": "series",
-        "color": "#6cace4",
-        "title": "Main Plot",
-        "position": 0,
-        "characterId": null,
-        "expanded": null,
-        "fromTemplateId": null,
-        "isPinned": false,
-        "pinnedPosition": null
       }
     ],
     "hierarchyLevels": {
-      "1": {
-        "0": {
-          "name": "Act",
-          "level": 0,
-          "autoNumber": true,
-          "textSize": 24,
-          "borderStyle": "SOLID",
-          "backgroundColor": "#f1f5f8",
-          "textColor": "#e5554f",
-          "borderColor": "#e5554f",
-          "dark": { "textColor": "#baed79", "borderColor": "#baed79" },
-          "light": { "textColor": "#e5554f", "borderColor": "#e5554f" }
-        },
-        "1": {
-          "name": "Scene",
-          "level": 1,
-          "autoNumber": true,
-          "textSize": 24,
-          "borderStyle": "NONE",
-          "backgroundColor": "none",
-          "textColor": "#0b1117",
-          "borderColor": "#6cace4",
-          "dark": { "borderColor": "#ccc", "textColor": "#ccc" },
-          "light": { "borderColor": "#6cace4", "textColor": "#0b1117" }
-        }
+      "0": {
+        "name": "Act",
+        "level": 0,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "SOLID",
+        "backgroundColor": "#f1f5f8",
+        "textColor": "#e5554f",
+        "borderColor": "#e5554f",
+        "dark": { "textColor": "#baed79", "borderColor": "#baed79" },
+        "light": { "textColor": "#e5554f", "borderColor": "#e5554f" }
       },
-      "series": {
-        "0": {
-          "name": "Chapter",
-          "level": 0,
-          "autoNumber": true,
-          "textSize": 24,
-          "borderStyle": "NONE",
-          "backgroundColor": "none",
-          "textColor": "#0b1117",
-          "borderColor": "#6cace4",
-          "dark": { "borderColor": "#ccc", "textColor": "#ccc" },
-          "light": { "borderColor": "#6cace4", "textColor": "#0b1117" }
-        }
+      "1": {
+        "name": "Scene",
+        "level": 1,
+        "autoNumber": true,
+        "textSize": 24,
+        "borderStyle": "NONE",
+        "backgroundColor": "none",
+        "textColor": "#0b1117",
+        "borderColor": "#6cace4",
+        "dark": { "borderColor": "#ccc", "textColor": "#ccc" },
+        "light": { "borderColor": "#6cace4", "textColor": "#0b1117" }
       }
     }
   },
   "templateDataVersion": "2026.7.2",
-  "appliedMigrations": [
-    "*m2023_1_7",
-    "*m2023_3_29",
-    "*m2023_8_15",
-    "*m2025_2_19",
-    "m2025_11_27",
-    "m2026_2_5",
-    "m2026_4_13"
-  ],
-  "initialVersion": "2025.9.11"
+  "appliedMigrations": [],
+  "initialVersion": "2026.7.2"
 }
