@@ -1,0 +1,1546 @@
+{
+  "id": "pl44",
+  "type": "plotlines",
+  "name": "Story Grid",
+  "description": "Crafted by the creators of Story Grid, this template is the 20 Core Scenes Framework that they teach",
+  "link": "https://storygrid.com/obligatory-moments/",
+  "categories": ["general"],
+  "version": "2026.7.2",
+  "templateData": {
+    "beats": {
+      "1": {
+        "children": {
+          "2": [],
+          "3": [2, 4, 5, 6, 7],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [9, 10, 11, 12, 13],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [16, 17, 18, 19, 20],
+          "15": [21, 22, 23, 24, 25],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "null": [3, 8, 14, 15]
+        },
+        "heap": {
+          "2": 3,
+          "3": null,
+          "4": 3,
+          "5": 3,
+          "6": 3,
+          "7": 3,
+          "8": null,
+          "9": 8,
+          "10": 8,
+          "11": 8,
+          "12": 8,
+          "13": 8,
+          "14": null,
+          "15": null,
+          "16": 14,
+          "17": 14,
+          "18": 14,
+          "19": 14,
+          "20": 14,
+          "21": 15,
+          "22": 15,
+          "23": 15,
+          "24": 15,
+          "25": 15
+        },
+        "index": {
+          "2": {
+            "id": 2,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "3": {
+            "id": 3,
+            "bookId": 1,
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          },
+          "4": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 4,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "5": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 5,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "6": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 6,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "7": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 7,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "8": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 8,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "9": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 9,
+            "position": 0,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "10": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 10,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "11": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 11,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "12": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 12,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "13": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 13,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "14": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 14,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "15": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 15,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "16": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 16,
+            "position": 0,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "17": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 17,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "18": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 18,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "19": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 19,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "20": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 20,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "21": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 21,
+            "position": 0,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "22": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 22,
+            "position": 1,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "23": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 23,
+            "position": 2,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "24": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 24,
+            "position": 3,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          },
+          "25": {
+            "autoOutlineSort": true,
+            "bookId": 1,
+            "fromTemplateId": null,
+            "id": 25,
+            "position": 4,
+            "time": 0,
+            "title": "auto",
+            "expanded": true
+          }
+        }
+      },
+      "series": {
+        "children": { "1": [], "null": [1] },
+        "heap": { "1": null },
+        "index": {
+          "1": {
+            "id": 1,
+            "bookId": "series",
+            "position": 0,
+            "title": "auto",
+            "time": 0,
+            "templates": [],
+            "autoOutlineSort": true,
+            "fromTemplateId": null,
+            "expanded": true
+          }
+        }
+      }
+    },
+    "cards": [
+      {
+        "id": 24,
+        "lineId": 1,
+        "beatId": 25,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "A New Home (Resolution)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the story’s final breath—the resolution where the dust settles, and the protagonist integrates their transformation into a new equilibrium. With the climax’s revelation still echoing, they confront the aftermath: losses mourned, gains claimed, and the world reshaped by their choices. It’s not a return to the old normal but a step into something earned—a new home, literal or metaphorical, that reflects the theme’s truth."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your character reflects on the journey, tying up loose ends through action or quiet moments. Allies reaffirm bonds, antagonists face consequences, and the protagonist demonstrates their change in subtle ways. Loose threads resolve without rush: a return, a farewell, a fresh start. The tone shifts to reflection, showing how the old world is gone and the new one, though imperfect, fits who they’ve become."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, focus on emotional closure. Avoid info dumps—reveal meaning through behavior and imagery. Let the protagonist’s final choice echo the Beginning Hook, proving growth. End with resonance, not perfection: a hint of future possibility, a bittersweet note, or a quiet triumph. This is where readers close the book satisfied, carrying the story’s truth forward."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 23,
+        "lineId": 1,
+        "beatId": 24,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Revelation (Climax)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the explosive peak of your story—the climactic action where the protagonist unleashes their final, transformative move. After the Pinnacle’s impossible choice, they act decisively, wielding their growth against the antagonist in a way that resolves the central conflict. It’s not just a win or loss; it’s the revelation of who they’ve become, made real through bold, irreversible behavior."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The scene erupts with high-stakes confrontation: a battle, a sacrifice, or a daring reversal. Your protagonist draws on every lesson, ally, and flaw turned strength, striking at the antagonist’s core weakness. The antagonist fights back fiercely, but the protagonist’s evolution tips the scale. The moment of truth lands—a death, a surrender, a breakthrough—that embodies the story’s theme and shifts the power forever."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, make it visceral and thematic. Choreograph the action to mirror internal arcs, with surprises rooted in setup. Let the protagonist’s choice shine, showing growth through deeds, not words. End with the conflict shattered—the antagonist defeated or redeemed, the protagonist forever changed—but leave space for the dust to settle. This is where readers feel the rush of catharsis, knowing the journey’s purpose has been revealed."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 22,
+        "lineId": 1,
+        "beatId": 23,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The Pinnacle (Crisis)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the ultimate pressure cooker of your story—the crisis where the protagonist faces their final, impossible choice. With the message delivered and the antagonist reeling, the stakes converge into a do-or-die dilemma: sacrifice everything for victory, or cling to what’s left and accept defeat. It’s the emotional peak, where physical peril meets the story’s deepest theme."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your character is cornered, stripped of allies and options. The antagonist unleashes their full arsenal—force, manipulation, or temptation—demanding submission. Pressure builds through rapid escalations: a ticking clock, a moral trap, or a personal loss. The protagonist wavers, weighing the cost to their identity, relationships, or values. This is the moment of truth: will they embody the theme or betray it?"
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, layer the tension relentlessly. Show internal turmoil through action and subtext, not exposition. Make both choices viable and painful, forcing readers to question the outcome. End with the decision made but unexecuted—the protagonist committed, the path chosen, but the fallout looming. This is where readers hold their breath, feeling the story’s heart beat fastest."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 21,
+        "lineId": 1,
+        "beatId": 22,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Giving the Message (Turning Point)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the scene that flips the final confrontation—the moment the protagonist uncovers or delivers a truth that shakes the antagonist’s foundation. What began as a direct clash in the Showdown now deepens into something ideological: a message, a secret, or a vulnerability exposed that forces both sides to confront the story’s core question. The antagonist’s power starts to crack, but so does the protagonist’s certainty."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At first, the protagonist probes or endures, using clues from earlier acts to pierce the antagonist’s defenses. Then the truth lands—a confession, a betrayal revealed, or a symbolic act that embodies the theme. The antagonist reacts with fury or denial, escalating the physical and emotional stakes. Your character must choose: wield the message as a weapon or risk it backfiring."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, make the revelation feel earned and pivotal. Tie it to the protagonist’s growth, showing how past trials equipped them for this moment. Let the antagonist’s response humanize them, adding layers without softening the threat. End with the balance shifting but unstable—the message delivered, but its full impact still unfolding. This is where readers see the theme crystallize, knowing the endgame has begun."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 20,
+        "lineId": 1,
+        "beatId": 21,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Showdown (Inciting Incident)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the ignition of your Ending Payoff—the moment the protagonist and antagonist collide head-on in a final, unavoidable confrontation. The outside force that’s been building since the Beginning Hook now demands everything: a direct clash that tests the protagonist’s transformation against the story’s central opposition. It’s raw, visceral, and sets the tone for the act’s unrelenting drive toward resolution."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your character arrives changed but not invincible. They face the antagonist’s full power—a battle, a revelation, or a trap that exploits their deepest flaw. At first, they hold their ground with the skills they’ve earned, but the antagonist pushes back harder, exposing vulnerabilities and forcing adaptation. The scene escalates to a turning point where the protagonist must commit fully, knowing retreat means total defeat."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, ground it in high-stakes action that mirrors the story’s theme. Show physical peril intertwined with emotional exposure. Let the protagonist gain ground but at a cost, ending with the conflict unresolved and the balance teetering. This is where readers grip the page, sensing the end is near but uncertain who will break first."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 19,
+        "lineId": 1,
+        "beatId": 15,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Ending Pay Off",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Ending Payoff is the last act of your story—the moment where all threads converge, the protagonist faces their ultimate test, and the controlling idea is made real. Everything from the Beginning Hook through the Middle Break has been preparation for this. Now, the promises you set up must be delivered."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Here the Five Commandments reach their sharpest form: a final disruption, a revelation that raises the stakes, a crisis dilemma, the decisive climactic action, and then the resolution that shows what it all meant. The Ending Payoff is where the global value shift lands and the reader experiences catharsis—whether triumphant or tragic."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this act, think in terms of closure. Loose ends must resolve, thematic arcs must lock into place, and the protagonist’s transformation must be revealed in action, not words. Done well, the Ending Payoff feels both inevitable and surprising."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 18,
+        "lineId": 1,
+        "beatId": 20,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Coming Back (Resolution)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Coming Back Scene is the resolution of the Middle Break—the moment when the protagonist emerges from their defection and must prove their transformation can hold. The choice they made in the Defection Scene isn’t enough on its own; it has to survive the first wave of pressure. The antagonist lingers in some form—through pursuit, environment, or emotional confrontation—pushing back against the new path."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Here the protagonist faces a quiet but crucial test: integrate the change or slip back into old patterns. The tension is less explosive than in the Abyss or Defection but just as important. Doubt, fatigue, or nostalgia surface, tempting them to regress. What matters is that they act from their transformed self—choosing to hold the line, however imperfectly, and paying the cost of staying committed."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The tone should feel reflective and bittersweet, signaling both progress and fragility. By the end, the protagonist has found a tentative equilibrium and taken a step into renewal, but the victory is not absolute. This is the bridge into the Ending Payoff, where the true final test awaits."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 17,
+        "lineId": 1,
+        "beatId": 19,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Defection (Climax)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the surge out of darkness—the moment your protagonist stops negotiating with the status quo and pivots, hard. After the Abyss, an opposing force pushes for compliance, permanence, or silence. Instead of folding, your character chooses a new course that breaks with what’s been safe: they walk away from an alliance, expose a lie, steal back their agency, or act on a belief no one else shares. It’s a visible rupture, not a private resolve—the kind that turns allies into obstacles, raises the price of failure, and redraws the map of what’s possible."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write the beat like a chain reaction: pressure lands (enforced rules, ultimatums, “stand down”), resistance sparks (a counteroffer, a refusal), the crisis clicks into place (submit or change), and then the decisive act hits—a jailbreak, a confession, a rescue, a leak, a hand extended to the wrong/right person. Make the choice costly in the moment: something breaks, someone walks, a resource disappears. The win here is momentum, not safety."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "End with the pivot in motion and the bridge behind them burning. Let roles shift, loyalties wobble, and a concrete next step appear—a plan, a door, a deadline. Readers should feel the current snap from despair to determination and think, “Okay—if that’s the line they’re willing to cross, what will it take to see this through?”"
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 16,
+        "lineId": 1,
+        "beatId": 18,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "The Abyss (Crisis)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the darkest moment of your story so far—the point where your protagonist is forced to confront the void. An external force isolates them, overwhelms them, or lays down a devastating ultimatum that strips away any illusion of safety. Their old strategies are useless. Their sense of self teeters on collapse. For the first time, the threat feels absolute: surrender or be destroyed."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At first, the protagonist resists in small ways—stalling, denying, bargaining. But the pressure keeps climbing until there’s no middle ground left. They must either yield to the antagonist’s demand or choose defiance, knowing that either choice carries devastating costs. This is the point of ideological fracture, where belief, identity, and survival are all on the line."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write the Abyss, lean into despair. Trap your character where help can’t reach them. Let the pressure be unbearable, the choices impossible. Then force a decision that shows readers exactly who your protagonist is when everything is stripped away. End with the aftermath unresolved—whatever they choose, the consequences echo forward, setting the stage for the defection that follows."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 15,
+        "lineId": 1,
+        "beatId": 17,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Gut Check (Turning Point)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is where the pressure spikes. The Gut Check Scene forces your protagonist to face a challenge so intense it threatens to break them. The antagonist escalates—through betrayal, overwhelming force, or a brutal ultimatum—and the protagonist must either collapse under the weight or dig deeper than ever before."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What matters here isn’t cleverness or luck—it’s character. The scene tests who your protagonist truly is at their core. Do they hold the line on their values, double down on courage, or redefine themselves entirely? Either way, the choice reveals something irreversible, and it changes how readers see them."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you draft, don’t go easy. Show the protagonist cornered, stripped of comfort, staring down their worst fear. Let the moment squeeze until they either snap or break through. End with tension still simmering, because the Abyss is next—and readers need to feel the protagonist is walking straight toward it with no guarantee they’ll survive."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 14,
+        "lineId": 1,
+        "beatId": 16,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Radical Demand (Inciting Incident)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the spark that ignites the hardest stretch of your story. An external force delivers a clear ultimatum that clashes with the protagonist’s identity, values, or newly chosen path. The goal isn’t information—it’s compliance. Pressure arrives fast and public; safety, status, or belonging are suddenly at stake. The message is simple: submit or suffer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At first, the protagonist hedges—questioning, stalling, pushing back with whatever leverage they have. Then the demand sharpens into a do-or-else crisis. They must choose between short-term safety and long-term integrity, between group comfort and self-definition. The scene resolves with action, not talk: a visible yield or defiance that shifts the social dynamic and leaves tension unresolved. Stakes rise, loyalties wobble, and the path ahead gets steeper."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write this scene, make the demand unmistakable and the cost tangible. Escalate pressure in steps, show the protagonist’s resistance strategies, then force a decisive move that can’t be walked back. Keep the conflict physical and social—not just philosophical—so readers can see the squeeze and feel the risk. End with momentum: a new imbalance, fresh consequences, and the uneasy sense that the real fight just began."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 13,
+        "lineId": 1,
+        "beatId": 14,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Middle Break",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If the Middle Build was pressure, the Middle Break is fire. This is the crucible where the protagonist is stripped bare, tested past endurance, and forced to confront the heart of the story’s conflict. They’ve already crossed the point of no return, but now they see the scale of the problem in full. The antagonist’s power sharpens, allies falter, and survival—physical, social, or moral—hangs by a thread."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Across this quadrant, the Five Commandments play out again, but at their most brutal. Complications spike, choices get narrower, and victories feel pyrrhic. The protagonist can’t escape anymore. They can only confront. By the end of this section, they’re forged into someone who can face the Ending Payoff—or shattered by the attempt."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write the Middle Break, don’t pull punches. Every scene should raise the stakes, push harder on the protagonist’s flaws, and show the antagonist’s reach. The heartbeat here is escalation: more danger, more cost, more revelation of what the fight is really about."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 12,
+        "lineId": 1,
+        "beatId": 13,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "No Turning Back (Resolution)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the moment when your protagonist crosses a threshold that cannot be undone. The No Turning Back Scene closes the Middle Build and forces the character to prove, through action, that their transformation is real. Retreat is no longer an option. Whatever defenses, doubts, or disguises carried them this far, they must now make an irrevocable commitment to their new identity—even if it puts them at risk."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At first, the protagonist may hesitate, tempted to slip back into the safety of old patterns. But the antagonist raises the stakes with a barrier that cannot be sidestepped. It may be a challenge, an ultimatum, or a threat, but it pushes the protagonist to declare where they stand—not with words, but with action. This is the moment of no return, when they demonstrate that their growth is not a passing phase but a permanent shift."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When writing this scene, focus on pressure and consequence. The choice must feel costly. If the protagonist commits, they risk losing comfort, security, or belonging. If they retreat, they forfeit the progress they’ve made. The power of the scene lies in showing the protagonist take the harder road—and in leaving lingering questions about whether they can handle what comes next."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 11,
+        "lineId": 1,
+        "beatId": 12,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Epiphany (Climax)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the awakening—when your protagonist stops just coping and chooses who they’re going to be. After all the tests and near-misses, an outside pressure corners them into a “no more dodging” moment. Belonging versus authenticity. Comfort versus courage. They can’t keep one foot in the old self and one in the new. The decision they make here redefines their identity and sets the tone for everything that follows."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On the page, create a clean ultimatum and make the choice visible. Put the squeeze on through social or ideological pressure (the team’s mission, the family’s rules, the boss’s demand). Let your character resist, waver, and then act—decisively. They might submit for now with eyes open (choosing the mission but on their terms), or they might break ranks to protect a new truth they can’t ignore. Either way, show the shift in behavior, not just words. This isn’t a speech; it’s a line crossed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write it so the win costs something. Tie the choice to consequence: a door closes, an ally cools, a risk spikes—yet your protagonist stands taller. End with forward pull, not tidy answers. Readers should feel the new resolve and wonder: “Okay…now what does that decision unleash?” This scene is the hinge of your story’s heart—make it brave, specific, and irreversible."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 10,
+        "lineId": 1,
+        "beatId": 11,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Crossroads Challenge (Crisis)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the crisis point of your Middle Build—the moment your protagonist hits a social wall. An antagonistic force tries to rule the room: set the terms, define the roles, and make your protagonist conform “for everyone’s good.” The pressure is public, pointed, and personal."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Your protagonist pushes back—not with speeches, but with a choice. Do they protect belonging by submitting, or protect identity by resisting? Stage the clash in concrete action (a test, a match, a negotiation, a family ultimatum) so we "
+              },
+              { "italic": true, "text": "see" },
+              {
+                "text": " the stakes: status, safety, love, livelihood. Let resistance cost them something visible right now."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "Write it tight and consequential. Build to a clear do-or-else ultimatum, then show the protagonist’s decisive move. They usually win the moment by holding their ground—but at a price that leaves relationships strained and power dynamics shifted. Close with tension unspent and a new question hanging in the air: "
+              },
+              {
+                "italic": true,
+                "text": "what did that choice just set in motion?"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 9,
+        "lineId": 1,
+        "beatId": 10,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Grappling with Trust (Turning Point)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is where the Middle Build truly ignites. Your protagonist’s new alliances are tested, and the question becomes: "
+              },
+              { "italic": true, "text": "who can they trust?" },
+              {
+                "text": " An external force—a mentor, captor, or superior—presses in, demanding loyalty, submission, or belief. The protagonist resists, torn between the safety of holding back and the risk of opening up."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On the surface, it looks like a clash with another character. But underneath, it’s a struggle with belonging. Do they stay guarded and risk isolation? Or do they lean in and risk betrayal? Either choice carries weight, and the tension lives in that impossible bind."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "When you write this scene, keep it sharp and personal. Let dialogue or action reveal what the antagonist wants, how the protagonist resists, and the cost of either choice. Don’t resolve everything neatly—leave cracks of doubt and unfinished business. This is the moment readers lean in, wondering: "
+              },
+              { "italic": true, "text": "will they trust, or won’t they?" }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 8,
+        "lineId": 1,
+        "beatId": 9,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Unexpected Outcome (Inciting Incident)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the spark of your Middle Build—the moment something unexpected snaps your protagonist’s new plan in half. Right after Leaving Home, an outside jolt (a tech glitch, a brutal environment, a psychological shove) flips the board and forces a high-stakes response. The world feels strange, louder, and less forgiving."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Let the antagonist’s move be physical and surprising. Your protagonist tries to steady things with the tools they’ve just chosen… and the pressure spikes. Push them into a clear do-or-else choice. However they answer—comply, resist, or improvise—end with an outcome that redirects them: captured, exposed, or thrown someplace they didn’t intend to go. The hit should shake their sense of safety as much as their body."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write it tight and visceral. Show the shock on the page, then leave it unsettled—the threat still active, the path newly crooked. This is where your reader feels the floor drop again and knows: the plan won’t hold, and the real test starts now."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 7,
+        "lineId": 1,
+        "beatId": 8,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Middle Build",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Middle Build is where the real squeeze begins. After stepping out of the Beginning Hook, the protagonist is no longer in familiar territory. The world pushes back harder, allies prove unreliable, and the rules they thought they knew stop working. This quadrant escalates both external danger and internal tension, testing whether the protagonist will adapt or collapse."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Across these five core scenes, the story moves through the Five Commandments again—Inciting Incident, Turning Point, Crisis, Climax, and Resolution—but the texture shifts. Instead of just reacting to disruption, the protagonist now collides with trust, belonging, and identity. Each scene strips away comfort and forces harder choices. By the end, they’ll have crossed another irreversible threshold: no longer dabbling, but truly bound to the path ahead."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "When you write Middle Build, make sure the pressure feels relentless. This is where doubt cracks open, alliances wobble, and the antagonist’s shadow stretches wider. Let your protagonist stumble, resist, and sometimes lose—but in ways that deepen investment. Readers should feel that things are tightening, that the old strategies are failing, and that the next step demands transformation."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 6,
+        "lineId": 1,
+        "beatId": 4,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Leaving Home (Resolution)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the Resolution of your Beginning Hook—the moment your protagonist steps out of their old world and into the unknown. It might look like a literal departure, or it might be a shift in perspective, but either way the meaning is the same: the familiar is gone, and the road ahead can’t be undone."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show their reluctance. They’ll bargain, hesitate, or try to stall. The choice to leave must feel heavy, because leaving always means losing something—comfort, safety, identity. But an external push—a mentor, a threat, or circumstance—makes standing still impossible. They must cross the threshold, ready or not."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write it so the act of leaving feels like a point of no return. Maybe they run out the door unprepared, or swallow the truth they can’t un-know. However you stage it, let the moment land with finality. This is where they leave home—and with it, the life they can never fully go back to."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 5,
+        "lineId": 1,
+        "beatId": 5,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Enlistment (Climax)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the moment your protagonist stops only resisting and takes their first active step toward change. Someone tests, invites, or challenges them, and they must decide whether to stay in the safety of what they know or risk stepping into something new. The hesitation is real—this choice is equal parts desire and fear."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Show them pushed through small tests—a guide asking for trust, a group demanding a sign of belonging, a condition laid out for moving forward. Each test strips away old defenses and teases out hidden potential. By the end, the protagonist accepts terms they don’t fully understand, creating both structure and new stakes."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Write it so the choice feels earned but not easy. The protagonist should agree while still trembling, aware that this step will cost them something. This is where they move from watching the story happen to stepping inside it—and nothing will be the same again."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 4,
+        "lineId": 1,
+        "beatId": 6,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Close Call (Crisis)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the crisis point of your Beginning Hook—the moment where danger escalates and the protagonist nearly loses everything. What starts as them trying to manage the disruption with practiced skills or routines quickly turns into a test they can’t fully handle. They scrape by, but just barely, and the narrow escape makes clear that the stakes are rising."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On the surface, this is a brush with immediate harm—an interrogation, an invasion, a confrontation. But beneath it lies a deeper challenge: the character’s identity is wobbling. Their old defenses and clever strategies aren’t enough anymore. The world is bigger, the threat is sharper, and the costs of denial are mounting."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "When you write this scene, let the protagonist survive, but with a scar. Their actions buy them only temporary relief, while exposing how vulnerable they really are. This is the moment that tells both them and the reader: "
+              },
+              {
+                "text": "the game has changed, and there’s no going back.",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 3,
+        "lineId": 1,
+        "beatId": 7,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Getting the Message (Turning Point)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This is the moment your protagonist realizes their problem is bigger than they thought. What first looked like a small disruption now reveals itself as something larger and more dangerous—physically in the world around them, and psychologically in who they are. Their old tricks and habits don’t quite work anymore."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At first, they freeze or fall back on what they know. Then they try something more deliberate—using the skills, routines, or defenses that have always gotten them by. But this time, those efforts fall short. The threat keeps widening, and your character starts to grasp that they’ll have to change in ways they’re not ready for."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As you draft, put your protagonist in an impossible bind: both action and inaction carry real costs. Let them struggle, choose, and keep some control, but end the scene with things still unresolved. The world feels bigger, the risks sharper, and their identity more fragile. This is the scene where they “get the message”: life as they knew it won’t be enough anymore."
+              }
+            ],
+            "bold": true
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 2,
+        "lineId": 1,
+        "beatId": 2,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Security Breach (Inciting Incident)",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Every story begins with a break in the normal. The Security Breach Scene is where an outside force barges into your protagonist’s world and unsettles everything. It might be a letter, a visitor, a phone call, or an accident—but it’s always the spark that shows their safety and identity aren’t as secure as they thought."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "Your character pushes back. Maybe they deny it, avoid it, or brush it off. But the breach doesn’t go away—it escalates, demanding a choice. By the end, they may win a small reprieve, but nothing is truly resolved. The crack is there, and it won’t close."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "When you write this scene, show both kinds of threat: something tangible in the world (a job at risk, a knock at the door, a chase) and something personal inside (a role challenged, an image threatened). Let the moment land hard enough that readers feel the ground shift. This is where the story truly begins."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      },
+      {
+        "id": 1,
+        "lineId": 1,
+        "beatId": 3,
+        "bookId": null,
+        "positionWithinLine": 0,
+        "positionInBeat": 0,
+        "title": "Beginning Hook",
+        "description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Beginning Hook is the foundation of your story. It introduces your protagonist’s ordinary world, cracks it open with a disruption, and forces them toward a decision that changes everything. Its job is simple but critical: grab the reader’s attention, set the stakes, and promise that the journey ahead is worth following."
+              }
+            ],
+            "bold": true
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "Across this section, the story moves through the Five Commandments—Inciting Incident, Turning Point, Crisis, Climax, and Resolution. First comes the breach: an outside force unsettles the protagonist’s security. Then the problem expands, showing them it’s bigger than they thought. Pressure rises until they face a true dilemma—safety versus growth, denial versus truth. Their choice leads to action, and the resolution locks them onto a new path."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "bold": true,
+            "children": [
+              {
+                "text": "When you write the Beginning Hook, make sure every scene keeps readers leaning forward. Show the external threats alongside the internal cracks. Let the protagonist resist, stumble, and survive—but with scars that prove the old way of life won’t hold. By the end, they’ve crossed the threshold, and both they and the reader know there’s no going back."
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "characters": [],
+        "places": [],
+        "templates": [],
+        "imageId": null,
+        "fromTemplateId": null,
+        "color": null,
+        "notes": [],
+        "audioClipId": null
+      }
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "bookId": 1,
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": true,
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
+      },
+      {
+        "id": 2,
+        "bookId": "series",
+        "color": "#6cace4",
+        "title": "Main Plot",
+        "position": 0,
+        "characterId": null,
+        "expanded": null,
+        "fromTemplateId": null,
+        "isPinned": false,
+        "pinnedPosition": null
+      }
+    ],
+    "hierarchyLevels": {
+      "1": {
+        "0": {
+          "name": "Act",
+          "level": 0,
+          "autoNumber": true,
+          "textSize": 24,
+          "borderStyle": "SOLID",
+          "backgroundColor": "#f1f5f8",
+          "textColor": "#e5554f",
+          "borderColor": "#e5554f",
+          "dark": { "textColor": "#baed79", "borderColor": "#baed79" },
+          "light": { "textColor": "#e5554f", "borderColor": "#e5554f" }
+        },
+        "1": {
+          "name": "Scene",
+          "level": 1,
+          "autoNumber": true,
+          "textSize": 24,
+          "borderStyle": "NONE",
+          "backgroundColor": "none",
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4",
+          "dark": { "borderColor": "#ccc", "textColor": "#ccc" },
+          "light": { "borderColor": "#6cace4", "textColor": "#0b1117" }
+        }
+      },
+      "series": {
+        "0": {
+          "name": "Chapter",
+          "level": 0,
+          "autoNumber": true,
+          "textSize": 24,
+          "borderStyle": "NONE",
+          "backgroundColor": "none",
+          "textColor": "#0b1117",
+          "borderColor": "#6cace4",
+          "dark": { "borderColor": "#ccc", "textColor": "#ccc" },
+          "light": { "borderColor": "#6cace4", "textColor": "#0b1117" }
+        }
+      }
+    }
+  },
+  "templateDataVersion": "2026.7.2",
+  "appliedMigrations": [
+    "*m2023_1_7",
+    "*m2023_3_29",
+    "*m2023_8_15",
+    "*m2025_2_19",
+    "m2025_11_27",
+    "m2026_2_5",
+    "m2026_4_13"
+  ],
+  "initialVersion": "2025.9.11"
+}
